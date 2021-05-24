@@ -21,6 +21,10 @@ use App\Http\Controllers\EmployesController;
 
 Route::get('/',[EmployesController::class,'index'])->middleware(['auth']);
 Route::get('/employe/getall',[EmployesController::class,'getAll'])->middleware(['auth']);
+Route::get('/employe/create',[EmployesController::class,'create'])->middleware(['auth']);
+Route::post('/employe/store',[EmployesController::class,'store'])->middleware(['auth']);
+Route::get('/employe/edit/{employee_id}',[EmployesController::class,'edit'])->middleware(['auth']);
+Route::get('/employe/show/{employee_id}',[EmployesController::class,'show'])->middleware(['auth']);
 
 // Route::get('/', function () {
 //     return Inertia::render('Welcome', [

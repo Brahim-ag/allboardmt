@@ -17,7 +17,13 @@ use App\Http\Controllers\EmployesController;
 */
 
 Route::get('/employees/getall/{id}',[EmployesController::class,'getAll']);
-Route::get('/employee/create','EmployeesController@create')->middleware(['web']);
+Route::get('/employee/create','EmployesController@create')->middleware(['web']);
+Route::prefix('employee')->group(function(){
+    Route::post('/store',[EmployesController::class,'store']);
+    // Route::get('/getone/{id}',[EmployeesController::class,'show']);
+    Route::put('/edit/{id}',[EmployesController::class,'update']);
+});
+
 
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {

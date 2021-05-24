@@ -34,21 +34,7 @@ class EmployesController extends Controller
             }
         }
 
-        // if (!$user->hasTeamPermission($team, 'read')) {
-        //     //abort(401, "vous n'avez pas assez de droit");
-        //     return redirect('/employees/nohome');
-        // }
-        // $employees = Employee::where('team_id', '=', $user->current_team_id)->paginate(15);
-
-        // return view('employees.index', compact('employees'))
-        //     ->with('i', (request()->input('page', 1) - 1) * 5);
-
-
-        //
-        #
-
-
-        #return Inertia::render('Employee/index');
+       
     }
 
     public function getAll($id){
@@ -65,19 +51,21 @@ class EmployesController extends Controller
      */
     public function create(Request $request)
     {
+       
         $user = $request->user();
-
+       
         if (!$user) {
             abort(401, "vous n'avez pas assez de droit");
             ## return redirect('/employees/nohome');
         }
         else{
             $team = Team::find($user->current_team_id);
-            if(!$user->hasTeamPermission($team, 'read')){
-                abort(401, "vous n'avez pas assez de droit");
+            if($user->hasTeamPermission($team, 'read')){
+                
+                return Inertia::render('Employee/create',);
+                
             }else{
-                return Inertia::render('employees/create', [
-                    ]);
+                abort(401, "vous n'avez pas assez de droit");
             }
         }
         
@@ -134,8 +122,7 @@ class EmployesController extends Controller
 
         return Employee::create($request->all());
 
-        // return redirect()->route('employees.index')
-        //     ->with('success', 'Employé ajouté ');
+      
     }
 
     /**
@@ -163,22 +150,32 @@ class EmployesController extends Controller
      * @param  \App\Models\Employee  $employee
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit(Request $request,$id)
     {
 
-        // $user = $request->user();
-        // $team = Team::find($user->current_team_id);
+        $user = $request->user();
+       
+        if (!$user) {
+            abort(401, "vous n'avez pas assez de droit");
+            ## return redirect('/employees/nohome');
+        }
+        else{
+            $team = Team::find($user->current_team_id);
+            if($user->hasTeamPermission($team, 'read')){
+                
+                $employee = Employee::findOrFail($id);
 
-        // if (!$user->hasTeamPermission($team, 'create')) {
-        //     abort(401, "vous n'avez pas assez de droit");
-        // }
-
-        $employee = Employee::findOrFail($id);
-
-        return Inertia::render('employees/edit', [
+        return Inertia::render('Employee/edit', [
             #$employee = Employee::findOrFail($employee->id)
             'employee' => $employee,
         ]);
+                
+            }else{
+                abort(401, "vous n'avez pas assez de droit");
+            }
+        }
+
+       
 
     }
 
@@ -228,9 +225,9 @@ class EmployesController extends Controller
             'situation' => 'required'
         ]);
 
-
-        $employee = Employee::findOrFail($request->id);
-        $employee->update($request->all());
+        dd($request);
+        // $employee = Employee::findOrFail($request->id);
+        // $employee->update($request->all());
 
 
 
