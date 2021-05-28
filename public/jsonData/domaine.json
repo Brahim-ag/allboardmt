@@ -1,0 +1,1317 @@
+[{
+        "Nomenclature": "Sciences et Technologie",
+        "مدونة الفروع ": "علوم و تكنولوجيا",
+        "title": true
+    },
+    {
+        "Nomenclature": "Aeronautique",
+        "مدونة الفروع ": "علم الطيران"
+    },
+    {
+        "Nomenclature": "Architecture",
+        "مدونة الفروع ": "هندسة معمارية"
+    },
+    {
+        "Nomenclature": "Architecture et urbanisme",
+        "مدونة الفروع ": "هندسة معمارية و عمران"
+    },
+    {
+        "Nomenclature": "Automatique",
+        "مدونة الفروع ": "الية"
+    },
+    {
+        "Nomenclature": "Automatique et informatique industrielle",
+        "مدونة الفروع ": "الية و اعلام الي صناعي"
+    },
+    {
+        "Nomenclature": "Chimie",
+        "مدونة الفروع ": "كيمياء"
+    },
+    {
+        "Nomenclature": "Chimie et application ; environnement",
+        "مدونة الفروع ": "كيمياء و تطبيقات : البيئة"
+    },
+    {
+        "Nomenclature": "Chimie industrielle",
+        "مدونة الفروع ": "كيمياء صناعية"
+    },
+    {
+        "Nomenclature": "Electricité ,électronique ,automatique",
+        "مدونة الفروع ": "كهرباء ,الكترونيك الية"
+    },
+    {
+        "Nomenclature": "Electromécanique",
+        "مدونة الفروع ": "كهروميكانيك(او الكتروميكانيك)"
+    },
+    {
+        "Nomenclature": "Electronique",
+        "مدونة الفروع ": "الكترونيك"
+    },
+    {
+        "Nomenclature": "Electronique électricité",
+        "مدونة الفروع ": "الكترونيك و كهرباء"
+    },
+    {
+        "Nomenclature": "Electronique  et génie électrique",
+        "مدونة الفروع ": "الكترونيك  و هندسة كهرائية"
+    },
+    {
+        "Nomenclature": "Electronique et télecommunication",
+        "مدونة الفروع ": "الكترونيك و اتصالات (او اتصالات سلكية و لاسلكية )"
+    },
+    {
+        "Nomenclature": "Electronique microélectronique",
+        "مدونة الفروع ": "الكترونيك-الكترونيك جزئي"
+    },
+    {
+        "Nomenclature": "Electrotechnique",
+        "مدونة الفروع ": "كهروتقني (او الكتروتقني )"
+    },
+    {
+        "Nomenclature": "Energétique",
+        "مدونة الفروع ": "طاقوية"
+    },
+    {
+        "Nomenclature": "Energétique et thermique",
+        "مدونة الفروع ": "طاقوية و حرارية"
+    },
+    {
+        "Nomenclature": "engineering management",
+        "مدونة الفروع ": "هندسة إدارة الاعمال"
+    },
+    {
+        "Nomenclature": "Génie alimentaire",
+        "مدونة الفروع ": "هندسة غذائية"
+    },
+    {
+        "Nomenclature": "Génie  biomédical",
+        "مدونة الفروع ": "هندسة بيوطبية"
+    },
+    {
+        "Nomenclature": "Génie civil",
+        "مدونة الفروع ": "هندسة مدنية"
+    },
+    {
+        "Nomenclature": "Genie climatique",
+        "مدونة الفروع ": "هندسة التكييف (او هندسة المناخ)"
+    },
+    {
+        "Nomenclature": "Génie de la maintenance",
+        "مدونة الفروع ": "هندسة الصيانة"
+    },
+    {
+        "Nomenclature": "Génie de l'envirenoment",
+        "مدونة الفروع ": "هندسة المحيط"
+    },
+    {
+        "Nomenclature": "Génie des matériaux",
+        "مدونة الفروع ": "هندسة المواد"
+    },
+    {
+        "Nomenclature": "Génie des polyméres",
+        "مدونة الفروع ": "هندسة المبلورات"
+    },
+    {
+        "Nomenclature": "Génie des procédés",
+        "مدونة الفروع ": "هندسة الطرائق"
+    },
+    {
+        "Nomenclature": "Génie des procédés industriels",
+        "مدونة الفروع ": "هندسة الطرائق الصناعية"
+    },
+    {
+        "Nomenclature": "Génie des systémes industriels",
+        "مدونة الفروع ": "هندسة الأنظمة الصناعية"
+    },
+    {
+        "Nomenclature": "Génie des transports",
+        "مدونة الفروع ": "هندسة النقل"
+    },
+    {
+        "Nomenclature": "Génie Electrique",
+        "مدونة الفروع ": "هندسة كهربائية"
+    },
+    {
+        "Nomenclature": "Génie électrique et électronique",
+        "مدونة الفروع ": "هندسة كهربائية و الكترونية"
+    },
+    {
+        "Nomenclature": "Génie électrique et informatique industrielle",
+        "مدونة الفروع ": "هندسة كهربائية واعلام الي صناعي"
+    },
+    {
+        "Nomenclature": "Génie énergétique et environement",
+        "مدونة الفروع ": "هندسة طاقوية و بيئة"
+    },
+    {
+        "Nomenclature": "Génie industriel",
+        "مدونة الفروع ": "هندسة صناعية"
+    },
+    {
+        "Nomenclature": "Génie industriel et de maitenance",
+        "مدونة الفروع ": "هندسة صناعية و صيانة"
+    },
+    {
+        "Nomenclature": "Génie logistique et transport",
+        "مدونة الفروع ": "هندسة لوجيسيكية و نقل"
+    },
+    {
+        "Nomenclature": "Génie maritime",
+        "مدونة الفروع ": "هندسة بحرية"
+    },
+    {
+        "Nomenclature": "Génie mécanique ou mécanique",
+        "مدونة الفروع ": "هندسة ميكانيكية (او ميكانيك)"
+    },
+    {
+        "Nomenclature": "Génie mécanique et productique",
+        "مدونة الفروع ": "هندسة ميكانيكية و انتاج"
+    },
+    {
+        "Nomenclature": "Génie minier",
+        "مدونة الفروع ": "هندسة منجمية او هندسة المناجم"
+    },
+    {
+        "Nomenclature": "Génie pétrolier",
+        "مدونة الفروع ": "هندسة بترولية"
+    },
+    {
+        "Nomenclature": "Génie productique",
+        "مدونة الفروع ": "هندسة الإنتاج الالي"
+    },
+    {
+        "Nomenclature": "géophysique",
+        "مدونة الفروع ": "جيوفيزياء"
+    },
+    {
+        "Nomenclature": "Hydraulique",
+        "مدونة الفروع ": "ري"
+    },
+    {
+        "Nomenclature": "hydrocarbures",
+        "مدونة الفروع ": "محروقات"
+    },
+    {
+        "Nomenclature": "hydrocarbures et chimie",
+        "مدونة الفروع ": "محروقات و كيمياء"
+    },
+    {
+        "Nomenclature": "Hygiène et sécurité",
+        "مدونة الفروع ": "نظافة وأمن"
+    },
+    {
+        "Nomenclature": "Hygiène et sécurité industrielle",
+        "مدونة الفروع ": "نظافة وأمن صناعي"
+    },
+    {
+        "Nomenclature": "Industrie manufacturiére",
+        "مدونة الفروع ": "صناعة تحويلية"
+    },
+    {
+        "Nomenclature": "Industrie  pétrochimiques",
+        "مدونة الفروع ": "صناعات بتروكيمياوية (أو صناعات بترو كيميائية)"
+    },
+    {
+        "Nomenclature": "Ingénirie des transports",
+        "مدونة الفروع ": "هندسة النقل"
+    },
+    {
+        "Nomenclature": "Maintenance en instrumentation",
+        "مدونة الفروع ": "صيانة الأداتية"
+    },
+    {
+        "Nomenclature": "Maintenance et sécurité",
+        "مدونة الفروع ": "صيانة و أمن"
+    },
+    {
+        "Nomenclature": "Maintenance industielle",
+        "مدونة الفروع ": "صيانة صناعية"
+    },
+    {
+        "Nomenclature": "Mécanique et ingénierie des systémes",
+        "مدونة الفروع ": "ميكانيك و هندسة الأنظمة"
+    },
+    {
+        "Nomenclature": "Mécatronique",
+        "مدونة الفروع ": "ميكاترونيك"
+    },
+    {
+        "Nomenclature": "Méchanical engineering",
+        "مدونة الفروع ": "هندسة ميكانيكية"
+    },
+    {
+        "Nomenclature": "Mésures physiques",
+        "مدونة الفروع ": "قياسات فيزيائية"
+    },
+    {
+        "Nomenclature": "Métallurgie",
+        "مدونة الفروع ": "تعدين"
+    },
+    {
+        "Nomenclature": "Mines",
+        "مدونة الفروع ": "مناجم"
+    },
+    {
+        "Nomenclature": "Mines et environnement",
+        "مدونة الفروع ": "مناجم و محيط"
+    },
+    {
+        "Nomenclature": "Mines et métallurgie",
+        "مدونة الفروع ": "مناجم وتعدين"
+    },
+    {
+        "Nomenclature": "optique et mécanique de précision",
+        "مدونة الفروع ": "بصريات وميكانيك الدقة"
+    },
+    {
+        "Nomenclature": "physique",
+        "مدونة الفروع ": "فيزياء"
+    },
+    {
+        "Nomenclature": "productique",
+        "مدونة الفروع ": "إنتاجية"
+    },
+    {
+        "Nomenclature": "Recherche electronique",
+        "مدونة الفروع ": "بحث إلكتروني"
+    },
+    {
+        "Nomenclature": "Sciences de l'eau et de l'environnement",
+        "مدونة الفروع ": "علوم المياه و البيئة"
+    },
+    {
+        "Nomenclature": "Sciences de la matiére",
+        "مدونة الفروع ": "علوم المادة"
+    },
+    {
+        "Nomenclature": "Sciences de l'ingénieur",
+        "مدونة الفروع ": "علوم المهندس"
+    },
+    {
+        "Nomenclature": "Sciences des techniques ferroviaires",
+        "مدونة الفروع ": "علوم تقنيات السكك الحديدية"
+    },
+    {
+        "Nomenclature": "Sciences du risque",
+        "مدونة الفروع ": "علوم الأخطار"
+    },
+    {
+        "Nomenclature": "sécurité industielle",
+        "مدونة الفروع ": "أمن صناعي"
+    },
+    {
+        "Nomenclature": "systèmes éléctriques et automatique",
+        "مدونة الفروع ": "أنظمة كهربائية و ألية"
+    },
+    {
+        "Nomenclature": "Télécommunication",
+        "مدونة الفروع ": "إتصالات سلكية ولا سلكية"
+    },
+    {
+        "Nomenclature": "Travaux publics",
+        "مدونة الفروع ": "أشغال عمومية"
+    },
+    {
+        "Nomenclature": "Urbanisme",
+        "مدونة الفروع ": "عمران"
+    },
+    {
+        "Nomenclature": "sciences de la matière",
+        "مدونة الفروع ": "علوم المادة",
+        "title": true
+    },
+    {
+        "Nomenclature": "Chimie",
+        "مدونة الفروع ": "كيمياء"
+    },
+    {
+        "Nomenclature": "chimie:science des matériaux",
+        "مدونة الفروع ": "كيمياء:علوم المواد"
+    },
+    {
+        "Nomenclature": "Génie physique",
+        "مدونة الفروع ": "هندسة الفيزياء"
+    },
+    {
+        "Nomenclature": "nanophysique",
+        "مدونة الفروع ": "فيزياء مجهرية (أو نانوفيزياء)"
+    },
+    {
+        "Nomenclature": "physique théorique",
+        "مدونة الفروع ": "فيزياء"
+    },
+    {
+        "Nomenclature": "physique:matériaux et composants",
+        "مدونة الفروع ": "فيزياء:مواد و تركيبات"
+    },
+    {
+        "Nomenclature": "physique:sciences nucléaires et intéractions rayonnement matière",
+        "مدونة الفروع ": "فيزياء:علوم نووية و تفاعل إشعاع-مادة"
+    },
+    {
+        "Nomenclature": "physique:appliquée",
+        "مدونة الفروع ": "فيزياء تطبيقية"
+    },
+    {
+        "Nomenclature": "physique théorique",
+        "مدونة الفروع ": "فيزياء نظرية"
+    },
+    {
+        "Nomenclature": "science des materiaux",
+        "مدونة الفروع ": "علم المواد"
+    },
+    {
+        "Nomenclature": "Mathématique et informatique",
+        "مدونة الفروع ": "رياضيات وإعلام ألي",
+        "title": true
+    },
+    {
+        "Nomenclature": "infirmatique",
+        "مدونة الفروع ": "إعلام ألي"
+    },
+    {
+        "Nomenclature": "Mathématiques",
+        "مدونة الفروع ": "رياضيات"
+    },
+    {
+        "Nomenclature": "Mathématiques appliquées",
+        "مدونة الفروع ": "رياضيات تطبيقية"
+    },
+    {
+        "Nomenclature": "Mathématiques fondamentales",
+        "مدونة الفروع ": "رياضيات أساسية"
+    },
+    {
+        "Nomenclature": "recherche opérationnelle",
+        "مدونة الفروع ": "البحث العملياتي"
+    },
+    {
+        "Nomenclature": "Sciences de la Nature de la Vie",
+        "مدونة الفروع ": "علوم الطبيعة والحياة",
+        "title": true
+    },
+    {
+        "Nomenclature": "Agronomie",
+        "مدونة الفروع ": "زراعة"
+    },
+    {
+        "Nomenclature": "Agropastoralisme",
+        "مدونة الفروع ": "فلاحة رعوية"
+    },
+    {
+        "Nomenclature": "Alimentation",
+        "مدونة الفروع ": "تغذية"
+    },
+    {
+        "Nomenclature": "Aquaculture",
+        "مدونة الفروع ": "تربية المائيات"
+    },
+    {
+        "Nomenclature": "Biochimie",
+        "مدونة الفروع ": "بيوكمياء"
+    },
+    {
+        "Nomenclature": "Biochimie- biotechnologie",
+        "مدونة الفروع ": "بيوكمياء - تكنولوجيا إحيائية"
+    },
+    {
+        "Nomenclature": "Biochimie -Appliquée",
+        "مدونة الفروع ": "بيوكمياء تطبيقة"
+    },
+    {
+        "Nomenclature": "Biochimie et microbiologie",
+        "مدونة الفروع ": "بيوكمياء ميكروبيولوجيا"
+    },
+    {
+        "Nomenclature": "Biochimie et physiologie animale",
+        "مدونة الفروع ": "بيوكمياء وفيزيولوجيا حيوانية"
+    },
+    {
+        "Nomenclature": "Biodiversité et production végétale",
+        "مدونة الفروع ": "توع بيئي وإنتاج نباتي"
+    },
+    {
+        "Nomenclature": "biologie",
+        "مدونة الفروع ": "بيولوجيا"
+    },
+    {
+        "Nomenclature": "biologie /Immunologie",
+        "مدونة الفروع ": "بيولوجيا مناعة"
+    },
+    {
+        "Nomenclature": "biologie animale",
+        "مدونة الفروع ": "بيولوجيا حيوانية"
+    },
+    {
+        "Nomenclature": "biologie animale et envirannement",
+        "مدونة الفروع ": "بيولوجيا حيوانية وبيئة"
+    },
+    {
+        "Nomenclature": "Biologie celulaire et moléculaire",
+        "مدونة الفروع ": "بيولوجيا خلوية وجزئية"
+    },
+    {
+        "Nomenclature": "biologie clinique",
+        "مدونة الفروع ": "بيولوجيا عيادية"
+    },
+    {
+        "Nomenclature": "biologie microorganisme",
+        "مدونة الفروع ": "بيولوجيا الاجسام الجزئية"
+    },
+    {
+        "Nomenclature": "biologie des organisme",
+        "مدونة الفروع ": "بيولوجيا الكائنات"
+    },
+    {
+        "Nomenclature": "biologie et agrosciences",
+        "مدونة الفروع ": "بيولوجيا وعلوم الزراعة"
+    },
+    {
+        "Nomenclature": "Biologie et physiologie",
+        "مدونة الفروع ": "بيولوجيا وفزيولوجيا"
+    },
+    {
+        "Nomenclature": "Biologie et physiologie animale",
+        "مدونة الفروع ": "بيولوجيا وفزيولوجيا حيوانية"
+    },
+    {
+        "Nomenclature": "Biologie et physiologie des organismes",
+        "مدونة الفروع ": "بيولوجيا وفزيولوجيا عضوية"
+    },
+    {
+        "Nomenclature": "Biologie et physiologie végétale",
+        "مدونة الفروع ": "بيولوجيا وفزيولوجيا نباتية"
+    },
+    {
+        "Nomenclature": "Biologie moléculaire",
+        "مدونة الفروع ": "بيولوجيا جزئية"
+    },
+    {
+        "Nomenclature": "Biologie moléculaire et cellulaire",
+        "مدونة الفروع ": "بيولوجيا جزئية و خلوية"
+    },
+    {
+        "Nomenclature": "Biologie  végétale",
+        "مدونة الفروع ": "بيولوجيا نباتية"
+    },
+    {
+        "Nomenclature": "Biologie  végétale et envirennement",
+        "مدونة الفروع ": "بيولوجيا نباتية وبيئة"
+    },
+    {
+        "Nomenclature": "Biotechnologie",
+        "مدونة الفروع ": "بيوتكنولوجيا"
+    },
+    {
+        "Nomenclature": "Biotechnologie : production animale",
+        "مدونة الفروع ": "بيوتكنولوجيا انتاج حيواني"
+    },
+    {
+        "Nomenclature": "Biotechnologie des miscètes",
+        "مدونة الفروع ": "بيوتكنولوجيا الطحالب"
+    },
+    {
+        "Nomenclature": "Biotechnologie végétale",
+        "مدونة الفروع ": "بيوتكنولوجيا نباتية"
+    },
+    {
+        "Nomenclature": "Biotechnologie végétale et environnement",
+        "مدونة الفروع ": "بيوتكنولوجيا نباتية وبيئة"
+    },
+    {
+        "Nomenclature": "Biotechnologie, agroressources aliment nutrition",
+        "مدونة الفروع ": "بيوتكنولوجيا مصادر زراعية غذاء وتغذية"
+    },
+    {
+        "Nomenclature": "Ecologie",
+        "مدونة الفروع ": "علم البيئة او ايكولوجيا"
+    },
+    {
+        "Nomenclature": "Ecologie animale",
+        "مدونة الفروع ": "علم البيئة الحيوانية"
+    },
+    {
+        "Nomenclature": "Ecologie et environnement",
+        "مدونة الفروع ": "ايكولوجيا وبيئة"
+    },
+    {
+        "Nomenclature": "Ecologie et environnement: écologie animale et lutte  biologique",
+        "مدونة الفروع ": "بيئة ومحيط بيئة حيوانية وصراع بيولوجي"
+    },
+    {
+        "Nomenclature": "Ecologie et environnement: écologie végétale et  environnement",
+        "مدونة الفروع ": "بيئة ومحيط بيئة نباتية ومحيط"
+    },
+    {
+        "Nomenclature": "Ecologie et Environnement: Océanographie Biologique  et Environnement marin",
+        "مدونة الفروع ": "بيئة ومحيط :علم البحار الجيولوجي والمحيط البحري (الملاحي)"
+    },
+    {
+        "Nomenclature": "Ecologie végétale et environnement",
+        "مدونة الفروع ": "ايكولوجيا نباتية وبيئة"
+    },
+    {
+        "Nomenclature": "Environnement",
+        "مدونة الفروع ": "بيئة"
+    },
+    {
+        "Nomenclature": "Foresterie",
+        "مدونة الفروع ": "علم الغابات"
+    },
+    {
+        "Nomenclature": "Génétique",
+        "مدونة الفروع ": "علم الوراثة"
+    },
+    {
+        "Nomenclature": "Génétique appliquée",
+        "مدونة الفروع ": "وراثة تطبيقية او (مطبقة)"
+    },
+    {
+        "Nomenclature": "Génie biochimique",
+        "مدونة الفروع ": "هندسة بيوكميائية"
+    },
+    {
+        "Nomenclature": "Génie biologique",
+        "مدونة الفروع ": "هندسة بيولوجية"
+    },
+    {
+        "Nomenclature": "Hydrobiologie marine et continentale",
+        "مدونة الفروع ": "هدروبيولوجيا بحرية قارية"
+    },
+    {
+        "Nomenclature": "Industrie alimentaire",
+        "مدونة الفروع ": "صناعة غذائية"
+    },
+    {
+        "Nomenclature": "Ingénierie pour la santé, l'aliment et le médicament",
+        "مدونة الفروع ": "هندسة الصحة والغذاء والدواء"
+    },
+    {
+        "Nomenclature": "Microbiologie",
+        "مدونة الفروع ": "بيولوجيا الجزئية او ميكروبيولوجيا"
+    },
+    {
+        "Nomenclature": "Microbiologie ‐ ecologie",
+        "مدونة الفروع ": "بيولوجيا جزئية علم البيئة"
+    },
+    {
+        "Nomenclature": "Microbiologie appliquée",
+        "مدونة الفروع ": "بيولوجيا جزئية تطبيقية (أو بيولوجيا جزئية مطبقة)"
+    },
+    {
+        "Nomenclature": "Microbiologie générale",
+        "مدونة الفروع ": "ميكروبيولوجيا عامة"
+    },
+    {
+        "Nomenclature": "Monitoring des milieux naturels et gestion durable des ressources",
+        "مدونة الفروع ": "تسييرالوسط الطبيعي و التسيير الدائم للموارد"
+    },
+    {
+        "Nomenclature": "Neurosciences",
+        "مدونة الفروع ": "علوم الأعصاب"
+    },
+    {
+        "Nomenclature": "Nutrition",
+        "مدونة الفروع ": "تغذية"
+    },
+    {
+        "Nomenclature": "Nutrition et sciences alimentaires",
+        "مدونة الفروع ": "تغذية وعلوم غذائية"
+    },
+    {
+        "Nomenclature": "Nutrition et sciences des aliments",
+        "مدونة الفروع ": "تغذية وعلوم الأغذية"
+    },
+    {
+        "Nomenclature": "Océanographie biologique et environnement marin",
+        "مدونة الفروع ": "علم المحيط البيولوجي ومحيط بحري"
+    },
+    {
+        "Nomenclature": "Océanographie côtière et environnement marin",
+        "مدونة الفروع ": "علم المحيط الساحلي والمحيط بحري"
+    },
+    {
+        "Nomenclature": "Parasitologie",
+        "مدونة الفروع ": "علم الجراثيم"
+    },
+    {
+        "Nomenclature": "Pêche et aquaculture",
+        "مدونة الفروع ": "صيد وتربية المائيات"
+    },
+    {
+        "Nomenclature": "Pharmacologie fondamentaleet appliquée",
+        "مدونة الفروع ": "علم الصيدلة الأساسي و التطبيقي"
+    },
+    {
+        "Nomenclature": "Physiologie animale",
+        "مدونة الفروع ": "فزيولوجيا حيوانية"
+    },
+    {
+        "Nomenclature": "Physiologie cellulaire",
+        "مدونة الفروع ": "فيزيولوجيا خلوية وجزئية"
+    },
+    {
+        "Nomenclature": "Production Animale",
+        "مدونة الفروع ": "انتاج حيواني"
+    },
+    {
+        "Nomenclature": "Reproduction et santé animale",
+        "مدونة الفروع ": "تكاثر وصحة حيوانية"
+    },
+    {
+        "Nomenclature": "Ressources en sol eau et environnement",
+        "مدونة الفروع ": "موارد التربة مياه ومحيط"
+    },
+    {
+        "Nomenclature": "Sciences agroalimentaires",
+        "مدونة الفروع ": "علوم التغذية الزراعية"
+    },
+    {
+        "Nomenclature": "Sciences agronomiques",
+        "مدونة الفروع ": "علوم فلاحية (او علوم زراعية)"
+    },
+    {
+        "Nomenclature": "Sciences alimentaires",
+        "مدونة الفروع ": "علوم غذائية"
+    },
+    {
+        "Nomenclature": "Sciences alimentaires et nutrition",
+        "مدونة الفروع ": "علوم الغذاء و تغذية"
+    },
+    {
+        "Nomenclature": "Sciences animales",
+        "مدونة الفروع ": "علوم حيوانية"
+    },
+    {
+        "Nomenclature": "Sciences biologiques",
+        "مدونة الفروع ": "علوم بيولوجية"
+    },
+    {
+        "Nomenclature": "Sciences biologiques marines et continentales",
+        "مدونة الفروع ": "علوم بيولوجية بحرية وقارية"
+    },
+    {
+        "Nomenclature": "Sciences de la mer",
+        "مدونة الفروع ": "علوم البحر"
+    },
+    {
+        "Nomenclature": "Sciences de la l'eau",
+        "مدونة الفروع ": "علوم المياه"
+    },
+    {
+        "Nomenclature": "Sciences de l'environnement",
+        "مدونة الفروع ": "علوم البيئة"
+    },
+    {
+        "Nomenclature": "Sciences forestiéres",
+        "مدونة الفروع ": "علوم الغابات"
+    },
+    {
+        "Nomenclature": "Sciences infirmiéres",
+        "مدونة الفروع ": "علوم التمريض"
+    },
+    {
+        "Nomenclature": "Sciences naturelles",
+        "مدونة الفروع ": "علوم الطبيعة"
+    },
+    {
+        "Nomenclature": "Sciences vétérinaires: hygiéne, inspection et méthodes d'analyses",
+        "مدونة الفروع ": "علوم بيطرية: نظافة و مراقبة و مناهج التحليل"
+    },
+    {
+        "Nomenclature": "Toxicologie fondamentale et appliquée",
+        "مدونة الفروع ": "علم التسمم الأساسي و التطبيقي"
+    },
+    {
+        "Nomenclature": "Vétérinaire",
+        "مدونة الفروع ": "بيطري"
+    },
+    {
+        "Nomenclature": "Sciences de la terre et de l'univers",
+        "مدونة الفروع ": "علوم الأرض و الكون",
+        "title": true
+    },
+    {
+        "Nomenclature": "Aménagement",
+        "مدونة الفروع ": "تهيئة"
+    },
+    {
+        "Nomenclature": "Aménagement du territoire",
+        "مدونة الفروع ": "تهيئة الإقليم"
+    },
+    {
+        "Nomenclature": "Aménagement urbain",
+        "مدونة الفروع ": "تهيئة حضرية"
+    },
+    {
+        "Nomenclature": "Eau et environnement",
+        "مدونة الفروع ": "مياه و محيط"
+    },
+    {
+        "Nomenclature": "Environnement",
+        "مدونة الفروع ": "بيئة"
+    },
+    {
+        "Nomenclature": "Géographie et aménagement",
+        "مدونة الفروع ": "جغرافيا و تهيئة"
+    },
+    {
+        "Nomenclature": "Géographie et aménagement du territoire",
+        "مدونة الفروع ": "جغرافيا و تهيئة الإقليم"
+    },
+    {
+        "Nomenclature": "Géologie",
+        "مدونة الفروع ": "جيولوجيا"
+    },
+    {
+        "Nomenclature": "Géologie appliquée",
+        "مدونة الفروع ": "جيولوجيا تطبيقية"
+    },
+    {
+        "Nomenclature": "Géologie géophysique",
+        "مدونة الفروع ": "جيولوجيا جيوفيزياء"
+    },
+    {
+        "Nomenclature": "Géophysique",
+        "مدونة الفروع ": "جيوفيزياء"
+    },
+    {
+        "Nomenclature": "Géoscience",
+        "مدونة الفروع ": "علوم الجيولوجيا"
+    },
+    {
+        "Nomenclature": "Géotechnique",
+        "مدونة الفروع ": "جيوتقني"
+    },
+    {
+        "Nomenclature": "Gestion des techniques urbaines",
+        "مدونة الفروع ": "تسيير التقنيات الحضرية"
+    },
+    {
+        "Nomenclature": "Gestion des villes",
+        "مدونة الفروع ": "تسيير المدن"
+    },
+    {
+        "Nomenclature": "Gestion des Villes et Urbanisation",
+        "مدونة الفروع ": "تسيير المدن و التعمير"
+    },
+    {
+        "Nomenclature": "Hydrogéologie",
+        "مدونة الفروع ": "هيدروجيولوجيا"
+    },
+    {
+        "Nomenclature": "Hydrosciences",
+        "مدونة الفروع ": "علم المياه"
+    },
+    {
+        "Nomenclature": "Mines",
+        "مدونة الفروع ": "المناجم"
+    },
+    {
+        "Nomenclature": "Sciences de la Terre",
+        "مدونة الفروع ": "علوم الأرض"
+    },
+    {
+        "Nomenclature": "Sciences de la Terre et de l'Univers",
+        "مدونة الفروع ": "علوم الرض و الكون"
+    },
+    {
+        "Nomenclature": "Sciences Economiques,de Gestion et Commerciales",
+        "مدونة الفروع ": "علوم إقتصادية و التسيير و علوم تجارية",
+        "title": true
+    },
+    {
+        "Nomenclature": "Comptabilité",
+        "مدونة الفروع ": "محاسبة"
+    },
+    {
+        "Nomenclature": "Economie",
+        "مدونة الفروع ": "علوم إقتصادية"
+    },
+    {
+        "Nomenclature": "Economie et Sciences des Organisations",
+        "مدونة الفروع ": "إقتصاد و علوم التنظيمات"
+    },
+    {
+        "Nomenclature": "Economie  Internationale et Dévelopement",
+        "مدونة الفروع ": "إقتصاد دولي و تنمية"
+    },
+    {
+        "Nomenclature": "Finances et Comptabilité",
+        "مدونة الفروع ": "مالية و محاسبة"
+    },
+    {
+        "Nomenclature": "Gestion",
+        "مدونة الفروع ": "تسيير"
+    },
+    {
+        "Nomenclature": "Informatique de Gestion",
+        "مدونة الفروع ": "إعلام آلي للتسيير"
+    },
+    {
+        "Nomenclature": "Management",
+        "مدونة الفروع ": "إدارة الأعمال"
+    },
+    {
+        "Nomenclature": "Management des Organisations",
+        "مدونة الفروع ": "إدارة أعمال التنظيمات"
+    },
+    {
+        "Nomenclature": "Management,Finance,Audit et Contrôle de Gestion",
+        "مدونة الفروع ": "إدارة الأعمال،مالية،فحص و مراقبة التسيير"
+    },
+    {
+        "Nomenclature": "Marketing",
+        "مدونة الفروع ": "تسويق"
+    },
+    {
+        "Nomenclature": "Monnais et Finances",
+        "مدونة الفروع ": "نقود و مالية"
+    },
+    {
+        "Nomenclature": "Sciences Commerciales",
+        "مدونة الفروع ": "علوم تجارية"
+    },
+    {
+        "Nomenclature": "Sciences de Gestion",
+        "مدونة الفروع ": "علوم تسيير"
+    },
+    {
+        "Nomenclature": "Sciences de la finance",
+        "مدونة الفروع ": "علوم مالية"
+    },
+    {
+        "Nomenclature": "Sciences du Management",
+        "مدونة الفروع ": "علوم إدارة الأعمال"
+    },
+    {
+        "Nomenclature": "Sciences Economiques",
+        "مدونة الفروع ": "علوم إقتصادية"
+    },
+    {
+        "Nomenclature": "Sciences Financières",
+        "مدونة الفروع ": "علوم مالية"
+    },
+    {
+        "Nomenclature": "Droit et Science Politiques",
+        "مدونة الفروع ": "حقوق وعلوم سياسية",
+        "title": true
+    },
+    {
+        "Nomenclature": "Droit",
+        "مدونة الفروع ": "حقوق"
+    },
+    {
+        "Nomenclature": "Science Politiques",
+        "مدونة الفروع ": "علوم سياسية"
+    },
+    {
+        "Nomenclature": "Lettres et langues Etrangères",
+        "مدونة الفروع ": "اداب و لغات اجنبية",
+        "title": true
+    },
+    {
+        "Nomenclature": "Intepritariat et traduction",
+        "مدونة الفروع ": "ترجمة"
+    },
+    {
+        "Nomenclature": "Langue allemande( ou allemand)",
+        "مدونة الفروع ": "لغة المانية"
+    },
+    {
+        "Nomenclature": "Langue anglaise( ou anglais)",
+        "مدونة الفروع ": "لغة انجليزية"
+    },
+    {
+        "Nomenclature": "Langue espagnole",
+        "مدونة الفروع ": "لغة اسبانية"
+    },
+    {
+        "Nomenclature": "Langue francaise ( ou francais)",
+        "مدونة الفروع ": "لغة فرنسية"
+    },
+    {
+        "Nomenclature": "Langue italienne",
+        "مدونة الفروع ": "لغة إيطالية"
+    },
+    {
+        "Nomenclature": "Langue russe",
+        "مدونة الفروع ": "لغة روسية"
+    },
+    {
+        "Nomenclature": "Langue turque",
+        "مدونة الفروع ": "لغة تركية"
+    },
+    {
+        "Nomenclature": "Traduction",
+        "مدونة الفروع ": "ترجمة"
+    },
+    {
+        "Nomenclature": "Traduction et interprétariat",
+        "مدونة الفروع ": "ترجمة كتابية و فورية"
+    },
+    {
+        "Nomenclature": "Sciences Humaines et Sociales",
+        "مدونة الفروع ": "علوم إنسانية و اجتماعية",
+        "title": true
+    },
+    {
+        "Nomenclature": "Bibliothèques et centres de documentation",
+        "مدونة الفروع ": "مكتبة و مركز التوثيق"
+    },
+    {
+        "Nomenclature": "Intervention sociale",
+        "مدونة الفروع ": "تدخل اجتماعي"
+    },
+    {
+        "Nomenclature": "Science humaines",
+        "مدونة الفروع ": "علوم إنسانية"
+    },
+    {
+        "Nomenclature": "Sciences humaines-archéologie(ou archéologie)",
+        "مدونة الفروع ": "علوم إنسانية-علم الاثار(علم الاثار)"
+    },
+    {
+        "Nomenclature": "Sciences Humaines-Bibliothéconomie(ou bibliothéconomie)",
+        "مدونة الفروع ": "علوم إنسانية-علم المكتبات (او علم المكتبات)"
+    },
+    {
+        "Nomenclature": "Science Humaines -histoire( ou histoire)",
+        "مدونة الفروع ": "علوم إنسانية - تاريخ(أو تاريخ)"
+    },
+    {
+        "Nomenclature": "Science humaines-science de l'information et de la communication(ou sciences de l'information et de la communication)",
+        "مدونة الفروع ": "علوم إنسانية-علوم الاعلام و الاتصال(او علوم الاعلام او الاتصال)"
+    },
+    {
+        "Nomenclature": "Sciences islamiques",
+        "مدونة الفروع ": "علوم إسلامية"
+    },
+    {
+        "Nomenclature": "Sciences islamiques-Charea",
+        "مدونة الفروع ": "علوم إسلامية-الشريعة"
+    },
+    {
+        "Nomenclature": "Sciences islamiques-langue arab et civilisation islamique",
+        "مدونة الفروع ": "علوم إسلامية-لغة عربية و حضارة إسلامية"
+    },
+    {
+        "Nomenclature": "Sciences islamiques-oussoul eddine",
+        "مدونة الفروع ": "علوم إسلامية- أصول لدين"
+    },
+    {
+        "Nomenclature": "sciences  sociales",
+        "مدونة الفروع ": "علوم اجتماعية"
+    },
+    {
+        "Nomenclature": "sciences  sociales_ anthropologie",
+        "مدونة الفروع ": "علوم  اجتماعية -الانثروبولوجيا"
+    },
+    {
+        "Nomenclature": "sciences  sociales- orthoponie",
+        "مدونة الفروع ": "علوم اجتماعية -ارطوفنيا"
+    },
+    {
+        "Nomenclature": "sciences  sociales-philosophie ou philosophie",
+        "مدونة الفروع ": "علوم اجتماعية - فلسفة (او فلسفة)"
+    },
+    {
+        "Nomenclature": "sciences  sociales- psychologie (ou psychologie)",
+        "مدونة الفروع ": "علوم اجتماعية - علم النفس (او علم النفس )"
+    },
+    {
+        "Nomenclature": "sciences  sociales-sciences de l'éducation",
+        "مدونة الفروع ": "علوم اجتماعية - علوم التربية"
+    },
+    {
+        "Nomenclature": "sciences  sociales-sciences des populations",
+        "مدونة الفروع ": "علوم اجتماعية -علم السكان"
+    },
+    {
+        "Nomenclature": "sciences  sociales-sociologie (ou sociologie)",
+        "مدونة الفروع ": "علوم اجتماعية - علم الاجتماع (او علم اجتماع )"
+    },
+    {
+        "Nomenclature": "sciences  sociales-et sportive",
+        "مدونة الفروع ": "علوم وتقنيات"
+    },
+    {
+        "Nomenclature": "sciences et technique des activités physique et sportives",
+        "مدونة الفروع ": "علوم وتقنيات النشاطات البدنيةوالرياضية"
+    },
+    {
+        "Nomenclature": "activité physique et sportive",
+        "مدونة الفروع ": "نشطات بدنية ورياضية"
+    },
+    {
+        "Nomenclature": "activité physique et sportive éducative",
+        "مدونة الفروع ": "نشاط بدني ورياضي تربوي"
+    },
+    {
+        "Nomenclature": "activité   sportive éducative",
+        "مدونة الفروع ": "النشاطات الرياضي التربوي"
+    },
+    {
+        "Nomenclature": "activité physique adaptées",
+        "مدونة الفروع ": "النشاطات البدنية المكيفة"
+    },
+    {
+        "Nomenclature": "sciences et technique des Activiteés physique et sportives",
+        "مدونة الفروع ": "علوم وتقنيات النشاطات البدنية والرياضية",
+        "title": true
+    },
+    {
+        "Nomenclature": "activités physiques et sportives adapteés",
+        "مدونة الفروع ": "نشاط بدني ورياضي مكثف"
+    },
+    {
+        "Nomenclature": "Administration et gestion du sport",
+        "مدونة الفروع ": "ادارة وتسير رياضي"
+    },
+    {
+        "Nomenclature": "Administration  sportive",
+        "مدونة الفروع ": "ادارة رياضية"
+    },
+    {
+        "Nomenclature": "educatif",
+        "مدونة الفروع ": "تربوي"
+    },
+    {
+        "Nomenclature": "education et motricité",
+        "مدونة الفروع ": "تربية حركية"
+    },
+    {
+        "Nomenclature": "education physique",
+        "مدونة الفروع ": "تربية بدنية"
+    },
+    {
+        "Nomenclature": "education physique et sportives",
+        "مدونة الفروع ": "تربية بدنية ورياضية"
+    },
+    {
+        "Nomenclature": "education physique et sportives éducative",
+        "مدونة الفروع ": "تربية بدنية ورياضية تنافسية"
+    },
+    {
+        "Nomenclature": "education physisue et sportive affective",
+        "مدونة الفروع ": "نشاط بدني ورياضي وجداني"
+    },
+    {
+        "Nomenclature": "education sportive et motricité",
+        "مدونة الفروع ": "التربية الرياضية وحركية"
+    },
+    {
+        "Nomenclature": "entranemene sportif",
+        "مدونة الفروع ": "تدريب رياضي"
+    },
+    {
+        "Nomenclature": "entranemene sportif compétitif",
+        "مدونة الفروع ": "تدريب رياضي وتنافسي"
+    },
+    {
+        "Nomenclature": "ativité physique sportif compétitif",
+        "مدونة الفروع ": "تربية بدنية رياضية وتنافسية"
+    },
+    {
+        "Nomenclature": "gestion sportive",
+        "مدونة الفروع ": "تسير رياضي"
+    },
+    {
+        "Nomenclature": "Information et communication sportives",
+        "مدونة الفروع ": "اعلام و اتصال رياضي"
+    },
+    {
+        "Nomenclature": "Information sportives",
+        "مدونة الفروع ": "اعلام رياضي"
+    },
+    {
+        "Nomenclature": "Information sportives éducative",
+        "مدونة الفروع ": "الاعلام الرياضي التربوي"
+    },
+    {
+        "Nomenclature": "Management sportif",
+        "مدونة الفروع ": "تسيير رياضي"
+    },
+    {
+        "Nomenclature": "Sciences appliquées aux sports",
+        "مدونة الفروع ": "علوم مطبقة في الرياضة"
+    },
+    {
+        "Nomenclature": "Sciences de l'éducation physique et sportive",
+        "مدونة الفروع ": "علوم التربية البدنية و الرياضية"
+    },
+    {
+        "Nomenclature": "Sciences de l'intervention en activité physique et sportive",
+        "مدونة الفروع ": "علوم التدخل في النشاطات البدنية و الرياضية"
+    },
+    {
+        "Nomenclature": "Sciences du sport",
+        "مدونة الفروع ": "علوم الرياضة"
+    },
+    {
+        "Nomenclature": "Sciences et techniques des activités physiques et sportives",
+        "مدونة الفروع ": "علوم و تقنيات النشاطات البدنية و الرياضية"
+    },
+    {
+        "Nomenclature": "Sciences et technologie du mouvement humain",
+        "مدونة الفروع ": "علوم و تكنولوجيا حركة الانسان"
+    },
+    {
+        "Nomenclature": "Sport",
+        "مدونة الفروع ": "رياضة"
+    },
+    {
+        "Nomenclature": "Théorie et méthodologie de l'entrainement sportif et de l'éducation physique et sportive",
+        "مدونة الفروع ": "نظرية و منهجية التدريب الرياضي و التربية البدنية و الرياضية"
+    },
+    {
+        "Nomenclature": "Théorie et méthodologie de l'éducation physique et sportive",
+        "مدونة الفروع ": "نظريات و منهجية التربية البدنية و الرياضية"
+    },
+    {
+        "Nomenclature": "Arts",
+        "مدونة الفروع ": "فنون",
+        "title": true
+    },
+    {
+        "Nomenclature": "Arts",
+        "مدونة الفروع ": "فنون"
+    },
+    {
+        "Nomenclature": "Arts cinématographiques",
+        "مدونة الفروع ": "فنون سينمائية"
+    },
+    {
+        "Nomenclature": "Arts dramatiques",
+        "مدونة الفروع ": "فنون درامية"
+    },
+    {
+        "Nomenclature": "Arts du cinéma",
+        "مدونة الفروع ": "فنون السينما"
+    },
+    {
+        "Nomenclature": "Arts du spectacle",
+        "مدونة الفروع ": "فنون العرض"
+    },
+    {
+        "Nomenclature": "Arts du spectacle théatral",
+        "مدونة الفروع ": "فنون العرض المسرحي"
+    },
+    {
+        "Nomenclature": "Arts plastiques",
+        "مدونة الفروع ": "فنون تشكيلية"
+    },
+    {
+        "Nomenclature": "Arts visuels",
+        "مدونة الفروع ": "فنون بصرية"
+    },
+    {
+        "Nomenclature": "Conservation du patrimoine",
+        "مدونة الفروع ": "المحافظة على الثراث"
+    },
+    {
+        "Nomenclature": "Conservation du patrimoine",
+        "مدونة الفروع ": "المحافظة على الثراث"
+    },
+    {
+        "Nomenclature": "Théatre",
+        "مدونة الفروع ": "المسرح"
+    },
+    {
+        "Nomenclature": "Langue et littérature arabes",
+        "مدونة الفروع ": "لغة و ادب عربي",
+        "title": true
+    },
+    {
+        "Nomenclature": "Critique littéraire",
+        "مدونة الفروع ": "نقد الادبي"
+    },
+    {
+        "Nomenclature": "Critique littéraire et théatrale",
+        "مدونة الفروع ": "نقد ادبي و مسرحي"
+    },
+    {
+        "Nomenclature": "Etudes littéraires",
+        "مدونة الفروع ": "دراسات أدبية"
+    },
+    {
+        "Nomenclature": "Etudes critiques",
+        "مدونة الفروع ": "دراسات نقدية"
+    },
+    {
+        "Nomenclature": "Etudes linguistiques",
+        "مدونة الفروع ": "دراسات لغوية"
+    },
+    {
+        "Nomenclature": "Etudes linguistiques et littéraires",
+        "مدونة الفروع ": "دراسات لغوية وأدبية"
+    },
+    {
+        "Nomenclature": "Langue arabe",
+        "مدونة الفروع ": "لغة عربية"
+    },
+    {
+        "Nomenclature": "Langue et littérature arabes",
+        "مدونة الفروع ": "لغة و ادب عربي"
+    },
+    {
+        "Nomenclature": "Lettres arabes",
+        "مدونة الفروع ": "ادب عربي"
+    },
+    {
+        "Nomenclature": "Linguistique",
+        "مدونة الفروع ": "اللسانيات"
+    },
+    {
+        "Nomenclature": "Littérature",
+        "مدونة الفروع ": "ادب"
+    },
+    {
+        "Nomenclature": "Littérature arabe",
+        "مدونة الفروع ": "ادب عربي"
+    },
+    {
+        "Nomenclature": "Sciences du langage",
+        "مدونة الفروع ": "علوم اللسان"
+    },
+    {
+        "Nomenclature": "Langue et culture amazighes",
+        "مدونة الفروع ": "لغة و ثقافة امازيغية"
+    },
+    {
+        "Nomenclature": "Civilisation amazigh",
+        "مدونة الفروع ": "حضارة امازيغية"
+    },
+    {
+        "Nomenclature": "Langue et Civilisation",
+        "مدونة الفروع ": "لغة وحضارة"
+    },
+    {
+        "Nomenclature": "Langue et Civilisation amazighes",
+        "مدونة الفروع ": "لغة وحضارة امازيغية"
+    },
+    {
+        "Nomenclature": "Langue et culture amazighes",
+        "مدونة الفروع ": "لغة و ثقافة امازيغية"
+    },
+    {
+        "Nomenclature": "Langue et littérature",
+        "مدونة الفروع ": "لغة و اداب"
+    },
+    {
+        "Nomenclature": "Langue et littérature amazighes",
+        "مدونة الفروع ": "لغة و ادب امازيغي"
+    },
+    {
+        "Nomenclature": "Linguistique",
+        "مدونة الفروع ": "اللسانيات"
+    },
+    {
+        "Nomenclature": "Linguistique et didactique",
+        "مدونة الفروع ": "لسانيات و تعليمية"
+    },
+    {
+        "Nomenclature": "Sciences du langage",
+        "مدونة الفروع ": "علوم اللغة"
+    }
+]

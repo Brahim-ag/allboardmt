@@ -133,9 +133,9 @@ class Employee extends Model
         return $this->hasMany('App\Models\Fonctionsup');
     }
 
-    public function Regimdis()
+    public function Regims()
     {
-        return $this->hasMany('App\Models\Regimdi');
+        return $this->hasMany('App\Models\Regim');
     }
 
     public function Cessations()

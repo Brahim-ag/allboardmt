@@ -7,7 +7,10 @@ import {
 
 }
 from 'vue';
-
+import {
+    createWebHistory,
+    createRouter
+} from "vue-router";
 import {
     App as InertiaApp,
     plugin as InertiaPlugin
@@ -17,7 +20,14 @@ import {
 } from '@inertiajs/progress';
 
 const el = document.getElementById('app');
-
+const router = createRouter({
+    history: createWebHistory(),
+    routes: [{
+        path: '/employe/edit/:id',
+       
+    }],
+    linkActiveClass: 'active'
+});
 createApp({
         render: () =>
             h(InertiaApp, {
@@ -31,6 +41,7 @@ createApp({
         }
     })
     .use(InertiaPlugin)
+    .use(router)
     .mount(el);
 
 InertiaProgress.init({

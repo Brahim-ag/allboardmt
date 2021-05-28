@@ -5,6 +5,21 @@ use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
 use App\Http\Controllers\EmployesController;
+use App\Http\Controllers\ProfilesController;
+use App\Http\Controllers\FormationController;
+use App\Http\Controllers\AntecedanjudiController;
+use App\Http\Controllers\StageController;
+use App\Http\Controllers\EchelonsController;
+use App\Http\Controllers\DisposController;
+use App\Http\Controllers\DetachementsController;
+use App\Http\Controllers\MutationsController;
+use App\Http\Controllers\HorscadresController;
+use App\Http\Controllers\MilitaryController;
+use App\Http\Controllers\CongeController;
+use App\Http\Controllers\RegimdisController;
+use App\Http\Controllers\CessationController;
+use App\Http\Controllers\RecrutementController;
+// use App\Http\Controllers\MilitaryController;
 
 
 /*
@@ -25,6 +40,83 @@ Route::get('/employe/create',[EmployesController::class,'create'])->middleware([
 Route::post('/employe/store',[EmployesController::class,'store'])->middleware(['auth']);
 Route::get('/employe/edit/{employee_id}',[EmployesController::class,'edit'])->middleware(['auth']);
 Route::get('/employe/show/{employee_id}',[EmployesController::class,'show'])->middleware(['auth']);
+
+Route::get('/parcour/{employee_id}',[ProfilesController::class,'index'])->middleware(['auth']);
+// Route::get('/parcour/employee_id/getall',[ProfilesController::class,'getAll'])->middleware(['auth']);
+Route::get('/parcour/create/{employee_id}',[ProfilesController::class,'create'])->middleware(['auth']);
+Route::post('/parcour/store',[ProfilesController::class,'store'])->middleware(['auth']);
+Route::get('/parcour/edit/{parcour_id}',[ProfilesController::class,'edit'])->middleware(['auth']);
+// Route::get('/parcour/show/{parcoure_id}',[ProfilesController::class,'show'])->middleware(['auth']);
+
+Route::get('/formation/{employee_id}',[FormationController::class,'index'])->middleware(['auth']);
+Route::get('/formation/create/{employee_id}',[FormationController::class,'create'])->middleware(['auth']);
+Route::post('/formation/store',[FormationController::class,'store'])->middleware(['auth']);
+Route::get('/formation/edit/{parcour_id}',[FormationController::class,'edit'])->middleware(['auth']);
+
+Route::get('/antecejudi/{employee_id}',[AntecedanjudiController::class,'index'])->middleware(['auth']);
+Route::get('/antecejudi/create/{employee_id}',[AntecedanjudiController::class,'create'])->middleware(['auth']);
+Route::post('/antecejudi/store',[AntecedanjudiController::class,'store'])->middleware(['auth']);
+Route::get('/antecejudi/edit/{parcour_id}',[AntecedanjudiController::class,'edit'])->middleware(['auth']);
+
+Route::get('/stage/{employee_id}',[StageController::class,'index'])->middleware(['auth']);
+Route::get('/stage/create/{employee_id}',[StageController::class,'create'])->middleware(['auth']);
+Route::post('/stage/store',[StageController::class,'store'])->middleware(['auth']);
+Route::get('/stage/edit/{parcour_id}',[StageController::class,'edit'])->middleware(['auth']);
+
+
+Route::get('/echelons/{employee_id}',[EchelonsController::class,'index'])->middleware(['auth']);
+Route::get('/echelons/create/{employee_id}',[EchelonsController::class,'create'])->middleware(['auth']);
+Route::post('/echelons/store',[EchelonsController::class,'store'])->middleware(['auth']);
+Route::get('/echelons/edit/{parcour_id}',[EchelonsController::class,'edit'])->middleware(['auth']);
+
+Route::get('/dispo/{employee_id}',[DisposController::class,'index'])->middleware(['auth']);
+Route::get('/dispo/create/{employee_id}',[DisposController::class,'create'])->middleware(['auth']);
+Route::post('/dispo/store',[DisposController::class,'store'])->middleware(['auth']);
+Route::get('/dispo/edit/{parcour_id}',[DisposController::class,'edit'])->middleware(['auth']);
+
+
+Route::get('/detachement/{employee_id}',[DetachementsController::class,'index'])->middleware(['auth']);
+Route::get('/detachement/create/{employee_id}',[DetachementsController::class,'create'])->middleware(['auth']);
+Route::post('/detachement/store',[DetachementsController::class,'store'])->middleware(['auth']);
+Route::get('/detachement/edit/{parcour_id}',[DetachementsController::class,'edit'])->middleware(['auth']);
+
+Route::get('/horscadre/{employee_id}',[HorscadresController::class,'index'])->middleware(['auth']);
+Route::get('/horscadre/create/{employee_id}',[HorscadresController::class,'create'])->middleware(['auth']);
+Route::post('/horscadre/store',[HorscadresController::class,'store'])->middleware(['auth']);
+Route::get('/horscadre/edit/{parcour_id}',[HorscadresController::class,'edit'])->middleware(['auth']);
+
+
+
+Route::get('/mutations/{employee_id}',[MutationsController::class,'index'])->middleware(['auth']);
+Route::get('/mutations/create/{employee_id}',[MutationsController::class,'create'])->middleware(['auth']);
+Route::post('/mutations/store',[MutationsController::class,'store'])->middleware(['auth']);
+Route::get('/mutations/edit/{parcour_id}',[MutationsController::class,'edit'])->middleware(['auth']);
+
+Route::get('/militaire/{employee_id}',[MilitaryController::class,'index'])->middleware(['auth']);
+Route::get('/militaire/create/{employee_id}',[MilitaryController::class,'create'])->middleware(['auth']);
+Route::post('/militaire/store',[MilitaryController::class,'store'])->middleware(['auth']);
+Route::get('/militaire/edit/{parcour_id}',[MilitaryController::class,'edit'])->middleware(['auth']);
+
+Route::get('/conge/{employee_id}',[CongeController::class,'index'])->middleware(['auth']);
+Route::get('/conge/create/{employee_id}',[CongeController::class,'create'])->middleware(['auth']);
+Route::post('/conge/store',[CongeController::class,'store'])->middleware(['auth']);
+Route::get('/conge/edit/{parcour_id}',[CongeController::class,'edit'])->middleware(['auth']);
+
+Route::get('/regim/{employee_id}',[RegimdisController::class,'index'])->middleware(['auth']);
+Route::get('/regim/create/{employee_id}',[RegimdisController::class,'create'])->middleware(['auth']);
+Route::post('/regim/store',[RegimdisController::class,'store'])->middleware(['auth']);
+Route::get('/regim/edit/{parcour_id}',[RegimdisController::class,'edit'])->middleware(['auth']);
+
+Route::get('/cessation/{employee_id}',[CessationController::class,'index'])->middleware(['auth']);
+Route::get('/cessation/create/{employee_id}',[CessationController::class,'create'])->middleware(['auth']);
+Route::post('/cessation/store',[CessationController::class,'store'])->middleware(['auth']);
+Route::get('/cessation/edit/{parcour_id}',[CessationController::class,'edit'])->middleware(['auth']);
+
+
+Route::get('/recrutement/{employee_id}',[RecrutementController::class,'index'])->middleware(['auth']);
+Route::get('/recrutement/create/{employee_id}',[RecrutementController::class,'create'])->middleware(['auth']);
+Route::post('/recrutement/store',[RecrutementController::class,'store'])->middleware(['auth']);
+Route::get('/recrutement/edit/{parcour_id}',[RecrutementController::class,'edit'])->middleware(['auth']);
 
 // Route::get('/', function () {
 //     return Inertia::render('Welcome', [

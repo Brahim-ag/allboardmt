@@ -131,16 +131,46 @@ class EmployesController extends Controller
      * @param  \App\Models\Employee  $employee
      * @return \Illuminate\Http\Response
      */
-    public function show(Request $request, $id)
+    public function show(Request $request,$id)
     {
-        // $user = $request->user();
-        // $team = Team::find($user->current_team_id);
-
-        // if (!$user->hasTeamPermission($team, 'read')) {
+        $user = $request->user();
+       
+        if (!$user) {
+            abort(401, "vous n'avez pas assez de droit");
+            ## return redirect('/employees/nohome');
+        }
+        else{
+            $team = Team::find($user->current_team_id);
+            if($user->hasTeamPermission($team, 'read')){
+                $employee = Employee::findOrFail($id);
+                return Inertia::render('Employee/show',[
+                    'employee' => $employee,
+                ]);
+                
+            }else{
+                abort(401, "vous n'avez pas assez de droit");
+            }
+        }
+        // if (!$user) {
         //     abort(401, "vous n'avez pas assez de droit");
+        //     ## return redirect('/employees/nohome');
         // }
-        $employee = Employee::findOrFail($id);
-        return $employee;
+        // else{
+        //     $team = Team::find($user->current_team_id);
+        //     if($user->hasTeamPermission($team, 'read')){
+                
+        //         $employee = Employee::findOrFail($id);
+
+        //         return Inertia::render('Employee/show', [
+                    
+        //             'employee' => $employee,
+        //         ]);
+                
+        //     }else{
+        //         abort(401, "vous n'avez pas assez de droit");
+        //     }
+        // }
+        
 
     }
 
@@ -225,14 +255,12 @@ class EmployesController extends Controller
             'situation' => 'required'
         ]);
 
-        dd($request);
-        // $employee = Employee::findOrFail($request->id);
-        // $employee->update($request->all());
+        $employee = Employee::findOrFail($request->id);
+        $employee->update($request->all());
 
 
 
-        // return redirect()->route('employees.index')
-        //     ->with('success', 'Employé modifie');
+      
     }
 
     /**

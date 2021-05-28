@@ -34,9 +34,7 @@
                         <td class="border">{{ employe.NMutu }}</td>
                         <td class="border">{{ employe.typeContrat }}</td>
                         <td class="border">{{ employe.telephone }}</td>
-                       <router-link :to="{ path: '/employe/edit', params: { id: employe.id }}">
-                       home
-                       </router-link>
+                       
                         <!-- <td class="border"><router-link :to="{name:'editEmploye',params:{id:employe.id}}" >Modifier</router-link></td> -->
                         <td class="border">
                             <inertia-link :href="`/employe/edit/${employe.id}`"

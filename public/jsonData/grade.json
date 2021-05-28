@@ -1,0 +1,1441 @@
+{
+    "corp": [{
+            "name": "Filière « Administration Générale »",
+            "disable": true,
+            "rank": null,
+            "postar": "\" شعبة \"الإدارة العامة"
+        },
+        {
+            "name": "Administrateurs",
+            "disable": true,
+            "rank": null,
+            "postar": "المتصرفون"
+        },
+        {
+            "name": "Administrateur Conseiller",
+            "disable": false,
+            "rank": 16,
+            "postar": "متصرف مستشار"
+        },
+        {
+            "name": "Administrateur Principal",
+            "disable": false,
+            "rank": 14,
+            "postar": "متصرف رئيسي"
+        },
+        {
+            "name": "Administrateur Analyste",
+            "disable": false,
+            "rank": 13,
+            "postar": "متصرف محلل"
+        },
+        {
+            "name": "Administrateur",
+            "disable": false,
+            "rank": 12,
+            "postar": "متصرف"
+        },
+        {
+            "name": "Assistants Administrateurs",
+            "disable": true,
+            "rank": null,
+            "postar": "مساعدو المتصرفين\n"
+        },
+        {
+            "name": "Assistant Administrateur",
+            "disable": false,
+            "rank": 11,
+            "postar": "مساعد متصرف"
+        },
+        {
+            "name": "Attachés d'Administration",
+            "disable": true,
+            "rank": null,
+            "postar": "ملحقو الإدارة"
+        },
+        {
+            "name": "Attaché Principal d'Administration",
+            "disable": false,
+            "rank": 9,
+            "postar": "ملحق رئيسي للإدارة"
+        },
+        {
+            "name": "Attaché d'Administration ",
+            "disable": false,
+            "rank": 10,
+            "postar": "ملحق الإدارة"
+        },
+        {
+            "name": "Agents d’Administration",
+            "disable": true,
+            "rank": null,
+            "postar": "أعوان الإدارة"
+        },
+        {
+            "name": "Agent Principal d’Administration",
+            "disable": false,
+            "rank": 8,
+            "postar": "عون إدارة رئيسي"
+        },
+        {
+            "name": "Agent d’Administration ",
+            "disable": false,
+            "rank": 7,
+            "postar": "عون إدارة"
+        },
+        {
+            "name": "Agent de Bureau ",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون مكتب"
+        },
+        {
+            "name": "Secrétaires",
+            "disable": true,
+            "rank": null,
+            "postar": "الكتاب"
+        },
+        {
+            "name": "Secrétaire Principal de Direction",
+            "disable": false,
+            "rank": 10,
+            "postar": "كاتب مديرية رئيسي"
+        },
+        {
+            "name": "Secrétaire de Direction",
+            "disable": false,
+            "rank": 8,
+            "postar": "كاتب مديرية"
+        },
+        {
+            "name": "Secrétaire",
+            "disable": false,
+            "rank": 6,
+            "postar": "كاتب"
+        },
+        {
+            "name": "Agent de Saisie ",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون حفظ البيانات"
+        },
+        {
+            "name": "Comptables Administratifs",
+            "disable": true,
+            "rank": null,
+            "postar": "المحاسبون الإداريون"
+        },
+        {
+            "name": "Comptable Administratif Principal",
+            "disable": false,
+            "rank": 10,
+            "postar": "محاسب إداري رئيسي"
+        },
+        {
+            "name": "Comptable Administratif ",
+            "disable": false,
+            "rank": 8,
+            "postar": "محاسب إداري"
+        },
+        {
+            "name": "Aide-Comptable Administratif",
+            "disable": false,
+            "rank": 5,
+            "postar": "مساعد محاسب إداري"
+        },
+        {
+            "name": "Filière « Interprétariat »",
+            "disable": true,
+            "rank": null,
+            "postar": "شعبة \"الترجمة -الترجمة الترجمة الفورية \""
+        },
+        {
+            "name": "Traducteurs Interprètes",
+            "disable": true,
+            "rank": null,
+            "postar": "المترجمون - التراجمة"
+        },
+        {
+            "name": "Traducteur-Interprète en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المترجمين - التراجمة"
+        },
+        {
+            "name": "Traducteur-Interprète Principal ",
+            "disable": false,
+            "rank": 14,
+            "postar": "المترجم - الترجمان الرئيسي"
+        },
+        {
+            "name": "Traducteur-Interprète Spécialisé",
+            "disable": false,
+            "rank": 13,
+            "postar": "الترجم-الترجمان المتخصص"
+        },
+        {
+            "name": "Traducteur-Interprète ",
+            "disable": false,
+            "rank": 12,
+            "postar": "المترجم - الترجمان"
+        },
+        {
+            "name": "Filière « Informatique »",
+            "disable": true,
+            "rank": null,
+            "postar": "شعبة \"الإعلام الآلي \""
+        },
+        {
+            "name": "Ingénieurs",
+            "disable": true,
+            "rank": null,
+            "postar": "المهندسون"
+        },
+        {
+            "name": "Ingénieur en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المهندسين"
+        },
+        {
+            "name": "Ingénieur Principal",
+            "disable": false,
+            "rank": 14,
+            "postar": "المهندسون الرئيسيون"
+        },
+        {
+            "name": "Ingénieur d’Etat ",
+            "disable": false,
+            "rank": 13,
+            "postar": "مهندسو الدولة"
+        },
+        {
+            "name": "Ingénieur d’Application",
+            "disable": false,
+            "rank": 11,
+            "postar": "المهندسون التطبيقيون"
+        },
+        {
+            "name": "Assistants Ingénieurs",
+            "disable": true,
+            "rank": null,
+            "postar": "مساعدو المهندسين"
+        },
+        {
+            "name": "Assistant Ingénieur de Niveau 1",
+            "disable": false,
+            "rank": 11,
+            "postar": "مساعد مهندس مستوى 1"
+        },
+        {
+            "name": "Assistant Ingénieur de Niveau 2",
+            "disable": false,
+            "rank": 10,
+            "postar": "مساعد مهندس مستوى 2"
+        },
+        {
+            "name": "Techniciens",
+            "disable": true,
+            "rank": null,
+            "postar": "التقنيون"
+        },
+        {
+            "name": "Technicien Supérieur",
+            "disable": false,
+            "rank": 10,
+            "postar": "تقني سام"
+        },
+        {
+            "name": "Technicien ",
+            "disable": false,
+            "rank": 8,
+            "postar": "تقني"
+        },
+        {
+            "name": "Adjoints Techniques",
+            "disable": true,
+            "rank": null,
+            "postar": "المعاونون التقنيون"
+        },
+        {
+            "name": "Adjoint Technique",
+            "disable": false,
+            "rank": 7,
+            "postar": "معاون تقني"
+        },
+        {
+            "name": "Agents Techniques",
+            "disable": false,
+            "rank": null,
+            "postar": "الأعوان التقنيون\n"
+        },
+        {
+            "name": "Agent Technique",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون تقني"
+        },
+        {
+            "name": "Filière « Statistiques »",
+            "disable": true,
+            "rank": null,
+            "postar": "\"شعبة \"الإحصائيات \""
+        },
+        {
+            "name": "Ingénieurs",
+            "disable": true,
+            "rank": null,
+            "postar": "المهندسون"
+        },
+        {
+            "name": "Ingénieur en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المهندسين"
+        },
+        {
+            "name": "Ingénieur Principal",
+            "disable": false,
+            "rank": 14,
+            "postar": "المهندسون الرئيسيون"
+        },
+        {
+            "name": "Ingénieur d’Etat ",
+            "disable": false,
+            "rank": 13,
+            "postar": "مهندسو الدولة"
+        },
+        {
+            "name": "Ingénieur d’Application",
+            "disable": false,
+            "rank": 11,
+            "postar": "المهندسون التطبيقيون"
+        },
+        {
+            "name": "Assistants Ingénieurs",
+            "disable": true,
+            "rank": null,
+            "postar": "مساعدو المهندسين"
+        },
+        {
+            "name": "Assistant Ingénieur de Niveau 1",
+            "disable": false,
+            "rank": 11,
+            "postar": "مساعد مهندس مستوى 1"
+        },
+        {
+            "name": "Assistant Ingénieur de Niveau 2",
+            "disable": false,
+            "rank": 10,
+            "postar": "مساعد مهندس مستوى 2"
+        },
+        {
+            "name": "Techniciens",
+            "disable": true,
+            "rank": null,
+            "postar": "التقنيون"
+        },
+        {
+            "name": "Technicien Supérieur",
+            "disable": false,
+            "rank": 10,
+            "postar": "تقني سام"
+        },
+        {
+            "name": "Technicien ",
+            "disable": false,
+            "rank": 8,
+            "postar": "تقني"
+        },
+        {
+            "name": "Adjoints Techniques",
+            "disable": true,
+            "rank": null,
+            "postar": "المعاونون التقنيون"
+        },
+        {
+            "name": "Adjoint Technique",
+            "disable": false,
+            "rank": 7,
+            "postar": "معاون تقني"
+        },
+        {
+            "name": "Agents Techniques",
+            "disable": true,
+            "rank": null,
+            "postar": "الأعوان التقنيون\n"
+        },
+        {
+            "name": "Agent Technique",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون تقني"
+        },
+        {
+            "name": "Filière « Documentation et Archives »",
+            "disable": true,
+            "rank": null,
+            "postar": "شعبة \"الوثائق والمحفوظات \""
+        },
+        {
+            "name": "Documentalistes-Archivistes",
+            "disable": true,
+            "rank": null,
+            "postar": "الوثائقيون أمناء المحفوظات"
+        },
+        {
+            "name": "Documentaliste-Archiviste en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس الوثائقين أمناء المحفوظات"
+        },
+        {
+            "name": "Documentaliste-Archiviste Principal ",
+            "disable": false,
+            "rank": 14,
+            "postar": "وثائقي أمين محفوظات رئيسي"
+        },
+        {
+            "name": "Documentaliste-Archiviste Analyste",
+            "disable": false,
+            "rank": 13,
+            "postar": ""
+        },
+        {
+            "name": "Documentaliste-Archiviste",
+            "disable": false,
+            "rank": 12,
+            "postar": "وثائقي أمين محفوظات"
+        },
+        {
+            "name": "Assistants Documentalistes Archivistes",
+            "disable": true,
+            "rank": null,
+            "postar": "مـــســــاعـــدو الـــوثــــائـــقـــيــــن أمـــنـــاء المحفوظات"
+        },
+        {
+            "name": "Assistant Documentaliste-Archiviste Principal",
+            "disable": false,
+            "rank": 11,
+            "postar": "مساعد وثائقي أمين محفوظات رئيسي"
+        },
+        {
+            "name": "Assistant Documentaliste-Archiviste",
+            "disable": false,
+            "rank": 10,
+            "postar": "مساعد وثائقي أمين محفوظات"
+        },
+        {
+            "name": "Agents techniques en Documentation et Archives",
+            "disable": true,
+            "rank": null,
+            "postar": "الأعـوان الـتـقـنـيـون في الـوثـائق والمحفوظات"
+        },
+        {
+            "name": "Agent Technique en Documentation et Archives",
+            "disable": false,
+            "rank": 7,
+            "postar": "عون تقني في الوثائق والمحفوظات"
+        },
+        {
+            "name": "Filière « Laboratoire et Maintenance »",
+            "disable": true,
+            "rank": null,
+            "postar": "شعبة \"االمخبر والصيانة \""
+        },
+        {
+            "name": "Ingénieurs",
+            "disable": true,
+            "rank": null,
+            "postar": "المهندسون"
+        },
+        {
+            "name": "Ingénieur en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المهندسين"
+        },
+        {
+            "name": "Ingénieur Principal",
+            "disable": false,
+            "rank": 14,
+            "postar": "المهندسون الرئيسيون"
+        },
+        {
+            "name": "Ingénieur d’Etat ",
+            "disable": false,
+            "rank": 13,
+            "postar": "مهندسو الدولة"
+        },
+        {
+            "name": "Ingénieur d’Application",
+            "disable": false,
+            "rank": 11,
+            "postar": "المهندسون التطبيقيون"
+        },
+        {
+            "name": "Assistants Ingénieurs",
+            "disable": true,
+            "rank": null,
+            "postar": "مساعدو المهندسين"
+        },
+        {
+            "name": "Assistant Ingénieur de Niveau 1",
+            "disable": false,
+            "rank": 11,
+            "postar": "مساعد مهندس مستوى 1"
+        },
+        {
+            "name": "Assistant Ingénieur de Niveau 2",
+            "disable": false,
+            "rank": 10,
+            "postar": "مساعد مهندس مستوى 2"
+        },
+        {
+            "name": "Techniciens",
+            "disable": true,
+            "rank": null,
+            "postar": "التقنيون"
+        },
+        {
+            "name": "Technicien Supérieur",
+            "disable": false,
+            "rank": 10,
+            "postar": "تقني سام"
+        },
+        {
+            "name": "Technicien ",
+            "disable": false,
+            "rank": 8,
+            "postar": "تقني"
+        },
+        {
+            "name": "Adjoints Techniques",
+            "disable": true,
+            "rank": null,
+            "postar": "المعاونون التقنيون"
+        },
+        {
+            "name": "Adjoint Technique",
+            "disable": false,
+            "rank": 7,
+            "postar": "معاون تقني"
+        },
+        {
+            "name": "Agents Techniques",
+            "disable": true,
+            "rank": null,
+            "postar": "الأعوان التقنيون\n"
+        },
+        {
+            "name": "Agent Technique",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون تقني"
+        },
+        {
+            "name": "Agents de Laboratoire",
+            "disable": false,
+            "rank": null,
+            "postar": "أعوان المخبر"
+        },
+        {
+            "name": "Agent de Laboratoire",
+            "disable": false,
+            "rank": 4,
+            "postar": "عون مخبر"
+        },
+        {
+            "name": "Filière « Analystes de l’Economie »",
+            "disable": true,
+            "rank": null,
+            "postar": "سلك المحللين الاقتصادي الاقتصاديين"
+        },
+        {
+            "name": "Analystes de l’Economie",
+            "disable": true,
+            "rank": null,
+            "postar": "المحللون الاقتصاديون"
+        },
+        {
+            "name": "Analyste en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المحللين"
+        },
+        {
+            "name": "Analyste Principal",
+            "disable": false,
+            "rank": 14,
+            "postar": "محلل رئيسي"
+        },
+        {
+            "name": "Analyste de l’Economie ",
+            "disable": false,
+            "rank": 12,
+            "postar": "محلل اقتصادي"
+        }
+    ],
+    "corpts": [{
+            "name": "Ingénieurs de l’Habitat et de l’Urbanisme",
+            "disable": true,
+            "rank": null,
+            "postar": "مهندسو السكن والعمران"
+        },
+        {
+            "name": "Ingénieur en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المهندسين"
+        },
+        {
+            "name": "Ingénieur Principal",
+            "disable": false,
+            "rank": 14,
+            "postar": "مهندس رئيسي"
+        },
+        {
+            "name": "Ingénieur d’Etat",
+            "disable": false,
+            "rank": 13,
+            "postar": "مهندس دولة"
+        },
+        {
+            "name": "Ingénieur d’Application",
+            "disable": false,
+            "rank": 11,
+            "postar": "مهندس تطبيقي"
+        },
+        {
+            "name": "Architectes",
+            "disable": true,
+            "rank": null,
+            "postar": "المهندسون المعماريون"
+        },
+        {
+            "name": "Architecte en Chef",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المهندسين المعماريون"
+        },
+        {
+            "name": "Architecte Principal",
+            "disable": false,
+            "rank": 14,
+            "postar": "مهندس معماري رئيسي"
+        },
+        {
+            "name": "Architecte",
+            "disable": false,
+            "rank": 13,
+            "postar": "مهندس معماري"
+        },
+        {
+            "name": "Inspecteurs de l’Urbanisme",
+            "disable": true,
+            "rank": null,
+            "postar": "مفتشو التعمير"
+        },
+        {
+            "name": "Inspecteur de l’Urbanisme en Chef",
+            "disable": false,
+            "rank": 17,
+            "postar": "رئيس مفتشي التعمير"
+        },
+        {
+            "name": "Inspecteur de l’Urbanisme Principal",
+            "disable": false,
+            "rank": 15,
+            "postar": "مفتش رئيسي للتعمير"
+        },
+        {
+            "name": "Inspecteur de l’Urbanisme",
+            "disable": false,
+            "rank": 14,
+            "postar": "مفتش التعمير"
+        },
+        {
+            "name": "Techniciens de l’Habitat et de l’Urbanisme",
+            "disable": true,
+            "rank": null,
+            "postar": "تقنيو السكن والعمران"
+        },
+        {
+            "name": "Technicien Supérieur",
+            "disable": false,
+            "rank": 10,
+            "postar": "تقني سام"
+        },
+        {
+            "name": "Technicien",
+            "disable": false,
+            "rank": 8,
+            "postar": "تقني"
+        },
+        {
+            "name": "Adjoints Techniques de l’Habitat et de l’Urbanisme",
+            "disable": true,
+            "rank": null,
+            "postar": "المساعدون التقنيون في السكن والعمران"
+        },
+        {
+            "name": "Adjoint Technique",
+            "disable": false,
+            "rank": 7,
+            "postar": "مساعد تقني"
+        },
+        {
+            "name": "Agents Techniques Spécialises de l’Habitat et de l’Urbanisme",
+            "disable": true,
+            "rank": null,
+            "postar": "الأعوان التقنيون المتخصصون في السكن والعمران"
+        },
+        {
+            "name": "Agent Technique Spécialisé",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون تقني متخصص"
+        },
+        {
+            "name": "Agent Technique",
+            "disable": false,
+            "rank": 2,
+            "postar": "عون تقني"
+        }
+    ],
+    "ovrir": [{
+            "name": "Ouvriers professionnels",
+            "disable": true,
+            "rank": null,
+            "postar": "العمال المهنيون"
+        },
+        {
+            "name": "Ouvrier Professionnel Hors Catégorie",
+            "disable": false,
+            "rank": 6,
+            "postar": "عامل مهني خارج الصنف"
+        },
+        {
+            "name": "Ouvrier Professionnel de 1ère Catégorie ",
+            "disable": false,
+            "rank": 5,
+            "postar": "عامل مهني من الصنف الأول"
+        },
+        {
+            "name": "Ouvrier Professionnel de 2ème Catégorie ",
+            "disable": false,
+            "rank": 3,
+            "postar": "عامل مهني من الصنف الثاني"
+        },
+        {
+            "name": "Ouvrier Professionnel de 3ème Catégorie",
+            "disable": false,
+            "rank": 1,
+            "postar": "عامل مهني من الصنف الثالث"
+        },
+        {
+            "name": "Ouvriers professionnels",
+            "disable": true,
+            "rank": null,
+            "postar": "سائقو السيارات"
+        },
+        {
+            "name": "Conducteur d’Automobile de 1ère Catégorie",
+            "disable": false,
+            "rank": 3,
+            "postar": "سائق سيارة من الصنف الأول"
+        },
+        {
+            "name": "Conducteur d’Automobile de 2ème Catégorie",
+            "disable": false,
+            "rank": 2,
+            "postar": "سائق سيارة من الصنف الثاني"
+        },
+        {
+            "name": "Appariteurs",
+            "disable": true,
+            "rank": null,
+            "postar": "الحجاب\n"
+        },
+        {
+            "name": "Appariteur principal",
+            "disable": false,
+            "rank": 2,
+            "postar": "حاجب رئيسي"
+        },
+        {
+            "name": "Appariteur",
+            "disable": false,
+            "rank": 1,
+            "postar": "حاجب"
+        }
+    ],
+    "agc": [{
+            "name": "Ouvriers professionnels",
+            "disable": true,
+            "rank": null,
+            "postar": "العمال المهنيون"
+        },
+        {
+            "name": "Ouvrier Professionnel de Niveau 4",
+            "disable": false,
+            "rank": 6,
+            "postar": "عامل مهني من المستوي الرابع"
+        },
+        {
+            "name": "Ouvrier Professionnel de Niveau 3",
+            "disable": false,
+            "rank": 5,
+            "postar": "عامل مهني من المستوي الثالث"
+        },
+        {
+            "name": "Ouvrier Professionnel de Niveau 2",
+            "disable": false,
+            "rank": 3,
+            "postar": "عامل مهني من المستوي الثاني"
+        },
+        {
+            "name": "Ouvrier Professionnel de Niveau 1",
+            "disable": false,
+            "rank": 1,
+            "postar": "عامل مهني من المستوي الأول"
+        },
+        {
+            "name": "Conducteurs Automobiles",
+            "disable": true,
+            "rank": null,
+            "postar": "سـائـقي الـسـيـارات \nورؤساء الحظائر"
+        },
+        {
+            "name": "Conducteur Automobile de Niveau 3 et Chef de Parc",
+            "disable": false,
+            "rank": 4,
+            "postar": "سائق السيارة من المستوى الثالث ورئيس حظيرة\n"
+        },
+        {
+            "name": "Conducteur Automobile de Niveau 2",
+            "disable": false,
+            "rank": 3,
+            "postar": "سائق السيارة من المستوى الثاني"
+        },
+        {
+            "name": "Conducteur Automobile de Niveau 1",
+            "disable": false,
+            "rank": 2,
+            "postar": "سائق السيارة من المستوى الأول"
+        },
+        {
+            "name": "Agents de Service",
+            "disable": true,
+            "rank": null,
+            "postar": "أعـوان الخــدمـة\n"
+        },
+        {
+            "name": "Agent de Service de Niveau 3",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون الخدمة من المستوى الثالث"
+        },
+        {
+            "name": "Agent de Service de Niveau 2",
+            "disable": false,
+            "rank": 3,
+            "postar": "عون الخدمة من المستوى الثاني"
+        },
+        {
+            "name": "Agent de Service de Niveau 1",
+            "disable": false,
+            "rank": 1,
+            "postar": "عون الخدمة من المستوى الأول"
+        },
+        {
+            "name": "",
+            "disable": true,
+            "rank": null,
+            "postar": "أعـــوان الـــوقـــايـــة\nوالحراس"
+        },
+        {
+            "name": "Agent de Prévention de Niveau 2",
+            "disable": false,
+            "rank": 7,
+            "postar": "عون الوقاية من المستوى الثاني"
+        },
+        {
+            "name": "Agent de Prévention de Niveau 1",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون الوقاية من المستوى الأول"
+        },
+        {
+            "name": "Gardien",
+            "disable": false,
+            "rank": 1,
+            "postar": "حارس"
+        }
+    ],
+    "opgi": [{
+            "post": "Directeur Général",
+            "postar": "مدير عام"
+        },
+        {
+            "post": "Directeur Général Adjoint",
+            "postar": "مدير عام مساعد"
+        },
+        {
+            "post": "Chef de département",
+            "postar": "رئيس دائرة"
+        },
+        {
+            "post": "Assistant principal",
+            "postar": "مساعد رئيسي"
+        },
+        {
+            "post": "Ingénieur en géni civil",
+            "postar": "مهندس دولة في الهندسة المدنية"
+        },
+        {
+            "post": "Ingénieur en informatique",
+            "postar": "مهندس في الاعلام الالي"
+        },
+        {
+            "post": "Chef de parc",
+            "postar": "رئيس حظيرة السيارات"
+        },
+        {
+            "post": "Chef subdivision recouvrement",
+            "postar": "رئيس فرع التحصيل"
+        },
+        {
+            "post": "Chef subdivision hygiene",
+            "postar": "رئيس فرع الصيانة"
+        },
+        {
+            "post": "Chef subdivision paie",
+            "postar": "رئيس فرع أجرة"
+        },
+        {
+            "post": "Chef subdivision parc",
+            "postar": "رئيس فرع حظيرة السيارات"
+        },
+        {
+            "post": "Chef subdivision achat",
+            "postar": "رئيس فرع الشراء"
+        },
+        {
+            "post": "Chef subdivision conservation immob",
+            "postar": "رئيس فرع في المحافظة العقارية"
+        },
+        {
+            "post": "Chef subdivision contentieux",
+            "postar": "رئيس فرع المنازعات"
+        },
+        {
+            "post": "Chef subdivision fichier",
+            "postar": "رئيس فرع البطاقية"
+        },
+        {
+            "post": "chef subdivision œuvres sociales",
+            "postar": "رئيس فرع الخدمات الاجتماعية"
+        },
+        {
+            "post": "Chef subdivision assurances",
+            "postar": "رئيس فرع التامينات"
+        },
+        {
+            "post": "Chef subdivision personnel",
+            "postar": "رئيس فرع المستخدمين"
+        },
+        {
+            "post": "Chef subdivision magasin",
+            "postar": "رئيس فرع مخزن"
+        },
+        {
+            "post": "Chef subdivision location",
+            "postar": "رئيس فرع الايجار"
+        },
+        {
+            "post": "Chef subdivision vente",
+            "postar": "رئيس فرع البيع"
+        },
+        {
+            "post": "Chef subdivision organe contrôle",
+            "postar": "رئيس فرع الرقابة"
+        },
+        {
+            "post": "Chef subdivision suivi",
+            "postar": "رئيس فرع المتابعة"
+        },
+        {
+            "post": "Chef subdivision comptabilité",
+            "postar": "رئيس فرع المحاسبة"
+        },
+        {
+            "post": "Chef subdivision tresorerie",
+            "postar": "رئيس فرع المالية"
+        },
+        {
+            "post": "Chef sudivision",
+            "postar": "رئيس فرع"
+        },
+        {
+            "post": "Chef de section principale",
+            "postar": "رئيس فرع رئيسي"
+        },
+        {
+            "post": "Chef d'antenne",
+            "postar": "رئيس قباضة"
+        },
+        {
+            "post": "Chef de section",
+            "postar": "رئيس فرع"
+        },
+        {
+            "post": "Technicien suivi et contrôle",
+            "postar": "تقني المراقبة و المتابعة"
+        },
+        {
+            "post": "Technicien batiment",
+            "postar": "تقني في البناء"
+        },
+        {
+            "post": "Metreur vérificateur",
+            "postar": "متار محقق"
+        },
+        {
+            "post": "Chargé d'étude niveau 01",
+            "postar": "مكلف بالدراسات مستوى 1"
+        },
+        {
+            "post": "Chargé d'étude niveau 02",
+            "postar": "مكلف بالدراسات مستوى 2"
+        }
+    ],
+    "aadl": [
+
+        {
+            "post": "Assistant",
+            "postar": "مساعد"
+        },
+        {
+            "post": "Chef de Service",
+            "postar": "رئيس مصلحة"
+        },
+        {
+            "post": "Architecte chef de projet",
+            "postar": "مهندس رئيس مشروع"
+        },
+        {
+            "post": "Ingénieur chef de projet",
+            "postar": "مهندس معماري رئيس مشروع"
+        },
+        {
+            "post": "Chef d'unité N1",
+            "postar": "رئيس  وحدة م 1"
+        },
+        {
+            "post": "Architecte",
+            "postar": "مهندس معماري"
+        },
+        {
+            "post": "Ingénieur d'etat",
+            "postar": "مهندس دولة"
+        },
+        {
+            "post": "Chef d'unité N2",
+            "postar": "رئيس وحدة م 2"
+        },
+        {
+            "post": "Chef de parc",
+            "postar": "رئيس حظيرة +40 سيارة"
+        },
+        {
+            "post": "Chef d'unité N3",
+            "postar": "رئيس وحدة م3"
+        },
+        {
+            "post": "Chargé d'étude",
+            "postar": "مكلف بالدراسات"
+        },
+        {
+            "post": "Attaché de direction",
+            "postar": "ملحق بالمديرية"
+        },
+        {
+            "post": "Chef de projet",
+            "postar": "رئيس مشروع"
+        },
+        {
+            "post": "Ingénieur d'application",
+            "postar": "مهندس تطبيقي"
+        },
+        {
+            "post": "Documentaliste",
+            "postar": "وثائقي"
+        },
+        {
+            "post": "Technicien supérieur",
+            "postar": "تقني سامي"
+        },
+        {
+            "post": "Chef de section",
+            "postar": "رئيس فرع"
+        },
+        {
+            "post": "Fiscaliste",
+            "postar": "جبائي"
+        },
+        {
+            "post": "Metreur vérificateur",
+            "postar": "متار محقق"
+        },
+        {
+            "post": "Attaché d'administration",
+            "postar": "ملحق بالإدارة"
+        },
+        {
+            "post": "Programmeur en Informatique",
+            "postar": "مبرمج في الإعلام الآلي"
+        },
+        {
+            "post": "Chef de parc-40 véhicule",
+            "postar": "رئيس حظيرة-40 سيارة"
+        },
+        {
+            "post": "Secrétaire de direction",
+            "postar": "كاتب(ة) مديرية"
+        },
+        {
+            "post": "Conducteur de travaux",
+            "postar": "مسير أشغال"
+        },
+        {
+            "post": "Comptable principale",
+            "postar": "محاسب رئيسي"
+        },
+        {
+            "post": "Technicien",
+            "postar": "تقني"
+        },
+        {
+            "post": "Chef d'atelier",
+            "postar": "رئيس ورشة أشغال"
+        },
+        {
+            "post": "Comptable",
+            "postar": "محاسب"
+        },
+        {
+            "post": "Gestionnaire de stocks",
+            "postar": "مسير المخازن"
+        },
+        {
+            "post": "Caissier principal",
+            "postar": "أمين صندوق رئيسي"
+        },
+        {
+            "post": "Chef de chantier",
+            "postar": "رئيس ورشة"
+        },
+        {
+            "post": "Chef de brigade recouvrement",
+            "postar": "رئيس فرقة التحصيل"
+        },
+        {
+            "post": "Secrétaire de département",
+            "postar": "كاتب (ة) الدائرة"
+        },
+        {
+            "post": "Chef de groupe de sécurité",
+            "postar": "رئيس فرقة الأمن"
+        },
+        {
+            "post": "Chef d'équipe jardinnage",
+            "postar": "رئيس فرقة حدائقي"
+        },
+        {
+            "post": "Gérant de cité",
+            "postar": "مسير حي"
+        },
+        {
+            "post": "Chef d'équipe",
+            "postar": "رئيس فرقة"
+        },
+        {
+            "post": "Gestionnaire de fichier",
+            "postar": "مسير بطاقات"
+        },
+        {
+            "post": "aide comptable",
+            "postar": "مساعد محاسب"
+        },
+        {
+            "post": "secrétaire/unité/service",
+            "postar": "كاتب (ة) وحدة /مصلحة"
+        },
+        {
+            "post": "controleur de cité",
+            "postar": "مراقب حي"
+        },
+        {
+            "post": "Secrétaire de direction",
+            "postar": "كاتب (ة) الإدارة"
+        },
+        {
+            "post": "Peintre avec évateur",
+            "postar": "دهان بالرافعة"
+        },
+        {
+            "post": "Assistant sociale",
+            "postar": "مساعد (ة) إجتماعي(ة)"
+        },
+        {
+            "post": "Caissier",
+            "postar": "أمين صندوق"
+        },
+        {
+            "post": "Correspondant social",
+            "postar": "مراسل إجتماعي"
+        },
+        {
+            "post": "Chauffeur poind lourd",
+            "postar": "سائق الوزن الثقيل"
+        },
+        {
+            "post": "Egoutier",
+            "postar": "عامل المجارير"
+        },
+        {
+            "post": "Animateur des vertissement et sport",
+            "postar": "منشط تسليات ورياضة"
+        },
+        {
+            "post": "Etanchièste",
+            "postar": "مساك"
+        },
+        {
+            "post": "Jardinier",
+            "postar": "حدائقي"
+        },
+        {
+            "post": "Chargé de climatisation",
+            "postar": "مكلف بالتدفئة"
+        },
+        {
+            "post": "Opérateur réseau",
+            "postar": "متعامل بشبكة هاتفية"
+        },
+        {
+            "post": "Agent de saisie",
+            "postar": "عون كاتب على آلة الكمبيوتر"
+        },
+        {
+            "post": "Agent d'administration",
+            "postar": "عون إداري"
+        },
+        {
+            "post": "Menuisier",
+            "postar": "نجار"
+        },
+        {
+            "post": "Ronéotypiste",
+            "postar": "منسخ"
+        },
+        {
+            "post": "électricien  auto",
+            "postar": "كهربائي سيارات"
+        },
+        {
+            "post": "chauffeur poind légé",
+            "postar": "سائق الوزن الخفيف"
+        },
+        {
+            "post": "Agent de paie",
+            "postar": "عون الأجور"
+        },
+        {
+            "post": "Agent de recouvrement",
+            "postar": "عون تحصيل"
+        },
+        {
+            "post": "Gérant de coopérative",
+            "postar": "مسير تعاونيات"
+        },
+        {
+            "post": "Mécanicien diéséliste",
+            "postar": "ميكانيكي ديازال"
+        },
+        {
+            "post": "Mécanicien essence",
+            "postar": "ميكانيكي بنزين"
+        },
+        {
+            "post": "Maҫon",
+            "postar": "بناء"
+        },
+        {
+            "post": "Ferrailleur",
+            "postar": "لحام"
+        },
+        {
+            "post": "Plombier",
+            "postar": "رصاص"
+        },
+        {
+            "post": "Platrier",
+            "postar": "محصص"
+        },
+        {
+            "post": "Soudeur",
+            "postar": "حدائدي"
+        },
+        {
+            "post": "",
+            "postar": "عامل على الأسلاك الساندة"
+        },
+        {
+            "post": "peintre",
+            "postar": "دهان"
+        },
+        {
+            "post": "Electricien batiment",
+            "postar": "كهربائي البناء"
+        },
+        {
+            "post": "Conducteur d'engins",
+            "postar": "سائق آلة"
+        },
+        {
+            "post": "gérant de cantine",
+            "postar": "مسير مطعم"
+        },
+        {
+            "post": "Aide magazinier",
+            "postar": "أمين مخزن"
+        },
+        {
+            "post": "Peintre palendrier",
+            "postar": "عون طلاء السيارات"
+        },
+        {
+            "post": "acheteur démarcheur",
+            "postar": "مشتري"
+        },
+        {
+            "post": "agent de sécurité",
+            "postar": "عون أمن"
+        },
+        {
+            "post": "agent d'archive",
+            "postar": "عون أرشيف"
+        },
+        {
+            "post": "Gestionnaire de cafétéria",
+            "postar": "مسير مقهى"
+        },
+        {
+            "post": "agent d'acuille",
+            "postar": "عون إستقبال"
+        },
+        {
+            "post": "Standartiste",
+            "postar": "عون بالموزع الهاتفي"
+        },
+        {
+            "post": "agent de bureau de réglementation",
+            "postar": "عون مكتب التنظيم"
+        },
+        {
+            "post": "cuisinier",
+            "postar": "طباخ"
+        },
+        {
+            "post": "Pubillier vide-ourdure",
+            "postar": "مفرغ قمامات الفضلات"
+        },
+        {
+            "post": "receptioniste",
+            "postar": "مستقبل"
+        },
+        {
+            "post": "Agent d'entretien et survaillance",
+            "postar": "عون الصيانة والمراقبة"
+        },
+        {
+            "post": "Maneouvre",
+            "postar": "عامل يدوي"
+        },
+        {
+            "post": "Vagmestre",
+            "postar": "موزع البريد"
+        },
+        {
+            "post": "Aide maҫon",
+            "postar": "مساعد بناء"
+        },
+        {
+            "post": "Aide feronier",
+            "postar": "مساعد لحام"
+        },
+        {
+            "post": "Aide plombier",
+            "postar": "مساعد رصاص"
+        },
+        {
+            "post": "aide peintre",
+            "postar": "مساعد دهان"
+        },
+        {
+            "post": "Aide éléctricien batiment",
+            "postar": "مساعد كهربائي للبناء"
+        },
+        {
+            "post": "Aide étanchier",
+            "postar": "مساعد مساك"
+        },
+        {
+            "post": "Aide magazinier",
+            "postar": "مساعد أمين مخزن"
+        },
+        {
+            "post": "Aide platrier",
+            "postar": "مساعد محصص"
+        },
+        {
+            "post": "Aide cuisinier",
+            "postar": "مساعد طباخ"
+        },
+        {
+            "post": "Gardien",
+            "postar": "حارس"
+        },
+        {
+            "post": "Plantant",
+            "postar": "حاجب"
+        },
+        {
+            "post": "Agent d'entretien",
+            "postar": "منظفة"
+        },
+        {
+            "post": "Cosièrge",
+            "postar": "بواب"
+        },
+        {
+            "post": "Vendeur compérative",
+            "postar": "بائع باتعاونية"
+        },
+        {
+            "post": "Vulcanisateur",
+            "postar": "مصلح العجلات"
+        },
+        {
+            "post": "Analiste",
+            "postar": "محلل"
+        },
+        {
+            "post": "Chef de parc",
+            "postar": "رئيس حظيرة"
+        }
+
+    ]
+}

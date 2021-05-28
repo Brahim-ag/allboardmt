@@ -696,6 +696,9 @@ export default {
     props: ["employee"],
     methods: {
         findDaira() {
+            this.employe.dairaNaiss = "";
+            this.employe.cityNaiss = "";
+
             axios
                 .get("/wilaya/31.json")
                 .then((response) => (this.daira = response.data));
@@ -706,18 +709,17 @@ export default {
                 .then((response) => (this.commune = response.data));
         },
         editEmploye() {
-            console.log($routes);
-            // axios
-            //     .put("api/employee/edit/" + this.$route.params.id, this.employe)
+            axios
+                .put("/api/employee/update/" + this.employe.id, this.employe)
 
-            //     .then((response) => {
-            //         if (response.status == 200) {
-            //            // window.location.href = "/";
-            //         }
-            //     })
-            //     .catch((err) => {
-            //         console.log(err);
-            //     });
+                .then((response) => {
+                    if (response.status == 200) {
+                        window.location.href = "/";
+                    }
+                })
+                .catch((err) => {
+                    console.log(err);
+                });
         },
     },
     computed: {
@@ -725,6 +727,5 @@ export default {
             return this.$page.props.auth.user;
         },
     },
-   
 };
 </script>
