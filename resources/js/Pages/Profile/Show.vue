@@ -7,7 +7,7 @@
         </template>
 
         <div>
-            <div class="max-w-7xl mx-auto py-10 sm:px-6 lg:px-8">
+            <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
                 <div v-if="$page.props.jetstream.canUpdateProfileInformation">
                     <update-profile-information-form :user="$page.props.user" />
 
@@ -51,7 +51,19 @@
         props: ['sessions'],
 
         components: {
-            AppLayout,
+             AppLayout,
+        JetActionMessage,
+        JetActionSection,
+        JetButton,
+        JetConfirmationModal,
+        JetDangerButton,
+        JetDialogModal,
+        JetFormSection,
+        JetInput,
+        JetInputError,
+        JetLabel,
+        JetSecondaryButton,
+        JetSectionBorder,
             DeleteUserForm,
             JetSectionBorder,
             LogoutOtherBrowserSessionsForm,

@@ -2,17 +2,16 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Mise en recrutementnibilité
+                recrutement
             </h2>
         </template>
             <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="col-md-6 order-md-2 mb-6">
-                <h3>Nouveau Recrutement</h3>
-                <hr />
+                 <div class="">
+                
                 <div class="form-group">
                     <strong>Grade :</strong>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 block w-full"
                         id="state"
                         v-model="recrutementsData.grade"
                     >
@@ -70,7 +69,7 @@
                 <div class="form-group">
                     <strong>Type de Mouvement :</strong>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 block w-full"
                         id="state"
                         v-model="recrutementsData.typem"
                     >
@@ -134,17 +133,36 @@
                         required
                         type="number"
                         v-model="recrutementsData.number"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
+                 <div class="form-group">
+                    <jet-strong>Date PV d’Installation  :</jet-strong>
+                    <input
+                        required
+                        type="date"
+                        v-model="recrutementsData.dpv"
+                        class="mt-1 block w-full"
+                    />
+                </div>
+
+                <div class="form-group">
+                    <jet-strong>N° PV d’Installation  :</jet-strong>
+                    <input
+                        required
+                        type="number"
+                        v-model="recrutementsData.npv"
+                        class="mt-1 block w-full"
+                    />
+                </div>
                 <div class="form-group">
                     <strong>Date de Signature :</strong>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateSignature"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
@@ -154,7 +172,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dateEffect"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
@@ -164,7 +182,7 @@
                         required
                         type="number"
                         v-model="recrutementsData.NumberVisaCf"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
@@ -174,7 +192,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dateVisaCf"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
@@ -184,7 +202,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dateInsta"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
                 <div class="form-group">
@@ -193,7 +211,7 @@
                         required
                         type="text"
                         v-model="recrutementsData.structure"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
             </div>
@@ -204,7 +222,7 @@
                 />
         </div>
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -222,9 +240,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -237,6 +256,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

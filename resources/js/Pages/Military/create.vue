@@ -6,16 +6,16 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="row">
-                    <div class="col-md-4 order-md-2 mb-4">
+           
+                   <div class="container mx-auto grid grid-cols-4 gap-3">
+                  <div class="col-span-6 sm:col-span-2">
                         <div class="form-group">
                             <strong>Numéro Justification:</strong>
                             <input
                                 required
                                 type="text"
                                 v-model="militairesData.Number"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -25,7 +25,7 @@
                                 required
                                 type="date"
                                 v-model="militairesData.date"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -37,7 +37,7 @@
                                 required
                                 type="text"
                                 v-model="militairesData.NumberPosition"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -50,7 +50,7 @@
                                 required
                                 type="date"
                                 v-model="militairesData.dateSignature"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -63,7 +63,7 @@
                                 required
                                 type="date"
                                 v-model="militairesData.dateStart"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -73,7 +73,7 @@
                                 required
                                 type="text"
                                 v-model="militairesData.NumberRein"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -86,7 +86,7 @@
                                 required
                                 type="date"
                                 v-model="militairesData.dateSignatureRein"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -99,7 +99,7 @@
                                 required
                                 type="date"
                                 v-model="militairesData.dateStartRein"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                     </div>
@@ -110,9 +110,8 @@
                     v-model="militairesData.employee_id"
                 />
             </div>
-        </div>
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -130,9 +129,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -145,6 +145,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

@@ -8,7 +8,7 @@
         <div>
             <div class="container mx-auto grid grid-cols-4 gap-3">
                 <div class="row">
-                    <div class="col-md-6 order-md-2 mb-6">
+                    <div class="container mx-auto grid grid-cols-4 gap-3">
                         <hr />
                         <div class="form-group">
                             <strong>Administration d'Origine :</strong>
@@ -16,7 +16,7 @@
                                 required
                                 type="text"
                                 v-model="horscadreData.source"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                         <div class="form-group">
@@ -25,7 +25,7 @@
                                 required
                                 type="text"
                                 v-model="horscadreData.focus"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                         <div class="form-group">
@@ -34,14 +34,14 @@
                                 required
                                 type="text"
                                 v-model="horscadreData.mission"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
                         <div class="form-group">
                             <strong>Type de Mouvement :</strong>
                             <select
-                                class="form-control"
+                                class="mt-1 block w-full"
                                 v-model="horscadreData.typeM"
                             >
                                 <option>Hors-cadre</option>
@@ -173,7 +173,7 @@
                             required
                             type="number"
                             v-model="horscadreData.number"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                     <div class="form-group">
@@ -182,7 +182,7 @@
                             required
                             type="date"
                             v-model="horscadreData.dateSign"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                     <div class="form-group">
@@ -191,7 +191,7 @@
                             required
                             type="date"
                             v-model="horscadreData.dateEffe"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                     <div class="form-group">
@@ -200,7 +200,7 @@
                             required
                             type="number"
                             v-model="horscadreData.numberCf"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                     <div class="form-group">
@@ -209,7 +209,7 @@
                             required
                             type="date"
                             v-model="horscadreData.dateEffeCF"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                 </div>
@@ -223,7 +223,7 @@
             </div>
         </div>
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -241,9 +241,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -256,6 +257,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

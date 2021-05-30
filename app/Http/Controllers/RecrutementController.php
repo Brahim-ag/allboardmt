@@ -186,6 +186,8 @@ class RecrutementController extends Controller
             'typem'=> 'required',
             'typep'=> 'required',
             'typeContra'=> 'required',
+            // 'dpv'=> 'required',
+            // 'npv'=> 'required',
             'number'=> 'required',
             'structure'=> 'required',
             'NumberVisaCf'=> 'required',

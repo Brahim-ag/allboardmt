@@ -10,7 +10,7 @@
             <div>
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Nom :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.name"
@@ -20,14 +20,14 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Prénom :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.lastname"
                         class="mt-1 block w-full"
                     />
                 </div>
-                <jet-input required type="hidden" v-model="employe.team_id" />
+                <input required type="hidden" v-model="employe.team_id" />
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Sexe :" />
@@ -44,7 +44,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Date de Naissance :" />
-                    <jet-input
+                    <input
                         required
                         type="date"
                         v-model="employe.dataNaiss"
@@ -96,7 +96,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Nationalité :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.nationalite"
@@ -132,7 +132,7 @@
             <div>
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Prénom du Père :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.nameFather"
@@ -142,7 +142,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Nom de la Mère :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.nameMother"
@@ -152,7 +152,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Prénom de la Mère :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.lastnameMother"
@@ -162,7 +162,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Wilaya d'Adresse :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.addres"
@@ -172,7 +172,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="numéro de Sécurité Sociale :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.NsocialSecure"
@@ -182,7 +182,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Numero de Mutuelle :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.NMutu"
@@ -191,7 +191,7 @@
                 </div>
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Agence Mutuelle :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.mutuAgence"
@@ -201,7 +201,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Nom Mutuelle :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.nameMutu"
@@ -360,7 +360,7 @@
                 </div>
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Numéro de Compte Bancaire ou CCP :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.bankNumber"
@@ -504,7 +504,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Agence Banque :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.bankAgency"
@@ -514,7 +514,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Numéro Banque :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.bankSNumber"
@@ -524,7 +524,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Téléphone :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.telephone"
@@ -534,7 +534,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Email :" />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.email"
@@ -576,7 +576,7 @@
                 </div>
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Numéro d'Identification National" />
-                    <jet-input
+                    <input
                         required
                         type="number"
                         v-model="employe.nin"
@@ -588,7 +588,7 @@
             <div>
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value=": الإسم " />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.nameAr"
@@ -598,7 +598,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value=": اللقب " />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.lastnameAr"
@@ -608,7 +608,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value=": اسم الأب " />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.namefatherAr"
@@ -618,7 +618,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value=": اسم الأم " />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.nameMotherAr"
@@ -628,7 +628,7 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value=": لقب الأم " />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.lastnameMotherAr"
@@ -637,7 +637,7 @@
                 </div>
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value=": العنوان " />
-                    <jet-input
+                    <input
                         required
                         type="text"
                         v-model="employe.adresseAr"
@@ -645,7 +645,7 @@
                     />
                 </div>
 
-                <button @click="editEmploye()" class="btn btn-primary">
+                <button @click="editEmploye()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">
                     Modifer
                 </button>
             </div>
@@ -669,9 +669,10 @@ import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
 
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -684,6 +685,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
 
     data: function () {

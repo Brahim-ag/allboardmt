@@ -8,7 +8,7 @@
         <div>
             <div class="container mx-auto grid grid-cols-4 gap-3">
                 <div class="row">
-                    <div class="col-md-6 order-md-2 mb-6">
+                    <div class="container mx-auto grid grid-cols-4 gap-3">
                         <hr />
                         <div class="form-group">
                             <strong>Stage Interne :</strong>
@@ -35,7 +35,7 @@
                                 required
                                 type="text"
                                 v-model="stageData.objet"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -45,7 +45,7 @@
                                 required
                                 type="date"
                                 v-model="stageData.date"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -78,7 +78,7 @@
                                 required
                                 type="text"
                                 v-model="stageData.etabili"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                     </div>
@@ -87,7 +87,7 @@
             </div>
         </div>
 
-        <button @click="editStage()" class="btn btn-primary">Valider</button>
+        <button @click="editStage()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -105,9 +105,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -120,6 +121,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

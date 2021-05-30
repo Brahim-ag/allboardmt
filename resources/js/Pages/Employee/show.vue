@@ -1,675 +1,534 @@
 <template>
-    <app-layout>
-        <template #header>
-            <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Informations d'employé : {{ employe.name }}
-                {{ employe.lastname }} | {{ employe.lastnameAr }}
-                {{ employe.nameAr }}
-            </h2>
-        </template>
-        <div class="container mx-auto gap-3">
-            <div class="card card-white grid-margin">
-                <ul class="nav nav-tabs">
-                    <li class="nav-item">
-                        <a
-                            class="nav-link"
-                            href="/spouses/{{ employe.id }}/employee"
-                        >
-                            Conjoints
-                        </a>
-                    </li>
+  <app-layout>
+    <template #header>
+      <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+        Informations d'employé : {{ employe.name }} {{ employe.lastname }} |
+        {{ employe.lastnameAr }}
+        {{ employe.nameAr }}
+      </h2>
+    </template>
+    <navbar :info="employe.id" />
+    <div class="flex max-w-8xl mx-auto py-10 sm:px-2 lg:px-8">
+      <div class="flex-auto">
+        <div class="bg-white shadow overflow-hidden sm:rounded-lg">
+          <div class="px-2 py-5 sm:px-2">
+            <h3 class="text-lg leading-6 font-medium text-gray-900">
+             Informations d'employé
+            </h3>
+            <p class="mt-1 max-w-2xl text-sm text-gray-500">
+              Données personnelles et application
+.
+            </p>
+          </div>
+          <div class="border-t border-gray-200">
+            <dl>
+              <div
+                class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+              >
+                <dt class="text-sm font-medium text-gray-500">
+                  Numéro d'Identification National
+                </dt>
 
-                    <li class="nav-item">
-                        <a
-                            href="/childs/{{ employe.id }}/employee"
-                            title="enfants"
-                            class="nav-link"
-                        >
-                            enfants
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a
-                            href="/antecedents/{{ employe.id }}/employee"
-                            title="antecedent"
-                            class="nav-link"
-                        >
-                            antécédents
-                        </a>
-                    </li>
-                    --}}
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.nin }}
+                </dd>
+              </div>
 
-                    <li class="nav-item dropdown">
-                        <a
-                            class="nav-link dropdown-toggle"
-                            data-toggle="dropdown"
-                            href="#"
-                            role="button"
-                            aria-haspopup="true"
-                            aria-expanded="false"
-                            >INFORMATIONS PERSONNELLES</a
-                        >
-                        <div class="dropdown-menu">
-                            <inertia-link :href="`/formation/${employe.id}`"
-                                > FORMATIONS EXTERNES</inertia-link
-                            >
-                           
-                               
-                          
-                            <a
-                                href="/languages/{{ employe.id }}/employee"
-                                class="dropdown-item"
-                            >
-                                LANGUAGES
-                            </a>
+              <div
+                class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+              >
+                <dt class="text-sm font-medium text-gray-500">
+                  Date de Naissance
+                </dt>
 
-       
-                             <inertia-link :href="`/antecejudi/${employe.id}`"
-                                > ANTÉCÉDENTS JUDICIAIRES</inertia-link
-                            >
-                            <!-- <a
-                                href="/profiles/{{ employe.id }}/employee"
-                                class="dropdown-item"
-                            >
-                                PARCOURS SCOLAIRE
-                                {{-- @if ($employee.sexe == 'Masculin')
-                                    Service National
-                                @endif -- -.
-                            </a>
-                            @if ($employee.situation != 'Celibataire')
-                            <a
-                                href="/spouses/{{ employe.id }}/employee"
-                                class="dropdown-item"
-                            >
-                                CONJOINTS
-                            </a> -->
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.dataNaiss }}
+                </dd>
+              </div>
+            </dl>
+          </div>
 
-                            <a
-                                href="/childs/{{ employe.id }}/employee"
-                                class="dropdown-item"
-                            >
-                                ENFANTS
-                            </a>
-                            @endif
-                        </div>
-                    </li>
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Sexe</dt>
 
-                    <li class="nav-item dropdown">
-                        <inertia-link :href="`/parcour/${employe.id}`"
-                                >Parcours Scolaire</inertia-link
-                            >
-                        
-                        <div class="dropdown-menu">
-                            <a
-                                href="/stages/{{ employe.id }}/employee"
-                                title="Conjoin"
-                                class="nav-link"
-                            >
-                                STAGES
-                            </a>
-                            <a
-                                href="/recrutements/{{ employe.id }}/employee"
-                                title="antecedent"
-                                class="nav-link"
-                            >
-                                RECRUTEMENT
-                            </a>
+            <dd
+              class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+              v-if="employe.sexe === 'Masculin'"
+            >
+              Masculin
+            </dd>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2" v-else>
+              Féminin
+            </dd>
+          </div>
 
-                            <a
-                                href="/echelons/{{ employe.id }}/employee"
-                                title="echelons"
-                                class="nav-link"
-                            >
-                                ECHELONS
-                            </a>
-                            <a
-                                href="/grades/{{ employe.id }}/employee"
-                                title="antecedent"
-                                class="nav-link"
-                            >
-                                GRADES
-                            </a>
-                            <a
-                                href="/evaluations/{{ employe.id }}/employee"
-                                title="evaluation"
-                                class="nav-link"
-                            >
-                                EVALUATIONS
-                            </a>
-                            <a
-                                href="/cessations/{{ employe.id }}/employee"
-                                title="primes"
-                                class="nav-link"
-                            >
-                                CESSATION
-                            </a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a
-                            class="nav-link dropdown-toggle"
-                            data-toggle="dropdown"
-                            href="#"
-                            role="button"
-                            aria-haspopup="true"
-                            aria-expanded="false"
-                            >POSITION STATUTAIRE</a
-                        >
-                        <div class="dropdown-menu">
-                            <a
-                                href="/detachements/{{ employe.id }}/employee"
-                                title="detachements"
-                                class="dropdown-item"
-                            >
-                                DETACHEMENTS
-                            </a>
-                            <a
-                                href="/mutations/{{ employe.id }}/employee"
-                                title="mutations"
-                                class="dropdown-item"
-                            >
-                                MUTATIONS
-                            </a>
-                            <a
-                                href="/dispos/{{ employe.id }}/employee"
-                                title="antecedent"
-                                class="dropdown-item"
-                            >
-                                MISE EN DISPONIBILITÉ
-                            </a>
-                            <a
-                                href="/horscadres/{{ employe.id }}/employee"
-                                title="antecedent"
-                                class="dropdown-item"
-                            >
-                                HORS-CADRE
-                            </a>
-                            <!-- @if ($employee.sexe == 'Masculin')
-                            <a
-                                href="/military/{{ employe.id }}/employee"
-                                title="antecedent"
-                                class="dropdown-item"
-                            >
-                                SERVICE NATIONAL
-                            </a>
-                            @endif -->
-                        </div>
-                    </li>
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Wilaya de naissance
+            </dt>
 
-                    <li class="nav-item">
-                        <a
-                            href="/fonctions/{{ employe.id }}/employee"
-                            title="fonctions"
-                            class="nav-link"
-                        >
-                            fonctions
-                        </a>
-                    </li>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.wilaya }}
+            </dd>
+          </div>
 
-                    <li class="nav-item">
-                        <a
-                            href="/postesups/{{ employe.id }}/employee"
-                            title="fonctions"
-                            class="nav-link"
-                        >
-                            POSTES SUPERIEURS
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a
-                            href="/fonctionsups/{{ employe.id }}/employee"
-                            title="primes"
-                            class="nav-link"
-                        >
-                            FONCTIONS SUPERIEURS
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a
-                            href="/regimdis/{{ employe.id }}/employee"
-                            title="primes"
-                            class="nav-link"
-                        >
-                            REGIME DISCIPLINAIRE
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a
-                            href="/conges/{{ employe.id }}/employee"
-                            title="primes"
-                            class="nav-link"
-                        >
-                            CONGES ET ABSCENCES
-                        </a>
-                    </li>
-                </ul>
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Daïra de naissance
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.dairaNaiss }}
+            </dd>
+          </div>
 
-                <div class="card" id="profile">
-                    <br />
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Commune de naissance
+            </dt>
 
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <dt class="mb-0">
-                                        Numéro d'Identification National
-                                    </dt>
-                                </div>
-                                <div class="col-sm-2">{{ employe.nin }}</div>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.cityNaiss }}
+            </dd>
+          </div>
 
-                                <div class="col-md-5">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        رقم التعريف الوطني
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Adresse</dt>
 
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0">Date de Naissance</dt>
-                                </div>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.addres }}
+            </dd>
+          </div>
 
-                                <div class="col-sm-3">
-                                    {{ employe.dataNaiss }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Nationalité</dt>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        تاريخ الميلاد
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.nationalite }}
+            </dd>
+          </div>
 
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0">Sexe</dt>
-                                </div>
-                                <h1 v-if="employe.sexe === 'Masculin'">Masculin - ذكر</h1>
-                                <h1 v-else>Féminin - أنثى</h1>
-                               
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Nom et Prénom de la Mère
+            </dt>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        الجنس
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.nameMother }}
+              {{ employe.lastnameMother }}
+            </dd>
+          </div>
 
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Wilaya de naissance
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.cityNaiss }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Situation Familiale 
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.situation }}
+            </dd>
+          </div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        مكان الميلاد
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Daïra de naissance
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.dairaNaiss }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Groupe Sanguin  </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.bloodType }}
+            </dd>
+          </div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        دائرة الميلاد
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Commune de naissance
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.cityNaiss }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div class="col-md-4"></div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        البلدية الميلاد
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">Adresse</dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.addres }} {{ employe.wilaya }}
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.adresseAr }}
-                                </div>
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        العنوان
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Nationalité
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.nationalite }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Logement d'Astreinte  
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.logement }}
+            </dd>
+          </div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        الجنسية
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Nom et Prénom de la Mère
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.nameMother }}
-                                    {{ employe.lastnameMother }}
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.nameMotherAr }}
-                                    {{ employe.lastnameMotherAr }}
-                                </div>
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        اسم و لقب الأم
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Situation Familiale 
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.situation }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Numéro de Téléphone   
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.telephone }}
+            </dd>
+          </div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        الحالة العائلية
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Email  </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.email }}
+            </dd>
+          </div>
 
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Groupe Sanguin  
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.bloodType }}
-                                </div>
-                                <div class="col-md-3"></div>
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        فصيلة الدم
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <dt class="mb-0 text-truncate">
-                                        Logement d'Astreinte  
-                                    </dt>
-                                </div>
-                                <div class="col-sm-4">
-                                    {{ employe.logement }}
-                                </div>
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Numéro de compte bancaire ou CCP
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.bankNumber }}
+            </dd>
+          </div>
 
-                                <div class="col-md-4">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        سكن وظيفي
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Numéro de Téléphone   
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.telephone }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Agence bancaire</dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.bankName }}
+            </dd>
+          </div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        رقم الهاتف
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">Email  </dt>
-                                </div>
-                                <div class="col-sm-3">{{ employe.email }}</div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">
+              Numéro Sécurité Sociale
+            </dt>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        البريد الإلكتروني
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Numéro de compte bancaire ou CCP
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.bankNumber }}
-                                </div>
-                                <div class="col-md-3"></div>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.NsocialSecure }}
+            </dd>
+          </div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        رقم الحساب البنكي او البريدي
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Agence bancaire
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.bankName }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Agence mutuelle  </dt>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        الحساب البنكي او البريدي
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Numéro Sécurité Sociale
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.NsocialSecure }}
-                                </div>
-                                <div class="col-md-3"></div>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.mutuAgence }}
+            </dd>
+          </div>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        رقم الإشتراك الضمان الاجتماعي
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Agence mutuelle  
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">
-                                    {{ employe.mutuAgence }}
-                                </div>
-                                <div class="col-md-3"></div>
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dt class="text-sm font-medium text-gray-500">Numéro Mutuelle </dt>
 
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        التعاضدية
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                            <div class="row">
-                                <div class="col-md-3">
-                                    <dt class="mb-0 text-truncate">
-                                        Numéro Mutuelle 
-                                    </dt>
-                                </div>
-                                <div class="col-sm-3">{{ employe.NMutu }}</div>
-                                <div class="col-md-3"></div>
-
-                                <div class="col-md-3">
-                                    <dt
-                                        class="mb-0 text-truncate"
-                                        style="text-align: right"
-                                    >
-                                        رقم الإشتراك في التعاضدية
-                                    </dt>
-                                </div>
-                            </div>
-                            <hr />
-                        </div>
-
-                        <h3></h3>
-                    </div>
-                </div>
-            </div>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.NMutu }}
+            </dd>
+          </div>
         </div>
-    </app-layout>
+
+        <h3></h3>
+      </div>
+      <div class="flex-auto">
+        <div class="bg-white shadow overflow-hidden sm:rounded-lg left-0 top-0">
+          <div class="px-2 py-5 sm:px-2">
+            <h3 class="text-lg leading-6 font-medium text-gray-900">
+             معلومات الموظف
+
+            </h3>
+            <p class="mt-1 max-w-2xl text-sm text-gray-500">
+              التفاصيل الشخصية والتطبيق
+            </p>
+          </div>
+          <div class="border-t border-gray-200">
+            <dl>
+              <div
+                class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+              >
+               
+
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.nin }}
+                </dd>
+                 <dt class="text-sm font-medium text-gray-500">
+                  رقم التعريف الوطني
+                </dt>
+              </div>
+
+              <div
+                class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+              >
+                
+
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.dataNaiss }}
+                </dd>
+                <dt class="text-sm font-medium text-gray-500">تاريخ الميلاد</dt>
+              </div>
+            </dl>
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+
+            <dd
+              class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+              v-if="employe.sexe === 'Masculin'"
+            >
+              ذكر
+            </dd>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2" v-else>
+              أنثى
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">الجنس</dt>
+
+          </div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.wilaya }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">مكان الميلاد</dt>
+
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.dairaNaiss }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">دائرة الميلاد</dt>
+
+          </div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.cityNaiss }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">البلدية الميلاد</dt>
+
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.addresAr }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">العنوان</dt>
+
+          </div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.nationalite }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">الجنسية</dt>
+
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.nameMotherAr }}
+              {{ employe.lastnameMotherAr }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">اسم و لقب الأم</dt>
+
+          </div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.situation }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">الحالة العائلية</dt>
+
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.bloodType }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">فصيلة الدم   </dt>
+
+          </div>
+
+          <div class="col-md-4"></div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.logement }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">سكن وظيفي</dt>
+
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.telephone }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">رقم الهاتف   </dt>
+
+          </div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.email }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">البريد الإلكتروني</dt>
+
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+         
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.bankNumber }}
+            </dd>
+               <dt class="text-sm font-medium text-gray-500">
+              رقم الحساب البنكي او البريدي
+            </dt>
+          </div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.bankName }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">
+              الحساب البنكي او البريدي
+            </dt>
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+           
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.NsocialSecure }}
+            </dd>
+             <dt class="text-sm font-medium text-gray-500">
+              رقم الإشتراك الضمان الاجتماعي
+            </dt>
+          </div>
+
+          <div
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.mutuAgence }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">التعاضدية  </dt>
+
+          </div>
+
+          <div
+            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+          >
+            
+
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.NMutu }}
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">
+              رقم الإشتراك في التعاضدية  
+            </dt>
+          </div>
+        </div>
+
+        <h3></h3>
+      </div>
+    </div>
+  </app-layout>
 </template>
 
 <script>
 import AppLayout from "@/Layouts/AppLayout";
 
-export default {
-    components: {
-        AppLayout,
-    },
-    props: ["employee"],
+import JetActionMessage from "@/Jetstream/ActionMessage";
+import JetActionSection from "@/Jetstream/ActionSection";
+import JetButton from "@/Jetstream/Button";
+import JetConfirmationModal from "@/Jetstream/ConfirmationModal";
+import JetDangerButton from "@/Jetstream/DangerButton";
+import JetDialogModal from "@/Jetstream/DialogModal";
+import JetFormSection from "@/Jetstream/FormSection";
+import JetInput from "@/Jetstream/Input";
+import JetInputError from "@/Jetstream/InputError";
+import JetLabel from "@/Jetstream/Label";
+import JetSecondaryButton from "@/Jetstream/SecondaryButton";
+import JetSectionBorder from "@/Jetstream/SectionBorder";
+import Navbar from "@/Jetstream/Navbar";
 
-    data: function () {
-        return {
-            employe: this.employee,
-        };
-    },
-    methods: {},
-    created() {},
-    computed: {
-        // user() {
-        //     return this.$page.props.auth.user;
-        // },
-    },
+export default {
+  components: {
+     AppLayout,
+        JetActionMessage,
+        JetActionSection,
+        JetButton,
+        JetConfirmationModal,
+        JetDangerButton,
+        JetDialogModal,
+        JetFormSection,
+        JetInput,
+        JetInputError,
+        JetLabel,
+        JetSecondaryButton,
+        JetSectionBorder,
+    Navbar,
+  },
+  props: ["employee"],
+
+  data: function () {
+    return {
+      employe: this.employee,
+    };
+  },
+  methods: {},
+  created() {},
+  computed: {
+    // user() {
+    //     return this.$page.props.auth.user;
+    // },
+  },
 };
 </script>

@@ -87,8 +87,7 @@ class EchelonsController extends Controller
     {
         
       
-        $durre = $request->year .' Année(s)'.' - '.$request->month.' mois '.'- '.$request->day .' jour(s)';
-        $request['duree'] = $durre;
+        
         $request->validate([
             'echelon'=> 'required',
             'number'=> 'required',

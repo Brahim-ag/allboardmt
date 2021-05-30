@@ -6,9 +6,9 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="row">
-                    <div class="col-md-4 order-md-2 mb-4">
+           
+                   <div class="container mx-auto grid grid-cols-4 gap-3">
+                  <div class="col-span-6 sm:col-span-2">
                         <div class="form-group">
                             <strong>Adminstration d'Origine :</strong>
                             <input
@@ -16,7 +16,7 @@
                                 type="text"
                                 name="from"
                                 v-model="mutationData.from"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -27,7 +27,7 @@
                                 type="text"
                                 name="to"
                                 v-model="mutationData.to"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -40,7 +40,7 @@
                                 type="text"
                                 
                                 v-model="mutationData.numberRef"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -51,13 +51,13 @@
                                 type="date"
                                 name="dateRef"
                                 v-model="mutationData.dateRef"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
                         <div class="form-group">
                             <strong>Type de Mutation :</strong>
-                            <select class="form-control" v-model="mutationData.type">
+                            <select class="mt-1 block w-full" v-model="mutationData.type">
                                 <option>
                                     Caractère Général et Périodique - ذات طابع
                                     عام ودوري
@@ -82,7 +82,7 @@
                                 type="number"
                                 name="Number"
                                 v-model="mutationData.Number"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -93,7 +93,7 @@
                                 type="date"
                                 name="dateSignature"
                                 v-model="mutationData.dateSignature"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -104,7 +104,7 @@
                                 type="date"
                                 name="dateStart"
                                 v-model="mutationData.dateStart"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                     </div>
@@ -115,9 +115,9 @@
                     v-model="mutationData.employee_id"
                 />
             </div>
-        </div>
+       
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -135,9 +135,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -150,6 +151,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

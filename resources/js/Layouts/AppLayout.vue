@@ -2,10 +2,10 @@
     <div>
         <jet-banner />
 
-        <div class="min-h-screen bg-gray-100">
+        <div class="min-h-screen bg-white shadow">
             <nav class="bg-white border-b border-gray-100">
                 <!-- Primary Navigation Menu -->
-                <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="max-w-7xl mx-auto px-2 sm:px-2 lg:px-8">
                     <div class="flex justify-between h-16">
                         <div class="flex">
                             <!-- Logo -->
@@ -16,11 +16,7 @@
                             </div>
 
                             <!-- Navigation Links -->
-                            <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                                <jet-nav-link :href="route('dashboard')" :active="route().current('dashboard')">
-                                    Dashboard
-                                </jet-nav-link>
-                            </div>
+                           
                         </div>
 
                         <div class="hidden sm:flex sm:items-center sm:ml-6">
@@ -43,7 +39,7 @@
                                         <div class="w-60">
                                             <!-- Team Management -->
                                             <template v-if="$page.props.jetstream.hasTeamFeatures">
-                                                <div class="block px-4 py-2 text-xs text-gray-400">
+                                                <div class="block px-2 py-2 text-xs text-gray-400">
                                                     Manage Team
                                                 </div>
 
@@ -59,7 +55,7 @@
                                                 <div class="border-t border-gray-100"></div>
 
                                                 <!-- Team Switcher -->
-                                                <div class="block px-4 py-2 text-xs text-gray-400">
+                                                <div class="block px-2 py-2 text-xs text-gray-400">
                                                     Switch Teams
                                                 </div>
 
@@ -100,7 +96,7 @@
 
                                     <template #content>
                                         <!-- Account Management -->
-                                        <div class="block px-4 py-2 text-xs text-gray-400">
+                                        <div class="block px-2 py-2 text-xs text-gray-400">
                                             Manage Account
                                         </div>
 
@@ -147,7 +143,7 @@
 
                     <!-- Responsive Settings Options -->
                     <div class="pt-4 pb-1 border-t border-gray-200">
-                        <div class="flex items-center px-4">
+                        <div class="flex items-center px-2">
                             <div v-if="$page.props.jetstream.managesProfilePhotos" class="flex-shrink-0 mr-3" >
                                 <img class="h-10 w-10 rounded-full object-cover" :src="$page.props.user.profile_photo_url" :alt="$page.props.user.name" />
                             </div>
@@ -178,7 +174,7 @@
                             <template v-if="$page.props.jetstream.hasTeamFeatures">
                                 <div class="border-t border-gray-200"></div>
 
-                                <div class="block px-4 py-2 text-xs text-gray-400">
+                                <div class="block px-2 py-2 text-xs text-gray-400">
                                     Manage Team
                                 </div>
 
@@ -194,7 +190,7 @@
                                 <div class="border-t border-gray-200"></div>
 
                                 <!-- Team Switcher -->
-                                <div class="block px-4 py-2 text-xs text-gray-400">
+                                <div class="block px-2 py-2 text-xs text-gray-400">
                                     Switch Teams
                                 </div>
 
@@ -216,16 +212,21 @@
 
             <!-- Page Heading -->
             <header class="bg-white shadow" v-if="$slots.header">
-                <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+                <div class="max-w-7xl mx-auto py-6 px-2 sm:px-2 lg:px-8">
                     <slot name="header"></slot>
                 </div>
             </header>
-
+        
             <!-- Page Content -->
             <main>
+                
                 <slot></slot>
+               
             </main>
+            
+           
         </div>
+        
     </div>
 </template>
 

@@ -19,7 +19,12 @@ use App\Http\Controllers\CongeController;
 use App\Http\Controllers\RegimdisController;
 use App\Http\Controllers\CessationController;
 use App\Http\Controllers\RecrutementController;
-// use App\Http\Controllers\MilitaryController;
+use App\Http\Controllers\GradesController;
+use App\Http\Controllers\PostesupsController;
+use App\Http\Controllers\FormationIntController;
+use App\Http\Controllers\ExproController;
+use App\Http\Controllers\FonctionsupController;
+// use App\Http\Controllers\GradesController;
 
 
 /*
@@ -52,6 +57,11 @@ Route::get('/formation/{employee_id}',[FormationController::class,'index'])->mid
 Route::get('/formation/create/{employee_id}',[FormationController::class,'create'])->middleware(['auth']);
 Route::post('/formation/store',[FormationController::class,'store'])->middleware(['auth']);
 Route::get('/formation/edit/{parcour_id}',[FormationController::class,'edit'])->middleware(['auth']);
+
+Route::get('/formationint/{employee_id}',[FormationIntController::class,'index'])->middleware(['auth']);
+Route::get('/formationint/create/{employee_id}',[FormationIntController::class,'create'])->middleware(['auth']);
+Route::post('/formationint/store',[FormationIntController::class,'store'])->middleware(['auth']);
+Route::get('/formationint/edit/{parcour_id}',[FormationIntController::class,'edit'])->middleware(['auth']);
 
 Route::get('/antecejudi/{employee_id}',[AntecedanjudiController::class,'index'])->middleware(['auth']);
 Route::get('/antecejudi/create/{employee_id}',[AntecedanjudiController::class,'create'])->middleware(['auth']);
@@ -118,6 +128,27 @@ Route::get('/recrutement/create/{employee_id}',[RecrutementController::class,'cr
 Route::post('/recrutement/store',[RecrutementController::class,'store'])->middleware(['auth']);
 Route::get('/recrutement/edit/{parcour_id}',[RecrutementController::class,'edit'])->middleware(['auth']);
 
+Route::get('/grade/{employee_id}',[GradesController::class,'index'])->middleware(['auth']);
+Route::get('/grade/create/{employee_id}',[GradesController::class,'create'])->middleware(['auth']);
+Route::post('/grade/store',[GradesController::class,'store'])->middleware(['auth']);
+Route::get('/grade/edit/{parcour_id}',[GradesController::class,'edit'])->middleware(['auth']);
+
+
+Route::get('/postesup/{employee_id}',[PostesupsController::class,'index'])->middleware(['auth']);
+Route::get('/postesup/create/{employee_id}',[PostesupsController::class,'create'])->middleware(['auth']);
+Route::post('/postesup/store',[PostesupsController::class,'store'])->middleware(['auth']);
+Route::get('/postesup/edit/{parcour_id}',[PostesupsController::class,'edit'])->middleware(['auth']);
+
+Route::get('/expro/{employee_id}',[ExproController::class,'index'])->middleware(['auth']);
+Route::get('/expro/create/{employee_id}',[ExproController::class,'create'])->middleware(['auth']);
+Route::post('/expro/store',[ExproController::class,'store'])->middleware(['auth']);
+Route::get('/expro/edit/{parcour_id}',[ExproController::class,'edit'])->middleware(['auth']);
+
+Route::get('/fonctionsups/{employee_id}',[FonctionsupController::class,'index'])->middleware(['auth']);
+Route::get('/fonctionsups/create/{employee_id}',[FonctionsupController::class,'create'])->middleware(['auth']);
+Route::post('/fonctionsups/store',[FonctionsupController::class,'store'])->middleware(['auth']);
+Route::get('/fonctionsups/edit/{parcour_id}',[FonctionsupController::class,'edit'])->middleware(['auth']);
+
 // Route::get('/', function () {
 //     return Inertia::render('Welcome', [
 //         'canLogin' => Route::has('login'),
@@ -127,6 +158,6 @@ Route::get('/recrutement/edit/{parcour_id}',[RecrutementController::class,'edit'
 //     ]);
 // });
 
-Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
-    return Inertia::render('Dashboard');
+Route::middleware(['auth:sanctum', 'verified'])->get('/', function () {
+    return Inertia::render('Employee/index',);
 })->name('dashboard');

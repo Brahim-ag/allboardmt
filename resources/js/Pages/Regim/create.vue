@@ -6,7 +6,7 @@
             </h2>
         </template>
         <div>
-            <div class="col-md-6 order-md-2 mb-6">
+            <div class="container mx-auto grid grid-cols-4 gap-3">
                 
 
                 <div class="form-group">
@@ -114,7 +114,7 @@
 
                 <div class="form-group">
                     <strong>Date de la Faute :</strong>
-                    <input required type="date" v-model="regimsData.datef" class="form-control">
+                    <input required type="date" v-model="regimsData.datef" class="mt-1 block w-full">
                 </div>
 
 
@@ -154,11 +154,11 @@
                 </div>
                 <div class="form-group">
                     <strong>Numéro de PV CAP :</strong>
-                    <input required type="number" v-model="regimsData.nPV" class="form-control">
+                    <input required type="number" v-model="regimsData.nPV" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Date de PV CAP :</strong>
-                    <input required type="date" v-model="regimsData.datePV" class="form-control">
+                    <input required type="date" v-model="regimsData.datePV" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Degré Sanction - Sentence de la Commission</strong>
@@ -209,15 +209,15 @@
                 </div>
                 <div class="form-group">
                     <strong>Numéro d'Acte de Sanction</strong>
-                    <input required type="text" v-model="regimsData.nacte" class="form-control">
+                    <input required type="text" v-model="regimsData.nacte" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Date de Signature d'Acte</strong>
-                    <input required type="date" v-model="regimsData.datesign" class="form-control">
+                    <input required type="date" v-model="regimsData.datesign" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Date d'Effet d'Acte</strong>
-                    <input required type="date" v-model="regimsData.dateeff" class="form-control">
+                    <input required type="date" v-model="regimsData.dateeff" class="mt-1 block w-full">
                 </div>
 
             </div>
@@ -230,7 +230,7 @@
 
         </div>
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -248,9 +248,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -263,6 +264,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

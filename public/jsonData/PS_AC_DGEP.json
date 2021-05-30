@@ -1,0 +1,38 @@
+[
+	{
+		"ps_fr":"Chef de bureau  des équipements publics du cycle primaire",
+        "ps_ar":"رئيس مكتب التجهيزات العمومية الخاصة بالطور الابتدائي"
+    },
+	{
+		"ps_fr":"Chef de bureau  des équipements publics du cycle moyen",
+        "ps_ar":"رئيس مكتب التجهيزات العمومية الخاصة بالطور المتوسط"
+    },
+	{
+		"ps_fr":"Chef de bureau  des equipements publics du cycle secondaire",
+        "ps_ar":"رئيس مكتب التجهيزات العمومية الخاصة بالطور الثانوي"
+    },
+	{
+		"ps_fr":"Chef de bureau  du suivi des structures pédagogiques",
+        "ps_ar":"رئيس مكتب متابعة برامج الهياكل التعليمية"
+    },
+	{
+		"ps_fr":"Chef de bureau  du suivi des structures de soutien et d'hébergement",
+        "ps_ar":"رئيس مكتب متابعة برامج هياكل الدعم و الإيواء"
+    },
+	{
+		"ps_fr":"Chef de bureau du suivi des programmes  d'équipements relevant du secteur de la culture",
+        "ps_ar":"رئيس مكتب التجهيزات العمومية الخاصة بالطور الابتدائي"
+    },
+	{
+		"ps_fr":"Chef de bureau  du suivi des programmes  d'équipements relevant du secteur de la jeunesse et des sports",
+        "ps_ar":"رئيس مكتب التجهيزات العمومية الخاصة بالطور المتوسط"
+    },
+	{
+		"ps_fr":"Chef de bureau  du suivi des programmes d'équipements relevant du secteur de l'habitat , de l'intèrieur et autres",
+        "ps_ar":"رئيس مكتب متابعة برامج التجهيزات التابعة لقطاعي السكن و الداخلية و القطاعات الآخرى"
+    },
+	{
+		"ps_fr":"Chef de bureau  du suivi des programmes d'équipements relevant du secteur de la justice , des finances de la santé et des affaires religieuses",
+        "ps_ar":"رئيس مكتب متابعة برامج التجهيزات التابعة لقطاعات العدل و المالية و الصحة و الشؤون الدينية"
+    }	
+]

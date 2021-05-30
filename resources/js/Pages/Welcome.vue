@@ -1,6 +1,6 @@
 <template>
     <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
-        <div v-if="canLogin" class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
+        <div v-if="canLogin" class="hidden fixed top-0 right-0 px-2 py-4 sm:block">
             <inertia-link v-if="$page.props.user" href="/dashboard" class="text-sm text-gray-700 underline">
                 Dashboard
             </inertia-link>
@@ -16,7 +16,7 @@
             </template>
         </div>
 
-        <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
+        <div class="max-w-6xl mx-auto sm:px-2 lg:px-8">
             <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                 <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
                     <g clip-path="url(#clip0)" fill="#EF3B2D">

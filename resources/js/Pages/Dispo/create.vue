@@ -8,14 +8,14 @@
         <div>
             <div class="container mx-auto grid grid-cols-4 gap-3">
                 <div class="row">
-                    <div class="col-md-6 order-md-2 mb-6">
+                    <div class="container mx-auto grid grid-cols-4 gap-3">
               
                 <hr>
 
 
                 <div class="form-group">
                     <strong>type MvtM :</strong>
-                    <select class="form-control" v-model="disposData.typeM">
+                    <select class="mt-1 block w-full" v-model="disposData.typeM">
                         <option>Mise en disponibilité</option>
                         <option>Reconduction</option>
                         <option>Réintégration</option>
@@ -63,19 +63,19 @@
 
                 <div class="form-group">
                     <strong>Durée:</strong>
-                    <input required type="text" v-model="disposData.duree" class="form-control">
+                    <input required type="text" v-model="disposData.duree" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>N° Act:</strong>
-                    <input required type="number" v-model="disposData.number" class="form-control">
+                    <input required type="number" v-model="disposData.number" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Date de signature Act:</strong>
-                    <input required type="date" v-model="disposData.dateSign" class="form-control">
+                    <input required type="date" v-model="disposData.dateSign" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Date d’effet: Act</strong>
-                    <input required type="date" v-model="disposData.dateEffe" class="form-control">
+                    <input required type="date" v-model="disposData.dateEffe" class="mt-1 block w-full">
                 </div>
 
 
@@ -98,7 +98,7 @@
             </div>
         </div>
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -116,9 +116,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -131,6 +132,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

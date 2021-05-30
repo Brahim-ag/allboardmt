@@ -6,7 +6,7 @@
             </h2>
         </template>
             <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="col-md-6 order-md-2 mb-6">
+                <div class="container mx-auto grid grid-cols-4 gap-3">
                     <div class="form-group">
                         <strong>Type :</strong>
                         <select
@@ -188,7 +188,7 @@
                             required
                             type="date"
                             v-model="congesData.dateD"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -215,7 +215,7 @@
                             required
                             type="text"
                             v-model="congesData.nRef"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                     <div class="form-group">
@@ -224,7 +224,7 @@
                             required
                             type="date"
                             v-model="congesData.dateSign"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                 </div>
@@ -237,7 +237,7 @@
            
         </div>
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -255,9 +255,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -270,6 +271,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

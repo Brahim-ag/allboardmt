@@ -2,14 +2,13 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Modifer un employé
+                 Parcours Scolaire
             </h2>
         </template>
         <div>
             <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="col-md-6 order-md-2 mb-6">
-                    <h3>Modification Parcours Scolaire</h3>
-                    <hr />
+                 <div class="col-span-6 sm:col-span-2">
+                   
 
                     <div class="form-group">
                         <strong>Niveau d'etude:</strong>
@@ -199,7 +198,7 @@
                             required
                             type="text"
                             name="spec"
-                            class="form-control"
+                            class="mt-1 block w-full"
                             v-model="parcourData.spec"
                         />
                     </div>
@@ -210,7 +209,7 @@
                             type="text"
                             v-model="parcourData.gradution"
                             name="gradution"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -693,7 +692,7 @@
                             type="date"
                             v-model="parcourData.year"
                             name="year"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
                 </div>
@@ -707,7 +706,7 @@
             </div>
         </div>
 
-        <button @click="editParcour()" class="btn btn-primary">Valider</button>
+        <button @click="editParcour()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -725,9 +724,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -740,6 +740,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

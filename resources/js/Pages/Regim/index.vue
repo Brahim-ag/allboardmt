@@ -5,8 +5,8 @@
                 Regime Disciplinaire
             </h2>
         </template>
-        <div class="max-w-7xl mx-auto py-10 sm:px-6 lg:px-8">
-            <table class="border-collapse border table-auto">
+        <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
+            <table class="min-w-full divide-y divide-gray-200">
                 <tr>
                 <th>Degré de la Sanction</th>
             <th>Type de Faute</th>
@@ -23,19 +23,19 @@
             </tr>
 
                 <tr v-for="(regim, index) in regims" :key="index">
-                     <td>{{ regim.degre }}</td>
-                <td>{{ regim.typef }}</td>
-                <td>{{ regim.datef }}</td>
-                <td>{{ regim.typeS }}</td>
-                <td>{{ regim.nPV }}</td>
-                <td>{{ regim.datePV }}</td>
-                <td>{{ regim.degreSonctCom }}</td>
-                <td>{{ regim.typeSonctCom }}</td>
-                <td>{{ regim.nacte }}</td>
-                <td>{{ regim.datesign }}</td>
-                <td>{{ regim.dateeff }}</td>
+                     <td class="px-2 py-4 whitespace-nowrap">{{ regim.degre }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.typef }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.datef }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.typeS }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.nPV }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.datePV }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.degreSonctCom }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.typeSonctCom }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.nacte }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.datesign }}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.dateeff }}</td>
 
-                    <td>
+                    <td class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
                         <inertia-link :href="`/regim/edit/${regim.id}`">
                             modifier
                         </inertia-link>
@@ -52,6 +52,19 @@
 <script>
 import AppLayout from "@/Layouts/AppLayout";
 
+import JetActionMessage from "@/Jetstream/ActionMessage";
+import JetActionSection from "@/Jetstream/ActionSection";
+import JetButton from "@/Jetstream/Button";
+import JetConfirmationModal from "@/Jetstream/ConfirmationModal";
+import JetDangerButton from "@/Jetstream/DangerButton";
+import JetDialogModal from "@/Jetstream/DialogModal";
+import JetFormSection from "@/Jetstream/FormSection";
+import JetInput from "@/Jetstream/Input";
+import JetInputError from "@/Jetstream/InputError";
+import JetLabel from "@/Jetstream/Label";
+import JetSecondaryButton from "@/Jetstream/SecondaryButton";
+import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     props: ["employe_id"],
     data() {
@@ -60,7 +73,19 @@ export default {
         };
     },
     components: {
-        AppLayout,
+         AppLayout,
+        JetActionMessage,
+        JetActionSection,
+        JetButton,
+        JetConfirmationModal,
+        JetDangerButton,
+        JetDialogModal,
+        JetFormSection,
+        JetInput,
+        JetInputError,
+        JetLabel,
+        JetSecondaryButton,
+        JetSectionBorder,
     },
     methods: {
         getAll() {

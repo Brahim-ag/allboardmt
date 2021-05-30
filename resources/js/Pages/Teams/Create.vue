@@ -7,7 +7,7 @@
         </template>
 
         <div>
-            <div class="max-w-7xl mx-auto py-10 sm:px-6 lg:px-8">
+            <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
                 <create-team-form />
             </div>
         </div>
@@ -20,7 +20,19 @@
 
     export default {
         components: {
-            AppLayout,
+             AppLayout,
+        JetActionMessage,
+        JetActionSection,
+        JetButton,
+        JetConfirmationModal,
+        JetDangerButton,
+        JetDialogModal,
+        JetFormSection,
+        JetInput,
+        JetInputError,
+        JetLabel,
+        JetSecondaryButton,
+        JetSectionBorder,
             CreateTeamForm,
         },
     }

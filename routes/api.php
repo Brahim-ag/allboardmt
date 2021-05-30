@@ -18,6 +18,13 @@ use App\Http\Controllers\CongeController;
 use App\Http\Controllers\RegimdisController;
 use App\Http\Controllers\CessationController;
 use App\Http\Controllers\RecrutementController;
+use App\Http\Controllers\GradesController;
+use App\Http\Controllers\PostesupsController;
+use App\Http\Controllers\FormationIntController;
+use App\Http\Controllers\ExproController;
+use App\Http\Controllers\FonctionsupController;
+
+
 
 
 
@@ -56,6 +63,14 @@ Route::prefix('formation')->group(function(){
     Route::post('/store',[FormationController::class,'store']);
     Route::get('/show/{id}',[FormationController::class,'show'])->middleware(['web']);
     Route::put('/update/{id}',[FormationController::class,'update']);
+});
+
+Route::get('/formationint/getall/{id}',[FormationIntController::class,'getAll']);
+Route::get('/employee/create','FormationIntController@create')->middleware(['web']);
+Route::prefix('formationint')->group(function(){
+    Route::post('/store',[FormationIntController::class,'store']);
+    Route::get('/show/{id}',[FormationIntController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[FormationIntController::class,'update']);
 });
 
 Route::get('/antecejudi/getall/{id}',[AntecedanjudiController::class,'getAll']);
@@ -146,6 +161,33 @@ Route::prefix('recrutement')->group(function(){
     Route::put('/update/{id}',[RecrutementController::class,'update']);
 });
 
+Route::get('/grade/getall/{id}',[GradesController::class,'getAll']);
+Route::prefix('grade')->group(function(){
+    Route::post('/store',[GradesController::class,'store']);
+    Route::get('/show/{id}',[GradesController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[GradesController::class,'update']);
+});
+
+Route::get('/postesup/getall/{id}',[PostesupsController::class,'getAll']);
+Route::prefix('postesup')->group(function(){
+    Route::post('/store',[PostesupsController::class,'store']);
+    Route::get('/show/{id}',[PostesupsController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[PostesupsController::class,'update']);
+});
+
+Route::get('/expro/getall/{id}',[ExproController::class,'getAll']);
+Route::prefix('expro')->group(function(){
+    Route::post('/store',[ExproController::class,'store']);
+    Route::get('/show/{id}',[ExproController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[ExproController::class,'update']);
+});
+
+Route::get('/fonctionsups/getall/{id}',[FonctionsupController::class,'getAll']);
+Route::prefix('fonctionsups')->group(function(){
+    Route::post('/store',[FonctionsupController::class,'store']);
+    Route::get('/show/{id}',[FonctionsupController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[FonctionsupController::class,'update']);
+});
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();

@@ -1,16 +1,16 @@
 <template>
-    <app-layout>
+    <app-layout >
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                mise en recrutementnibilité
+                recrutement
             </h2>
         </template>
         <div>
-            <div class="col-md-6 order-md-2 mb-6">
-                <h3>Nouveau Recrutement</h3>
-                <hr />
+            <div class="container mx-auto grid grid-cols-4 gap-3">
+                 <div class="col-span-6 sm:col-span-2">
+                
                 <div class="form-group">
-                    <strong>Grade :</strong>
+                    <jet-strong>Grade :</jet-strong>
                     <select
                         class="custom-select d-block w-100"
                         id="state"
@@ -68,7 +68,7 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Type de Mouvement :</strong>
+                    <jet-strong>Type de Mouvement :</jet-strong>
                     <select
                         class="custom-select d-block w-100"
                         id="state"
@@ -105,7 +105,7 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Type d'Acte :</strong>
+                    <jet-strong>Type d'Acte :</jet-strong>
                     <select
                         class="custom-select d-block w-100"
                         id="state"
@@ -129,77 +129,101 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <strong>Numéro d'Acte/Contrat :</strong>
+                    <jet-strong>Numéro d'Acte/Contrat :</jet-strong>
                     <input
                         required
                         type="number"
                         v-model="recrutementsData.number"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date de Signature :</strong>
+                    <jet-strong>Date PV d’Installation  :</jet-strong>
+                    <input
+                        required
+                        type="date"
+                        v-model="recrutementsData.dpv"
+                        class="mt-1 block w-full"
+                    />
+                </div>
+
+                <div class="form-group">
+                    <jet-strong>N° PV d’Installation  :</jet-strong>
+                    <input
+                        required
+                        type="number"
+                        v-model="recrutementsData.npv"
+                        class="mt-1 block w-full"
+                    />
+                </div>
+
+                <div class="form-group">
+                    <jet-strong>Date de Signature :</jet-strong>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateSignature"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Effet :</strong>
+                    <jet-strong>Date d'Effet :</jet-strong>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateEffect"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro de Visa CF :</strong>
+                    <jet-strong>Numéro de Visa CF :</jet-strong>
                     <input
                         required
                         type="number"
                         v-model="recrutementsData.NumberVisaCf"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date de Visa CF :</strong>
+                    <jet-strong>Date de Visa CF :</jet-strong>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateVisaCf"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Installation :</strong>
+                    <jet-strong>Date d'Installation :</jet-strong>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateInsta"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
                 <div class="form-group">
-                    <strong>Structure d'Affectation :</strong>
+                    <jet-strong>Structure d'Affectation :</jet-strong>
                     <input
                         required
                         type="text"
                         v-model="recrutementsData.structure"
-                        class="form-control"
+                        class="mt-1 block w-full"
                     />
                 </div>
+                <br>
+        <button @click="postData()"  class=" bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+
             </div>
         </div>
-
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        </div>
+    
+        
     </app-layout>
 </template>
 <script>
@@ -217,9 +241,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -232,6 +257,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

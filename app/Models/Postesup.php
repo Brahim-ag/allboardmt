@@ -23,6 +23,7 @@ class Postesup extends Model
             'NumberVisaCf',
            'dateVisaCf',
             'employee_id',
+            'structure'
         
     ];
 }

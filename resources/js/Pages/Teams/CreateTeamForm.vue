@@ -28,7 +28,7 @@
 
             <div class="col-span-6 sm:col-span-4">
                 <jet-label for="name" value="Team Name" />
-                <!-- <jet-input id="name" type="text" class="mt-1 block w-full" v-model="form.name" autofocus /> -->
+                <!-- <input id="name" type="text" class="mt-1 block w-full" v-model="form.name" autofocus /> -->
                 <select
                     id="name"
                     class="mt-1 block w-full"
@@ -156,12 +156,12 @@
                     </option>
                 </select>
 
-                <jet-input-error :message="form.errors.name" class="mt-2" />
+                <input-error :message="form.errors.name" class="mt-2" />
             </div>
 
             <div class="col-span-6 sm:col-span-4">
                 <jet-label for="direction" value="Direction" />
-                <!-- <jet-input id="name" type="text" class="mt-1 block w-full" v-model="form.name" autofocus /> -->
+                <!-- <input id="name" type="text" class="mt-1 block w-full" v-model="form.name" autofocus /> -->
                 <select
                     id="direction"
                     class="mt-1 block w-full"
@@ -219,7 +219,7 @@
                     <option>Relizane</option>
                 </select>
 
-                <jet-input-error :message="form.errors.name" class="mt-2" />
+                <input-error :message="form.errors.name" class="mt-2" />
             </div>
         </template>
 

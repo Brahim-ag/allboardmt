@@ -6,7 +6,7 @@
             </h2>
         </template>
             <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="col-md-6 order-md-2 mb-6">
+                 <div class="">
                
                 <div class="form-group">
                     <strong>Motif :</strong>
@@ -34,30 +34,30 @@
 
                 <div class="form-group">
                     <strong>Type d'Acte :</strong>
-                    <input required type="text" v-model="cessationData.typeA" class="form-control">
+                    <input required type="text" v-model="cessationData.typeA" class="mt-1 block w-full">
                 </div>
 
 
                 <div class="form-group">
                     <strong>Date d'Effet :</strong>
-                    <input required type="date" v-model="cessationData.dateA" class="form-control">
+                    <input required type="date" v-model="cessationData.dateA" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Numero d'Acte :</strong>
-                    <input required type="number" v-model="cessationData.nRef" class="form-control">
+                    <input required type="number" v-model="cessationData.nRef" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Date de Signature :</strong>
-                    <input required type="date" v-model="cessationData.dateSign" class="form-control">
+                    <input required type="date" v-model="cessationData.dateSign" class="mt-1 block w-full">
                 </div>
 
                  <div class="form-group">
                     <strong>Numéro de Visa CF :</strong>
-                    <input required type="number" v-model="cessationData.numberCf" class="form-control">
+                    <input required type="number" v-model="cessationData.numberCf" class="mt-1 block w-full">
                 </div>
                 <div class="form-group">
                     <strong>Date de Visa CF :</strong>
-                    <input required type="date" v-model="cessationData.dateEffeCF" class="form-control">
+                    <input required type="date" v-model="cessationData.dateEffeCF" class="mt-1 block w-full">
                 </div>
 
 
@@ -70,7 +70,7 @@
                     v-model="cessationData.employee_id"
                 />
             </div>
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -88,9 +88,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -103,6 +104,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

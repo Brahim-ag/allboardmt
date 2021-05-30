@@ -63,12 +63,12 @@
                     Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices.
 
                     <div class="mt-4">
-                        <jet-input type="password" class="mt-1 block w-3/4" placeholder="Password"
+                        <input type="password" class="mt-1 block w-3/4" placeholder="Password"
                                     ref="password"
                                     v-model="form.password"
                                     @keyup.enter="logoutOtherBrowserSessions" />
 
-                        <jet-input-error :message="form.errors.password" class="mt-2" />
+                        <input-error :message="form.errors.password" class="mt-2" />
                     </div>
                 </template>
 

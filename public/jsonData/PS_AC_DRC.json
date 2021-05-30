@@ -1,0 +1,26 @@
+[
+	{
+		"ps_fr":"Chef de bureau des études juridiques",
+        "ps_ar":"رئيس مكتب الدراسات القانونية"
+    },
+	{
+		"ps_fr":"Chef de bureau d'élaboration des textes juridiques",
+        "ps_ar":"رئيس مكتب اعداد النصوص القانونية"
+    },
+	{
+		"ps_fr":"Chef de bureau des affaires juridiques",
+        "ps_ar":"رئيس مكتب الشؤون القانونية"
+    },
+	{
+		"ps_fr":"Chef de bureau du suivi du contentieux",
+        "ps_ar":"رئيس مكتب متابعة المنازعات"
+    },
+	{
+		"ps_fr":"Chef de bureau de la documentation",
+        "ps_ar":"رئيس مكتب التوثيق"
+    },
+	{
+		"ps_fr":"Chef de bureau des archives",
+        "ps_ar":"رئيس مكتب الأرشيف"
+    }
+]

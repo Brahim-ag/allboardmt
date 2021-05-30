@@ -5,8 +5,8 @@
                 dispo
             </h2>
         </template>
-        <div class="max-w-7xl mx-auto py-10 sm:px-6 lg:px-8">
-            <table class="border-collapse border table-auto">
+        <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
+            <table class="min-w-full divide-y divide-gray-200">
                 <tr>
                  <th>Type Mvt</th>
                 <th>MOTIF</th>
@@ -18,14 +18,14 @@
             </tr>
 
                 <tr v-for="(dispo, index) in dispos" :key="index">
-                    <td>{{ dispo.typeM }}</td>
-                    <td>{{ dispo.motif }}</td>
-                    <td>{{ dispo.duree }}</td>
-                    <td>{{ dispo.number }}</td>
-                    <td>{{ dispo.dateSign }}</td>
-                    <td>{{ dispo.dateEffe }}</td>
+                    <td class="px-2 py-4 whitespace-nowrap">{{ dispo.typeM }}</td>
+                    <td class="px-2 py-4 whitespace-nowrap">{{ dispo.motif }}</td>
+                    <td class="px-2 py-4 whitespace-nowrap">{{ dispo.duree }}</td>
+                    <td class="px-2 py-4 whitespace-nowrap">{{ dispo.number }}</td>
+                    <td class="px-2 py-4 whitespace-nowrap">{{ dispo.dateSign }}</td>
+                    <td class="px-2 py-4 whitespace-nowrap">{{ dispo.dateEffe }}</td>
 
-                    <td>
+                    <td class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
                         <inertia-link :href="`/dispo/edit/${dispo.id}`">
                             modifier
                         </inertia-link>
@@ -42,6 +42,19 @@
 <script>
 import AppLayout from "@/Layouts/AppLayout";
 
+import JetActionMessage from "@/Jetstream/ActionMessage";
+import JetActionSection from "@/Jetstream/ActionSection";
+import JetButton from "@/Jetstream/Button";
+import JetConfirmationModal from "@/Jetstream/ConfirmationModal";
+import JetDangerButton from "@/Jetstream/DangerButton";
+import JetDialogModal from "@/Jetstream/DialogModal";
+import JetFormSection from "@/Jetstream/FormSection";
+import JetInput from "@/Jetstream/Input";
+import JetInputError from "@/Jetstream/InputError";
+import JetLabel from "@/Jetstream/Label";
+import JetSecondaryButton from "@/Jetstream/SecondaryButton";
+import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     props: ["employe_id"],
     data() {
@@ -50,7 +63,19 @@ export default {
         };
     },
     components: {
-        AppLayout,
+         AppLayout,
+        JetActionMessage,
+        JetActionSection,
+        JetButton,
+        JetConfirmationModal,
+        JetDangerButton,
+        JetDialogModal,
+        JetFormSection,
+        JetInput,
+        JetInputError,
+        JetLabel,
+        JetSecondaryButton,
+        JetSectionBorder,
     },
     methods: {
         getAll() {

@@ -2,18 +2,18 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Modifer un employé
+                Nouvelle Formation
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="col-md-6 order-md-2 mb-6">
-                <h3>Nouvelle Formation</h3>
+              <div class="container mx-auto grid grid-cols-4 gap-3">
+                  <div class="col-span-6 sm:col-span-2">
+                <h3></h3>
                 <hr>
 
                 <div class="form-group">
                     <strong>Objet de la Formation/Stage :</strong>
-                    <input required type="text" v-model="formationData.objet" class="form-control">
+                    <input required type="text" v-model="formationData.objet" class="mt-1 block w-full">
                 </div>
 
 
@@ -21,13 +21,13 @@
 
                 <div class="form-group">
                     <strong>Date :</strong>
-                    <input required type="date" v-model="formationData.date" class="form-control">
+                    <input required type="date" v-model="formationData.date" class="mt-1 block w-full">
                 </div>
 
 
                 <div class="form-group">
                     <strong>Promo :</strong>
-                    <input required type="text" v-model="formationData.promo" class="form-control">
+                    <input required type="text" v-model="formationData.promo" class="mt-1 block w-full">
                 </div>
 
 
@@ -342,7 +342,7 @@
             </div>
         </div>
 
-        <button @click="editFormation()" class="btn btn-primary">Valider</button>
+        <button @click="editFormation()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -360,9 +360,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -375,6 +376,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

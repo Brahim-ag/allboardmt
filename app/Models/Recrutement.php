@@ -19,6 +19,8 @@ class Recrutement extends Model
         'typeContra',
         'number',
         'NumberVisaCf',
+        'dpv',
+        'npv',
         'structure',
         'dateVisaCf',
         'dateSignature',

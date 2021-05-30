@@ -18,6 +18,8 @@ class Grade extends Model
         'typeDact',
         'typeM',
         'Number',
+        'dpv'  ,  // ,
+        'npv' ,   // ,
         'dateSignature',
         'dateStart',
         'newEchelon',

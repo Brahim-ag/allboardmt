@@ -873,18 +873,7 @@
             "postar": "حارس"
         }
     ],
-    "opgi": [{
-            "post": "Directeur Général",
-            "postar": "مدير عام"
-        },
-        {
-            "post": "Directeur Général Adjoint",
-            "postar": "مدير عام مساعد"
-        },
-        {
-            "post": "Chef de département",
-            "postar": "رئيس دائرة"
-        },
+    "opgi": [
         {
             "post": "Assistant principal",
             "postar": "مساعد رئيسي"

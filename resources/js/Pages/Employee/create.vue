@@ -644,7 +644,7 @@
                     />
                 </div>
 
-                <button @click="addEmploye()" class="btn btn-primary">
+                <button @click="addEmploye()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">
                     Valider
                 </button>
             </div>
@@ -670,7 +670,7 @@ import JetSectionBorder from "@/Jetstream/SectionBorder";
 
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -683,6 +683,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data: function () {
         return {

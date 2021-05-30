@@ -7,7 +7,7 @@
         </template>
         <div>
             <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="col-md-6 order-md-2 mb-6">
+                <div class="container mx-auto grid grid-cols-4 gap-3">
                     <h3>Nouvelle Formation</h3>
                     <hr />
 
@@ -17,7 +17,7 @@
                             required
                             type="text"
                             v-model="formationData.objet"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -27,7 +27,7 @@
                             required
                             type="date"
                             v-model="formationData.date"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -37,7 +37,7 @@
                             required
                             type="text"
                             v-model="formationData.promo"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -539,7 +539,7 @@
             </div>
         </div>
 
-        <button @click="editFormation()" class="btn btn-primary">
+        <button @click="editFormation()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">
             Valider
         </button>
     </app-layout>
@@ -559,9 +559,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -574,6 +575,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

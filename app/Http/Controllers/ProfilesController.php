@@ -88,11 +88,11 @@ class ProfilesController extends Controller
         
         $request->validate([
             'level' => 'required',
-            'gradution' => 'required',
+            // 'gradution' => 'required',
             'postbac'=> 'required',
             'whereU' => 'required',
-            'spec' => 'required',
-            'year' => 'required',
+            // 'spec' => 'required',
+            // 'year' => 'required',
             
             'employee_id' => 'required'
         ]);
@@ -184,11 +184,11 @@ class ProfilesController extends Controller
         // }
         $request->validate([
             'level' => 'required',
-            'gradution' => 'required',
+            // 'gradution' => 'required',
             'postbac'=> 'required',
             'whereU' => 'required',
-            'spec' => 'required',
-            'year' => 'required',
+            // 'spec' => 'required',
+            // 'year' => 'required',
             
             'employee_id' => 'required'
         ]);

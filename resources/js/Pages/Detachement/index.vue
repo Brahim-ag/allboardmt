@@ -5,8 +5,8 @@
                 detachement
             </h2>
         </template>
-        <div class="max-w-7xl mx-auto py-10 sm:px-6 lg:px-8">
-            <table class="border-collapse border table-auto">
+        <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
+            <table class="min-w-full divide-y divide-gray-200">
                <tr>
             <th>Administration d'Origine</th>
             <th>Administration d'Accueil</th>
@@ -18,15 +18,15 @@
             <th>Date de Fin</th>
         </tr>
             <tr v-for="(detachement, index) in detachements" :key="index">
-                <td>{{detachement.admin}}</td>
-                <td>{{detachement.to}}</td>
-                <td>{{detachement.motif}}</td>
-                <td>{{detachement.nature}}</td>
-                <td>{{detachement.Number}}</td>
-                <td>{{detachement.dateSignature}}</td>
-                <td>{{detachement.dateStart}}</td>
-                <td>{{detachement.dateEnd}}</td>
-                <td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.admin}}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.to}}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.motif}}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.nature}}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.Number}}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.dateSignature}}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.dateStart}}</td>
+                <td class="px-2 py-4 whitespace-nowrap">{{detachement.dateEnd}}</td>
+                <td class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
                         <inertia-link :href="`/detachement/edit/${detachement.id}`">
                             modifier
                         </inertia-link>
@@ -43,6 +43,19 @@
 <script>
 import AppLayout from "@/Layouts/AppLayout";
 
+import JetActionMessage from "@/Jetstream/ActionMessage";
+import JetActionSection from "@/Jetstream/ActionSection";
+import JetButton from "@/Jetstream/Button";
+import JetConfirmationModal from "@/Jetstream/ConfirmationModal";
+import JetDangerButton from "@/Jetstream/DangerButton";
+import JetDialogModal from "@/Jetstream/DialogModal";
+import JetFormSection from "@/Jetstream/FormSection";
+import JetInput from "@/Jetstream/Input";
+import JetInputError from "@/Jetstream/InputError";
+import JetLabel from "@/Jetstream/Label";
+import JetSecondaryButton from "@/Jetstream/SecondaryButton";
+import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     props: ["employe_id"],
     data() {
@@ -51,7 +64,19 @@ export default {
         };
     },
     components: {
-        AppLayout,
+         AppLayout,
+        JetActionMessage,
+        JetActionSection,
+        JetButton,
+        JetConfirmationModal,
+        JetDangerButton,
+        JetDialogModal,
+        JetFormSection,
+        JetInput,
+        JetInputError,
+        JetLabel,
+        JetSecondaryButton,
+        JetSectionBorder,
     },
     methods: {
         getAll() {

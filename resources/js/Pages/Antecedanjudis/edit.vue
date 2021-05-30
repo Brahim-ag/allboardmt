@@ -7,14 +7,15 @@
         </template>
         <div>
             <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="col-md-4 order-md-2 mb-4">
+               <div class="container mx-auto grid grid-cols-4 gap-3">
+                  <div class="col-span-6 sm:col-span-2">
                     <div class="form-group">
                         <strong>Affaire :</strong>
                         <input
                             required
                             type="text"
                             v-model="antecedData.affaire"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -24,7 +25,7 @@
                             required
                             type="text"
                             v-model="antecedData.quality"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -34,7 +35,7 @@
                             required
                             type="text"
                             v-model="antecedData.jugement"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -44,7 +45,7 @@
                             required
                             type="text"
                             v-model="antecedData.instance"
-                            class="form-control"
+                            class="mt-1 block w-full"
                         />
                     </div>
 
@@ -54,14 +55,14 @@
                         v-model="antecedData.employee_id"
                         
                     />
-                </div>
+                <button @click="editAntecejudi()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">
+            Valider
+        </button></div>
             </div>
 
         </div>
-
-        <button @click="editAntecejudi()" class="btn btn-primary">
-            Valider
-        </button>
+        </div>
+        
     </app-layout>
 </template>
 <script>
@@ -79,9 +80,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -94,6 +96,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {

@@ -75,7 +75,7 @@ class Employee extends Model
 
     public function grades()
     {
-        return $this->hasMany('App\Models\Grade');
+        return $this->hasMany('App\Models\Grade')->orderBy('dateStart', 'desc');
     }
 
     public function detachements()
@@ -153,6 +153,11 @@ class Employee extends Model
         return $this->hasMany('App\Models\Formation');
     }
 
+    public function Formationint()
+    {
+        return $this->hasMany('App\Models\Formationint');
+    }
+
     
     public function Stage()
     {
@@ -167,5 +172,10 @@ class Employee extends Model
     public function Language()
     {
         return $this->hasMany('App\Models\Language');
+    }
+
+    public function Expro()
+    {
+        return $this->hasMany('App\Models\Expro');
     }
 }

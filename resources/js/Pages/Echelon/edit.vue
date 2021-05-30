@@ -7,7 +7,7 @@
         </template>
         <div>
             <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="col-md-6 order-md-2 mb-6">
+                 <div class="">
                         
                         <hr />
 
@@ -20,17 +20,25 @@
                             >
                                 <option disabled>Choisir...</option>
                                 <option>1</option>
-                                <option>2</option>
-                                <option>3</option>
-                                <option>4</option>
-                                <option>5</option>
-                                <option>6</option>
-                                <option>7</option>
-                                <option>8</option>
-                                <option>9</option>
-                                <option>10</option>
-                                <option>11</option>
-                                <option>12</option>
+              <option>2</option>
+              <option>3</option>
+              <option>4</option>
+              <option>5</option>
+              <option>6</option>
+              <option>7</option>
+              <option>8</option>
+              <option>9</option>
+              <option>10</option>
+              <option>11</option>
+              <option>12</option>
+              <option>13</option>
+              <option>14</option>
+              <option>15</option>
+              <option>16</option>
+              <option>17</option>
+              <option>18</option>
+              <option>19</option>
+              <option>20</option>
                             </select>
                         </div>
 
@@ -40,7 +48,7 @@
                                 required
                                 type="number"
                                 v-model="echelonsData.number"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                         <div class="form-group">
@@ -49,7 +57,7 @@
                                 required
                                 type="date"
                                 v-model="echelonsData.dateSign"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                         <div class="form-group">
@@ -58,7 +66,7 @@
                                 required
                                 type="date"
                                 v-model="echelonsData.dateEffe"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                         <div class="form-group">
@@ -96,7 +104,7 @@
                                 required
                                 type="number"
                                 v-model="echelonsData.numberApp"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
 
@@ -106,7 +114,7 @@
                                 required
                                 type="date"
                                 v-model="echelonsData.dateSignApp"
-                                class="form-control"
+                                class="mt-1 block w-full"
                             />
                         </div>
                     </div>
@@ -118,7 +126,7 @@
                 />
         </div>
 
-        <button @click="postData()" class="btn btn-primary">Valider</button>
+        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
 <script>
@@ -136,9 +144,10 @@ import JetInputError from "@/Jetstream/InputError";
 import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
+
 export default {
     components: {
-        AppLayout,
+         AppLayout,
         JetActionMessage,
         JetActionSection,
         JetButton,
@@ -151,6 +160,7 @@ export default {
         JetLabel,
         JetSecondaryButton,
         JetSectionBorder,
+        
     },
     data() {
         return {
