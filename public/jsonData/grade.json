@@ -875,6 +875,11 @@
     ],
     "opgi": [
         {
+            "post": "OPGI",
+            "disable": true,
+            "rank": null,
+            "postar": ""
+            }, {
             "post": "Assistant principal",
             "postar": "مساعد رئيسي"
         },
@@ -1000,7 +1005,12 @@
         }
     ],
     "aadl": [
-
+        {
+            "post": "AADL",
+            "disable": true,
+            "rank": null,
+            "postar": ""
+        },
         {
             "post": "Assistant",
             "postar": "مساعد"

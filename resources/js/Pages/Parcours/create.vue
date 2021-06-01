@@ -757,7 +757,7 @@ export default {
         },
         editParcour() {
             axios
-                .post("/api/parcour/store/", this.parcourData)
+                .post("/api/parcour/store", this.parcourData )
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/parcour/" + this.employee_id;

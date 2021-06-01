@@ -38,8 +38,8 @@ class EmployesController extends Controller
     }
 
     public function getAll($id){
-        
-         return Employee::where('team_id', '=', $id)->paginate(15);
+         
+        return Employee::where('team_id', '=', $id)->paginate(15);
 
         
     }
@@ -143,33 +143,22 @@ class EmployesController extends Controller
             $team = Team::find($user->current_team_id);
             if($user->hasTeamPermission($team, 'read')){
                 $employee = Employee::findOrFail($id);
+                $profile =  Employee::find($id)->profile;
+                $grade =  Employee::find($id)->grades;
+                $recrutements =  Employee::find($id)->Recrutements;
+               
                 return Inertia::render('Employee/show',[
                     'employee' => $employee,
+                    'profile' =>$profile ,
+                    'grade' =>$grade ,
+                    'recrutements' =>$recrutements ,
                 ]);
                 
             }else{
                 abort(401, "vous n'avez pas assez de droit");
             }
         }
-        // if (!$user) {
-        //     abort(401, "vous n'avez pas assez de droit");
-        //     ## return redirect('/employees/nohome');
-        // }
-        // else{
-        //     $team = Team::find($user->current_team_id);
-        //     if($user->hasTeamPermission($team, 'read')){
-                
-        //         $employee = Employee::findOrFail($id);
-
-        //         return Inertia::render('Employee/show', [
-                    
-        //             'employee' => $employee,
-        //         ]);
-                
-        //     }else{
-        //         abort(401, "vous n'avez pas assez de droit");
-        //     }
-        // }
+       
         
 
     }

@@ -74,7 +74,7 @@ Route::prefix('formationint')->group(function(){
 });
 
 Route::get('/antecejudi/getall/{id}',[AntecedanjudiController::class,'getAll']);
-Route::prefix('antecejudi')->group(function(){
+Route::prefix('/antecejudi')->group(function(){
     Route::post('/store',[AntecedanjudiController::class,'store']);
     Route::get('/show/{id}',[AntecedanjudiController::class,'show'])->middleware(['web']);
     Route::put('/update/{id}',[AntecedanjudiController::class,'update']);

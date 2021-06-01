@@ -288,7 +288,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/conge/store/", this.congesData)
+                .post("/api/conge/store", this.congesData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/conge/" + this.employee_id;

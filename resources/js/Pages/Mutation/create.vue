@@ -168,7 +168,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/mutations/store/", this.mutationData)
+                .post("/api/mutations/store", this.mutationData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/mutations/" + this.employee_id;

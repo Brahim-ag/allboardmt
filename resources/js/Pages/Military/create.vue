@@ -162,7 +162,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/militaire/store/", this.militairesData)
+                .post("/api/militaire/store", this.militairesData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/militaire/" + this.employee_id;

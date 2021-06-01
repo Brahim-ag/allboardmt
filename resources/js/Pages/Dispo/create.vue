@@ -149,7 +149,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/dispo/store/", this.disposData)
+                .post("/api/dispo/store", this.disposData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/dispo/" + this.employee_id;

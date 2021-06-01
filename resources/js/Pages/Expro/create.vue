@@ -104,7 +104,7 @@ export default {
         },
         editexpro() {
             axios
-                .post("/api/expro/store/", this.exproData)
+                .post("/api/expro/store", this.exproData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/expro/" + this.employee_id;

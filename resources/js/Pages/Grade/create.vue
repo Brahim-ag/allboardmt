@@ -242,7 +242,7 @@ export default {
         postData() {
             
             axios
-                .post("/api/grade/store/", this.gradesData)
+                .post("/api/grade/store", this.gradesData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href =

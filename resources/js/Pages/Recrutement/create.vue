@@ -275,7 +275,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/recrutement/store/", this.recrutementsData)
+                .post("/api/recrutement/store", this.recrutementsData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href =

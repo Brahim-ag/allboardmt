@@ -112,7 +112,7 @@ export default {
         },
         editAntecejudi() {
             axios
-                .post("/api/antecejudi/store/", this.antecedData)
+                .post("/api/antecejudi/store", this.antecedData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/antecejudi/" + this.employee_id;

@@ -274,7 +274,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/horscadre/store/", this.HorscadreData)
+                .post("/api/horscadre/store", this.HorscadreData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/horscadre/" + this.employee_id;

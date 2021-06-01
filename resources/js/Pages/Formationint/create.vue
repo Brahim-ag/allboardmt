@@ -393,7 +393,7 @@ export default {
         },
         editFormation() {
             axios
-                .post("/api/formationint/store/", this.formationData)
+                .post("/api/formationint/store", this.formationData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/formationint/" + this.employee_id;

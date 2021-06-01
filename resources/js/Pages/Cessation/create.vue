@@ -125,7 +125,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/cessation/store/", this.cessationData)
+                .post("/api/cessation/store", this.cessationData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/cessation/" + this.employee_id;

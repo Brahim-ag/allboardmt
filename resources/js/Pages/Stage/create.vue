@@ -2,13 +2,12 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                ECHELONS
+                Stage
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="row">
-                    <div class="container mx-auto grid grid-cols-4 gap-3">
+           <div class="container mx-auto grid grid-cols-4 gap-3">
+                 <div class="col-span-6 sm:col-span-2">
                         <hr />
                         <div class="form-group">
                             <strong>Stage Interne :</strong>
@@ -85,8 +84,6 @@
                 </div>
                 <input required type="hidden" v-model="stageData.employee_id" />
             </div>
-        </div>
-
         <button @click="editStage()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
     </app-layout>
 </template>
@@ -138,7 +135,7 @@ export default {
         },
         editStage() {
             axios
-                .post("/api/stage/store/", this.stageData)
+                .post("/api/stage/store", this.stageData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/stage/" + this.employee_id;

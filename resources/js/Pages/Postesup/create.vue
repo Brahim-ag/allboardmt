@@ -181,7 +181,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/postesup/store/", this.postesupData)
+                .post("/api/postesup/store", this.postesupData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/postesup/" + this.employee_id;

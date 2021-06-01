@@ -352,7 +352,7 @@ export default {
     },
     postData() {
       axios
-        .post("/api/fonctionsups/store/", this.fonctionsupData)
+        .post("/api/fonctionsups/store", this.fonctionsupData)
         .then((response) => {
           if (response.status == 201) {
             window.location.href = "/fonctionsups/" + this.employee_id;

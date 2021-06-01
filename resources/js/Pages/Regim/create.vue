@@ -281,7 +281,7 @@ export default {
         },
         postData() {
             axios
-                .post("/api/regim/store/", this.regimsData)
+                .post("/api/regim/store", this.regimsData)
                 .then((response) => {
                     if (response.status == 201) {
                         window.location.href = "/regim/" + this.employee_id;
