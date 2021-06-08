@@ -6,49 +6,51 @@
             </h2>
         </template>
         <div>
-              <div class="container mx-auto grid grid-cols-4 gap-3">
-                  <div class="col-span-6 sm:col-span-2">
+              <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                 <h3></h3>
                 <hr>
 
                 <div class="form-group">
-                    <strong>Objet de la Formation/Stage :</strong>
-                    <input required type="text" v-model="formationData.objet" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Objet de la Formation/Stage :</label>
+                    <input required type="text" v-model="formationData.objet" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 
 
 
                 <div class="form-group">
-                    <strong>Date :</strong>
-                    <input required type="date" v-model="formationData.date" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date :</label>
+                    <input required type="date" v-model="formationData.date" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 
                 <div class="form-group">
-                    <strong>Promo :</strong>
-                    <input required type="text" v-model="formationData.promo" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Promo :</label>
+                    <input required type="text" v-model="formationData.promo" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 
 
                 <div class="form-group">
-                    <strong>Durée : </strong>
+                    <label  class="block text-sm font-medium text-gray-700">Durée : </label>
 
-                    <strong>Années</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Années</label>
                     <select v-model="formationData.year" >
 
                         
                             <option v-for="i in 10" :key="i">{{ i }} </option>
 
                     </select>
-                    <strong>Mois</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Mois</label>
                     <select v-model="formationData.month">
 
                        
                         <option v-for="i in 12" :key="i">{{ i }} </option>
                     </select>
-                    <strong>Jours</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Jours</label>
 
                     <select v-model="formationData.day">
 
@@ -57,8 +59,8 @@
 
                 </div>
                 <div class="form-group">
-                    <strong>Etablissement :</strong>
-                    <select v-model="formationData.etabili" class="custom-select d-block w-100" id="state">
+                    <label  class="block text-sm font-medium text-gray-700">Etablissement :</label>
+                    <select v-model="formationData.etabili" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" id="state">
                         <option disabled style="background:green;color:white;font-weight:bold">Etablissements d'Enseignement
                             Supérieur مؤسسات التعليم العالي</option>
 
@@ -343,6 +345,8 @@
         </div>
 
         <button @click="editFormation()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

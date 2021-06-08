@@ -23,9 +23,9 @@ use App\Http\Controllers\PostesupsController;
 use App\Http\Controllers\FormationIntController;
 use App\Http\Controllers\ExproController;
 use App\Http\Controllers\FonctionsupController;
-
-
-
+use App\Http\Controllers\DispositionsController;
+use App\Http\Controllers\ChildsController;
+use App\Http\Controllers\SpoucesController;
 
 
 
@@ -188,6 +188,30 @@ Route::prefix('fonctionsups')->group(function(){
     Route::get('/show/{id}',[FonctionsupController::class,'show'])->middleware(['web']);
     Route::put('/update/{id}',[FonctionsupController::class,'update']);
 });
+
+Route::get('/disposition/getall/{id}',[DispositionsController::class,'getAll']);
+Route::prefix('disposition')->group(function(){
+    Route::post('/store',[DispositionsController::class,'store']);
+    Route::get('/show/{id}',[DispositionsController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[DispositionsController::class,'update']);
+});
+
+
+Route::get('/child/getall/{id}',[ChildsController::class,'getAll']);
+Route::prefix('child')->group(function(){
+    Route::post('/store',[ChildsController::class,'store']);
+    Route::get('/show/{id}',[ChildsController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[ChildsController::class,'update']);
+});
+
+Route::get('/spouce/getall/{id}',[SpoucesController::class,'getAll']);
+Route::prefix('spouce')->group(function(){
+    Route::post('/store',[SpoucesController::class,'store']);
+    Route::get('/show/{id}',[SpoucesController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[SpoucesController::class,'update']);
+});
+
+
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();

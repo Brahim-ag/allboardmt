@@ -2,12 +2,12 @@
   <app-layout>
     <template #header>
       <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-        Parcours Scolaire
+        childs Scolaire
       </h2>
     </template>
     <div class="max-w-9xl mx-auto py-10 sm:px-2 lg:px-8">
       <inertia-link
-        :href="`/parcour/create/${this.employe_id}`"
+        :href="`/child/create/${this.employe_id}`"
         class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded"
         >Ajouter</inertia-link
       >
@@ -17,21 +17,32 @@
       >
         <table class="table-auto min-w-full divide-y divide-gray-200">
           <tr>
-            <th>Niveau d'Etude</th>
-            <th>Domaine et Filière</th>
-            <th>Spécialité</th>
-            <th>Date d'Obtention</th>
+            <th>Nom et Prénom</th>
+            <th>Sexe</th>
+            <th>Date de Naissance</th>
+            <th>Wilaya de Naissance</th>
+            <th>Charge</th>
+            <th>Scolarisé</th>
+            <th>Cycle Scolaire </th>
+
           </tr>
 
-          <tr v-for="(parcour, index) in parcours" :key="index">
-            <td class="px-2 py-4 whitespace-nowrap text-sm" >{{ parcour.level }}</td>
-            <td class="px-2 py-4 whitespace-nowrap">{{ parcour.postbac }}</td>
-            <td class="px-2 py-4 whitespace-nowrap">{{ parcour.spec }}</td>
-            <td class="px-2 py-4 whitespace-nowrap">{{ parcour.year }}</td>
+          <tr v-for="(child, index) in childs" :key="index">
+            <td class="px-2 py-4 whitespace-nowrap text-sm" >{{ child.name  }} {{ child.lastname   }}</td>
+            <td class="px-2 py-4 whitespace-nowrap">{{ child.sexe  }}</td>
+            <td class="px-2 py-4 whitespace-nowrap">{{ child.dataNaiss  }}</td>
+            <td class="px-2 py-4 whitespace-nowrap">{{ child.wilayaNaiss  }}</td>
+            <td class="px-2 py-4 whitespace-nowrap" v-if="child.charge === 1">Oui</td>
+            <td class="px-2 py-4 whitespace-nowrap" v-if="child.charge === 0">Non</td>
+            <td class="px-2 py-4 whitespace-nowrap" v-if="child.school === 0">Non</td>
+            <td class="px-2 py-4 whitespace-nowrap" v-if="child.school  === 1">Oui</td>
+            <td class="px-2 py-4 whitespace-nowrap">{{ child.cycle   }}</td>
+
+
             <td
               class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded"
             >
-              <inertia-link :href="`/parcour/edit/${parcour.id}`">
+              <inertia-link :href="`/child/edit/${child.id}`">
                 modifier
               </inertia-link>
             </td>
@@ -62,7 +73,7 @@ export default {
   props: ["employe_id"],
   data() {
     return {
-      parcours: [],
+      childs: [],
     };
   },
   components: {
@@ -83,9 +94,9 @@ export default {
   methods: {
     getAll() {
       axios
-        .get("/api/parcour/getall/" + this.employe_id)
+        .get("/api/child/getall/" + this.employe_id)
         .then((response) => {
-          this.parcours = response.data;
+          this.childs = response.data;
         })
         .catch((err) => {
           console.log(err);

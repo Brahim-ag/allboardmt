@@ -6,15 +6,17 @@
             </h2>
         </template>
         <jet-section-border />
-        <div class="container mx-auto grid grid-cols-4 gap-3">
-            <div>
+       <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+      <div class="px-4 py-5 bg-white sm:p-6">
+        <div class="grid grid-cols-8 gap-3">
+          <div class="col-span-6 sm:col-span-2">
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Nom :" />
                     <input
                         required
                         type="text"
                         v-model="employe.name"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -24,7 +26,7 @@
                         required
                         type="text"
                         v-model="employe.lastname"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                 <input required type="hidden" v-model="employe.team_id" />
@@ -32,7 +34,7 @@
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Sexe :" />
                     <select
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="employe.sexe"
                     >
@@ -48,7 +50,7 @@
                         required
                         type="date"
                         v-model="employe.dataNaiss"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -58,7 +60,7 @@
                     <select
                         @input="findDaira()"
                         v-model="employe.wilaya"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
                         <option>Oran</option>
                         <option>Alger</option>
@@ -68,7 +70,7 @@
                     <jet-label value="Daïra de Naissance :" />
                     <select
                         required
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         v-model="employe.dairaNaiss"
                         @input="findCommune()"
                     >
@@ -84,7 +86,7 @@
                     <select
                         :disabled="!employe.dairaNaiss"
                         required
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         v-model="employe.cityNaiss"
                     >
                         <option>{{ employe.cityNaiss }}</option>
@@ -100,7 +102,7 @@
                         required
                         type="text"
                         v-model="employe.nationalite"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -109,7 +111,7 @@
                     <select
                         required
                         v-model="employe.logement"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
                         <option>------------------------</option>
                         <option>
@@ -129,14 +131,14 @@
                 </div>
             </div>
 
-            <div>
-                <div class="col-span-6 sm:col-span-2">
+            <div class="col-span-6 sm:col-span-2">
+                <div >
                     <jet-label value="Prénom du Père :" />
                     <input
                         required
                         type="text"
                         v-model="employe.nameFather"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -146,7 +148,7 @@
                         required
                         type="text"
                         v-model="employe.nameMother"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -156,7 +158,7 @@
                         required
                         type="text"
                         v-model="employe.lastnameMother"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -166,7 +168,7 @@
                         required
                         type="text"
                         v-model="employe.addres"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -176,7 +178,7 @@
                         required
                         type="text"
                         v-model="employe.NsocialSecure"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -186,7 +188,7 @@
                         required
                         type="text"
                         v-model="employe.NMutu"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                 <div class="col-span-6 sm:col-span-2">
@@ -195,7 +197,7 @@
                         required
                         type="text"
                         v-model="employe.mutuAgence"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -205,13 +207,13 @@
                         required
                         type="text"
                         v-model="employe.nameMutu"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Maladie Chronique :" />
-                    <select v-model="employe.maladie" class="mt-1 block w-full">
+                    <select v-model="employe.maladie" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                         <option>
                             --------------------------------------------
                         </option>
@@ -304,7 +306,7 @@
                 <jet-label value="Groupe Sanguin :" />
 
                 <select
-                    class="mt-1 block w-full"
+                    class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     v-model="employe.bloodType"
                     id=""
                 >
@@ -322,13 +324,13 @@
                 </select>
             </div>
 
-            <div>
+            <div class="col-span-6 sm:col-span-2">
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Type de Fonctionnaire :" />
                     <select
                         required
                         v-model="employe.typeContrat"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
                         <option>Titulaire</option>
                         <option>Agent Contractuel</option>
@@ -339,7 +341,7 @@
                     <select
                         required
                         v-model="employe.actContrat"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
                         <option>----------------</option>
                         <option>Contrat à Durée indéterminée</option>
@@ -351,7 +353,7 @@
                     <select
                         required
                         v-model="employe.timeContrat"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
                         <option>----------------</option>
                         <option>Temps plein</option>
@@ -364,7 +366,7 @@
                         required
                         type="text"
                         v-model="employe.bankNumber"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -373,7 +375,7 @@
 
                     <select
                         v-model="employe.bankName"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
                         <option>
                             --------------------------------------------
@@ -508,7 +510,7 @@
                         required
                         type="text"
                         v-model="employe.bankAgency"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -518,7 +520,7 @@
                         required
                         type="text"
                         v-model="employe.bankSNumber"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -528,7 +530,7 @@
                         required
                         type="text"
                         v-model="employe.telephone"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -538,14 +540,14 @@
                         required
                         type="text"
                         v-model="employe.email"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Situation Familiale :" />
                     <select
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="employe.situation"
                     >
@@ -559,7 +561,7 @@
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Niveau Informatique " />
                     <select
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="employe.itlvl"
                     >
@@ -580,19 +582,19 @@
                         required
                         type="number"
                         v-model="employe.nin"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
             </div>
 
-            <div>
+            <div class="col-span-6 sm:col-span-2">
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value=": الإسم " />
                     <input
                         required
                         type="text"
                         v-model="employe.nameAr"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -602,7 +604,7 @@
                         required
                         type="text"
                         v-model="employe.lastnameAr"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -612,7 +614,7 @@
                         required
                         type="text"
                         v-model="employe.namefatherAr"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -622,7 +624,7 @@
                         required
                         type="text"
                         v-model="employe.nameMotherAr"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -632,7 +634,7 @@
                         required
                         type="text"
                         v-model="employe.lastnameMotherAr"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                 <div class="col-span-6 sm:col-span-2">
@@ -641,14 +643,62 @@
                         required
                         type="text"
                         v-model="employe.adresseAr"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
+                 <div class="col-span-6 sm:col-span-2">
+              <jet-label class="block text-sm font-medium text-gray-700">
+                Photo de l'employe:
+              </jet-label>
 
+              <div
+                class="mt-1 flex justify-center px-6 pt-5 pb-6 border-2 border-gray-300 border-dashed rounded-md"
+              >
+                <div class="space-y-1 text-center">
+                  <svg
+                    class="mx-auto h-12 w-12 text-gray-400"
+                    stroke="currentColor"
+                    fill="none"
+                    viewBox="0 0 48 48"
+                    aria-hidden="true"
+                  >
+                    <path
+                      d="M28 8H12a4 4 0 00-4 4v20m32-12v8m0 0v8a4 4 0 01-4 4H12a4 4 0 01-4-4v-4m32-4l-3.172-3.172a4 4 0 00-5.656 0L28 28M8 32l9.172-9.172a4 4 0 015.656 0L28 28m0 0l4 4m4-24h8m-4-4v8m-12 4h.02"
+                      stroke-width="2"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                  <div class="flex text-sm text-gray-600">
+                    <label
+                      for="file-upload"
+                      class="relative cursor-pointer bg-white rounded-md font-medium text-indigo-600 hover:text-indigo-500 focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-indigo-500"
+                    >
+                      <span>Upload l'image</span>
+                      <input
+                        id="file-upload"
+                        name="file-upload"
+                        type="file"
+                        class="sr-only"
+                        @change="previewImage"
+                      />
+                    </label>
+                    <p class="pl-1">ou glisser-déposer</p>
+                  </div>
+                  <p class="text-xs text-gray-500">PNG, JPG, GIF 10MB max</p>
+                </div>
+              </div>
+            </div>
+             <br>  
+            <div class="image-preview" v-if="imageData.length > 0">
+              <img class="preview" :src="imageData" />
+            </div>
                 <button @click="editEmploye()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">
                     Modifer
                 </button>
             </div>
+        </div>
+        </div>
         </div>
     </app-layout>
 </template>
@@ -690,6 +740,7 @@ export default {
 
     data: function () {
         return {
+             imageData: "",
             commune: [],
             daira: [],
             employe: this.employee,
@@ -697,6 +748,26 @@ export default {
     },
     props: ["employee"],
     methods: {
+        previewImage: function (event) {
+      // Reference to the DOM input element
+      var input = event.target;
+      // Ensure that you have a file before attempting to read it
+      if (input.files && input.files[0]) {
+        // create a new FileReader to read this image and convert to base64 format
+        var reader = new FileReader();
+        // Define a callback function to run, when FileReader finishes its job
+        reader.onload = (e) => {
+          // Note: arrow function used here, so that "this.imageData" refers to the imageData of Vue component
+          // Read image as base64 and set to imageData
+          this.imageData = e.target.result;
+          this.employe.image = this.imageData
+          //console.log(this.imageData)
+        };
+        // Start the reader job - read file as a data url (base64 format)
+        reader.readAsDataURL(input.files[0]);
+        // console.log(input.files[0])
+      }
+    },
         findDaira() {
             this.employe.dairaNaiss = "";
             this.employe.cityNaiss = "";

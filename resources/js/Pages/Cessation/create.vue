@@ -6,12 +6,12 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="">
+            <div>
+                 <div>
                
                 <div class="form-group">
-                    <strong>Motif :</strong>
-                    <select required class="custom-select d-block w-100" id="state" v-model="cessationData.motif">
+                    <label  class="block text-sm font-medium text-gray-700">Motif :</label>
+                    <select required class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" id="state" v-model="cessationData.motif">
                         <option>
                             Déchéance de la Nationalité Algérienne التجريد من الجنسية الجزائرية</option>
                         <option> Perte de la Nationalité Algérienne فقدان الجنسية الجزائرية</option>
@@ -34,31 +34,31 @@
 
 
                 <div class="form-group">
-                    <strong>Type d'Acte :</strong>
-                    <input required type="text" v-model="cessationData.typeA" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Type d'Acte :</label>
+                    <input required type="text" v-model="cessationData.typeA" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 
                 <div class="form-group">
-                    <strong>Date d'Effet :</strong>
-                    <input required type="date" v-model="cessationData.dateA" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Effet :</label>
+                    <input required type="date" v-model="cessationData.dateA" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Numero d'Acte :</strong>
-                    <input required type="number" v-model="cessationData.nRef" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Numero d'Acte :</label>
+                    <input required type="number" v-model="cessationData.nRef" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Date de Signature :</strong>
-                    <input required type="date" v-model="cessationData.dateSign" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date de Signature :</label>
+                    <input required type="date" v-model="cessationData.dateSign" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                  <div class="form-group">
-                    <strong>Numéro de Visa CF :</strong>
-                    <input required type="number" v-model="cessationData.numberCf" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Numéro de Visa CF :</label>
+                    <input required type="number" v-model="cessationData.numberCf" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Date de Visa CF :</strong>
-                    <input required type="date" v-model="cessationData.dateEffeCF" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date de Visa CF :</label>
+                    <input required type="date" v-model="cessationData.dateEffeCF" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 

@@ -24,6 +24,9 @@ use App\Http\Controllers\PostesupsController;
 use App\Http\Controllers\FormationIntController;
 use App\Http\Controllers\ExproController;
 use App\Http\Controllers\FonctionsupController;
+use App\Http\Controllers\DispositionsController;
+use App\Http\Controllers\ChildsController;
+use App\Http\Controllers\SpoucesController;
 // use App\Http\Controllers\GradesController;
 
 
@@ -148,6 +151,21 @@ Route::get('/fonctionsups/{employee_id}',[FonctionsupController::class,'index'])
 Route::get('/fonctionsups/create/{employee_id}',[FonctionsupController::class,'create'])->middleware(['auth']);
 Route::post('/fonctionsups/store',[FonctionsupController::class,'store'])->middleware(['auth']);
 Route::get('/fonctionsups/edit/{parcour_id}',[FonctionsupController::class,'edit'])->middleware(['auth']);
+
+Route::get('/disposition/{employee_id}',[DispositionsController::class,'index'])->middleware(['auth']);
+Route::get('/disposition/create/{employee_id}',[DispositionsController::class,'create'])->middleware(['auth']);
+Route::post('/disposition/store',[DispositionsController::class,'store'])->middleware(['auth']);
+Route::get('/disposition/edit/{parcour_id}',[DispositionsController::class,'edit'])->middleware(['auth']);
+
+Route::get('/child/{employee_id}',[ChildsController::class,'index'])->middleware(['auth']);
+Route::get('/child/create/{employee_id}',[ChildsController::class,'create'])->middleware(['auth']);
+Route::post('/child/store',[ChildsController::class,'store'])->middleware(['auth']);
+Route::get('/child/edit/{parcour_id}',[ChildsController::class,'edit'])->middleware(['auth']);
+
+Route::get('/spouce/{employee_id}',[SpoucesController::class,'index'])->middleware(['auth']);
+Route::get('/spouce/create/{employee_id}',[SpoucesController::class,'create'])->middleware(['auth']);
+Route::post('/spouce/store',[SpoucesController::class,'store'])->middleware(['auth']);
+Route::get('/spouce/edit/{parcour_id}',[SpoucesController::class,'edit'])->middleware(['auth']);
 
 // Route::get('/', function () {
 //     return Inertia::render('Welcome', [

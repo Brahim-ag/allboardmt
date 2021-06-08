@@ -5,34 +5,36 @@
                 detachement
             </h2>
         </template>
-        <div class="container mx-auto grid grid-cols-4 gap-3">
-           <div class="container mx-auto grid grid-cols-4 gap-3">
-                  <div class="col-span-6 sm:col-span-2">
+        <div>
+           <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                         <div class="form-group">
-                            <strong>Administration d'Origine :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Administration d'Origine :</label>
                             <input
                                 required
                                 type="text"
                                 v-model="detachementsData.admin"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 placeholder="admin"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Administration d'Accueil :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Administration d'Accueil :</label>
                             <input
                                 required
                                 type="text"
                                 v-model="detachementsData.to"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 placeholder="admin"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Motif :</strong>
-                            <select class="mt-1 block w-full" v-model="detachementsData.motif">
+                            <label  class="block text-sm font-medium text-gray-700">Motif :</label>
+                            <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="detachementsData.motif">
                                 <option>
                                     Fonction de Membre du Gouvernement - وظيفة
                                     عضو في الحكومة
@@ -120,64 +122,64 @@
                         </div>
 
                         <div class="form-group">
-                            <strong>Nature :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Nature :</label>
 
-                            <select class="mt-1 block w-full" v-model="detachementsData.nature">
+                            <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="detachementsData.nature">
                                 <option>à la demande</option>
                                 <option>d'office</option>
                             </select>
                         </div>
 
                         <div class="form-group">
-                            <strong>Numéro :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Numéro :</label>
                             <input
                                 required
                                 type="text"
                                 v-model="detachementsData.Number"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 placeholder="Numero"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date de Signature :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date de Signature :</label>
                             <input
                                 required
                                 type="date"
                                 v-model="detachementsData.dateSignature"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 placeholder="dateSignature"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date d'Effet :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date d'Effet :</label>
                             <input
                                 required
                                 type="date"
                                 v-model="detachementsData.dateStart"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 placeholder="dateStart"
                             />
                         </div>
 
                        <div class="form-group">
-                    <strong>Durée : </strong>
+                    <label  class="block text-sm font-medium text-gray-700">Durée : </label>
 
-                    <strong>Années</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Années</label>
                     <select v-model="detachementsData.year" >
 
                         
                             <option v-for="i in 10" :key="i">{{ i }} </option>
 
                     </select>
-                    <strong>Mois</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Mois</label>
                     <select v-model="detachementsData.month">
 
                        
                         <option v-for="i in 12" :key="i">{{ i }} </option>
                     </select>
-                    <strong>Jours</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Jours</label>
 
                     <select v-model="detachementsData.day">
 
@@ -196,6 +198,8 @@
         </div>
         </div>
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

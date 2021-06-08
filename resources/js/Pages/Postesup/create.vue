@@ -6,12 +6,14 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="col-span-6 sm:col-span-2">
+              <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                
                  <div class="form-group">
-                    <strong>Direction :</strong>
-                    <select name="" @Change="gradeList($event)">
+                    <label  class="block text-sm font-medium text-gray-700">Direction :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" @Change="gradeList($event)">
                     <option value="">----</option>
                     <option value="PS_AC_DGCMR">DGCMR</option>
                     <option value="PS_AC_DGEP">DGEP</option>
@@ -23,17 +25,17 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <strong>Poste :</strong>
-                    <select v-model="postesupData.poste">
+                    <label  class="block text-sm font-medium text-gray-700">Poste :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="postesupData.poste">
                         <option >-----------</option>
                         <option v-for="g,index in grade" :key="index">{{g.ps_fr}} - {{g.ps_ar}}</option>
                     </select>
                 </div>
 
                 <div class="form-group">
-                    <strong>Type de Mouvement :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Type de Mouvement :</label>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="postesupData.typem"
                     >
@@ -44,9 +46,9 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Type d'Acte :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Type d'Acte :</label>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="postesupData.typea"
                     >
@@ -56,71 +58,71 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro d'Acte :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Numéro d'Acte :</label>
                     <input
                         required
                         type="number"
                         v-model="postesupData.number"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date de Signature d'Acte :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date de Signature d'Acte :</label>
                     <input
                         required
                         type="date"
                         v-model="postesupData.dateSignature"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Effet d'Acte :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Effet d'Acte :</label>
                     <input
                         required
                         type="date"
                         v-model="postesupData.dateEffect"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro de Visa CF :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Numéro de Visa CF :</label>
                     <input
                         required
                         type="number"
                         v-model="postesupData.NumberVisaCf"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date de Visa CF :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date de Visa CF :</label>
                     <input
                         required
                         type="date"
                         v-model="postesupData.dateVisaCf"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Installation :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Installation :</label>
                     <input
                         required
                         type="date"
                         v-model="postesupData.dateInsta"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                  <div class="form-group">
-                    <strong>structure d’affectation :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">structure d’affectation :</label>
                     <input
                         required
                         type="text"
                         v-model="postesupData.structure"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
             </div>
@@ -128,6 +130,8 @@
         </div>
 
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

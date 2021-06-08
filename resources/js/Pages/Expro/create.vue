@@ -5,55 +5,58 @@
                 Expérience Professionnelle Externe
             </h2>
         </template>
-        <div>
-             <div class="container mx-auto grid grid-cols-4 gap-3">
-        <div class="col-span-6 sm:col-span-2">
-                        <hr />
+         <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                         <div class="form-group">
-                            <strong>GRADE / FONCTION / POSTE :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">GRADE / FONCTION / POSTE :</label>
                           <input
                                 required
                                 type="text"
                                 v-model="exproData.grade"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>ADMINISTRATION OU ORGANISME :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">ADMINISTRATION OU ORGANISME :</label>
                             <input
                                 required
                                 type="text"
                                 v-model="exproData.admin"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date de début:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date de début:</label>
                             <input
                                 required
                                 type="date"
                                 v-model="exproData.dateStart"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                       
                         <div class="form-group">
-                            <strong>Date de fin:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date de fin:</label>
                             <input
                                 required
                                 type="date"
                                 v-model="exproData.dateEnd"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
-                    </div>
-                </div>
-                <input required type="hidden" v-model="exproData.employee_id" />
-            </div>
+                        <input required type="hidden" v-model="exproData.employee_id" />
+                
         <button @click="editexpro()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+                    </div>
+                
+        </div>
+                </div>
+            </div>
     </app-layout>
 </template>
 <script>

@@ -7,57 +7,58 @@
         </template>
         <div>
            
-                   <div class="container mx-auto grid grid-cols-4 gap-3">
-                  <div class="col-span-6 sm:col-span-2">
+                   <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                         <div class="form-group">
-                            <strong>Adminstration d'Origine :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Adminstration d'Origine :</label>
                             <input
                                 required
                                 type="text"
                                 name="from"
                                 v-model="mutationData.from"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Adminstration d'Acceuil :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Adminstration d'Acceuil :</label>
                             <input
                                 required
                                 type="text"
                                 name="to"
                                 v-model="mutationData.to"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong
-                                >Numéro d'Accord Final du Ministère :</strong
-                            >
+                            <label  class="block text-sm font-medium text-gray-700">
+                                >Numéro d'Accord Final du Ministère </label>
                             <input
                                 required
                                 type="text"
                                 
                                 v-model="mutationData.numberRef"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date d'Accord :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date d'Accord :</label>
                             <input
                                 required
                                 type="date"
                                 name="dateRef"
                                 v-model="mutationData.dateRef"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Type de Mutation :</strong>
-                            <select class="mt-1 block w-full" v-model="mutationData.type">
+                            <label  class="block text-sm font-medium text-gray-700">Type de Mutation :</label>
+                            <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="mutationData.type">
                                 <option>
                                     Caractère Général et Périodique - ذات طابع
                                     عام ودوري
@@ -76,35 +77,35 @@
                         </div>
 
                         <div class="form-group">
-                            <strong>Numéro d'Acte :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Numéro d'Acte :</label>
                             <input
                                 required
                                 type="number"
                                 name="Number"
                                 v-model="mutationData.Number"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date de Signature d'Acte :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date de Signature d'Acte :</label>
                             <input
                                 required
                                 type="date"
                                 name="dateSignature"
                                 v-model="mutationData.dateSignature"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date d'Effet d'Acte :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date d'Effet d'Acte :</label>
                             <input
                                 required
                                 type="date"
                                 name="dateStart"
                                 v-model="mutationData.dateStart"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                     </div>
@@ -118,6 +119,8 @@
        
 
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

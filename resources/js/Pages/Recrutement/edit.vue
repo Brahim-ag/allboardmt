@@ -5,13 +5,15 @@
                 recrutement
             </h2>
         </template>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="">
+           <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                 
                 <div class="form-group">
-                    <strong>Grade :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Grade :</label>
                     <select
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="recrutementsData.grade"
                     >
@@ -67,9 +69,9 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Type de Mouvement :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Type de Mouvement :</label>
                     <select
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="recrutementsData.typem"
                     >
@@ -104,9 +106,9 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Type d'Acte :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Type d'Acte :</label>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="recrutementsData.typep"
                     >
@@ -118,22 +120,42 @@
 
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Type de Fonctionnaire :" />
-                    <select
-                        required
+                    <jet-input
+                        disabled
+                        type="text"
                         v-model="recrutementsData.typeContra"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
-                        <option>Titulaire</option>
-                        <option>Agent Contractuel</option>
-                    </select>
+                       
+                    </jet-input>
+                </div>
+                 <div class="col-span-6 sm:col-span-2">
+                    <jet-label value="Type de Contrat : :" />
+                    <jet-input
+                        disabled
+                        type="text"
+                        v-model="recrutementsData.actContrat"
+                       class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" />
+                        
+                    
+                </div>
+                <div class="col-span-6 sm:col-span-2">
+                    <jet-label value="Durée de la relation de travail  :" />
+                    <jet-input
+                        disabled
+                        type="text"
+                        v-model="recrutementsData.dureContrat"
+                       class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" />
+                        
+                    
                 </div>
                 <div class="form-group">
-                    <strong>Numéro d'Acte/Contrat :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Numéro d'Acte/Contrat :</label>
                     <input
                         required
                         type="number"
                         v-model="recrutementsData.number"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -143,7 +165,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dpv"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -153,65 +175,65 @@
                         required
                         type="number"
                         v-model="recrutementsData.npv"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                 <div class="form-group">
-                    <strong>Date de Signature :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date de Signature :</label>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateSignature"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Effet :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Effet :</label>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateEffect"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro de Visa CF :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Numéro de Visa CF :</label>
                     <input
                         required
                         type="number"
                         v-model="recrutementsData.NumberVisaCf"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date de Visa CF :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date de Visa CF :</label>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateVisaCf"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Installation :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Installation :</label>
                     <input
                         required
                         type="date"
                         v-model="recrutementsData.dateInsta"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                 <div class="form-group">
-                    <strong>Structure d'Affectation :</strong>
+                    <label  class="block text-sm font-medium text-gray-700">Structure d'Affectation :</label>
                     <input
                         required
                         type="text"
                         v-model="recrutementsData.structure"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
             </div>
@@ -223,6 +245,8 @@
         </div>
 
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>
@@ -264,7 +288,7 @@ export default {
             grade: [],
         };
     },
-    props: ["Recrutement"],
+    props: ["Recrutement",'employee'],
     methods: {
         gradeList() {
             axios
@@ -288,6 +312,9 @@ export default {
     },
     created() {
         this.gradeList();
+         this.recrutementsData.typeContra = this.employee.typeContrat
+        this.recrutementsData.actContrat = this.employee.actContrat
+        this.recrutementsData.dureContrat = this.employee.timeContrat
     },
 };
 </script>

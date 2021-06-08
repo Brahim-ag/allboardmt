@@ -6,13 +6,15 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="col-span-6 sm:col-span-2">
+              <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                 
                 <div class="form-group">
                     <jet-strong>Grade :</jet-strong>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="recrutementsData.grade"
                     >
@@ -70,7 +72,7 @@
                 <div class="form-group">
                     <jet-strong>Type de Mouvement :</jet-strong>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="recrutementsData.typem"
                     >
@@ -107,7 +109,7 @@
                 <div class="form-group">
                     <jet-strong>Type d'Acte :</jet-strong>
                     <select
-                        class="custom-select d-block w-100"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         id="state"
                         v-model="recrutementsData.typep"
                     >
@@ -116,25 +118,46 @@
                         <option>Décision</option>
                     </select>
                 </div>
-
+                
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Type de Fonctionnaire :" />
-                    <select
-                        required
+                    <jet-input
+                        disabled
+                        type="text"
                         v-model="recrutementsData.typeContra"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     >
-                        <option>Titulaire</option>
-                        <option>Agent Contractuel</option>
-                    </select>
+                       
+                    </jet-input>
                 </div>
+                 <div class="col-span-6 sm:col-span-2">
+                    <jet-label value="Type de Contrat : :" />
+                    <jet-input
+                        disabled
+                        type="text"
+                        v-model="recrutementsData.actContrat"
+                       class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" />
+                        
+                    
+                </div>
+                <div class="col-span-6 sm:col-span-2">
+                    <jet-label value="Durée de la relation de travail  :" />
+                    <jet-input
+                        disabled
+                        type="text"
+                        v-model="recrutementsData.dureContrat"
+                       class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" />
+                        
+                    
+                </div>
+               
                 <div class="form-group">
                     <jet-strong>Numéro d'Acte/Contrat :</jet-strong>
                     <input
                         required
                         type="number"
                         v-model="recrutementsData.number"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -144,7 +167,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dpv"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -154,7 +177,7 @@
                         required
                         type="number"
                         v-model="recrutementsData.npv"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -164,7 +187,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dateSignature"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -174,7 +197,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dateEffect"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -184,7 +207,7 @@
                         required
                         type="number"
                         v-model="recrutementsData.NumberVisaCf"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -194,7 +217,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dateVisaCf"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
 
@@ -204,7 +227,7 @@
                         required
                         type="date"
                         v-model="recrutementsData.dateInsta"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                 <div class="form-group">
@@ -213,7 +236,7 @@
                         required
                         type="text"
                         v-model="recrutementsData.structure"
-                        class="mt-1 block w-full"
+                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                     />
                 </div>
                 <br>
@@ -222,7 +245,8 @@
             </div>
         </div>
         </div>
-    
+        </div>
+        </div>
         
     </app-layout>
 </template>
@@ -263,9 +287,10 @@ export default {
         return {
             recrutementsData: {},
             grade: [],
+            
         };
     },
-    props: ["employee_id"],
+    props: ["employee_id","employee"],
     methods: {
         gradeList() {
             axios
@@ -290,6 +315,9 @@ export default {
     created() {
         this.gradeList();
         this.recrutementsData.employee_id = this.employee_id;
+        this.recrutementsData.typeContra = this.employee.typeContrat
+        this.recrutementsData.actContrat = this.employee.actContrat
+        this.recrutementsData.dureContrat = this.employee.timeContrat
     },
 };
 </script>

@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                expros
+                Expérience Professionnelle Externe
             </h2>
         </template>
         <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">

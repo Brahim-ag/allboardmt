@@ -2,19 +2,20 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Modifer un employé
+                Antecedant Judiciaire
             </h2>
         </template>
-        <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="col-span-6 sm:col-span-2">
+                     <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                     <div class="form-group">
                         <jet-strong>Affaire :</jet-strong>
                         <jet-input
                             required
                             type="text"
                             v-model="antecedData.affaire"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
@@ -24,7 +25,7 @@
                             required
                             type="text"
                             v-model="antecedData.quality"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
@@ -34,7 +35,7 @@
                             required
                             type="text"
                             v-model="antecedData.jugement"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
@@ -44,7 +45,7 @@
                             required
                             type="text"
                             v-model="antecedData.instance"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
@@ -59,6 +60,7 @@
         </button></div>
             </div>
 
+        </div>
         </div>
 
         

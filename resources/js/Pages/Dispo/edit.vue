@@ -5,16 +5,16 @@
                 Mise en disponibilité
             </h2>
         </template>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
+            <div>
                  <div class="row">
-                    <div class="container mx-auto grid grid-cols-4 gap-3">
+                    <div>
               </div>
                 <hr>
 
 
                 <div class="form-group">
-                    <strong>type MvtM :</strong>
-                    <select class="mt-1 block w-full" v-model="disposData.typeM">
+                    <label  class="block text-sm font-medium text-gray-700">type MvtM :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="disposData.typeM">
                         <option>Mise en disponibilité</option>
                         <option>Reconduction</option>
                         <option>Réintégration</option>
@@ -22,8 +22,8 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Motif:</strong>
-                    <select class="custom-select d-block w-100" id="state" v-model="disposData.motif">
+                    <label  class="block text-sm font-medium text-gray-700">Motif:</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" id="state" v-model="disposData.motif">
                         <option disabled>Choisir...</option>
                         <option><span style="font-weight:bold">Accident</span> Ascendant - حادث الأصول</option>
                         <option><span style="font-weight:bold">Accident</span> Conjoint - حادث زوجه </option>
@@ -61,20 +61,20 @@
 
 
                 <div class="form-group">
-                    <strong>Durée:</strong>
-                    <input required type="text" v-model="disposData.duree" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Durée:</label>
+                    <input required type="text" v-model="disposData.duree" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>N° Act:</strong>
-                    <input required type="number" v-model="disposData.number" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">N° Act:</label>
+                    <input required type="number" v-model="disposData.number" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Date de signature Act:</strong>
-                    <input required type="date" v-model="disposData.dateSign" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date de signature Act:</label>
+                    <input required type="date" v-model="disposData.dateSign" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Date d’effet: Act</strong>
-                    <input required type="date" v-model="disposData.dateEffe" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date d’effet: Act</label>
+                    <input required type="date" v-model="disposData.dateEffe" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 

@@ -6,16 +6,18 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="container mx-auto grid grid-cols-4 gap-3">
+             <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                     <h3>Modification Parcours Scolaire</h3>
                     <hr />
 
                     <div class="form-group">
-                        <strong>Niveau d'etude:</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Niveau d'etude:</label>
                         <select
                             required
-                            class="custom-select d-block w-100"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             id="state"
                             name="level"
                             v-model="parcourData.level"
@@ -179,9 +181,9 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <strong>Domaine et Filière :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Domaine et Filière :</label>
                         <select
-                            class="custom-select d-block w-100"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             id="state"
                             name="postbac"
                             v-model="parcourData.postbac"
@@ -200,31 +202,31 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <strong>Spécialité :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Spécialité :</label>
                         <input
                             required
                             type="text"
                             name="spec"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             v-model="parcourData.spec"
                         />
                     </div>
                     <div class="form-group">
-                        <strong>Diplôme :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Diplôme :</label>
                         <input
                             required
                             type="text"
                             v-model="parcourData.gradution"
                             name="gradution"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
                     <div class="form-group">
-                        <strong>Etablissement d'Enseignement :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Etablissement d'Enseignement :</label>
                         <select
                             name="whereU"
-                            class="custom-select d-block w-100"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             id="state"
                             v-model="parcourData.whereU"
                         >
@@ -695,13 +697,13 @@
                     </div>
 
                     <div class="form-group">
-                        <strong>Date d'Obtention :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Date d'Obtention :</label>
                         <input
                             required
                             type="date"
                             v-model="parcourData.year"
                             name="year"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                 </div>
@@ -716,6 +718,8 @@
         </div>
 
         <button @click="editParcour()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

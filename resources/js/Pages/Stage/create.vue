@@ -6,14 +6,16 @@
             </h2>
         </template>
         <div>
-           <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="col-span-6 sm:col-span-2">
+             <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                         <hr />
                         <div class="form-group">
-                            <strong>Stage Interne :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Stage Interne :</label>
                             <select
                                 name="intern"
-                                class="custom-select d-block w-100"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 v-model="stageData.intern"
                             >
                                 <option>
@@ -29,41 +31,41 @@
                         </div>
 
                         <div class="form-group">
-                            <strong>Objet du Stage:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Objet du Stage:</label>
                             <input
                                 required
                                 type="text"
                                 v-model="stageData.objet"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date:</label>
                             <input
                                 required
                                 type="date"
                                 v-model="stageData.date"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Durée : </strong>
+                            <label  class="block text-sm font-medium text-gray-700">Durée : </label>
 
-                            <strong>Années</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Années</label>
                             <select v-model="stageData.year">
                                 <option v-for="i in 10" :key="i">
                                     {{ i }}
                                 </option>
                             </select>
-                            <strong>Mois</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Mois</label>
                             <select v-model="stageData.month">
                                 <option v-for="i in 12" :key="i">
                                     {{ i }}
                                 </option>
                             </select>
-                            <strong>Jours</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Jours</label>
 
                             <select v-model="stageData.day">
                                 <option v-for="i in 31" :key="i">
@@ -72,12 +74,12 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <strong>établissement:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">établissement:</label>
                             <input
                                 required
                                 type="text"
                                 v-model="stageData.etabili"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                     </div>
@@ -85,6 +87,8 @@
                 <input required type="hidden" v-model="stageData.employee_id" />
             </div>
         <button @click="editStage()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

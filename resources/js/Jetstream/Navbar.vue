@@ -216,7 +216,8 @@ export default {
                         { name: "ANTÉCÉDENTS JUDICIAIRES", href: "/antecejudi/"+this.info },
                         { name: "PARCOURS SCOLAIRE", href: "/parcour/"+this.info },
                         { name: "Expérience Professionnelle Externe ", href: "/expro/"+this.info },
-                        // { name: "ENFANTS", href: "#" },
+                        { name: "ENFANTS", href: "/child/"+this.info },
+                        { name: "Conjoints", href: "/spouce/"+this.info },
                     ],
                 },
                 {
@@ -244,6 +245,10 @@ export default {
                         {
                             name: "DETACHEMENTS",
                             href: "/detachement/"+this.info,
+                        },
+                         {
+                            name: "MISE A LA DISPOSITION",
+                            href: "/disposition/"+this.info,
                         },
                         { name: "MUTATIONS", href: "/mutations/"+this.info },
                         { name: "MISE EN DISPONIBILITÉ", href: "/dispo/"+this.info },

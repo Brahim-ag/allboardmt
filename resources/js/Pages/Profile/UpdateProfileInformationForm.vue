@@ -44,14 +44,14 @@
             <!-- Name -->
             <div class="col-span-6 sm:col-span-4">
                 <jet-label for="name" value="Name" />
-                <input id="name" type="text" class="mt-1 block w-full" v-model="form.name" autocomplete="name" />
+                <input id="name" type="text" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="form.name" autocomplete="name" />
                 <input-error :message="form.errors.name" class="mt-2" />
             </div>
 
             <!-- Email -->
             <div class="col-span-6 sm:col-span-4">
                 <jet-label for="email" value="Email" />
-                <input id="email" type="email" class="mt-1 block w-full" v-model="form.email" />
+                <input id="email" type="email" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="form.email" />
                 <input-error :message="form.errors.email" class="mt-2" />
             </div>
         </template>

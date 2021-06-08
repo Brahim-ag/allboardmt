@@ -2,47 +2,47 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Modifer un employé
+                 Hors Cadres
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
+            <div>
                 <div class="row">
-                    <div class="container mx-auto grid grid-cols-4 gap-3">
+                    <div>
                         <h3>Modification Détachement Hors Cadres</h3>
                         <hr />
                         <div class="form-group">
-                            <strong>Administration d'Origine :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Administration d'Origine :</label>
                             <input
                                 required
                                 type="text"
                                 v-model="HorscadreData.source"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                         <div class="form-group">
-                            <strong>Administration d'Accueil :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Administration d'Accueil :</label>
                             <input
                                 required
                                 type="text"
                                 v-model="HorscadreData.focus"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                         <div class="form-group">
-                            <strong>Mission :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Mission :</label>
                             <input
                                 required
                                 type="text"
                                 v-model="HorscadreData.mission"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Type de Mouvement :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Type de Mouvement :</label>
                             <select
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 v-model="HorscadreData.typeM"
                             >
                                 <option>Hors-cadre</option>
@@ -52,9 +52,9 @@
                         </div>
 
                         <div class="form-group">
-                            <strong>Motif :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Motif :</label>
                             <select
-                                class="custom-select d-block w-100"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 id="state"
                                 v-model="HorscadreData.motif"
                             >
@@ -145,21 +145,21 @@
                         </div>
 
                         <div class="form-group">
-                            <strong>Durée : </strong>
+                            <label  class="block text-sm font-medium text-gray-700">Durée : </label>
 
-                            <strong>Années</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Années</label>
                             <select v-model="HorscadreData.year">
                                 <option v-for="i in 10" :key="i">
                                     {{ i }}
                                 </option>
                             </select>
-                            <strong>Mois</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Mois</label>
                             <select v-model="HorscadreData.month">
                                 <option v-for="i in 12" :key="i">
                                     {{ i }}
                                 </option>
                             </select>
-                            <strong>Jours</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Jours</label>
 
                             <select v-model="HorscadreData.day">
                                 <option v-for="i in 31" :key="i">
@@ -169,48 +169,48 @@
                         </div>
                     </div>
                     <div class="form-group">
-                        <strong>Numéro d'Acte :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Numéro d'Acte :</label>
                         <input
                             required
                             type="number"
                             v-model="HorscadreData.number"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                     <div class="form-group">
-                        <strong>Date de Signature d'Acte :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Date de Signature d'Acte :</label>
                         <input
                             required
                             type="date"
                             v-model="HorscadreData.dateSign"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                     <div class="form-group">
-                        <strong>Date d'Effet d'Acte :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Date d'Effet d'Acte :</label>
                         <input
                             required
                             type="date"
                             v-model="HorscadreData.dateEffe"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                     <div class="form-group">
-                        <strong>Numéro de Visa CF :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Numéro de Visa CF :</label>
                         <input
                             required
                             type="number"
                             v-model="HorscadreData.numberCf"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                     <div class="form-group">
-                        <strong>Date de Visa CF :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Date de Visa CF :</label>
                         <input
                             required
                             type="date"
                             v-model="HorscadreData.dateEffeCF"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                 </div>

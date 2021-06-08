@@ -5,14 +5,16 @@
                 Nouvelle Fonction Supérieure
             </h2>
         </template>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="col-span-6 sm:col-span-2">
+              <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                
                
 
                 <div class="form-group">
-                    <strong>Fonction :</strong>
-                    <select class="custom-select d-block w-100" id="state" v-model="fonctionsupData.function">
+                    <label  class="block text-sm font-medium text-gray-700">Fonction :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" id="state" v-model="fonctionsupData.function">
                         <option>Secrétaire Général  أمين عام</option>
                         <option>
                             Directeur Général  مدير عام</option>
@@ -218,8 +220,8 @@
 
 
                 <div class="form-group">
-                    <strong>Type du Mouvement :</strong>
-                    <select class="custom-select d-block w-100" id="state" v-model="fonctionsupData.typem">
+                    <label  class="block text-sm font-medium text-gray-700">Type du Mouvement :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" id="state" v-model="fonctionsupData.typem">
                         <option>Nomination fonction supérieur par intérim,</option>
                         <option>Renouvellement d’intérim (1 an)</option>
                         <option>Renouvellement d’intérim (06 mois)</option>
@@ -234,8 +236,8 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Type d'Acte :</strong>
-                    <select class="custom-select d-block w-100" id="state" v-model="fonctionsupData.typea">
+                    <label  class="block text-sm font-medium text-gray-700">Type d'Acte :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" id="state" v-model="fonctionsupData.typea">
                         <option>Arrêté</option>
                         <option>Décision</option>
                         <option>Décret</option>
@@ -244,53 +246,53 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro d'Acte :</strong>
-                    <input required type="number" v-model="fonctionsupData.number" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Numéro d'Acte :</label>
+                    <input required type="number" v-model="fonctionsupData.number" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Date de Signature d'Acte :</strong>
-                    <input required type="date" v-model="fonctionsupData.dateSignature" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Date de Signature d'Acte :</label>
+                    <input required type="date" v-model="fonctionsupData.dateSignature" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Effet d'Acte :</strong>
-                    <input required type="date" v-model="fonctionsupData.dateEffect" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Effet d'Acte :</label>
+                    <input required type="date" v-model="fonctionsupData.dateEffect" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro de visa DGFP :</strong>
-                    <input required type="number" v-model="fonctionsupData.NumberVisaDGFP" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Numéro de visa DGFP :</label>
+                    <input required type="number" v-model="fonctionsupData.NumberVisaDGFP" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Effet de visa DGFP :</strong>
-                    <input required type="date" v-model="fonctionsupData.dateVisaDGFP" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Effet de visa DGFP :</label>
+                    <input required type="date" v-model="fonctionsupData.dateVisaDGFP" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro de Visa CF :</strong>
-                    <input required type="number" v-model="fonctionsupData.NumberVisaCf" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Numéro de Visa CF :</label>
+                    <input required type="number" v-model="fonctionsupData.NumberVisaCf" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Effet de Visa CF :</strong>
-                    <input required type="date" v-model="fonctionsupData.dateVisaCf" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Effet de Visa CF :</label>
+                    <input required type="date" v-model="fonctionsupData.dateVisaCf" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Numéro de l'Accord :</strong>
-                    <input required type="number" v-model="fonctionsupData.numberAcc" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Numéro de l'Accord :</label>
+                    <input required type="number" v-model="fonctionsupData.numberAcc" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Date de l'Accord :</strong>
-                    <input required type="date" v-model="fonctionsupData.dateAcc" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Date de l'Accord :</label>
+                    <input required type="date" v-model="fonctionsupData.dateAcc" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
                 <div class="form-group">
-                    <strong>Date d'Installation :</strong>
-                    <input required type="date" v-model="fonctionsupData.dateInsta" class="form-control">
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Installation :</label>
+                    <input required type="date" v-model="fonctionsupData.dateInsta" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 
@@ -300,6 +302,8 @@
         </div>
 
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

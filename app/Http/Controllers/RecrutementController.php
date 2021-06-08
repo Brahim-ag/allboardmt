@@ -65,9 +65,10 @@ class RecrutementController extends Controller
         else{
             $team = Team::find($user->current_team_id);
             if($user->hasTeamPermission($team, 'read')){
-                
+                $employee = Employee::findOrFail($id);
                 return Inertia::render('Recrutement/create',[
-                    'employee_id' => $id
+                    'employee_id' => $id,
+                    'employee' => $employee
                 ]);
                 
             }else{
@@ -158,9 +159,12 @@ class RecrutementController extends Controller
             if($user->hasTeamPermission($team, 'read')){
                 
                 $Recrutement = Recrutement::findOrFail($id);
+                $employee = Employee::findOrFail($Recrutement->employee_id); 
 
         return Inertia::render('Recrutement/edit', [
             'Recrutement' => $Recrutement,
+            'employee' => $employee,
+
         ]);
                 
             }else{

@@ -192,28 +192,28 @@
             "postar": "المهندسون"
         },
         {
-            "name": "Ingénieur en Chef",
+            "name": "Ingénieur en Chef en Informatique",
             "disable": false,
             "rank": 16,
-            "postar": "رئيس المهندسين"
+            "postar": "رئيس المهندسين  في الاعلام الآلي"
         },
         {
-            "name": "Ingénieur Principal",
+            "name": "Ingénieur Principal en Informatique",
             "disable": false,
             "rank": 14,
-            "postar": "المهندسون الرئيسيون"
+            "postar": "المهندسون الرئيسيون  في الاعلام الآلي"
         },
         {
-            "name": "Ingénieur d’Etat ",
+            "name": "Ingénieur d’Etat en Informatique ",
             "disable": false,
             "rank": 13,
-            "postar": "مهندسو الدولة"
+            "postar": "مهندسو الدولة  في الاعلام الآلي"
         },
         {
-            "name": "Ingénieur d’Application",
+            "name": "Ingénieur d’Application en Informatique",
             "disable": false,
             "rank": 11,
-            "postar": "المهندسون التطبيقيون"
+            "postar": "المهندسون التطبيقيون  في الاعلام الآلي"
         },
         {
             "name": "Assistants Ingénieurs",
@@ -222,16 +222,16 @@
             "postar": "مساعدو المهندسين"
         },
         {
-            "name": "Assistant Ingénieur de Niveau 1",
+            "name": "Assistant Ingénieur de Niveau 1 en Informatique",
             "disable": false,
             "rank": 11,
-            "postar": "مساعد مهندس مستوى 1"
+            "postar": "مساعد مهندس مستوى 1  في الاعلام الآلي"
         },
         {
-            "name": "Assistant Ingénieur de Niveau 2",
+            "name": "Assistant Ingénieur de Niveau 2 en Informatique",
             "disable": false,
             "rank": 10,
-            "postar": "مساعد مهندس مستوى 2"
+            "postar": "مساعد مهندس مستوى 2  في الاعلام الآلي"
         },
         {
             "name": "Techniciens",
@@ -240,16 +240,16 @@
             "postar": "التقنيون"
         },
         {
-            "name": "Technicien Supérieur",
+            "name": "Technicien Supérieur en Informatique",
             "disable": false,
             "rank": 10,
-            "postar": "تقني سام"
+            "postar": "تقني سام  في الاعلام الآلي"
         },
         {
-            "name": "Technicien ",
+            "name": "Technicien en Informatique",
             "disable": false,
             "rank": 8,
-            "postar": "تقني"
+            "postar": "تقني  في الاعلام الآلي"
         },
         {
             "name": "Adjoints Techniques",
@@ -258,22 +258,16 @@
             "postar": "المعاونون التقنيون"
         },
         {
-            "name": "Adjoint Technique",
+            "name": "Adjoint Technique en Informatique",
             "disable": false,
             "rank": 7,
-            "postar": "معاون تقني"
+            "postar": "معاون تقني  في الاعلام الآلي"
         },
         {
-            "name": "Agents Techniques",
+            "name": "Agents Techniques en Informatique",
             "disable": false,
             "rank": null,
             "postar": "الأعوان التقنيون\n"
-        },
-        {
-            "name": "Agent Technique",
-            "disable": false,
-            "rank": 5,
-            "postar": "عون تقني"
         },
         {
             "name": "Filière « Statistiques »",
@@ -288,28 +282,28 @@
             "postar": "المهندسون"
         },
         {
-            "name": "Ingénieur en Chef",
+            "name": "Ingénieur en Chef  en Statistique",
             "disable": false,
             "rank": 16,
-            "postar": "رئيس المهندسين"
+            "postar": "    رئيس المهندسين في الإحصائيات"
         },
         {
-            "name": "Ingénieur Principal",
+            "name": "Ingénieur Principal en Statistique",
             "disable": false,
             "rank": 14,
-            "postar": "المهندسون الرئيسيون"
+            "postar": "مهندس رئيسي في الإحصائيات"
         },
         {
-            "name": "Ingénieur d’Etat ",
+            "name": "Ingénieur d’Etat en Statistique ",
             "disable": false,
             "rank": 13,
-            "postar": "مهندسو الدولة"
+            "postar": "   مهندس دولة في الإحصائيات"
         },
         {
-            "name": "Ingénieur d’Application",
+            "name": "Ingénieur d’Application en Statistique",
             "disable": false,
             "rank": 11,
-            "postar": "المهندسون التطبيقيون"
+            "postar": "  مهندس تطبيقي في الإحصائيات"
         },
         {
             "name": "Assistants Ingénieurs",
@@ -318,16 +312,16 @@
             "postar": "مساعدو المهندسين"
         },
         {
-            "name": "Assistant Ingénieur de Niveau 1",
+            "name": "Assistant Ingénieur de Niveau 1 en Statistique",
             "disable": false,
             "rank": 11,
-            "postar": "مساعد مهندس مستوى 1"
+            "postar": "مساعد مهندس مستوى 1 في الإحصائيات"
         },
         {
-            "name": "Assistant Ingénieur de Niveau 2",
+            "name": "Assistant Ingénieur de Niveau 2 en Statistique",
             "disable": false,
             "rank": 10,
-            "postar": "مساعد مهندس مستوى 2"
+            "postar": "مساعد مهندس مستوى 2 في الإحصائيات"
         },
         {
             "name": "Techniciens",
@@ -336,16 +330,16 @@
             "postar": "التقنيون"
         },
         {
-            "name": "Technicien Supérieur",
+            "name": "Technicien Supérieur en Statistique",
             "disable": false,
             "rank": 10,
-            "postar": "تقني سام"
+            "postar": "تقني سام في الإحصائيات"
         },
         {
-            "name": "Technicien ",
+            "name": "Technicien en Statistique",
             "disable": false,
             "rank": 8,
-            "postar": "تقني"
+            "postar": "تقني في الإحصائيات"
         },
         {
             "name": "Adjoints Techniques",
@@ -354,22 +348,22 @@
             "postar": "المعاونون التقنيون"
         },
         {
-            "name": "Adjoint Technique",
+            "name": "Adjoint Technique en Statistique",
             "disable": false,
             "rank": 7,
-            "postar": "معاون تقني"
+            "postar": "معاون تقني في الإحصائيات"
         },
         {
             "name": "Agents Techniques",
             "disable": true,
             "rank": null,
-            "postar": "الأعوان التقنيون\n"
+            "postar": "الأعوان التقنيون \n "
         },
         {
-            "name": "Agent Technique",
+            "name": "Agent Technique en Statistique",
             "disable": false,
             "rank": 5,
-            "postar": "عون تقني"
+            "postar": "عون تقني في الإحصائيات"
         },
         {
             "name": "Filière « Documentation et Archives »",
@@ -450,28 +444,28 @@
             "postar": "المهندسون"
         },
         {
-            "name": "Ingénieur en Chef",
+            "name": "Ingénieur en Chef en Laboratoire et Maintenance",
             "disable": false,
             "rank": 16,
-            "postar": "رئيس المهندسين"
+            "postar": "  رئيس المهندسين في المخبر و الصيانة"
         },
         {
-            "name": "Ingénieur Principal",
+            "name": "Ingénieur Principal  en Laboratoire et Maintenance",
             "disable": false,
             "rank": 14,
-            "postar": "المهندسون الرئيسيون"
+            "postar": "  مهندس رئيسي في المخبر و الصيانة"
         },
         {
-            "name": "Ingénieur d’Etat ",
+            "name": "Ingénieur d’Etat en Laboratoire et Maintenance",
             "disable": false,
             "rank": 13,
-            "postar": "مهندسو الدولة"
+            "postar": "مهندس دولة في المخبر و الصيانة"
         },
         {
-            "name": "Ingénieur d’Application",
+            "name": "Ingénieur d’Application  Laboratoire et Maintenance",
             "disable": false,
             "rank": 11,
-            "postar": "المهندسون التطبيقيون"
+            "postar": " مهندس تطبيقي في المخبر و الصيانة"
         },
         {
             "name": "Assistants Ingénieurs",
@@ -480,16 +474,16 @@
             "postar": "مساعدو المهندسين"
         },
         {
-            "name": "Assistant Ingénieur de Niveau 1",
+            "name": "Assistant Ingénieur de Niveau 2 Laboratoire et Maintenance",
             "disable": false,
             "rank": 11,
-            "postar": "مساعد مهندس مستوى 1"
+            "postar": " مساعد مهندس مستوى2 في المخبر و الصيانة"
         },
         {
-            "name": "Assistant Ingénieur de Niveau 2",
+            "name": "Assistant Ingénieur de Niveau 1 Laboratoire et Maintenance",
             "disable": false,
             "rank": 10,
-            "postar": "مساعد مهندس مستوى 2"
+            "postar": " مساعد مهندس مستوى1 في المخبر و الصيانة"
         },
         {
             "name": "Techniciens",
@@ -498,22 +492,22 @@
             "postar": "التقنيون"
         },
         {
-            "name": "Technicien Supérieur",
+            "name": "Technicien Supérieur Laboratoire et Maintenance",
             "disable": false,
             "rank": 10,
-            "postar": "تقني سام"
+            "postar": " تقني سامي في المخبر و الصيانة"
         },
         {
-            "name": "Technicien ",
+            "name": "Technicien en Laboratoire et Maintenance ",
             "disable": false,
             "rank": 8,
-            "postar": "تقني"
+            "postar": "  تقني في المخبر و الصيانة"
         },
         {
-            "name": "Adjoints Techniques",
+            "name": "Adjoint Technique en Laboratoire et Maintenance ",
             "disable": true,
             "rank": null,
-            "postar": "المعاونون التقنيون"
+            "postar": " معاون تقني في المخبر و الصيانة"
         },
         {
             "name": "Adjoint Technique",
@@ -528,10 +522,10 @@
             "postar": "الأعوان التقنيون\n"
         },
         {
-            "name": "Agent Technique",
+            "name": "Agent Technique  en Laboratoire et Maintenance",
             "disable": false,
             "rank": 5,
-            "postar": "عون تقني"
+            "postar": " عون تقني في المخبر و الصيانة"
         },
         {
             "name": "Agents de Laboratoire",
@@ -540,10 +534,10 @@
             "postar": "أعوان المخبر"
         },
         {
-            "name": "Agent de Laboratoire",
+            "name": "Agent de Laboratoire en Laboratoire et Maintenance ",
             "disable": false,
             "rank": 4,
-            "postar": "عون مخبر"
+            "postar": "عون مخبر في المخبر و الصيانة"
         },
         {
             "name": "Filière « Analystes de l’Economie »",
@@ -558,16 +552,16 @@
             "postar": "المحللون الاقتصاديون"
         },
         {
-            "name": "Analyste en Chef",
+            "name": "Analyste en Chef en Economie  ",
             "disable": false,
             "rank": 16,
-            "postar": "رئيس المحللين"
+            "postar": "رئيس المحللين الاقتصاديين"
         },
         {
-            "name": "Analyste Principal",
+            "name": "Analyste Principal en Economie",
             "disable": false,
             "rank": 14,
-            "postar": "محلل رئيسي"
+            "postar": "محلل اقتصادي رئيسي"
         },
         {
             "name": "Analyste de l’Economie ",
@@ -583,28 +577,28 @@
             "postar": "مهندسو السكن والعمران"
         },
         {
-            "name": "Ingénieur en Chef",
+            "name": "Ingénieur en Chef en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 16,
-            "postar": "رئيس المهندسين"
+            "postar": "  رئيس المهندسين في السكن والعمران"
         },
         {
-            "name": "Ingénieur Principal",
+            "name": "Ingénieur Principal  en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 14,
-            "postar": "مهندس رئيسي"
+            "postar": "مهندس رئيسي في السكن والعمران"
         },
         {
             "name": "Ingénieur d’Etat",
             "disable": false,
             "rank": 13,
-            "postar": "مهندس دولة"
+            "postar": "  مهندس دولة في السكن والعمران"
         },
         {
-            "name": "Ingénieur d’Application",
+            "name": "Ingénieur d’Application  en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 11,
-            "postar": "مهندس تطبيقي"
+            "postar": " مهندس تطبيقي في السكن والعمران"
         },
         {
             "name": "Architectes",
@@ -661,16 +655,16 @@
             "postar": "تقنيو السكن والعمران"
         },
         {
-            "name": "Technicien Supérieur",
+            "name": "Technicien Supérieur en l’Habitat et l’Urbanisme ",
             "disable": false,
             "rank": 10,
-            "postar": "تقني سام"
+            "postar": "تقني سامي في السكن والعمران"
         },
         {
-            "name": "Technicien",
+            "name": "Technicien en l’Habitat et l’Urbanisme ",
             "disable": false,
-            "rank": 8,
-            "postar": "تقني"
+            "rank": 10,
+            "postar": "تقني في السكن والعمران"
         },
         {
             "name": "Adjoints Techniques de l’Habitat et de l’Urbanisme",
@@ -679,10 +673,10 @@
             "postar": "المساعدون التقنيون في السكن والعمران"
         },
         {
-            "name": "Adjoint Technique",
+            "name": "Adjoint Technique en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 7,
-            "postar": "مساعد تقني"
+            "postar": "مساعد تقني في السكن والعمران"
         },
         {
             "name": "Agents Techniques Spécialises de l’Habitat et de l’Urbanisme",
@@ -691,16 +685,16 @@
             "postar": "الأعوان التقنيون المتخصصون في السكن والعمران"
         },
         {
-            "name": "Agent Technique Spécialisé",
+            "name": "Agent Technique Spécialisé en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 5,
-            "postar": "عون تقني متخصص"
+            "postar": "عون تقني متخصص في السكن والعمران"
         },
         {
-            "name": "Agent Technique",
+            "name": "Agent Technique en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 2,
-            "postar": "عون تقني"
+            "postar": " عون تقني في السكن والعمران "
         }
     ],
     "ovrir": [{
@@ -873,13 +867,12 @@
             "postar": "حارس"
         }
     ],
-    "opgi": [
-        {
+    "opgi": [{
             "post": "OPGI",
             "disable": true,
             "rank": null,
             "postar": ""
-            }, {
+        }, {
             "post": "Assistant principal",
             "postar": "مساعد رئيسي"
         },
@@ -1004,8 +997,7 @@
             "postar": "مكلف بالدراسات مستوى 2"
         }
     ],
-    "aadl": [
-        {
+    "aadl": [{
             "post": "AADL",
             "disable": true,
             "rank": null,

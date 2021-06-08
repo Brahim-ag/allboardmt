@@ -7,99 +7,96 @@
         </template>
         <div>
            
-                   <div class="container mx-auto grid grid-cols-4 gap-3">
-                  <div class="col-span-6 sm:col-span-2">
+                   <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                         <div class="form-group">
-                            <strong>Numéro Justification:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Numéro Justification:</label>
                             <input
                                 required
                                 type="text"
                                 v-model="militairesData.Number"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date Justification:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date Justification:</label>
                             <input
                                 required
                                 type="date"
                                 v-model="militairesData.date"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong
-                                >Numéro de l’acte de mise en position:</strong
-                            >
+                            <label  class="block text-sm font-medium text-gray-700">
+                                >Numéro de l’acte de mise en position</label>
                             <input
                                 required
                                 type="text"
                                 v-model="militairesData.NumberPosition"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong
+                            <label  class="block text-sm font-medium text-gray-700">
                                 >date de Signature de l’acte de mise en
-                                position:</strong
-                            >
+                                position</label>
                             <input
                                 required
                                 type="date"
                                 v-model="militairesData.dateSignature"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong
+                            <label  class="block text-sm font-medium text-gray-700">
                                 >date d'effet de l’acte de mise en
-                                position:</strong
-                            >
+                                position</label>
                             <input
                                 required
                                 type="date"
                                 v-model="militairesData.dateStart"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Numéro de l’acte de réintégration:</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Numéro de l’acte de réintégration:</label>
                             <input
                                 required
                                 type="text"
                                 v-model="militairesData.NumberRein"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong
+                            <label  class="block text-sm font-medium text-gray-700">
                                 >date de Signature de l’acte de
-                                réintégration:</strong
-                            >
+                                réintégration</label>
                             <input
                                 required
                                 type="date"
                                 v-model="militairesData.dateSignatureRein"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong
+                            <label  class="block text-sm font-medium text-gray-700">
                                 >date d'effet de l’acte de
-                                réintégration:</strong
-                            >
+                                réintégration</label>
                             <input
                                 required
                                 type="date"
                                 v-model="militairesData.dateStartRein"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                     </div>
@@ -112,6 +109,8 @@
             </div>
 
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

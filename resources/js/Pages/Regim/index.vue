@@ -5,33 +5,29 @@
                 Regime Disciplinaire
             </h2>
         </template>
-        <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
-            <table class="min-w-full divide-y divide-gray-200">
+        <div class="flex max-w-8xl mx-auto py-10 sm:px-2 lg:px-8">
+
+         <div class="container mx-auto shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
+        
+            <table class="table-auto min-w-full divide-y divide-gray-200">
                 <tr>
                 <th>Degré de la Sanction</th>
-            <th>Type de Faute</th>
             <th>Date de la Faute</th>
             <th>Type de Sanction</th>
-            <th>Numéro de PV CAP</th>
-            <th>Date de PV CAP</th>
-            <th>Degré Sanction</th>
-            <th>Type Sanction</th>
-            <th>Numéro d'Acte de Sanction</th>
+           
+            <th>Type Sanction Commission</th>
+            
             <th>Date de Signature d'Acte</th>
             <th>Date d'Effet d'Acte</th>
  
             </tr>
 
                 <tr v-for="(regim, index) in regims" :key="index">
-                     <td class="px-2 py-4 whitespace-nowrap">{{ regim.degre }}</td>
-                <td class="px-2 py-4 whitespace-nowrap">{{ regim.typef }}</td>
+                     <td class="px-2 py-4 whitespace-nowrap">{{ regim.typef }}<br> <small>{{ regim.degre  }}</small></td>
                 <td class="px-2 py-4 whitespace-nowrap">{{ regim.datef }}</td>
                 <td class="px-2 py-4 whitespace-nowrap">{{ regim.typeS }}</td>
-                <td class="px-2 py-4 whitespace-nowrap">{{ regim.nPV }}</td>
-                <td class="px-2 py-4 whitespace-nowrap">{{ regim.datePV }}</td>
-                <td class="px-2 py-4 whitespace-nowrap">{{ regim.degreSonctCom }}</td>
-                <td class="px-2 py-4 whitespace-nowrap">{{ regim.typeSonctCom }}</td>
-                <td class="px-2 py-4 whitespace-nowrap">{{ regim.nacte }}</td>
+
+                <td class="px-2 py-4 whitespace-nowrap">{{ regim.typeSonctCom }} <br> <small>{{ regim.degreSonctCom }}</small></td>
                 <td class="px-2 py-4 whitespace-nowrap">{{ regim.datesign }}</td>
                 <td class="px-2 py-4 whitespace-nowrap">{{ regim.dateeff }}</td>
 
@@ -45,6 +41,7 @@
             <inertia-link :href="`/regim/create/${this.employe_id}`"
                 >Ajouter</inertia-link
             >
+        </div>
         </div>
     </app-layout>
 </template>

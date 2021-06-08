@@ -447,8 +447,11 @@
             </dt>
           </div>
         </div>
-        <h3></h3>
       </div>
+    </div>
+    <div>
+      <h1>photo <small>for testing </small></h1>
+      <img v-bind:src="`data:image/jpeg;base64,`+this.employee.image"/>
     </div>
   </app-layout>
 </template>
@@ -472,7 +475,7 @@ import Navbar from "@/Jetstream/Navbar";
 import { PrinterIcon } from "@heroicons/vue/solid";
 import jsPDF from "jspdf";
 import JsPDFAutotable from "jspdf-autotable";
-
+import { base64StringToBlob } from "blob-util";
 export default {
   components: {
     AppLayout,
@@ -492,12 +495,14 @@ export default {
     PrinterIcon,
     jsPDF,
     JsPDFAutotable,
+    base64StringToBlob,
   },
-  props: ["employee", "profile", "grade","recrutements"],
+  props: ["employee", "profile", "grade", "recrutements"],
 
   data: function () {
     return {
       employe: this.employee,
+      img: "",
       profiles: this.profile,
       grades: this.grade,
       recrutements: this.recrutements,
@@ -523,7 +528,7 @@ export default {
       var table2 = this.grade;
 
       var table3 = this.recrutements;
-      console.log(this.recrutements)
+      console.log(this.recrutements);
 
       var Nom = this.employe.name;
       var Prenom = this.employe.lastname;
@@ -744,8 +749,18 @@ export default {
         window.open(doc.output("bloburl"), "_blank");
       }
     },
+    previewImage: function () {
+     
+      var reader = new FileReader();
+      this.employe.image = this.employe.image.replace(/^data:.+;base64,/, '')
+      //reader.readAsDataURL(this.employe.image);
+      
+     
+    },
   },
-  created() {},
+  created() {
+    this.previewImage();
+  },
   computed: {
     // user() {
     //     return this.$page.props.auth.user;
@@ -753,3 +768,4 @@ export default {
   },
 };
 </script>
+/

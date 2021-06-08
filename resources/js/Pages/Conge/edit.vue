@@ -5,13 +5,15 @@
                 Mise en disponibilité
             </h2>
         </template>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                <div class="container mx-auto grid grid-cols-4 gap-3">
+             <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                     <div class="form-group">
-                        <strong>Type :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Type :</label>
                         <select
                             required
-                            class="custom-select d-block w-100"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             id="state"
                             v-model="congesData.type"
                         >
@@ -183,48 +185,48 @@
                     </div>
 
                     <div class="form-group">
-                        <strong>Date de Départ :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Date de Départ :</label>
                         <input
                             required
                             type="date"
                             v-model="congesData.dateD"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
                     <div class="form-group">
-                        <strong>Durée : </strong>
+                        <label  class="block text-sm font-medium text-gray-700">Durée : </label>
 
-                        <strong>Années</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Années</label>
                         <select v-model="congesData.year">
                             <option v-for="i in 10" :key="i">{{ i }}</option>
                         </select>
-                        <strong>Mois</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Mois</label>
                         <select v-model="congesData.month">
                             <option v-for="i in 12" :key="i">{{ i }}</option>
                         </select>
-                        <strong>Jours</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Jours</label>
 
                         <select v-model="congesData.day">
                             <option v-for="i in 31" :key="i">{{ i }}</option>
                         </select>
                     </div>
                     <div class="form-group">
-                        <strong>Numéro de l'Acte</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Numéro de l'Acte</label>
                         <input
                             required
                             type="text"
                             v-model="congesData.nRef"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                     <div class="form-group">
-                        <strong>Date de Signature</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Date de Signature</label>
                         <input
                             required
                             type="date"
                             v-model="congesData.dateSign"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
                 </div>
@@ -238,6 +240,8 @@
         </div>
 
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

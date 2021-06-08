@@ -6,46 +6,48 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-               <div class="container mx-auto grid grid-cols-4 gap-3">
-                  <div class="col-span-6 sm:col-span-2">
+            <div>
+               <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
                     <div class="form-group">
-                        <strong>Affaire :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Affaire :</label>
                         <input
                             required
                             type="text"
                             v-model="antecedData.affaire"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
                     <div class="form-group">
-                        <strong>Qualité :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Qualité :</label>
                         <input
                             required
                             type="text"
                             v-model="antecedData.quality"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
                     <div class="form-group">
-                        <strong>Jugement Prononcé :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Jugement Prononcé :</label>
                         <input
                             required
                             type="text"
                             v-model="antecedData.jugement"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
                     <div class="form-group">
-                        <strong>Instance Judiciaire :</strong>
+                        <label  class="block text-sm font-medium text-gray-700">Instance Judiciaire :</label>
                         <input
                             required
                             type="text"
                             v-model="antecedData.instance"
-                            class="mt-1 block w-full"
+                            class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                         />
                     </div>
 
@@ -62,7 +64,8 @@
 
         </div>
         </div>
-        
+        </div>
+        </div>
     </app-layout>
 </template>
 <script>

@@ -121,9 +121,9 @@
                   </td>
 
                   <!-- <td class="border"><router-link :to="{name:'editEmploye',params:{id:employe.id}}" >Modifier</router-link></td> -->
-                  <td scope="col" class="relative px-2 py-3">
+                  <td scope="col" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
                     <inertia-link
-                      class="text-indigo-600 hover:text-indigo-900"
+                      
                       :href="`/employe/edit/${employe.id}`"
                     >
                       Modifier</inertia-link

@@ -3,11 +3,12 @@
 namespace App\Http\Controllers;
 
 use App\Models\Employee;
+use App\Models\Child;
 use Illuminate\Http\Request;
 use App\Models\Team;
 use Inertia\Inertia;
 
-class EmployesController extends Controller
+class ChildsController  extends Controller
 {
 
     /**
@@ -15,7 +16,7 @@ class EmployesController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index(Request $request)
+    public function index(Request $request,$id)
     {
         $user = $request->user();
        
@@ -27,7 +28,9 @@ class EmployesController extends Controller
             $team = Team::find($user->current_team_id);
             if($user->hasTeamPermission($team, 'read')){
                 
-                return Inertia::render('Employee/index',);
+                return Inertia::render('child/index',[
+                    'employe_id' => $id
+                ]);
                 
             }else{
                 abort(401, "vous n'avez pas assez de droit");
@@ -38,8 +41,9 @@ class EmployesController extends Controller
     }
 
     public function getAll($id){
-         
-        return Employee::where('team_id', '=', $id)->paginate(25);
+        //$employee = Employee::find($id);
+        return Employee::find($id)->Childs;
+          
 
         
     }
@@ -49,7 +53,7 @@ class EmployesController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create(Request $request)
+    public function create(Request $request,$id)
     {
        
         $user = $request->user();
@@ -62,7 +66,9 @@ class EmployesController extends Controller
             $team = Team::find($user->current_team_id);
             if($user->hasTeamPermission($team, 'read')){
                 
-                return Inertia::render('Employee/create',);
+                return Inertia::render('child/create',[
+                    'employee_id' => $id
+                ]);
                 
             }else{
                 abort(401, "vous n'avez pas assez de droit");
@@ -79,49 +85,21 @@ class EmployesController extends Controller
      */
     public function store(Request $request)
     {
-        // $user = $request->user();
-        // $team = Team::find($user->current_team_id);
-
-        // if (!$user->hasTeamPermission($team, 'create')) {
-        //     abort(401, "vous n'avez pas assez de droit");
-        // }
-
+        
         $request->validate([
-            'name' => 'required',
-            'nameAr' => 'required',
+           'name' => 'required',
             'lastname' => 'required',
-            'lastnameAr' => 'required',
-            'sexe' => 'required',
             'dataNaiss' => 'required',
-            'cityNaiss' => 'required',
-            'wilaya' => 'required',
-            'dairaNaiss'=>'required',
-            'typeContrat'=> 'required',
-            'actContrat'=> 'required',
-            'timeContrat'=> 'required',
-            'nameFather' => 'required',
-            'nationalite' => 'required',
-            'nameMother' => 'required',
-            'lastnameMother' => 'required',
-            'addres' => 'required',
-            'NsocialSecure' => 'required',
-            'NMutu' => 'required',
-            'nameMutu' => 'required',
-            'image'=>'required',
-            'team_id' => 'required',
-            'mutuAgence' => 'required',
-            'bankNumber' => 'required',
-            'bankSNumber'=> 'required',
-            'bankAgency'=> 'required',
-            'bankName' => 'required',
-            'telephone' => 'required',
-            'nin' => 'required',
-            'itlvl'=> 'required',
-            'bloodType' => 'required',
-            'situation' => 'required'
+            'wilayaNaiss' => 'required',
+            'sexe' => 'required',
+            'cycle' => 'required',
+            'charge' => 'required',
+            'school' => 'required',
+            'employee_id' => 'required'
+
         ]);
 
-        return Employee::create($request->all());
+        return Child::create($request->all());
 
       
     }
@@ -144,22 +122,15 @@ class EmployesController extends Controller
             $team = Team::find($user->current_team_id);
             if($user->hasTeamPermission($team, 'read')){
                 $employee = Employee::findOrFail($id);
-                $profile =  Employee::find($id)->profile;
-                $grade =  Employee::find($id)->grades;
-                $recrutements =  Employee::find($id)->Recrutements;
-               
-                return Inertia::render('Employee/show',[
+                return Inertia::render('child/show',[
                     'employee' => $employee,
-                    'profile' =>$profile ,
-                    'grade' =>$grade ,
-                    'recrutements' =>$recrutements ,
                 ]);
                 
             }else{
                 abort(401, "vous n'avez pas assez de droit");
             }
         }
-       
+        
         
 
     }
@@ -172,7 +143,7 @@ class EmployesController extends Controller
      */
     public function edit(Request $request,$id)
     {
-
+        
         $user = $request->user();
        
         if (!$user) {
@@ -183,11 +154,10 @@ class EmployesController extends Controller
             $team = Team::find($user->current_team_id);
             if($user->hasTeamPermission($team, 'read')){
                 
-                $employee = Employee::findOrFail($id);
+                $child = Child::findOrFail($id);
 
-        return Inertia::render('Employee/edit', [
-            #$employee = Employee::findOrFail($employee->id)
-            'employee' => $employee,
+        return Inertia::render('child/edit', [
+            'child' => $child,
         ]);
                 
             }else{
@@ -215,39 +185,20 @@ class EmployesController extends Controller
         //     abort(401, "vous n'avez pas assez de droit");
         // }
         $request->validate([
-            'name' => 'required',
-            'nameAr' => 'required',
+           'name' => 'required',
             'lastname' => 'required',
-            'lastnameAr' => 'required',
-            'sexe' => 'required',
             'dataNaiss' => 'required',
-            'cityNaiss' => 'required',
-            'dairaNaiss'=>'required',
-            'wilaya' => 'required',
-            'typeContrat'=> 'required',
-            'actContrat'=> 'required',
-            'timeContrat'=> 'required',
-            'nameFather' => 'required',
-            'nameMother' => 'required',
-            'nationalite' => 'required',
-            'lastnameMother' => 'required',
-            'addres' => 'required',
-            'NsocialSecure' => 'required',
-            // 'image'=>'required',
-            'NMutu' => 'required',
-            'nameMutu' => 'required',
-            'mutuAgence' => 'required',
-            'bankNumber' => 'required',
-            'bankName' => 'required',
-            'telephone' => 'required',
-            'bloodType' => 'required',
-            'nin' => 'required',
-            'itlvl'=> 'required',
-            'situation' => 'required'
+            'wilayaNaiss' => 'required',
+            'sexe' => 'required',
+            'cycle' => 'required',
+            'charge' => 'required',
+            'school' => 'required',
+            'employee_id' => 'required'
+
         ]);
 
-        $employee = Employee::findOrFail($request->id);
-        $employee->update($request->all());
+        $Child = Child::findOrFail($request->id);
+        $Child->update($request->all());
 
 
 

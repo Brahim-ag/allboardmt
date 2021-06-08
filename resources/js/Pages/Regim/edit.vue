@@ -5,12 +5,12 @@
                 Regime Disciplinaire
             </h2>
         </template>
-              <div class="container mx-auto grid grid-cols-4 gap-3">
+              <div>
                 
 
                 <div class="form-group">
-                    <strong>Degré de la Sanction :</strong>
-                    <select class="custom-select d-block w-100" required v-model="regimsData.degre">
+                    <label  class="block text-sm font-medium text-gray-700">Degré de la Sanction :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" required v-model="regimsData.degre">
                         <option> 1er Degré الدرجة الأول
                         </option>
                         <option>2ème Degré الدرجة الثانية
@@ -24,8 +24,8 @@
 
 
                 <div class="form-group">
-                    <strong>Type de Faute :</strong>
-                    <select class="custom-select d-block w-100" required v-model="regimsData.typef">
+                    <label  class="block text-sm font-medium text-gray-700">Type de Faute :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" required v-model="regimsData.typef">
 
                         <option disabled style="background:blue;color:white;font-weight:bold"> 1er Degré أخطاء من الدرجة
                             الأولى </option>
@@ -112,15 +112,15 @@
 
 
                 <div class="form-group">
-                    <strong>Date de la Faute :</strong>
-                    <input required type="date" v-model="regimsData.datef" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date de la Faute :</label>
+                    <input required type="date" v-model="regimsData.datef" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
 
 
                 <div class="form-group">
-                    <strong>Type de Sanction :</strong>
-                    <select class="custom-select d-block w-100" required  v-model="regimsData.typeS">
+                    <label  class="block text-sm font-medium text-gray-700">Type de Sanction :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" required  v-model="regimsData.typeS">
                         <option disabled style="background:blue;color:white;font-weight:bold">1er Degré الدرجة الأول
                         </option>
                         <option>
@@ -152,16 +152,16 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <strong>Numéro de PV CAP :</strong>
-                    <input required type="number" v-model="regimsData.nPV" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Numéro de PV CAP :</label>
+                    <input required type="number" v-model="regimsData.nPV" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Date de PV CAP :</strong>
-                    <input required type="date" v-model="regimsData.datePV" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date de PV CAP :</label>
+                    <input required type="date" v-model="regimsData.datePV" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Degré Sanction - Sentence de la Commission</strong>
-                    <select class="custom-select d-block w-100" required  v-model="regimsData.degreSonctCom">
+                    <label  class="block text-sm font-medium text-gray-700">Degré Sanction - Sentence de la Commission</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" required  v-model="regimsData.degreSonctCom">
                         <option> 1er Degré الدرجة الأول
                         </option>
                         <option>2ème Degré الدرجة الثانية
@@ -174,8 +174,8 @@
                 </div>
 
                 <div class="form-group">
-                    <strong>Type de Sanction :</strong>
-                    <select class="custom-select d-block w-100" required  v-model="regimsData.typeSonctCom">
+                    <label  class="block text-sm font-medium text-gray-700">Type de Sanction :</label>
+                    <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" required  v-model="regimsData.typeSonctCom">
                         <option disabled style="background:blue;color:white;font-weight:bold">1er Degré الدرجة الأول
                         </option>
                         <option>
@@ -207,16 +207,16 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <strong>Numéro d'Acte de Sanction</strong>
-                    <input required type="text" v-model="regimsData.nacte" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Numéro d'Acte de Sanction</label>
+                    <input required type="text" v-model="regimsData.nacte" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Date de Signature d'Acte</strong>
-                    <input required type="date" v-model="regimsData.datesign" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date de Signature d'Acte</label>
+                    <input required type="date" v-model="regimsData.datesign" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
                 <div class="form-group">
-                    <strong>Date d'Effet d'Acte</strong>
-                    <input required type="date" v-model="regimsData.dateeff" class="mt-1 block w-full">
+                    <label  class="block text-sm font-medium text-gray-700">Date d'Effet d'Acte</label>
+                    <input required type="date" v-model="regimsData.dateeff" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
                 </div>
 
             </div>

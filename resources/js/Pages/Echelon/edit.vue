@@ -6,15 +6,15 @@
             </h2>
         </template>
         <div>
-            <div class="container mx-auto grid grid-cols-4 gap-3">
-                 <div class="">
-                        
-                        <hr />
+           <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
+            <div class="px-4 py-5 bg-white sm:p-6">
+              <div class="grid grid-cols-6 gap-6">
+                <div class="col-span-6 sm:col-span-3">
 
                         <div class="form-group">
-                            <strong>Echelon :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Echelon :</label>
                             <select
-                                class="custom-select d-block w-100"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 id="state"
                                 v-model="echelonsData.echelon"
                             >
@@ -43,36 +43,36 @@
                         </div>
 
                         <div class="form-group">
-                            <strong>Numéro d'Acte :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Numéro d'Acte :</label>
                             <input
                                 required
                                 type="number"
                                 v-model="echelonsData.number"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                         <div class="form-group">
-                            <strong>Date de Signature d'Acte :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date de Signature d'Acte :</label>
                             <input
                                 required
                                 type="date"
                                 v-model="echelonsData.dateSign"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                         <div class="form-group">
-                            <strong>Date d'Effet :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date d'Effet :</label>
                             <input
                                 required
                                 type="date"
                                 v-model="echelonsData.dateEffe"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                         <div class="form-group">
-                            <strong>Durée :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Durée :</label>
                             <select
-                                class="custom-select d-block w-100"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 v-model="echelonsData.duree"
                             >
                                 <option>Minimale الدنيا</option>
@@ -81,9 +81,9 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <strong>Type de Commission :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Type de Commission :</label>
                             <select
-                                class="custom-select d-block w-100"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                                 v-model="echelonsData.typeComm"
                             >
                                 <option>
@@ -99,22 +99,22 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <strong>Numéro d'Approbation :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Numéro d'Approbation :</label>
                             <input
                                 required
                                 type="number"
                                 v-model="echelonsData.numberApp"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
 
                         <div class="form-group">
-                            <strong>Date de Signature :</strong>
+                            <label  class="block text-sm font-medium text-gray-700">Date de Signature :</label>
                             <input
                                 required
                                 type="date"
                                 v-model="echelonsData.dateSignApp"
-                                class="mt-1 block w-full"
+                                class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                             />
                         </div>
                     </div>
@@ -127,6 +127,8 @@
         </div>
 
         <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
+         </div>
+      </div>
     </app-layout>
 </template>
 <script>

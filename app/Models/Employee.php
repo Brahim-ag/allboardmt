@@ -25,6 +25,7 @@ class Employee extends Model
         'cityNaiss',
         'dairaNaiss',
         'wilaya',
+        'image',
         'nameFather',
         'nameMother',
         'lastnameMother',
@@ -55,7 +56,7 @@ class Employee extends Model
 
     public function spouses()
     {
-        return $this->hasMany('App\Models\Spouse');
+        return $this->hasMany('App\Models\Spouce');
     }
 
     public function childs()
@@ -177,5 +178,9 @@ class Employee extends Model
     public function Expro()
     {
         return $this->hasMany('App\Models\Expro');
+    }
+    public function Disposition()
+    {
+        return $this->hasMany('App\Models\Disposition');
     }
 }
