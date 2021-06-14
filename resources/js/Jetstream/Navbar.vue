@@ -212,11 +212,11 @@ export default {
                             name: "FORMATIONS EXTERNES",
                             href: "/formation/"+this.info,
                         },
-                        { name: "LANGUAGES", href: "/antecejudi/"+this.info },
+                        { name: "LANGUES ETRANGERES", href: "/antecejudi/"+this.info },
                         { name: "ANTÉCÉDENTS JUDICIAIRES", href: "/antecejudi/"+this.info },
                         { name: "PARCOURS SCOLAIRE", href: "/parcour/"+this.info },
                         { name: "ENFANTS", href: "/child/"+this.info },
-                        { name: "Conjoints", href: "/spouce/"+this.info },
+                        { name: "CONJOINTS", href: "/spouce/"+this.info },
                     ],
                 },
                 {
@@ -235,7 +235,7 @@ export default {
                         { name: "FORMATIONS INTERNES ", href: "/formationint/"+this.info },
                         { name: "EVALUATIONS", href: "/antecejudi/"+this.info },
                         { name: "CESSATION", href: "/cessation/"+this.info },
-                        { name: "Expérience Professionnelle Externe ", href: "/expro/"+this.info },
+                        { name: "EXPERIENCE PROFESSIONNELLE", href: "/expro/"+this.info },
 
                     ],
                 },
