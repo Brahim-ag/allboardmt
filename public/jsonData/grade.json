@@ -195,25 +195,25 @@
             "name": "Ingénieur en Chef en Informatique",
             "disable": false,
             "rank": 16,
-            "postar": "رئيس المهندسين  في الاعلام الآلي"
+            "postar": "رئيس المهندسين في الاعلام الآلي"
         },
         {
             "name": "Ingénieur Principal en Informatique",
             "disable": false,
             "rank": 14,
-            "postar": "المهندسون الرئيسيون  في الاعلام الآلي"
+            "postar": "مهندس رئيسي في الاعلام الآلي"
         },
         {
             "name": "Ingénieur d’Etat en Informatique ",
             "disable": false,
             "rank": 13,
-            "postar": "مهندسو الدولة  في الاعلام الآلي"
+            "postar": "مهندس دولة في الاعلام الآلي"
         },
         {
             "name": "Ingénieur d’Application en Informatique",
             "disable": false,
             "rank": 11,
-            "postar": "المهندسون التطبيقيون  في الاعلام الآلي"
+            "postar": "مهندس تطبيقي في الاعلام الآلي"
         },
         {
             "name": "Assistants Ingénieurs",
@@ -265,9 +265,15 @@
         },
         {
             "name": "Agents Techniques en Informatique",
-            "disable": false,
+            "disable": true,
             "rank": null,
             "postar": "الأعوان التقنيون\n"
+        },
+        {
+            "name": " Agent Technique en Informatique ",
+            "disable": false,
+            "rank": 5,
+            "postar": "عون تقني في الاعلام الآلي"
         },
         {
             "name": "Filière « Statistiques »",
@@ -285,7 +291,7 @@
             "name": "Ingénieur en Chef  en Statistique",
             "disable": false,
             "rank": 16,
-            "postar": "    رئيس المهندسين في الإحصائيات"
+            "postar": "رئيس المهندسين في الإحصائيات"
         },
         {
             "name": "Ingénieur Principal en Statistique",
@@ -297,13 +303,13 @@
             "name": "Ingénieur d’Etat en Statistique ",
             "disable": false,
             "rank": 13,
-            "postar": "   مهندس دولة في الإحصائيات"
+            "postar": "مهندس دولة في الإحصائيات"
         },
         {
             "name": "Ingénieur d’Application en Statistique",
             "disable": false,
             "rank": 11,
-            "postar": "  مهندس تطبيقي في الإحصائيات"
+            "postar": "مهندس تطبيقي في الإحصائيات"
         },
         {
             "name": "Assistants Ingénieurs",
@@ -447,13 +453,13 @@
             "name": "Ingénieur en Chef en Laboratoire et Maintenance",
             "disable": false,
             "rank": 16,
-            "postar": "  رئيس المهندسين في المخبر و الصيانة"
+            "postar": "رئيس المهندسين في المخبر و الصيانة"
         },
         {
             "name": "Ingénieur Principal  en Laboratoire et Maintenance",
             "disable": false,
             "rank": 14,
-            "postar": "  مهندس رئيسي في المخبر و الصيانة"
+            "postar": "مهندس رئيسي في المخبر و الصيانة"
         },
         {
             "name": "Ingénieur d’Etat en Laboratoire et Maintenance",
@@ -465,7 +471,7 @@
             "name": "Ingénieur d’Application  Laboratoire et Maintenance",
             "disable": false,
             "rank": 11,
-            "postar": " مهندس تطبيقي في المخبر و الصيانة"
+            "postar": "مهندس تطبيقي في المخبر و الصيانة"
         },
         {
             "name": "Assistants Ingénieurs",
@@ -477,13 +483,13 @@
             "name": "Assistant Ingénieur de Niveau 2 Laboratoire et Maintenance",
             "disable": false,
             "rank": 11,
-            "postar": " مساعد مهندس مستوى2 في المخبر و الصيانة"
+            "postar": "مساعد مهندس مستوى2 في المخبر و الصيانة"
         },
         {
             "name": "Assistant Ingénieur de Niveau 1 Laboratoire et Maintenance",
             "disable": false,
             "rank": 10,
-            "postar": " مساعد مهندس مستوى1 في المخبر و الصيانة"
+            "postar": "مساعد مهندس مستوى1 في المخبر و الصيانة"
         },
         {
             "name": "Techniciens",
@@ -495,19 +501,25 @@
             "name": "Technicien Supérieur Laboratoire et Maintenance",
             "disable": false,
             "rank": 10,
-            "postar": " تقني سامي في المخبر و الصيانة"
+            "postar": "تقني سامي في المخبر و الصيانة"
         },
         {
             "name": "Technicien en Laboratoire et Maintenance ",
             "disable": false,
             "rank": 8,
-            "postar": "  تقني في المخبر و الصيانة"
+            "postar": "تقني في المخبر و الصيانة"
+        },
+        {
+            "name": "Adjoints Techniques",
+            "disable": true,
+            "rank": null,
+            "postar": "المعاونون التقنيون"
         },
         {
             "name": "Adjoint Technique en Laboratoire et Maintenance ",
-            "disable": true,
+            "disable": false,
             "rank": null,
-            "postar": " معاون تقني في المخبر و الصيانة"
+            "postar": "معاون تقني في المخبر و الصيانة"
         },
         {
             "name": "Adjoint Technique",
@@ -525,13 +537,13 @@
             "name": "Agent Technique  en Laboratoire et Maintenance",
             "disable": false,
             "rank": 5,
-            "postar": " عون تقني في المخبر و الصيانة"
+            "postar": "عون تقني في المخبر و الصيانة"
         },
         {
             "name": "Agents de Laboratoire",
-            "disable": false,
+            "disable": true,
             "rank": null,
-            "postar": "أعوان المخبر"
+            "postar": "اعوان المخابر"
         },
         {
             "name": "Agent de Laboratoire en Laboratoire et Maintenance ",
@@ -543,7 +555,7 @@
             "name": "Filière « Analystes de l’Economie »",
             "disable": true,
             "rank": null,
-            "postar": "سلك المحللين الاقتصادي الاقتصاديين"
+            "postar": "سلك المحللون الاقتصاديون"
         },
         {
             "name": "Analystes de l’Economie",
@@ -580,10 +592,10 @@
             "name": "Ingénieur en Chef en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 16,
-            "postar": "  رئيس المهندسين في السكن والعمران"
+            "postar": "رئيس المهندسين في السكن والعمران"
         },
         {
-            "name": "Ingénieur Principal  en l’Habitat et l’Urbanisme",
+            "name": "Ingénieur Principal en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 14,
             "postar": "مهندس رئيسي في السكن والعمران"
@@ -592,13 +604,13 @@
             "name": "Ingénieur d’Etat",
             "disable": false,
             "rank": 13,
-            "postar": "  مهندس دولة في السكن والعمران"
+            "postar": "مهندس دولة في السكن والعمران"
         },
         {
-            "name": "Ingénieur d’Application  en l’Habitat et l’Urbanisme",
+            "name": "Ingénieur d’Application en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 11,
-            "postar": " مهندس تطبيقي في السكن والعمران"
+            "postar": "مهندس تطبيقي في السكن والعمران"
         },
         {
             "name": "Architectes",
@@ -694,7 +706,7 @@
             "name": "Agent Technique en l’Habitat et l’Urbanisme",
             "disable": false,
             "rank": 2,
-            "postar": " عون تقني في السكن والعمران "
+            "postar": "عون تقني في السكن والعمران "
         }
     ],
     "ovrir": [{
