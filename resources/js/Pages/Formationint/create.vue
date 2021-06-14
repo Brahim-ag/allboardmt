@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Nouvelle Formation
+                Nouvelle Formation Interne
             </h2>
         </template>
         <div>
