@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                 Ajouter un enfant
+                 Ajouter un conjoint
             </h2>
 
  
@@ -100,7 +100,7 @@
                         />
                     </div>
                      <div class="form-group">
-                        <label  class="block text-sm font-medium text-gray-700">Date de décès::</label>
+                        <label  class="block text-sm font-medium text-gray-700">Date de décès:</label>
                         <input
                             required
                             type="date"
