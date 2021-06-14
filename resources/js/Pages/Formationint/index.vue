@@ -23,7 +23,7 @@
                     <td class="px-2 py-4 whitespace-nowrap">{{ formation.etabili }}</td>
                     <td class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
                         <inertia-link :href="`/formationint/edit/${formation.id}`">
-                            modifier
+                            Modifier
                         </inertia-link>
                     </td>
                 </tr>
