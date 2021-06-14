@@ -35,7 +35,7 @@
 
                         <div class="form-group">
                             <label  class="block text-sm font-medium text-gray-700">
-                                >Numéro d'Accord Final du Ministère </label>
+                                Numéro d'Accord Final du Ministère </label>
                             <input
                                 required
                                 type="text"
