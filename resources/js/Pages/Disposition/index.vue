@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Mise à la Disposition 
+                Mises à la Disposition 
             </h2>
         </template>
         <div class="px-2 mx-auto shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
@@ -19,10 +19,8 @@
                 <th>Date d'Effet d'Acte</th>
                 <th>Numéro de Visa CF</th>
                 <th>Date d'Effet CF</th>
-                <th>Date de l’accord du Ministère :
-</th>
-                <th>N° de l’accord du Ministère :
-</th>
+                <th>Date de l’accord</th>
+                <th>N° de l’accord</th>
                 <!-- <th>Date Réintégration  :
 </th>
                 <th>Date d’installation :		
@@ -47,13 +45,13 @@
                 <!-- <td class="px-2 py-4 whitespace-nowrap">{{ disposition.dateRei }}</td>
                 <td class="px-2 py-4 whitespace-nowrap">{{ disposition.dateInstal }}</td> -->
                     <td class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
-                        <inertia-link :href="`/disposition/edit/${disposition.id}`"> modifier </inertia-link>
+                        <inertia-link :href="`/disposition/edit/${disposition.id}`">Modifier</inertia-link>
 
                         
                     </td>
                 </tr>
             </table>
-            <inertia-link :href="`/disposition/create/${this.employe_id}`">Ajouter</inertia-link>
+            <inertia-link :href="`/disposition/create/${this.employe_id}`" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Ajouter</inertia-link>
         </div>
     </app-layout>
 </template>
