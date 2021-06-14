@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Modifer un employé
+                Modification Parcours Scolaire
             </h2>
         </template>
         <div>
@@ -10,7 +10,6 @@
             <div class="px-4 py-5 bg-white sm:p-6">
               <div class="grid grid-cols-6 gap-6">
                 <div class="col-span-6 sm:col-span-3">
-                    <h3>Modification Parcours Scolaire</h3>
                     <hr />
 
                     <div class="form-group">
