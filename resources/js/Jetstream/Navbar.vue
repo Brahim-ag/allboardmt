@@ -215,7 +215,6 @@ export default {
                         { name: "LANGUAGES", href: "/antecejudi/"+this.info },
                         { name: "ANTÉCÉDENTS JUDICIAIRES", href: "/antecejudi/"+this.info },
                         { name: "PARCOURS SCOLAIRE", href: "/parcour/"+this.info },
-                        { name: "Expérience Professionnelle Externe ", href: "/expro/"+this.info },
                         { name: "ENFANTS", href: "/child/"+this.info },
                         { name: "Conjoints", href: "/spouce/"+this.info },
                     ],
@@ -225,16 +224,19 @@ export default {
                     href: "#",
                     current: false,
                     sub: [
+                        { name: "RECRUTEMENT", href: "/recrutement/"+this.info },
                         {
                             name: "STAGES",
                             href: "/stage/"+this.info,
                         },
-                        { name: "RECRUTEMENT", href: "/recrutement/"+this.info },
+                        
                         { name: "ECHELONS", href: "/echelons/"+this.info },
                         { name: "GRADES", href: "/grade/"+this.info },
                         { name: "FORMATIONS INTERNES ", href: "/formationint/"+this.info },
                         { name: "EVALUATIONS", href: "/antecejudi/"+this.info },
                         { name: "CESSATION", href: "/cessation/"+this.info },
+                        { name: "Expérience Professionnelle Externe ", href: "/expro/"+this.info },
+
                     ],
                 },
                 {

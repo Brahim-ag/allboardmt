@@ -179,3 +179,5 @@ Route::get('/spouce/edit/{parcour_id}',[SpoucesController::class,'edit'])->middl
 Route::middleware(['auth:sanctum', 'verified'])->get('/', function () {
     return Inertia::render('Employee/index',);
 })->name('dashboard');
+
+Route::get('/dashboard',[EmployesController::class,'index'])->middleware(['auth']);

@@ -6,14 +6,27 @@
         {{ employe.lastnameAr }}
         {{ employe.nameAr }}
       </h2>
-      <div class="inline-block inset-y-0 right-0 w-16" @click="print()">
-        <PrinterIcon class="h-5 w-5 text-blue-500" />
+     
+       <div class="inline-block  inset-y-0 right-0 w-10" @click="toggleFoto()">
+        <UserCircleIcon  class="h-7 w-7 text-blue-500" />
+      </div> 
+       <div class="inline-block inset-y-10 right-0 w-10" @click="print()">
+        <PrinterIcon class="h-7 w-7 text-blue-500" />
+      </div>
+      <div class="inline-block inset-y-0 right-0 w-10" >
+         <inertia-link
+                      
+                      :href="`/employe/edit/${employe.id}`"
+                    >
+                       <PencilAltIcon  class="h-7 w-7 text-blue-500" /></inertia-link
+                    >
+       
       </div>
     </template>
     <navbar :info="employe.id" />
 
-    <div class="flex max-w-8xl mx-auto py-10 sm:px-2 lg:px-8">
-      <div class="flex-auto">
+    <div class="flex  mx-auto py-10 sm:px-2 lg:px-16">
+      <div class="flex-auto max-w-11xl">
         <div class="bg-white shadow overflow-hidden sm:rounded-lg">
           <div class="px-2 py-5 sm:px-2">
             <h3 class="text-lg leading-6 font-medium text-gray-900">
@@ -243,7 +256,7 @@
 
         <h3></h3>
       </div>
-      <div class="flex-auto">
+      <div class="">
         <div class="bg-white shadow overflow-hidden sm:rounded-lg left-0 top-0">
           <div class="px-2 py-5 sm:px-2">
             <h3 class="text-lg leading-6 font-medium text-gray-900">
@@ -259,7 +272,7 @@
                 class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
               >
                 <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-                  {{ employe.nin }}
+                 
                 </dd>
                 <dt class="text-sm font-medium text-gray-500">
                   رقم التعريف الوطني
@@ -270,7 +283,6 @@
                 class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
               >
                 <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-                  {{ employe.dataNaiss }}
                 </dd>
                 <dt class="text-sm font-medium text-gray-500">تاريخ الميلاد</dt>
               </div>
@@ -296,7 +308,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.wilaya }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">مكان الميلاد</dt>
           </div>
@@ -305,7 +316,6 @@
             class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.dairaNaiss }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">دائرة الميلاد</dt>
           </div>
@@ -314,7 +324,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.cityNaiss }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">البلدية الميلاد</dt>
           </div>
@@ -323,7 +332,6 @@
             class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.addresAr }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">العنوان</dt>
           </div>
@@ -332,7 +340,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.nationalite }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">الجنسية</dt>
           </div>
@@ -351,7 +358,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.situation }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">الحالة العائلية</dt>
           </div>
@@ -360,7 +366,6 @@
             class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.bloodType }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">فصيلة الدم   </dt>
           </div>
@@ -371,7 +376,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.logement }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">سكن وظيفي</dt>
           </div>
@@ -380,7 +384,6 @@
             class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.telephone }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">رقم الهاتف   </dt>
           </div>
@@ -389,7 +392,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.email }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">البريد الإلكتروني</dt>
           </div>
@@ -398,7 +400,6 @@
             class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.bankNumber }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">
               رقم الحساب البنكي او البريدي
@@ -409,7 +410,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.bankName }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">
               الحساب البنكي او البريدي
@@ -420,7 +420,6 @@
             class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.NsocialSecure }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">
               رقم الإشتراك الضمان الاجتماعي
@@ -431,7 +430,6 @@
             class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.mutuAgence }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">التعاضدية  </dt>
           </div>
@@ -440,7 +438,6 @@
             class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-              {{ employe.NMutu }}
             </dd>
             <dt class="text-sm font-medium text-gray-500">
               رقم الإشتراك في التعاضدية  
@@ -449,10 +446,24 @@
         </div>
       </div>
     </div>
-    <div>
-      <h1>photo <small>for testing </small></h1>
-      <img v-bind:src="`data:image/jpeg;base64,`+this.employee.image"/>
-    </div>
+    <jet-dialogModal :show="showFoto" @close="showFoto = false">
+        <template #title>
+        Photo
+    </template>
+
+    <template #content>
+       <img v-bind:src="`data:image/jpeg;base64,`+this.employee.image"/>
+    </template>
+
+    <template #footer>
+        <jet-secondary-button  @click="toggleFoto()">
+            fermer
+        </jet-secondary-button>
+
+        
+    </template>
+      
+    </jet-dialogModal>
   </app-layout>
 </template>
 
@@ -472,7 +483,7 @@ import JetLabel from "@/Jetstream/Label";
 import JetSecondaryButton from "@/Jetstream/SecondaryButton";
 import JetSectionBorder from "@/Jetstream/SectionBorder";
 import Navbar from "@/Jetstream/Navbar";
-import { PrinterIcon } from "@heroicons/vue/solid";
+import { PrinterIcon,UserCircleIcon,PencilAltIcon } from "@heroicons/vue/solid";
 import jsPDF from "jspdf";
 import JsPDFAutotable from "jspdf-autotable";
 import { base64StringToBlob } from "blob-util";
@@ -493,6 +504,8 @@ export default {
     JetSectionBorder,
     Navbar,
     PrinterIcon,
+    UserCircleIcon,
+    PencilAltIcon,
     jsPDF,
     JsPDFAutotable,
     base64StringToBlob,
@@ -506,6 +519,7 @@ export default {
       profiles: this.profile,
       grades: this.grade,
       recrutements: this.recrutements,
+      showFoto:false
     };
   },
   methods: {
@@ -757,6 +771,16 @@ export default {
       
      
     },
+    toggleFoto:function () {
+      if(this.showFoto == true){
+        this.showFoto = false
+
+      }
+      else{
+        this.showFoto = true
+      }
+      
+    }
   },
   created() {
     this.previewImage();

@@ -10,7 +10,7 @@
       <menu></menu>
     </template>
     <div class="flex flex-col">
-      <div class="mx-auto py-10 sm:px-3 lg:px-12">
+      <div class="mx-auto py-10 sm:px-3 lg:px-2">
         <div class="py-2 align-middle inline-block min-w-full sm:px-2 lg:px-8">
           <div
             class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg"
@@ -28,8 +28,23 @@
                     scope="col"
                     class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
                   >
+                      Date de Naissance
+                  </th>
+                  <th
+                    scope="col"
+                    class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+                  >
                     Wilaya
                   </th>
+                   <th
+                    scope="col"
+                    class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+                  >
+                     Situation Familiale 
+                  </th>
+               
+
+
                   <th
                     scope="col"
                     class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
@@ -42,36 +57,7 @@
                   >
                     Numéro Mutuelle
                   </th>
-                  <th
-                    scope="col"
-                    class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
-                  >
-                    Type du Contrat
-                  </th>
-                  <th
-                    scope="col"
-                    class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
-                  >
-                    Type du Contrat
-                  </th>
-                  <th
-                    scope="col"
-                    class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
-                  >
-                    Type du Contrat
-                  </th>
-                  <th
-                    scope="col"
-                    class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
-                  >
-                    Type du Contrat
-                  </th>
-                  <th
-                    scope="col"
-                    class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
-                  >
-                    Type du Contrat
-                  </th>
+                
                   <th
                     scope="col"
                     class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
@@ -93,6 +79,9 @@
                     </inertia-link>
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
+                    {{ employe.dataNaiss }}
+                  </td>
+                  <td class="px-2 py-4 whitespace-nowrap">
                     {{ employe.wilaya }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
@@ -101,20 +90,8 @@
                   <td class="px-2 py-4 whitespace-nowrap">
                     {{ employe.NMutu }}
                   </td>
-                  <td class="px-2 py-4 whitespace-nowrap">
-                    {{ employe.typeContrat }}
-                  </td>
-                  <td class="px-2 py-4 whitespace-nowrap">
-                    {{ employe.typeContrat }}
-                  </td>
-                  <td class="px-2 py-4 whitespace-nowrap">
-                    {{ employe.typeContrat }}
-                  </td>
-                  <td class="px-2 py-4 whitespace-nowrap">
-                    {{ employe.typeContrat }}
-                  </td>
-                  <td class="px-2 py-4 whitespace-nowrap">
-                    {{ employe.typeContrat }}
+                   <td class="px-2 py-4 whitespace-nowrap">
+                    {{ employe.situation }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
                     {{ employe.telephone }}

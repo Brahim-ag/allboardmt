@@ -1,39 +1,28 @@
 <template>
-    <app-layout>
-        <template #header>
-            <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Create Team
-            </h2>
-        </template>
+  <app-layout>
+    <template #header>
+      <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+        Create Team
+      </h2>
+    </template>
 
-        <div>
-            <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
-                <create-team-form />
-            </div>
-        </div>
-    </app-layout>
+    <div>
+      <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
+        <create-team-form />
+      </div>
+    </div>
+  </app-layout>
 </template>
 
 <script>
-    import AppLayout from '@/Layouts/AppLayout'
-    import CreateTeamForm from './CreateTeamForm'
+import AppLayout from "@/Layouts/AppLayout";
+import CreateTeamForm from "./CreateTeamForm";
 
-    export default {
-        components: {
-             AppLayout,
-        JetActionMessage,
-        JetActionSection,
-        JetButton,
-        JetConfirmationModal,
-        JetDangerButton,
-        JetDialogModal,
-        JetFormSection,
-        JetInput,
-        JetInputError,
-        JetLabel,
-        JetSecondaryButton,
-        JetSectionBorder,
-            CreateTeamForm,
-        },
-    }
+export default {
+  components: {
+    AppLayout,
+
+    CreateTeamForm,
+  },
+};
 </script>

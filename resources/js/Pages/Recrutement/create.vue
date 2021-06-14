@@ -119,37 +119,72 @@
                     </select>
                 </div>
                 
-                <div class="col-span-6 sm:col-span-2">
-                    <jet-label value="Type de Fonctionnaire :" />
-                    <jet-input
-                        disabled
-                        type="text"
-                        v-model="recrutementsData.typeContra"
-                        class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
-                    >
-                       
-                    </jet-input>
-                </div>
-                 <div class="col-span-6 sm:col-span-2">
-                    <jet-label value="Type de Contrat : :" />
-                    <jet-input
-                        disabled
-                        type="text"
-                        v-model="recrutementsData.actContrat"
-                       class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" />
-                        
-                    
-                </div>
-                <div class="col-span-6 sm:col-span-2">
-                    <jet-label value="Durée de la relation de travail  :" />
-                    <jet-input
-                        disabled
-                        type="text"
-                        v-model="recrutementsData.dureContrat"
-                       class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" />
-                        
-                    
-                </div>
+            <div class="col-span-6 sm:col-span-2">
+              <jet-label value="Type de Fonctionnaire :" />
+
+              <select
+                required
+                v-model="recrutementsData.typeContra"
+                class="
+                  mt-1
+                  focus:ring-indigo-500
+                  focus:border-indigo-500
+                  block
+                  w-full
+                  shadow-sm
+                  sm:text-sm
+                  border-gray-300
+                  rounded-md
+                "
+              >
+                <option>Titulaire</option>
+                <option>Agent Contractuel</option>
+              </select>
+            </div>
+            <div class="col-span-6 sm:col-span-2">
+              <jet-label value="Type de Contrat : :" />
+              <select
+                required
+                v-model="recrutementsData.actContrat"
+                class="
+                  mt-1
+                  focus:ring-indigo-500
+                  focus:border-indigo-500
+                  block
+                  w-full
+                  shadow-sm
+                  sm:text-sm
+                  border-gray-300
+                  rounded-md
+                "
+              >
+                <option>----------------</option>
+                <option>Contrat à Durée indéterminée</option>
+                <option>Contrat à Durée Déterminée</option>
+              </select>
+            </div>
+            <div class="col-span-6 sm:col-span-2">
+              <jet-label value="Durée de la relation de travail  :" />
+              <select
+                required
+                v-model="recrutementsData.dureContrat"
+                class="
+                  mt-1
+                  focus:ring-indigo-500
+                  focus:border-indigo-500
+                  block
+                  w-full
+                  shadow-sm
+                  sm:text-sm
+                  border-gray-300
+                  rounded-md
+                "
+              >
+                <option>----------------</option>
+                <option>Temps plein</option>
+                <option>Temps Partiel</option>
+              </select>
+            </div>
                
                 <div class="form-group">
                     <jet-strong>Numéro d'Acte/Contrat :</jet-strong>

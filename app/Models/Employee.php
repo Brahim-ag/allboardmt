@@ -15,9 +15,6 @@ class Employee extends Model
     protected $fillable = [
         'name',
         'nameAr',
-        'typeContrat',
-        'actContrat',
-        'timeContrat',
         'lastname',
         'lastnameAr',
         'sexe',
@@ -110,7 +107,7 @@ class Employee extends Model
     }
     public function recrutements()
     {
-        return $this->hasMany('App\Models\Recrutement');
+        return $this->hasOne('App\Models\Recrutement');
     }
 
     public function echelons()

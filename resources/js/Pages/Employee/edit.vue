@@ -325,7 +325,7 @@
             </div>
 
             <div class="col-span-6 sm:col-span-2">
-                <div class="col-span-6 sm:col-span-2">
+                <!-- <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Type de Fonctionnaire :" />
                     <select
                         required
@@ -359,7 +359,7 @@
                         <option>Temps plein</option>
                         <option>Temps Partiel</option>
                     </select>
-                </div>
+                </div> -->
                 <div class="col-span-6 sm:col-span-2">
                     <jet-label value="Numéro de Compte Bancaire ou CCP :" />
                     <input

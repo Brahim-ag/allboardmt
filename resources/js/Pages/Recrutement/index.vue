@@ -2,17 +2,18 @@
   <app-layout>
     <template #header>
       <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-        Recrutement >
+        Recrutement
       </h2>
     </template>
     <div class="flex flex-col">
       <div class="flex max-w-8xl mx-auto py-10 sm:px-2 lg:px-8">
-        <div class="py-2 align-middle inline-block min-w-full sm:px-2 lg:px-8">
+        <div class="py-2 align-middle inline-block min-w-full sm:px-2 lg:px-8" >
+          <div  v-if="!recrutements"> 
           <inertia-link
             :href="`/recrutement/create/${this.employe_id}`"
             class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded"
             >Ajouter</inertia-link
-          >
+          ></div>
           <div
             class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg"
           >
@@ -83,41 +84,41 @@
                 </tr>
               </thead>
               <tbody class="bg-white divide-y divide-gray-200">
-                <tr v-for="(recrutement, index) in recrutements" :key="index">
-                  <td>{{ recrutement.grade }}</td>
+                <tr>
+                  <td>{{ recrutements.grade }}</td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.typem }}
+                    {{ recrutements.typem }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.typep }}
+                    {{ recrutements.typep }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.number }}
+                    {{ recrutements.number }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.dateEffect }}
+                    {{ recrutements.dateEffect }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.dateSignature }}
+                    {{ recrutements.dateSignature }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.NumberVisaCf }}
+                    {{ recrutements.NumberVisaCf }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.dateVisaCf }}
+                    {{ recrutements.dateVisaCf }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.dateInsta }}
+                    {{ recrutements.dateInsta }}
                   </td>
                   <td class="px-2 py-4 whitespace-nowrap">
-                    {{ recrutement.structure }}
+                    {{ recrutements.structure }}
                   </td>
 
                   <td
                     scope="col"
                     class="px-2 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
                   >
-                    <inertia-link :href="`/recrutement/edit/${recrutement.id}`">
+                    <inertia-link class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded" :href="`/recrutement/edit/${recrutements.id}`">
                       modifier
                     </inertia-link>
                   </td>
@@ -174,7 +175,7 @@ export default {
       axios
         .get("/api/recrutement/getall/" + this.employe_id)
         .then((response) => {
-          console.log(response.data);
+          
           this.recrutements = response.data;
         })
         .catch((err) => {
