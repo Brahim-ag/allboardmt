@@ -28,7 +28,7 @@
                     </td>
                 </tr>
             </table>
-            <inertia-link :href="`/formationint/create/${this.employe_id}`"
+            <inertia-link :href="`/formationint/create/${this.employe_id}`" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded"
                 >Ajouter</inertia-link
             >
         </div>
