@@ -91,11 +91,8 @@
           </table>
         </div>
       </div>
-    </div>
-    <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
-      <inertia-link :href="`/cessation/create/${this.employe_id}`" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded"
-        >Ajouter</inertia-link
-      >
+        <inertia-link :href="`/cessation/create/${this.employe_id}`" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded"
+        >Ajouter</inertia-link>
     </div>
   </app-layout>
 </template>
