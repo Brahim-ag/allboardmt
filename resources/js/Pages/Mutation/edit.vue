@@ -108,9 +108,9 @@
                         </div>
                     </div>
                     </div>
+                    </div>
                     
-        <button @click="postData()" class="btn btn-primary" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
-        </div>
+        <button @click="postData()"  class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
         </div>
     </app-layout>
 </template>
