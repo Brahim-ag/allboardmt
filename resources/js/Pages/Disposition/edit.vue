@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Modification Détachement Hors Cadres
+                Modification de mise à la disposition 
             </h2>
         </template>
         <div class="container mx-auto shadow overflow-hidden sm:rounded-md">

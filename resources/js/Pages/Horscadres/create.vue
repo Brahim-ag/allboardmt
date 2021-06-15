@@ -2,14 +2,13 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                 Hors Cadres
+                 Nouvelle Détachement Hors-Cadres
             </h2>
         </template>
         <div>
             <div>
                 <div class="row">
                     <div>
-                        <h3>Modification Détachement Hors Cadres</h3>
                         <hr />
                         <div class="form-group">
                             <label  class="block text-sm font-medium text-gray-700">Administration d'Origine :</label>

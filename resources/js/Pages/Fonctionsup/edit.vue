@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Modifiaction Poste Supérieur
+                Modifiaction Fonction Supérieur
             </h2>
         </template>
          <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
@@ -228,7 +228,7 @@
                         <option>Nomination fonction supérieur par décret</option>
                         <option>Reclassement</option>
                         <option>Mise fin de fonctions</option>
-                        <option>Délégation de signature,</option>
+                        <option>Délégation de signature</option>
                         <option>chargé</option>
                         <option>Fin de Chargé</option>
                     </select>

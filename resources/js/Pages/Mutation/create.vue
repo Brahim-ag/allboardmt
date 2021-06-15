@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Mutation
+                Nouvelle Mutation
             </h2>
         </template>
         <div>
@@ -35,7 +35,7 @@
 
                         <div class="form-group">
                             <label  class="block text-sm font-medium text-gray-700">
-                                >Numéro d'Accord Final du Ministère </label>
+                                Numéro d'Accord Final du Ministère </label>
                             <input
                                 required
                                 type="text"

@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Expérience Professionnelle Externe
+                Nouvelle Expérience Professionnelle
             </h2>
         </template>
          <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
@@ -10,7 +10,7 @@
               <div class="grid grid-cols-6 gap-6">
                 <div class="col-span-6 sm:col-span-3">
                         <div class="form-group">
-                            <label  class="block text-sm font-medium text-gray-700">GRADE / FONCTION / POSTE :</label>
+                            <label  class="block text-sm font-medium text-gray-700">Grade / Fonction / Poste :</label>
                           <input
                                 required
                                 type="text"
@@ -20,7 +20,7 @@
                         </div>
 
                         <div class="form-group">
-                            <label  class="block text-sm font-medium text-gray-700">ADMINISTRATION OU ORGANISME :</label>
+                            <label  class="block text-sm font-medium text-gray-700">Administration / Organisme :</label>
                             <input
                                 required
                                 type="text"

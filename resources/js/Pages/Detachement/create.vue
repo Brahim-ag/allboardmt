@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                mise en detachementnibilité
+                Nouveau détachement
             </h2>
         </template>
         <div>
