@@ -49,6 +49,24 @@
                   {{ employe.nin }}
                 </dd>
               </div>
+              
+              <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+                <dt class="text-sm font-medium text-gray-500">
+                  Nom
+                </dt>
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.name }}
+                </dd>
+              </div>
+              
+              <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+                <dt class="text-sm font-medium text-gray-500">
+                  Prénom
+                </dt>
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.lastname }}
+                </dd>
+              </div>
 
               <div
                 class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
@@ -132,6 +150,15 @@
 
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
               {{ employe.nationalite }}
+            </dd>
+          </div>
+          
+           <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+            <dt class="text-sm font-medium text-gray-500">
+              Prénom du Père
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.nameFather }}
             </dd>
           </div>
 
@@ -252,6 +279,25 @@
               {{ employe.NMutu }}
             </dd>
           </div>
+          
+          <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+            <dt class="text-sm font-medium text-gray-500">
+              Maladie Chronique
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.maladie }}
+            </dd>
+          </div>
+          
+          <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+            <dt class="text-sm font-medium text-gray-500">
+              Niveau Informatique
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.itlvl }}
+            </dd>
+          </div>
+              
         </div>
 
         <h3></h3>
@@ -277,6 +323,24 @@
                 <dt class="text-sm font-medium text-gray-500">
                   رقم التعريف الوطني
                 </dt>
+              </div>
+              
+              <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+                <dt class="text-sm font-medium text-gray-500">
+                  اللقب
+                </dt>
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.lastnameAr }}
+                </dd>
+              </div>
+              
+              <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+                <dt class="text-sm font-medium text-gray-500">
+                  الإسم
+                </dt>
+                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+                  {{ employe.nameAr }}
+                </dd>
               </div>
 
               <div
@@ -342,6 +406,15 @@
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
             </dd>
             <dt class="text-sm font-medium text-gray-500">الجنسية</dt>
+          </div>
+          
+          <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+            <dt class="text-sm font-medium text-gray-500">
+              اسم الأب
+            </dt>
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+              {{ employe.namefatherAr }}
+            </dd>
           </div>
 
           <div
@@ -443,6 +516,19 @@
               رقم الإشتراك في التعاضدية  
             </dt>
           </div>
+          
+          <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">مرض مزمن</dt>
+          </div>
+          
+          <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
+            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
+            </dd>
+            <dt class="text-sm font-medium text-gray-500">مستوى الإعلام الآلي</dt>
+          </div>
+          
         </div>
       </div>
     </div>
