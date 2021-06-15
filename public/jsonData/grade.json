@@ -707,6 +707,114 @@
             "disable": false,
             "rank": 2,
             "postar": "عون تقني في السكن والعمران "
+        },  
+        {
+            "name": "Filière Environnement",
+            "disable": true,
+            "rank": null,
+            "postar": "شعبة البيئة"
+        },
+        {
+            "name": "Ingénieurs",
+            "disable": true,
+            "rank": null,
+            "postar": "المهندسون"
+        },
+        {
+            "name": "Ingénieur en Chef en Environnement",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المهندسين في البيئة"
+        },
+        {
+            "name": "Ingénieur Principal en Environnement",
+            "disable": false,
+            "rank": 14,
+            "postar": "مهندس رئيسي في البيئة"
+        },
+        {
+            "name": "Ingénieur d’Etat en Environnement",
+            "disable": false,
+            "rank": 13,
+            "postar": "مهندس دولة في البيئة"
+        },
+        {
+            "name": "Inspecteurs en Environnement",
+            "disable": true,
+            "rank": null,
+            "postar": "المفتشون في البيئة"
+        },
+        {
+            "name": "Inspecteur divisionnaire en Chef en Environnement",
+            "disable": false,
+            "rank": 16,
+            "postar": "مفتش قسم رئيس في البيئة"
+        },
+        {
+            "name": "Inspecteur divisionnaire en Environnement",
+            "disable": false,
+            "rank": 14,
+            "postar": "مفتش قسم في البيئة"
+        },
+        {
+            "name": "Inspecteur principal en Environnement",
+            "disable": false,
+            "rank": 13,
+            "postar": "مفتش رئيسي في البيئة"
+        },
+        {
+            "name": "Inspecteur en Environnement",
+            "disable": false,
+            "rank": 12,
+            "postar": "مفتش في البيئة"
+        },
+        {
+            "name": "Techniciens en Environnement",
+            "disable": true,
+            "rank": null,
+            "postar": "التقنيون في البيئة"
+        },
+        {
+            "name": "Technicien Supérieur en Environnement",
+            "disable": false,
+            "rank": 10,
+            "postar": "تقني سام في البيئة"
+        },
+        {
+            "name": "Technicien en Environnement",
+            "disable": false,
+            "rank": 8,
+            "postar": "تقني في البيئة"
+        },
+        {
+            "name": "Filière Aménagement du territoire",
+            "disable": true,
+            "rank": null,
+            "postar": "شعبة تهيئة الإقليم"
+        },
+        {
+            "name": "Ingénieurs en Aménagement du territoire",
+            "disable": true,
+            "rank": null,
+            "postar": "المهندسون في تهيئة الإقليم"
+        },
+        {
+            "name": "Ingénieur en Chef en Aménagement du territoire",
+            "disable": false,
+            "rank": 16,
+            "postar": "رئيس المهندسين في تهيئة الإقليم"
+        },
+        {
+            "name": "Ingénieur Principal en Aménagement du territoire",
+            "disable": false,
+            "rank": 14,
+            "postar": "مهندس رئيسي في  تهيئة الإقليم"
+        },
+        {
+            "name": "Ingénieur d’Etat en Aménagement du territoire",
+            "disable": false,
+            "rank": 13,
+            "postar": "مهندس دولة في  تهيئة الإقليم"
         }
     ],
     "ovrir": [{
