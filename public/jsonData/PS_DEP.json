@@ -1,0 +1,142 @@
+[
+	{
+		"ps_fr":"Chef de Service des Etudes et des Evaluations",
+    "ps_ar":"رئيس مـصــلـحــة الـدراســات والـتــقـويم"
+  },
+	{
+		"ps_fr":"Chef de Bureau des Etudes et des Evaluations des Infrastructures Scolaires et Universitaires",
+    "ps_ar":"رئيس مكـتب الدراسات والتـقييـمات المتعـلقة بـالمنشآت"
+  },
+  {
+		"ps_fr":"Chef de Bureau des Etudes et des Evaluations des Autres Equipements Publics Sectoriels",
+    "ps_ar":"رئيس مــــكــــتـب الــــدراســــات والــــتــــقــــيــــيـــــمــــات المــــتــــعــــلــــقــــة بالتجهيزات العمومية القطاعية الأخرى"
+  },
+	{
+		"ps_fr":"Chef de Service de la Conduite et du Suivi des Opérations de Réalisation",
+    "ps_ar":"رئيس مصـلحـة التـسييـر ومتـابعـة العـملـيات المـنجزة"
+  },
+  {
+		"ps_fr":"Chef de Bureau de Conduite et du Suivi des Opérations de Travaux des Infrastructures Scolaires et Universitaires",
+    "ps_ar":"رئيس مكتب تـسييـر ومتابعـة عمليـات الأشغال المتـعلقة بالنشآت المدرسية والجامعية"
+  },
+	{
+		"ps_fr":"Chef de Bureau de Conduite et du Suivi des Opérations de Travaux des Autres Equipements Publics Sectoriels",
+    "ps_ar":"رئيس مكتب تـسييـر ومتابعـة عمليـات الأشغال المتـعلقة بالتجهيزات العمومية القطاعية الأخرى"
+  },
+  {
+		"ps_fr":"Chef de Service des Marchés Publics",
+    "ps_ar":"رئيس مـصـلـحـة الـصـفـقـات الـعـمـومـيـة"
+  },
+	{
+		"ps_fr":"Chef de Bureau des Marchés d’Etudes",
+    "ps_ar":"رئيس مكتب صفقات الدراسات"
+  },
+  {
+		"ps_fr":"Chef de Bureau de l’Exécution des Marchés Publics",
+    "ps_ar":"رئيس مكتب تنفيذ الصفقات العمومية"
+  },
+	{
+		"ps_fr":"Chef de Service de l’Administration et des Moyens",
+    "ps_ar":"رئيس مـــصـــلــــحـــة الإدارة والــــوســـائل"
+  },
+  {
+		"ps_fr":"Chef de Bureau de la Gestion des Personnels",
+    "ps_ar":"رئيس مكتب تسيير المستخدمين"
+  },
+	{
+		"ps_fr":"Chef de Bureau du Budget, de la Comptabilité et des Moyens Généraux",
+    "ps_ar":"رئيس مكتب الميزانية والمحاسبة والوسائل العامة"
+  },
+  {
+		"ps_fr":"Chef de Bureau du Contentieux, de la Documentation et des Archives",
+    "ps_ar":"رئيس مكتب المنازعات والتوثيق والأرشيف"
+  },
+	{
+		"ps_fr":"Chef de Service de la Conduite et du Suivi des Opérations de Réalisation",
+    "ps_ar":"رئيس مصـلحـة التـسييـر ومتـابعـة العـملـيات المـنجزة"
+  },
+  {
+		"ps_fr":"Chef de Bureau des Etudes et de la Conduite des Opérations de Travaux des Infrastructures Scolaires et Universitaires",
+    "ps_ar":"رئيس مـــكــــتب دراســـات وتــــســـيــــيـــر عــــمـــلــــيـــات الأشــــغـــال المتعلقة بالمنشآت المدرسية والجامعية"
+  },
+	{
+		"ps_fr":"Chef de Bureau des Etudes et de la Conduite des Opérations de Travaux des Autres Equipements Publics Sectoriels",
+    "ps_ar":"رئيس مـــكــــتب دراســـات وتــــســـيــــيـــر عــــمـــلــــيـــات الأشــــغـــال المتعلقة بالتجهيزات العمومية القطاعية الأخرى"
+  },
+  {
+		"ps_fr":"Chef de Service des Marchés Publics",
+    "ps_ar":"رئيس مـصـلـحـة الـصـفـقـات الـعـمـومـيـة"
+  },
+	{
+		"ps_fr":"Chef de Bureau des Marchés d’Etudes",
+    "ps_ar":"مكتب صفقات الدراسات"
+  },
+  {
+		"ps_fr":"Chef de Bureau de L’exécution des Marchés Publics",
+    "ps_ar":"مكتب تنفيذ الصفقات العمومية"
+  },
+	{
+		"ps_fr":"Chef de Service de l’Administration et des Moyens",
+    "ps_ar":"مـــصـــلــــحـــة الإدارة والــــوســـائل"
+  },
+  {
+		"ps_fr":"Chef de Bureau de La Gestion des Personnels",
+    "ps_ar":"مكتب تسيير المستخدمين"
+  },
+	{
+		"ps_fr":"Chef de Bureau du Budget, de la Comptabilité et des Moyens Généraux",
+    "ps_ar":"مكتب الميزانية والمحاسبة والوسائل العامة"
+  },
+  {
+		"ps_fr":"Chef de Bureau du Contentieux, de la Documentation et des Archives",
+    "ps_ar":"مكتب االمازعات والتوثيق والأرشيف"
+  },
+	{
+		"ps_fr":"Subdivisionnaire Territoriale des Equipements Publics",
+    "ps_ar":"القســــم الـفـــــرعي الإقلــــيمي لـلتجهيزات العمومية"
+  },
+  {
+		"ps_fr":"Chef de Section des Infrastructures Scolaires et Universitaires",
+    "ps_ar":"فرع المنشآت المدرسية والجامعي"
+  },
+	{
+		"ps_fr":"Chef de Section des Infrastructures Socio-Culturelles",
+    "ps_ar":"فرع المنشآت الاجتماعي الاجتماعية الثقافية"
+  },
+  {
+		"ps_fr":"Chef de Section des Infrastructures Administratives",
+    "ps_ar":"فرع المنشآت الإداريـة"
+  },
+	{
+		"ps_fr":"Coordonnateur de projet",
+    "ps_ar":""
+  },
+  {
+		"ps_fr":"Chef de projet technique",
+    "ps_ar":""
+  },
+	{
+		"ps_fr":"Chargé du suivi des programmes lacaux",
+    "ps_ar":""
+  },
+  {
+		"ps_fr":"Chef de parc",
+    "ps_ar":""
+  },
+	{
+		"ps_fr":"Chef de cuisine",
+    "ps_ar":""
+  },
+  {
+		"ps_fr":"Chef d'atelier",
+    "ps_ar":""
+  },
+	{
+		"ps_fr":"Chef magasinier",
+    "ps_ar":""
+  },
+	{
+		"ps_fr":"Responsable du service intérieur",
+    "ps_ar":""
+  }
+]
