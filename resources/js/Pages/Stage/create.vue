@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Stage
+                Nouveau Stage
             </h2>
         </template>
         <div>
@@ -74,7 +74,7 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label  class="block text-sm font-medium text-gray-700">établissement:</label>
+                            <label  class="block text-sm font-medium text-gray-700">Etablissement:</label>
                             <input
                                 required
                                 type="text"
