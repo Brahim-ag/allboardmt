@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Mise en disponibilité
+                Modification de service national
             </h2>
         </template>
         <div>
@@ -42,7 +42,7 @@
 
                 <div class="form-group">
                     <label  class="block text-sm font-medium text-gray-700">
-                        >date de Signature de l’acte de mise en
+                        date de Signature de l’acte de mise en
                         position:</label
                     >
                     <input
@@ -75,7 +75,7 @@
 
                 <div class="form-group">
                     <label  class="block text-sm font-medium text-gray-700">
-                        >date de Signature de l’acte de réintégration:</label
+                        date de Signature de l’acte de réintégration:</label
                     >
                     <input
                         required
