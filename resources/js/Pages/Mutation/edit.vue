@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Mise en disponibilité
+                Modification de mutation
             </h2>
         </template>
             <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
@@ -33,7 +33,7 @@
 
                         <div class="form-group">
                             <label  class="block text-sm font-medium text-gray-700">
-                                >Numéro d'Accord Final du Ministère </label>
+                                Numéro d'Accord Final du Ministère </label>
                             <input
                                 required
                                 type="text"
@@ -108,9 +108,9 @@
                         </div>
                     </div>
                     </div>
+                    </div>
                     
-        <button @click="postData()" class="btn btn-primary">Valider</button>
-        </div>
+        <button @click="postData()"  class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
         </div>
     </app-layout>
 </template>

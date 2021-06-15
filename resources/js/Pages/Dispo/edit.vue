@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Mise en disponibilité
+                Modification de mise en disponibilité
             </h2>
         </template>
             <div>
@@ -13,7 +13,7 @@
 
 
                 <div class="form-group">
-                    <label  class="block text-sm font-medium text-gray-700">type MvtM :</label>
+                    <label  class="block text-sm font-medium text-gray-700">Type de mouvement:</label>
                     <select class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md" v-model="disposData.typeM">
                         <option>Mise en disponibilité</option>
                         <option>Reconduction</option>

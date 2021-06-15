@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                grade
+                Nouveau grade
             </h2>
         </template>
         <div>
@@ -190,8 +190,8 @@
             </div>
         </div>
         </div>
+            <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
         </div>
-        <button @click="postData()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Valider</button>
         </div>
         </div>
     </app-layout>

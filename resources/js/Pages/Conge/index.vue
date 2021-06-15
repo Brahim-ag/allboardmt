@@ -1,7 +1,7 @@
 <template>
   <app-layout>
     <template #header>
-      <h2 class="font-semibold text-xl text-gray-800 leading-tight">conge</h2>
+      <h2 class="font-semibold text-xl text-gray-800 leading-tight">Congés</h2>
     </template>
     <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
       <table class="min-w-full divide-y divide-gray-200">
@@ -21,13 +21,13 @@
           <td class="px-2 py-4 whitespace-nowrap">{{ conge.dateSign }}</td>
 
           <td class="px-2 py-4 whitespace-nowrap">
-            <inertia-link :href="`/conge/edit/${conge.id}`">
+            <inertia-link :href="`/conge/edit/${conge.id}`" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
               modifier
             </inertia-link>
           </td>
         </tr>
       </table>
-      <inertia-link :href="`/conge/create/${this.employe_id}`"
+      <inertia-link :href="`/conge/create/${this.employe_id}`" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded"
         >Ajouter</inertia-link
       >
     </div>
