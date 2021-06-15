@@ -1,7 +1,7 @@
 <template>
   <app-layout>
     <template #header>
-      <h2 class="font-semibold text-xl text-gray-800 leading-tight">grade</h2>
+      <h2 class="font-semibold text-xl text-gray-800 leading-tight">Modification de grade</h2>
     </template>
      <div class="container mx-auto shadow overflow-hidden sm:rounded-md">
             <div class="px-4 py-5 bg-white sm:p-6">
