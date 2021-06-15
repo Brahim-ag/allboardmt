@@ -103,7 +103,7 @@
           </div>
 
           <div class="form-group">
-            <label  class="block text-sm font-medium text-gray-700">Date de Signature :</label>
+            <label  class="block text-sm font-medium text-gray-700">Date de Signature d'Approbation :</label>
             <input
               required
               type="date"
