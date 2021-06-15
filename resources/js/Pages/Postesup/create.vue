@@ -117,7 +117,7 @@
                     />
                 </div>
                  <div class="form-group">
-                    <label  class="block text-sm font-medium text-gray-700">structure d’affectation :</label>
+                    <label  class="block text-sm font-medium text-gray-700">Structure d’affectation :</label>
                     <input
                         required
                         type="text"
