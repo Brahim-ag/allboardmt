@@ -2,7 +2,7 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Regime Disciplinaire
+                Modification Regime Disciplinaire
             </h2>
         </template>
               <div>
