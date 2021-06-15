@@ -35,7 +35,7 @@
                 <td class="px-2 py-4 whitespace-nowrap">{{ horscadre.numberCf }}</td>
                 <td class="px-2 py-4 whitespace-nowrap">{{ horscadre.dateEffeCF }}</td>
                     <td class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
-                        <inertia-link :href="`/horscadre/edit/${horscadre.id}`"> modifier </inertia-link>
+                        <inertia-link :href="`/horscadre/edit/${horscadre.id}`">Modifier</inertia-link>
 
                         
                     </td>
