@@ -1,0 +1,52 @@
+[
+	{
+		"ps_fr":"Chef de Service de l'Urbanisme",
+    "ps_ar":"رئيس مـصـلـحــة الـتـعـمـيـر"
+  },
+	{
+		"ps_fr":"Chef de Bureau des Instruments d'Urbanisme",
+    "ps_ar":"رئيس مكتب أدوات التعمير"
+  },	{
+		"ps_fr":"Chef de Bureau de l'Encadrement et de la Promotion Fonciere et des Amenagements",
+    "ps_ar":""
+  },
+	{
+		"ps_fr":"Chef de Bureau des Actes d'Urbanisme et de Contrôle",
+    "ps_ar":""
+  },
+  {
+		"ps_fr":"Chef de Bureau de l'Architecture",
+    "ps_ar":"رئيس مكتب الهندسة المعمارية"
+  },
+	{
+		"ps_fr":"Chef de Service de la Construction",
+    "ps_ar":"رئيس مكتب عقود التعمير والتنظيم والمراقبة"
+  },
+  {
+		"ps_fr":"Chef de Bureau des Etudes et des Normes de la Construction",
+    "ps_ar":"رئيس مكتب الـتهـيئـات الحضـرية وتـأهيل الإطـار المبني وتجديده"
+  },
+	{
+		"ps_fr":"Chef de Bureau de la Reglementation Technique et de la Qualite de la Construction",
+    "ps_ar":""
+  }	{
+		"ps_fr":"Chef de Bureau des Systemes et des Composants de la Construction",
+    "ps_ar":""
+  },
+	{
+		"ps_fr":"Chef de Service De L'administration Des Moyens",
+    "ps_ar":""
+  },
+  {
+		"ps_fr":"Chef de Bureau de la Gestion du Personnel",
+    "ps_ar":"رئيس مكتب تسيير المستخدمين"
+  },
+	{
+		"ps_fr":"Chef de Bureau de la Comptabilite et des Moyens Genereaux",
+    "ps_ar":"رئيس مكتب الميزانية والمحاسبة والوسائل العامة"
+  },
+  {
+		"ps_fr":"Chef de Bureau des Affaires Juridiques et du Contentieux",
+    "ps_ar":""
+  }
+]
