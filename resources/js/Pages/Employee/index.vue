@@ -2,7 +2,7 @@
   <app-layout>
     <template #header>
       <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-        Liste des employés
+        Employés de la direction
       </h2>
       <div class="inline-block inset-y-0 right-0 w-16" @click="print()">
         <PrinterIcon class="h-5 w-5 text-blue-500" />
@@ -112,7 +112,6 @@
               </tbody>
             </table>
 
-            
           </div>
         </div>
       </div>
