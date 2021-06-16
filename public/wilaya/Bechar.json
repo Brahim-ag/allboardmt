@@ -1,0 +1,211 @@
+[
+  {
+    "ID": 263,
+    "Commune": "بشار",
+    "Daira": "BECHAR",
+    "Wilaya": "BECHAR",
+    "ID_1": 263,
+    "WilayaAR": "بشار",
+    "DairaAR": "بشار"
+  },
+  {
+    "ID": 264,
+    "Commune": "عرق فراج",
+    "Daira": "ABADLA",
+    "Wilaya": "BECHAR",
+    "ID_1": 264,
+    "WilayaAR": "بشار",
+    "DairaAR": "العبادلة"
+  },
+  {
+    "ID": 265,
+    "Commune": "أولاد خضير",
+    "Daira": "OULED KHODEIR",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 265,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "أولاد خضير"
+  },
+  {
+    "ID": 266,
+    "Commune": "المريجة",
+    "Daira": "KENADSA",
+    "Wilaya": "BECHAR",
+    "ID_1": 266,
+    "WilayaAR": "بشار",
+    "DairaAR": "القنادسة"
+  },
+  {
+    "ID": 267,
+    "Commune": "تيمودي",
+    "Daira": "KERZAZ",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 267,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "كرزاز"
+  },
+  {
+    "ID": 268,
+    "Commune": "لحمر",
+    "Daira": "LAHMAR",
+    "Wilaya": "BECHAR",
+    "ID_1": 268,
+    "WilayaAR": "بشار",
+    "DairaAR": "لحمر"
+  },
+  {
+    "ID": 269,
+    "Commune": "بني عباس",
+    "Daira": "BENI ABBES",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 269,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "بني عباس"
+  },
+  {
+    "ID": 270,
+    "Commune": "بني يخلف",
+    "Daira": "KERZAZ",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 270,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "كرزاز"
+  },
+  {
+    "ID": 271,
+    "Commune": "مشرع هواري بومدين",
+    "Daira": "ABADLA",
+    "Wilaya": "BECHAR",
+    "ID_1": 271,
+    "WilayaAR": "بشار",
+    "DairaAR": "العبادلة"
+  },
+  {
+    "ID": 272,
+    "Commune": "القنادسة",
+    "Daira": "KENADSA",
+    "Wilaya": "BECHAR",
+    "ID_1": 272,
+    "WilayaAR": "بشار",
+    "DairaAR": "القنادسة"
+  },
+  {
+    "ID": 273,
+    "Commune": "إقلي",
+    "Daira": "IGLI",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 273,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "إقلي"
+  },
+  {
+    "ID": 274,
+    "Commune": "تبلبالة",
+    "Daira": "TABELBALA",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 274,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "تبلبالة"
+  },
+  {
+    "ID": 275,
+    "Commune": "تاغيت",
+    "Daira": "TAGHIT",
+    "Wilaya": "BECHAR",
+    "ID_1": 275,
+    "WilayaAR": "بشار",
+    "DairaAR": "تاغيت"
+  },
+  {
+    "ID": 276,
+    "Commune": "الوطاء",
+    "Daira": "EL OUATA",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 276,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "الوطاء"
+  },
+  {
+    "ID": 277,
+    "Commune": "بوكايس",
+    "Daira": "LAHMAR",
+    "Wilaya": "BECHAR",
+    "ID_1": 277,
+    "WilayaAR": "بشار",
+    "DairaAR": "لحمر"
+  },
+  {
+    "ID": 278,
+    "Commune": "موغل",
+    "Daira": "LAHMAR",
+    "Wilaya": "BECHAR",
+    "ID_1": 278,
+    "WilayaAR": "بشار",
+    "DairaAR": "لحمر"
+  },
+  {
+    "ID": 279,
+    "Commune": "العبادلة",
+    "Daira": "ABADLA",
+    "Wilaya": "BECHAR",
+    "ID_1": 279,
+    "WilayaAR": "بشار",
+    "DairaAR": "العبادلة"
+  },
+  {
+    "ID": 280,
+    "Commune": "كرزاز",
+    "Daira": "KERZAZ",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 280,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "كرزاز"
+  },
+  {
+    "ID": 281,
+    "Commune": "القصابي",
+    "Daira": "OULED KHODEIR",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 281,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "أولاد خضير"
+  },
+  {
+    "ID": 282,
+    "Commune": "تامترت",
+    "Daira": "BENI ABBES",
+    "Circonscriptions Administratives": "BENI ABBES",
+    "Wilaya": "BECHAR",
+    "ID_1": 282,
+    "DistrictAdministratif": "بني عباس",
+    "WilayaAR": "بشار",
+    "DairaAR": "بني عباس"
+  },
+  {
+    "ID": 283,
+    "Commune": "بني ونيف",
+    "Daira": "BENI OUNIF",
+    "Wilaya": "BECHAR",
+    "ID_1": 283,
+    "WilayaAR": "بشار",
+    "DairaAR": "بني ونيف"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "ID": 1256,
+    "Commune": "تيسمسيلت",
+    "Daira": "TISSEMSILT",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1256,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "تيسمسيلت"
+  },
+  {
+    "ID": 1257,
+    "Commune": "برج بونعامة",
+    "Daira": "BORDJ BOUNAAMA",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1257,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "برج بونعامة"
+  },
+  {
+    "ID": 1258,
+    "Commune": "ثنية الاحد",
+    "Daira": "THENIET EL HAD",
+    "Circonscriptions Administratives": "THENIET EL HAD",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1258,
+    "DistrictAdministratif": "ثنية الاحد",
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "ثنية الاحد"
+  },
+  {
+    "ID": 1259,
+    "Commune": "الأزهرية",
+    "Daira": "LAZHARIA",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1259,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "الأزهرية"
+  },
+  {
+    "ID": 1260,
+    "Commune": "بني شعيب",
+    "Daira": "BORDJ BOUNAAMA",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1260,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "برج بونعامة"
+  },
+  {
+    "ID": 1261,
+    "Commune": "لرجام",
+    "Daira": "LARDJEM",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1261,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "لرجام"
+  },
+  {
+    "ID": 1262,
+    "Commune": "الملعب",
+    "Daira": "LARDJEM",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1262,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "لرجام"
+  },
+  {
+    "ID": 1263,
+    "Commune": "سيدي العنتري",
+    "Daira": "LARDJEM",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1263,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "لرجام"
+  },
+  {
+    "ID": 1264,
+    "Commune": "برج الأمير عبد القادر",
+    "Daira": "BORDJ EMIR ABDELKADER",
+    "Circonscriptions Administratives": "THENIET EL HAD",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1264,
+    "DistrictAdministratif": "ثنية الاحد",
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "برج الأمير عبد القادر"
+  },
+  {
+    "ID": 1265,
+    "Commune": "العيون",
+    "Daira": "KHEMISTI",
+    "Circonscriptions Administratives": "THENIET EL HAD",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1265,
+    "DistrictAdministratif": "ثنية الاحد",
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "خميستي"
+  },
+  {
+    "ID": 1266,
+    "Commune": "خميستي",
+    "Daira": "KHEMISTI",
+    "Circonscriptions Administratives": "THENIET EL HAD",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1266,
+    "DistrictAdministratif": "ثنية الاحد",
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "خميستي"
+  },
+  {
+    "ID": 1267,
+    "Commune": "أولاد بسام",
+    "Daira": "TISSEMSILT",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1267,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "تيسمسيلت"
+  },
+  {
+    "ID": 1268,
+    "Commune": "عماري",
+    "Daira": "AMMARI",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1268,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "عماري"
+  },
+  {
+    "ID": 1269,
+    "Commune": "اليوسفية",
+    "Daira": "BORDJ EMIR ABDELKADER",
+    "Circonscriptions Administratives": "THENIET EL HAD",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1269,
+    "DistrictAdministratif": "ثنية الاحد",
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "برج الأمير عبد القادر"
+  },
+  {
+    "ID": 1270,
+    "Commune": "سيدي بوتوشنت",
+    "Daira": "THENIET EL HAD",
+    "Circonscriptions Administratives": "THENIET EL HAD",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1270,
+    "DistrictAdministratif": "ثنية الاحد",
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "ثنية الاحد"
+  },
+  {
+    "ID": 1271,
+    "Commune": "الأربعاء",
+    "Daira": "LAZHARIA",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1271,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "الأزهرية"
+  },
+  {
+    "ID": 1272,
+    "Commune": "المعاصم",
+    "Daira": "AMMARI",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1272,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "عماري"
+  },
+  {
+    "ID": 1273,
+    "Commune": "سيدي عابد",
+    "Daira": "AMMARI",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1273,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "عماري"
+  },
+  {
+    "ID": 1274,
+    "Commune": "تملاحت",
+    "Daira": "LARDJEM",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1274,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "لرجام"
+  },
+  {
+    "ID": 1275,
+    "Commune": "سيدي سليمان",
+    "Daira": "BORDJ BOUNAAMA",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1275,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "برج بونعامة"
+  },
+  {
+    "ID": 1276,
+    "Commune": "بوقائد",
+    "Daira": "LAZHARIA",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1276,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "الأزهرية"
+  },
+  {
+    "ID": 1277,
+    "Commune": "بني لحسن",
+    "Daira": "BORDJ BOUNAAMA",
+    "Wilaya": "TISSEMSILT",
+    "ID_1": 1277,
+    "WilayaAR": "تيسمسيلت",
+    "DairaAR": "برج بونعامة"
+  }
+]

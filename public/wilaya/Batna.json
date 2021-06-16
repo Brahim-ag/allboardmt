@@ -1,0 +1,629 @@
+[
+  {
+    "ID": 117,
+    "Commune": "باتنة",
+    "Daira": "BATNA",
+    "Wilaya": "BATNA",
+    "ID_1": 117,
+    "WilayaAR": "باتنة",
+    "DairaAR": "باتنة"
+  },
+  {
+    "ID": 118,
+    "Commune": "غسيرة",
+    "Daira": "TKOUT",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 118,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "تكوت"
+  },
+  {
+    "ID": 119,
+    "Commune": "معافة",
+    "Daira": "AIN TOUTA",
+    "Wilaya": "BATNA",
+    "ID_1": 119,
+    "WilayaAR": "باتنة",
+    "DairaAR": "عين التوتة"
+  },
+  {
+    "ID": 120,
+    "Commune": "مروانة",
+    "Daira": "MEROUANA",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 120,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "مروانة"
+  },
+  {
+    "ID": 121,
+    "Commune": "سريانة",
+    "Daira": "SERIANA",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 121,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "سريانة"
+  },
+  {
+    "ID": 122,
+    "Commune": "منعة",
+    "Daira": "MENAA",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 122,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "منعة"
+  },
+  {
+    "ID": 123,
+    "Commune": "المعذر",
+    "Daira": "EL MADHER",
+    "Wilaya": "BATNA",
+    "ID_1": 123,
+    "WilayaAR": "باتنة",
+    "DairaAR": "المعذر"
+  },
+  {
+    "ID": 124,
+    "Commune": "تازولت",
+    "Daira": "TAZOULT",
+    "Wilaya": "BATNA",
+    "ID_1": 124,
+    "WilayaAR": "باتنة",
+    "DairaAR": "تازولت"
+  },
+  {
+    "ID": 125,
+    "Commune": "نقاوس",
+    "Daira": "N'GAOUS",
+    "Wilaya": "BATNA",
+    "ID_1": 125,
+    "WilayaAR": "باتنة",
+    "DairaAR": "نقاوس"
+  },
+  {
+    "ID": 126,
+    "Commune": "قيقبة",
+    "Daira": "RAS EL AIOUN",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 126,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "رأس العيون"
+  },
+  {
+    "ID": 127,
+    "Commune": "إينوغيسن",
+    "Daira": "ICHEMOUL",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 127,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "إيشمول"
+  },
+  {
+    "ID": 128,
+    "Commune": "عيون العصافير",
+    "Daira": "TAZOULT",
+    "Wilaya": "BATNA",
+    "ID_1": 128,
+    "WilayaAR": "باتنة",
+    "DairaAR": "تازولت"
+  },
+  {
+    "ID": 129,
+    "Commune": "جرمة",
+    "Daira": "EL MADHER",
+    "Wilaya": "BATNA",
+    "ID_1": 129,
+    "WilayaAR": "باتنة",
+    "DairaAR": "المعذر"
+  },
+  {
+    "ID": 130,
+    "Commune": "بيطام",
+    "Daira": "BARIKA",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 130,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "بريكة"
+  },
+  {
+    "ID": 131,
+    "Commune": "عزيل عبد القادر",
+    "Daira": "DJEZZAR",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 131,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "الجزار"
+  },
+  {
+    "ID": 132,
+    "Commune": "أريس",
+    "Daira": "ARRIS",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 132,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "أريس"
+  },
+  {
+    "ID": 133,
+    "Commune": "كيمل",
+    "Daira": "TKOUT",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 133,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "تكوت"
+  },
+  {
+    "ID": 134,
+    "Commune": "تيلاطو",
+    "Daira": "SEGGANA",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 134,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "سقانة"
+  },
+  {
+    "ID": 135,
+    "Commune": "عين جاسر",
+    "Daira": "AIN DJASSER",
+    "Wilaya": "BATNA",
+    "ID_1": 135,
+    "WilayaAR": "باتنة",
+    "DairaAR": "عين جاسر"
+  },
+  {
+    "ID": 136,
+    "Commune": "أولاد سلام",
+    "Daira": "RAS EL AIOUN",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 136,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "رأس العيون"
+  },
+  {
+    "ID": 137,
+    "Commune": "تغرغار",
+    "Daira": "MENAA",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 137,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "منعة"
+  },
+  {
+    "ID": 138,
+    "Commune": "عين ياقوت",
+    "Daira": "EL MADHER",
+    "Wilaya": "BATNA",
+    "ID_1": 138,
+    "WilayaAR": "باتنة",
+    "DairaAR": "المعذر"
+  },
+  {
+    "ID": 139,
+    "Commune": "فسديس",
+    "Daira": "BATNA",
+    "Wilaya": "BATNA",
+    "ID_1": 139,
+    "WilayaAR": "باتنة",
+    "DairaAR": "باتنة"
+  },
+  {
+    "ID": 140,
+    "Commune": "سفيان",
+    "Daira": "N'GAOUS",
+    "Wilaya": "BATNA",
+    "ID_1": 140,
+    "WilayaAR": "باتنة",
+    "DairaAR": "نقاوس"
+  },
+  {
+    "ID": 141,
+    "Commune": "الرحبات",
+    "Daira": "RAS EL AIOUN",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 141,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "رأس العيون"
+  },
+  {
+    "ID": 142,
+    "Commune": "تيغانمين",
+    "Daira": "ARRIS",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 142,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "أريس"
+  },
+  {
+    "ID": 143,
+    "Commune": "لمسان",
+    "Daira": "OULED SI SLIMANE",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 143,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "أولاد سي سليمان"
+  },
+  {
+    "ID": 144,
+    "Commune": "قصر بلزمة",
+    "Daira": "MEROUANA",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 144,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "مروانة"
+  },
+  {
+    "ID": 145,
+    "Commune": "سقانة",
+    "Daira": "SEGGANA",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 145,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "سقانة"
+  },
+  {
+    "ID": 146,
+    "Commune": "إيشمول",
+    "Daira": "ICHEMOUL",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 146,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "إيشمول"
+  },
+  {
+    "ID": 147,
+    "Commune": "فم الطوب",
+    "Daira": "ICHEMOUL",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 147,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "إيشمول"
+  },
+  {
+    "ID": 148,
+    "Commune": "بني فضالة الحقانية",
+    "Daira": "AIN TOUTA",
+    "Wilaya": "BATNA",
+    "ID_1": 148,
+    "WilayaAR": "باتنة",
+    "DairaAR": "عين التوتة"
+  },
+  {
+    "ID": 149,
+    "Commune": "وادي الماء",
+    "Daira": "MEROUANA",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 149,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "مروانة"
+  },
+  {
+    "ID": 150,
+    "Commune": "تالغمت",
+    "Daira": "RAS EL AIOUN",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 150,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "رأس العيون"
+  },
+  {
+    "ID": 151,
+    "Commune": "بوزينة",
+    "Daira": "BOUZINA",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 151,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "بوزينة"
+  },
+  {
+    "ID": 152,
+    "Commune": "شمرة",
+    "Daira": "CHEMORA",
+    "Wilaya": "BATNA",
+    "ID_1": 152,
+    "WilayaAR": "باتنة",
+    "DairaAR": "شمرة"
+  },
+  {
+    "ID": 153,
+    "Commune": "وادي الشعبة",
+    "Daira": "BATNA",
+    "Wilaya": "BATNA",
+    "ID_1": 153,
+    "WilayaAR": "باتنة",
+    "DairaAR": "باتنة"
+  },
+  {
+    "ID": 154,
+    "Commune": "تاكسلانت",
+    "Daira": "OULED SI SLIMANE",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 154,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "أولاد سي سليمان"
+  },
+  {
+    "ID": 155,
+    "Commune": "القصبات",
+    "Daira": "RAS EL AIOUN",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 155,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "رأس العيون"
+  },
+  {
+    "ID": 156,
+    "Commune": "أولاد عوف",
+    "Daira": "AIN TOUTA",
+    "Wilaya": "BATNA",
+    "ID_1": 156,
+    "WilayaAR": "باتنة",
+    "DairaAR": "عين التوتة"
+  },
+  {
+    "ID": 157,
+    "Commune": "بومقر",
+    "Daira": "N'GAOUS",
+    "Wilaya": "BATNA",
+    "ID_1": 157,
+    "WilayaAR": "باتنة",
+    "DairaAR": "نقاوس"
+  },
+  {
+    "ID": 158,
+    "Commune": "بريكة",
+    "Daira": "BARIKA",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 158,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "بريكة"
+  },
+  {
+    "ID": 159,
+    "Commune": "الجزار",
+    "Daira": "DJEZZAR",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 159,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "الجزار"
+  },
+  {
+    "ID": 160,
+    "Commune": "تكوت",
+    "Daira": "TKOUT",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 160,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "تكوت"
+  },
+  {
+    "ID": 161,
+    "Commune": "عين التوتة",
+    "Daira": "AIN TOUTA",
+    "Wilaya": "BATNA",
+    "ID_1": 161,
+    "WilayaAR": "باتنة",
+    "DairaAR": "عين التوتة"
+  },
+  {
+    "ID": 162,
+    "Commune": "حيدوسة",
+    "Daira": "MEROUANA",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 162,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "مروانة"
+  },
+  {
+    "ID": 163,
+    "Commune": "ثنية العابد",
+    "Daira": "THENIET EL ABED",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 163,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "ثنية العابد"
+  },
+  {
+    "ID": 164,
+    "Commune": "وادي الطاقة",
+    "Daira": "THENIET EL ABED",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 164,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "ثنية العابد"
+  },
+  {
+    "ID": 165,
+    "Commune": "أولاد فاضل",
+    "Daira": "TIMGAD",
+    "Wilaya": "BATNA",
+    "ID_1": 165,
+    "WilayaAR": "باتنة",
+    "DairaAR": "تيمقاد"
+  },
+  {
+    "ID": 166,
+    "Commune": "تيمقاد",
+    "Daira": "TIMGAD",
+    "Wilaya": "BATNA",
+    "ID_1": 166,
+    "WilayaAR": "باتنة",
+    "DairaAR": "تيمقاد"
+  },
+  {
+    "ID": 167,
+    "Commune": "رأس العيون",
+    "Daira": "RAS EL AIOUN",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 167,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "رأس العيون"
+  },
+  {
+    "ID": 168,
+    "Commune": "شير",
+    "Daira": "THENIET EL ABED",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 168,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "ثنية العابد"
+  },
+  {
+    "ID": 169,
+    "Commune": "أولاد سي سليمان",
+    "Daira": "OULED SI SLIMANE",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 169,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "أولاد سي سليمان"
+  },
+  {
+    "ID": 170,
+    "Commune": "زانة البيضاء",
+    "Daira": "SERIANA",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 170,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "سريانة"
+  },
+  {
+    "ID": 171,
+    "Commune": "مدوكل",
+    "Daira": "BARIKA",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 171,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "بريكة"
+  },
+  {
+    "ID": 172,
+    "Commune": "أولاد عمار",
+    "Daira": "DJEZZAR",
+    "Circonscriptions Administratives": "BARIKA",
+    "Wilaya": "BATNA",
+    "ID_1": 172,
+    "DistrictAdministratif": "بريكة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "الجزار"
+  },
+  {
+    "ID": 173,
+    "Commune": "الحاسي",
+    "Daira": "AIN DJASSER",
+    "Wilaya": "BATNA",
+    "ID_1": 173,
+    "WilayaAR": "باتنة",
+    "DairaAR": "عين جاسر"
+  },
+  {
+    "ID": 174,
+    "Commune": "لازرو",
+    "Daira": "SERIANA",
+    "Circonscriptions Administratives": "MEROUANA",
+    "Wilaya": "BATNA",
+    "ID_1": 174,
+    "DistrictAdministratif": "مروانة",
+    "WilayaAR": "باتنة",
+    "DairaAR": "سريانة"
+  },
+  {
+    "ID": 175,
+    "Commune": "بومية",
+    "Daira": "EL MADHER",
+    "Wilaya": "BATNA",
+    "ID_1": 175,
+    "WilayaAR": "باتنة",
+    "DairaAR": "المعذر"
+  },
+  {
+    "ID": 176,
+    "Commune": "بوالحيلات",
+    "Daira": "CHEMORA",
+    "Wilaya": "BATNA",
+    "ID_1": 176,
+    "WilayaAR": "باتنة",
+    "DairaAR": "شمرة"
+  },
+  {
+    "ID": 177,
+    "Commune": "لرباع",
+    "Daira": "BOUZINA",
+    "Circonscriptions Administratives": "ARRIS",
+    "Wilaya": "BATNA",
+    "ID_1": 177,
+    "DistrictAdministratif": "أريس",
+    "WilayaAR": "باتنة",
+    "DairaAR": "بوزينة"
+  }
+]

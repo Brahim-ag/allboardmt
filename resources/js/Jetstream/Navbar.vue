@@ -212,7 +212,7 @@ export default {
                         { name: "ANTÉCÉDENTS JUDICIAIRES", href: "/antecejudi/"+this.info },
                         { name: "CONJOINTS", href: "/spouce/"+this.info },
                         { name: "ENFANTS", href: "/child/"+this.info },
-                        { name: "LANGUES ETRANGERES", href: "/antecejudi/"+this.info },
+                        { name: "LANGUES ETRANGERES", href: "/language/"+this.info },
                         { name: "FORMATIONS EXTERNES", href: "/formation/"+this.info } 
                     ],
                 },

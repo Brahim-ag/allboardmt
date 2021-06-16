@@ -1,0 +1,362 @@
+[
+  {
+    "ID": 611,
+    "Commune": "الجلفة",
+    "Daira": "DJELFA",
+    "Wilaya": "DJELFA",
+    "ID_1": 611,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "الجلفة"
+  },
+  {
+    "ID": 612,
+    "Commune": "مجبارة",
+    "Daira": "AIN EL IBEL",
+    "Wilaya": "DJELFA",
+    "ID_1": 612,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "عين الإبل"
+  },
+  {
+    "ID": 613,
+    "Commune": "القديد",
+    "Daira": "CHAREF",
+    "Wilaya": "DJELFA",
+    "ID_1": 613,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "الشارف"
+  },
+  {
+    "ID": 614,
+    "Commune": "حاسي بحبح",
+    "Daira": "HASSI BAHBAH",
+    "Wilaya": "DJELFA",
+    "ID_1": 614,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "حاسي بحبح"
+  },
+  {
+    "ID": 615,
+    "Commune": "عين معبد",
+    "Daira": "HASSI BAHBAH",
+    "Wilaya": "DJELFA",
+    "ID_1": 615,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "حاسي بحبح"
+  },
+  {
+    "ID": 616,
+    "Commune": "سد الرحال",
+    "Daira": "MESSAAD",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 616,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "مسعد"
+  },
+  {
+    "ID": 617,
+    "Commune": "فيض البطمة",
+    "Daira": "FAIDH EL BOTMA",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 617,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "فيض البطمة"
+  },
+  {
+    "ID": 618,
+    "Commune": "بيرين",
+    "Daira": "BIRINE",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 618,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "بيرين"
+  },
+  {
+    "ID": 619,
+    "Commune": "بويرة الأحدب",
+    "Daira": "HAD SAHARY",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 619,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "حد الصحاري"
+  },
+  {
+    "ID": 620,
+    "Commune": "زكار",
+    "Daira": "AIN EL IBEL",
+    "Wilaya": "DJELFA",
+    "ID_1": 620,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "عين الإبل"
+  },
+  {
+    "ID": 621,
+    "Commune": "الخميس",
+    "Daira": "SIDI LAADJEL",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 621,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "سيدي لعجال"
+  },
+  {
+    "ID": 622,
+    "Commune": "سيدي بايزيد",
+    "Daira": "DAR CHIOUKH",
+    "Wilaya": "DJELFA",
+    "ID_1": 622,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "دار الشيوخ"
+  },
+  {
+    "ID": 623,
+    "Commune": "مليليحة",
+    "Daira": "DAR CHIOUKH",
+    "Wilaya": "DJELFA",
+    "ID_1": 623,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "دار الشيوخ"
+  },
+  {
+    "ID": 624,
+    "Commune": "الادريسية",
+    "Daira": "EL IDRISSIA",
+    "Wilaya": "DJELFA",
+    "ID_1": 624,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "الادريسية"
+  },
+  {
+    "ID": 625,
+    "Commune": "دويس",
+    "Daira": "EL IDRISSIA",
+    "Wilaya": "DJELFA",
+    "ID_1": 625,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "الادريسية"
+  },
+  {
+    "ID": 626,
+    "Commune": "حاسي العش",
+    "Daira": "HASSI BAHBAH",
+    "Wilaya": "DJELFA",
+    "ID_1": 626,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "حاسي بحبح"
+  },
+  {
+    "ID": 627,
+    "Commune": "مسعد",
+    "Daira": "MESSAAD",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 627,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "مسعد"
+  },
+  {
+    "ID": 628,
+    "Commune": "القطارة",
+    "Daira": "MESSAAD",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 628,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "مسعد"
+  },
+  {
+    "ID": 629,
+    "Commune": "سيدي لعجال",
+    "Daira": "SIDI LAADJEL",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 629,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "سيدي لعجال"
+  },
+  {
+    "ID": 630,
+    "Commune": "حد الصحاري",
+    "Daira": "HAD SAHARY",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 630,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "حد الصحاري"
+  },
+  {
+    "ID": 631,
+    "Commune": "قرنيني",
+    "Daira": "AIN OUSSERA",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 631,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "عين وسارة"
+  },
+  {
+    "ID": 632,
+    "Commune": "سلمانة",
+    "Daira": "MESSAAD",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 632,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "مسعد"
+  },
+  {
+    "ID": 633,
+    "Commune": "عين الشهداء",
+    "Daira": "EL IDRISSIA",
+    "Wilaya": "DJELFA",
+    "ID_1": 633,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "الادريسية"
+  },
+  {
+    "ID": 634,
+    "Commune": "أم العظام",
+    "Daira": "FAIDH EL BOTMA",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 634,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "فيض البطمة"
+  },
+  {
+    "ID": 635,
+    "Commune": "دار الشيوخ",
+    "Daira": "DAR CHIOUKH",
+    "Wilaya": "DJELFA",
+    "ID_1": 635,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "دار الشيوخ"
+  },
+  {
+    "ID": 636,
+    "Commune": "الشارف",
+    "Daira": "CHAREF",
+    "Wilaya": "DJELFA",
+    "ID_1": 636,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "الشارف"
+  },
+  {
+    "ID": 637,
+    "Commune": "بن يعقوب",
+    "Daira": "CHAREF",
+    "Wilaya": "DJELFA",
+    "ID_1": 637,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "الشارف"
+  },
+  {
+    "ID": 638,
+    "Commune": "زعفران",
+    "Daira": "HASSI BAHBAH",
+    "Wilaya": "DJELFA",
+    "ID_1": 638,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "حاسي بحبح"
+  },
+  {
+    "ID": 639,
+    "Commune": "دلدول",
+    "Daira": "MESSAAD",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 639,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "مسعد"
+  },
+  {
+    "ID": 640,
+    "Commune": "عين الإبل",
+    "Daira": "AIN EL IBEL",
+    "Wilaya": "DJELFA",
+    "ID_1": 640,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "عين الإبل"
+  },
+  {
+    "ID": 641,
+    "Commune": "عين وسارة",
+    "Daira": "AIN OUSSERA",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 641,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "عين وسارة"
+  },
+  {
+    "ID": 642,
+    "Commune": "بن هار",
+    "Daira": "BIRINE",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 642,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "بيرين"
+  },
+  {
+    "ID": 643,
+    "Commune": "حاسي فدول",
+    "Daira": "SIDI LAADJEL",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 643,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "سيدي لعجال"
+  },
+  {
+    "ID": 644,
+    "Commune": "عمورة",
+    "Daira": "FAIDH EL BOTMA",
+    "Circonscriptions Administratives": "MESSAAD",
+    "Wilaya": "DJELFA",
+    "ID_1": 644,
+    "DistrictAdministratif": "مسعد",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "فيض البطمة"
+  },
+  {
+    "ID": 645,
+    "Commune": "عين فكة",
+    "Daira": "HAD SAHARY",
+    "Circonscriptions Administratives": "AIN OUSSERA",
+    "Wilaya": "DJELFA",
+    "ID_1": 645,
+    "DistrictAdministratif": "عين وسارة",
+    "WilayaAR": "الجلفة",
+    "DairaAR": "حد الصحاري"
+  },
+  {
+    "ID": 646,
+    "Commune": "تعظميت",
+    "Daira": "AIN EL IBEL",
+    "Wilaya": "DJELFA",
+    "ID_1": 646,
+    "WilayaAR": "الجلفة",
+    "DairaAR": "عين الإبل"
+  }
+]

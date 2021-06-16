@@ -1,0 +1,404 @@
+[
+  {
+    "ID": 445,
+    "Commune": "تيارت",
+    "Daira": "TIARET",
+    "Wilaya": "TIARET",
+    "ID_1": 445,
+    "WilayaAR": "تيارت",
+    "DairaAR": "تيارت"
+  },
+  {
+    "ID": 446,
+    "Commune": "مدروسة",
+    "Daira": "MEDROUSSA",
+    "Wilaya": "TIARET",
+    "ID_1": 446,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مدروسة"
+  },
+  {
+    "ID": 447,
+    "Commune": "عين بوشقيف",
+    "Daira": "DAHMOUNI",
+    "Wilaya": "TIARET",
+    "ID_1": 447,
+    "WilayaAR": "تيارت",
+    "DairaAR": "دحموني"
+  },
+  {
+    "ID": 448,
+    "Commune": "سيدي علي ملال",
+    "Daira": "OUED LILI",
+    "Wilaya": "TIARET",
+    "ID_1": 448,
+    "WilayaAR": "تيارت",
+    "DairaAR": "وادي ليلي"
+  },
+  {
+    "ID": 449,
+    "Commune": "عين دزاريت",
+    "Daira": "MAHDIA",
+    "Wilaya": "TIARET",
+    "ID_1": 449,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مهدية"
+  },
+  {
+    "ID": 450,
+    "Commune": "عين الذهب",
+    "Daira": "AIN DEHEB",
+    "Wilaya": "TIARET",
+    "ID_1": 450,
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين الذهب"
+  },
+  {
+    "ID": 451,
+    "Commune": "سيدي بختي",
+    "Daira": "MEDROUSSA",
+    "Wilaya": "TIARET",
+    "ID_1": 451,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مدروسة"
+  },
+  {
+    "ID": 452,
+    "Commune": "مدريسة",
+    "Daira": "AIN KERMES",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 452,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين كرمس"
+  },
+  {
+    "ID": 453,
+    "Commune": "زمالة الأمير عبد القادر",
+    "Daira": "KSAR CHELLALA",
+    "Circonscriptions Administratives": "KSAR CHELLALA",
+    "Wilaya": "TIARET",
+    "ID_1": 453,
+    "DistrictAdministratif": "قصر الشلالة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "قصر الشلالة"
+  },
+  {
+    "ID": 454,
+    "Commune": "مادنة",
+    "Daira": "AIN KERMES",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 454,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين كرمس"
+  },
+  {
+    "ID": 455,
+    "Commune": "السبت",
+    "Daira": "MEGHILA",
+    "Wilaya": "TIARET",
+    "ID_1": 455,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مغيلة"
+  },
+  {
+    "ID": 456,
+    "Commune": "ملاكو",
+    "Daira": "MEDROUSSA",
+    "Wilaya": "TIARET",
+    "ID_1": 456,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مدروسة"
+  },
+  {
+    "ID": 457,
+    "Commune": "دحموني",
+    "Daira": "DAHMOUNI",
+    "Wilaya": "TIARET",
+    "ID_1": 457,
+    "WilayaAR": "تيارت",
+    "DairaAR": "دحموني"
+  },
+  {
+    "ID": 458,
+    "Commune": "الرحوية",
+    "Daira": "RAHOUIA",
+    "Wilaya": "TIARET",
+    "ID_1": 458,
+    "WilayaAR": "تيارت",
+    "DairaAR": "رحوية"
+  },
+  {
+    "ID": 459,
+    "Commune": "مهدية",
+    "Daira": "MAHDIA",
+    "Wilaya": "TIARET",
+    "ID_1": 459,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مهدية"
+  },
+  {
+    "ID": 460,
+    "Commune": "السوقر",
+    "Daira": "SOUGUEUR",
+    "Wilaya": "TIARET",
+    "ID_1": 460,
+    "WilayaAR": "تيارت",
+    "DairaAR": "السوقر"
+  },
+  {
+    "ID": 461,
+    "Commune": "سي عبد الغني",
+    "Daira": "SOUGUEUR",
+    "Wilaya": "TIARET",
+    "ID_1": 461,
+    "WilayaAR": "تيارت",
+    "DairaAR": "السوقر"
+  },
+  {
+    "ID": 462,
+    "Commune": "عين الحديد",
+    "Daira": "FRENDA",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 462,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "فرندة"
+  },
+  {
+    "ID": 463,
+    "Commune": "جبيلة الرصفاء",
+    "Daira": "AIN KERMES",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 463,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين كرمس"
+  },
+  {
+    "ID": 464,
+    "Commune": "النعيمة",
+    "Daira": "AIN DEHEB",
+    "Wilaya": "TIARET",
+    "ID_1": 464,
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين الذهب"
+  },
+  {
+    "ID": 465,
+    "Commune": "مغيلة",
+    "Daira": "MEGHILA",
+    "Wilaya": "TIARET",
+    "ID_1": 465,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مغيلة"
+  },
+  {
+    "ID": 466,
+    "Commune": "قرطوفة",
+    "Daira": "RAHOUIA",
+    "Wilaya": "TIARET",
+    "ID_1": 466,
+    "WilayaAR": "تيارت",
+    "DairaAR": "رحوية"
+  },
+  {
+    "ID": 467,
+    "Commune": "سيدي حسني",
+    "Daira": "MEGHILA",
+    "Wilaya": "TIARET",
+    "ID_1": 467,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مغيلة"
+  },
+  {
+    "ID": 468,
+    "Commune": "جيلالي بن عمار",
+    "Daira": "MECHRAA SFA",
+    "Wilaya": "TIARET",
+    "ID_1": 468,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مشرع الصفا"
+  },
+  {
+    "ID": 469,
+    "Commune": "السبعين",
+    "Daira": "MAHDIA",
+    "Wilaya": "TIARET",
+    "ID_1": 469,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مهدية"
+  },
+  {
+    "ID": 470,
+    "Commune": "توسنينة",
+    "Daira": "SOUGUEUR",
+    "Wilaya": "TIARET",
+    "ID_1": 470,
+    "WilayaAR": "تيارت",
+    "DairaAR": "السوقر"
+  },
+  {
+    "ID": 471,
+    "Commune": "فرندة",
+    "Daira": "FRENDA",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 471,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "فرندة"
+  },
+  {
+    "ID": 472,
+    "Commune": "عين كرمس",
+    "Daira": "AIN KERMES",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 472,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين كرمس"
+  },
+  {
+    "ID": 473,
+    "Commune": "قصر الشلالة",
+    "Daira": "KSAR CHELLALA",
+    "Circonscriptions Administratives": "KSAR CHELLALA",
+    "Wilaya": "TIARET",
+    "ID_1": 473,
+    "DistrictAdministratif": "قصر الشلالة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "قصر الشلالة"
+  },
+  {
+    "ID": 474,
+    "Commune": "الرشايقة",
+    "Daira": "HAMADIA",
+    "Wilaya": "TIARET",
+    "ID_1": 474,
+    "WilayaAR": "تيارت",
+    "DairaAR": "الحمادية"
+  },
+  {
+    "ID": 475,
+    "Commune": "الناظورة",
+    "Daira": "MAHDIA",
+    "Wilaya": "TIARET",
+    "ID_1": 475,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مهدية"
+  },
+  {
+    "ID": 476,
+    "Commune": "تاقدمت",
+    "Daira": "MECHRAA SFA",
+    "Wilaya": "TIARET",
+    "ID_1": 476,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مشرع الصفا"
+  },
+  {
+    "ID": 477,
+    "Commune": "وادي ليلي",
+    "Daira": "OUED LILI",
+    "Wilaya": "TIARET",
+    "ID_1": 477,
+    "WilayaAR": "تيارت",
+    "DairaAR": "وادي ليلي"
+  },
+  {
+    "ID": 478,
+    "Commune": "مشرع الصفا",
+    "Daira": "MECHRAA SFA",
+    "Wilaya": "TIARET",
+    "ID_1": 478,
+    "WilayaAR": "تيارت",
+    "DairaAR": "مشرع الصفا"
+  },
+  {
+    "ID": 479,
+    "Commune": "حمادية",
+    "Daira": "HAMADIA",
+    "Wilaya": "TIARET",
+    "ID_1": 479,
+    "WilayaAR": "تيارت",
+    "DairaAR": "حمادية"
+  },
+  {
+    "ID": 480,
+    "Commune": "شحيمة",
+    "Daira": "AIN DEHEB",
+    "Wilaya": "TIARET",
+    "ID_1": 480,
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين الذهب"
+  },
+  {
+    "ID": 481,
+    "Commune": "تاخمرت",
+    "Daira": "FRENDA",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 481,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "فرندة"
+  },
+  {
+    "ID": 482,
+    "Commune": "سيدي عبد الرحمن",
+    "Daira": "AIN KERMES",
+    "Circonscriptions Administratives": "FRENDA",
+    "Wilaya": "TIARET",
+    "ID_1": 482,
+    "DistrictAdministratif": "فرندة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "عين كرمس"
+  },
+  {
+    "ID": 483,
+    "Commune": "سرغين",
+    "Daira": "KSAR CHELLALA",
+    "Circonscriptions Administratives": "KSAR CHELLALA",
+    "Wilaya": "TIARET",
+    "ID_1": 483,
+    "DistrictAdministratif": "قصر الشلالة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "قصر الشلالة"
+  },
+  {
+    "ID": 484,
+    "Commune": "بوقرة",
+    "Daira": "HAMADIA",
+    "Circonscriptions Administratives": "KSAR CHELLALA",
+    "Wilaya": "TIARET",
+    "ID_1": 484,
+    "DistrictAdministratif": "قصر الشلالة",
+    "WilayaAR": "تيارت",
+    "DairaAR": "الحمادية"
+  },
+  {
+    "ID": 485,
+    "Commune": "الفايجة",
+    "Daira": "SOUGUEUR",
+    "Wilaya": "TIARET",
+    "ID_1": 485,
+    "WilayaAR": "تيارت",
+    "DairaAR": "السوقر"
+  },
+  {
+    "ID": 486,
+    "Commune": "تيدة",
+    "Daira": "OUED LILI",
+    "Wilaya": "TIARET",
+    "ID_1": 486,
+    "WilayaAR": "تيارت",
+    "DairaAR": "وادي ليلي"
+  }
+]

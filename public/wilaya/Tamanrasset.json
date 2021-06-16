@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 354,
+    "Commune": "تامنغست",
+    "Daira": "TAMANRASSET",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 354,
+    "WilayaAR": "تامنغست",
+    "DairaAR": "تامنغست"
+  },
+  {
+    "ID": 355,
+    "Commune": "ابلسة",
+    "Daira": "SILET",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 355,
+    "WilayaAR": "تامنغست",
+    "DairaAR": "سيلت"
+  },
+  {
+    "ID": 356,
+    "Commune": "إن غار",
+    "Daira": "IN GHAR",
+    "Circonscriptions Administratives": "IN SALAH",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 356,
+    "DistrictAdministratif": "إن صالح",
+    "WilayaAR": "تامنغست",
+    "DairaAR": "إن غار"
+  },
+  {
+    "ID": 357,
+    "Commune": "إن قزام",
+    "Daira": "IN GUEZZAM",
+    "Circonscriptions Administratives": "IN GUEZZAM",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 357,
+    "DistrictAdministratif": "إن قزام",
+    "WilayaAR": "تامنغست",
+    "DairaAR": "إن قزام"
+  },
+  {
+    "ID": 358,
+    "Commune": "أدلس",
+    "Daira": "TAZROUK",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 358,
+    "WilayaAR": "تامنغست",
+    "DairaAR": "تاظروك"
+  },
+  {
+    "ID": 359,
+    "Commune": "تاظروك",
+    "Daira": "TAZROUK",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 359,
+    "WilayaAR": "تامنغست",
+    "DairaAR": "تاظروك"
+  },
+  {
+    "ID": 360,
+    "Commune": "تين زواتين",
+    "Daira": "TIN ZOUATINE",
+    "Circonscriptions Administratives": "IN GUEZZAM",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 360,
+    "DistrictAdministratif": "إن قزام",
+    "WilayaAR": "تامنغست",
+    "DairaAR": "تين زواتين"
+  },
+  {
+    "ID": 361,
+    "Commune": "إن صالح",
+    "Daira": "IN SALAH",
+    "Circonscriptions Administratives": "IN SALAH",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 361,
+    "DistrictAdministratif": "إن صالح",
+    "WilayaAR": "تامنغست",
+    "DairaAR": "إن صالح"
+  },
+  {
+    "ID": 362,
+    "Commune": "عين امقل",
+    "Daira": "TAMANRASSET",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 362,
+    "WilayaAR": "تامنغست",
+    "DairaAR": "تامنغست"
+  },
+  {
+    "ID": 363,
+    "Commune": "فقارات الزاوية",
+    "Daira": "IN SALAH",
+    "Circonscriptions Administratives": "IN SALAH",
+    "Wilaya": "TAMANRASSET",
+    "ID_1": 363,
+    "DistrictAdministratif": "إن صالح",
+    "WilayaAR": "تامنغست",
+    "DairaAR": "عين صالح"
+  }
+]

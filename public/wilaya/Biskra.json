@@ -1,0 +1,311 @@
+[
+  {
+    "ID": 230,
+    "Commune": "بسكرة",
+    "Daira": "BISKRA",
+    "Wilaya": "BISKRA",
+    "ID_1": 230,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "بسكرة"
+  },
+  {
+    "ID": 231,
+    "Commune": "أوماش",
+    "Daira": "OURLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 231,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أورلال"
+  },
+  {
+    "ID": 232,
+    "Commune": "برانيس",
+    "Daira": "DJEMORAH",
+    "Wilaya": "BISKRA",
+    "ID_1": 232,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "جمورة"
+  },
+  {
+    "ID": 233,
+    "Commune": "شتمة",
+    "Daira": "SIDI OKBA",
+    "Wilaya": "BISKRA",
+    "ID_1": 233,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "سيدي عقبة"
+  },
+  {
+    "ID": 234,
+    "Commune": "أولاد جلال",
+    "Daira": "OULED DJELLAL",
+    "Circonscriptions Administratives": "OULED DJELLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 234,
+    "DistrictAdministratif": "أولاد جلال",
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أولاد جلال"
+  },
+  {
+    "ID": 235,
+    "Commune": "رأس الميعاد",
+    "Daira": "SIDI KHALED",
+    "Circonscriptions Administratives": "OULED DJELLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 235,
+    "DistrictAdministratif": "أولاد جلال",
+    "WilayaAR": "بسكرة",
+    "DairaAR": "سيدي خالد"
+  },
+  {
+    "ID": 236,
+    "Commune": "بسباس",
+    "Daira": "SIDI KHALED",
+    "Circonscriptions Administratives": "OULED DJELLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 236,
+    "DistrictAdministratif": "أولاد جلال",
+    "WilayaAR": "بسكرة",
+    "DairaAR": "سيدي خالد"
+  },
+  {
+    "ID": 237,
+    "Commune": "سيدي خالد",
+    "Daira": "SIDI KHALED",
+    "Circonscriptions Administratives": "OULED DJELLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 237,
+    "DistrictAdministratif": "أولاد جلال",
+    "WilayaAR": "بسكرة",
+    "DairaAR": "سيدي خالد"
+  },
+  {
+    "ID": 238,
+    "Commune": "الدوسن",
+    "Daira": "OULED DJELLAL",
+    "Circonscriptions Administratives": "OULED DJELLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 238,
+    "DistrictAdministratif": "أولاد جلال",
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أولاد جلال"
+  },
+  {
+    "ID": 239,
+    "Commune": "الشعيبة",
+    "Daira": "OULED DJELLAL",
+    "Circonscriptions Administratives": "OULED DJELLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 239,
+    "DistrictAdministratif": "أولاد جلال",
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أولاد جلال"
+  },
+  {
+    "ID": 240,
+    "Commune": "سيدي عقبة",
+    "Daira": "SIDI OKBA",
+    "Wilaya": "BISKRA",
+    "ID_1": 240,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "سيدي عقبة"
+  },
+  {
+    "ID": 241,
+    "Commune": "مشونش",
+    "Daira": "MECHOUNECHE",
+    "Wilaya": "BISKRA",
+    "ID_1": 241,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "مشونش"
+  },
+  {
+    "ID": 242,
+    "Commune": "الحوش",
+    "Daira": "SIDI OKBA",
+    "Wilaya": "BISKRA",
+    "ID_1": 242,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "سيدي عقبة"
+  },
+  {
+    "ID": 243,
+    "Commune": "عين الناقة",
+    "Daira": "SIDI OKBA",
+    "Wilaya": "BISKRA",
+    "ID_1": 243,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "سيدي عقبة"
+  },
+  {
+    "ID": 244,
+    "Commune": "زريبة الوادي",
+    "Daira": "ZERIBET EL OUED",
+    "Wilaya": "BISKRA",
+    "ID_1": 244,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "زريبة الوادي"
+  },
+  {
+    "ID": 245,
+    "Commune": "الفيض",
+    "Daira": "ZERIBET EL OUED",
+    "Wilaya": "BISKRA",
+    "ID_1": 245,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "زريبة الوادي"
+  },
+  {
+    "ID": 246,
+    "Commune": "القنطرة",
+    "Daira": "EL KANTARA",
+    "Wilaya": "BISKRA",
+    "ID_1": 246,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "القنطرة"
+  },
+  {
+    "ID": 247,
+    "Commune": "عين زعطوط",
+    "Daira": "EL KANTARA",
+    "Wilaya": "BISKRA",
+    "ID_1": 247,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "القنطرة"
+  },
+  {
+    "ID": 248,
+    "Commune": "الوطاية",
+    "Daira": "EL OUTAYA",
+    "Wilaya": "BISKRA",
+    "ID_1": 248,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "الوطاية"
+  },
+  {
+    "ID": 249,
+    "Commune": "جمورة",
+    "Daira": "DJEMORAH",
+    "Wilaya": "BISKRA",
+    "ID_1": 249,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "جمورة"
+  },
+  {
+    "ID": 250,
+    "Commune": "طولقة",
+    "Daira": "TOLGA",
+    "Wilaya": "BISKRA",
+    "ID_1": 250,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "طولقة"
+  },
+  {
+    "ID": 251,
+    "Commune": "ليوة",
+    "Daira": "OURLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 251,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أورلال"
+  },
+  {
+    "ID": 252,
+    "Commune": "ليشانة",
+    "Daira": "TOLGA",
+    "Wilaya": "BISKRA",
+    "ID_1": 252,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "طولقة"
+  },
+  {
+    "ID": 253,
+    "Commune": "أورلال",
+    "Daira": "OURLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 253,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أورلال"
+  },
+  {
+    "ID": 254,
+    "Commune": "مليلي",
+    "Daira": "OURLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 254,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أورلال"
+  },
+  {
+    "ID": 255,
+    "Commune": "فوغالة",
+    "Daira": "FOUGHALA",
+    "Wilaya": "BISKRA",
+    "ID_1": 255,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "فوغالة"
+  },
+  {
+    "ID": 256,
+    "Commune": "برج بن عزوز",
+    "Daira": "TOLGA",
+    "Wilaya": "BISKRA",
+    "ID_1": 256,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "طولقة"
+  },
+  {
+    "ID": 257,
+    "Commune": "المزيرعة",
+    "Daira": "ZERIBET EL OUED",
+    "Wilaya": "BISKRA",
+    "ID_1": 257,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "زريبة الوادي"
+  },
+  {
+    "ID": 258,
+    "Commune": "بوشقرون",
+    "Daira": "TOLGA",
+    "Wilaya": "BISKRA",
+    "ID_1": 258,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "طولقة"
+  },
+  {
+    "ID": 259,
+    "Commune": "مخادمة",
+    "Daira": "OURLAL",
+    "Wilaya": "BISKRA",
+    "ID_1": 259,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "أورلال"
+  },
+  {
+    "ID": 260,
+    "Commune": "الغروس",
+    "Daira": "FOUGHALA",
+    "Wilaya": "BISKRA",
+    "ID_1": 260,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "فوغالة"
+  },
+  {
+    "ID": 261,
+    "Commune": "الحاجب",
+    "Daira": "BISKRA",
+    "Wilaya": "BISKRA",
+    "ID_1": 261,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "بسكرة"
+  },
+  {
+    "ID": 262,
+    "Commune": "خنقة سيدي ناجي",
+    "Daira": "ZERIBET EL OUED",
+    "Wilaya": "BISKRA",
+    "ID_1": 262,
+    "WilayaAR": "بسكرة",
+    "DairaAR": "زريبة الوادي"
+  }
+]

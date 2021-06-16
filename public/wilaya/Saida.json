@@ -1,0 +1,146 @@
+[
+  {
+    "ID": 735,
+    "Commune": "سعيدة",
+    "Daira": "SAIDA",
+    "Wilaya": "SAIDA",
+    "ID_1": 735,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "سعيدة"
+  },
+  {
+    "ID": 736,
+    "Commune": "دوي ثابت",
+    "Daira": "YOUB",
+    "Wilaya": "SAIDA",
+    "ID_1": 736,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "يوب"
+  },
+  {
+    "ID": 737,
+    "Commune": "عين الحجر",
+    "Daira": "AIN EL HADJAR",
+    "Wilaya": "SAIDA",
+    "ID_1": 737,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "عين الحجر"
+  },
+  {
+    "ID": 738,
+    "Commune": "أولاد خالد",
+    "Daira": "SIDI BOUBEKEUR",
+    "Wilaya": "SAIDA",
+    "ID_1": 738,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "سيدي بوبكر"
+  },
+  {
+    "ID": 739,
+    "Commune": "مولاي العربي",
+    "Daira": "AIN EL HADJAR",
+    "Wilaya": "SAIDA",
+    "ID_1": 739,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "عين الحجر"
+  },
+  {
+    "ID": 740,
+    "Commune": "يوب",
+    "Daira": "YOUB",
+    "Wilaya": "SAIDA",
+    "ID_1": 740,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "يوب"
+  },
+  {
+    "ID": 741,
+    "Commune": "هونت",
+    "Daira": "SIDI BOUBEKEUR",
+    "Wilaya": "SAIDA",
+    "ID_1": 741,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "سيدي بوبكر"
+  },
+  {
+    "ID": 742,
+    "Commune": "سيدي عمر",
+    "Daira": "SIDI BOUBEKEUR",
+    "Wilaya": "SAIDA",
+    "ID_1": 742,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "سيدي بوبكر"
+  },
+  {
+    "ID": 743,
+    "Commune": "سيدي بوبكر",
+    "Daira": "SIDI BOUBEKEUR",
+    "Wilaya": "SAIDA",
+    "ID_1": 743,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "سيدي بوبكر"
+  },
+  {
+    "ID": 744,
+    "Commune": "الحساسنة",
+    "Daira": "EL HASSASNA",
+    "Wilaya": "SAIDA",
+    "ID_1": 744,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "الحساسنة"
+  },
+  {
+    "ID": 745,
+    "Commune": "المعمورة",
+    "Daira": "EL HASSASNA",
+    "Wilaya": "SAIDA",
+    "ID_1": 745,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "الحساسنة"
+  },
+  {
+    "ID": 746,
+    "Commune": "سيدي احمد",
+    "Daira": "AIN EL HADJAR",
+    "Wilaya": "SAIDA",
+    "ID_1": 746,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "عين الحجر"
+  },
+  {
+    "ID": 747,
+    "Commune": "عين السخونة",
+    "Daira": "EL HASSASNA",
+    "Wilaya": "SAIDA",
+    "ID_1": 747,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "الحساسنة"
+  },
+  {
+    "ID": 748,
+    "Commune": "أولاد إبراهيم",
+    "Daira": "OULED BRAHIM",
+    "Wilaya": "SAIDA",
+    "ID_1": 748,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "أولاد ابراهيم"
+  },
+  {
+    "ID": 749,
+    "Commune": "تيرسين",
+    "Daira": "OULED BRAHIM",
+    "Wilaya": "SAIDA",
+    "ID_1": 749,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "أولاد ابراهيم"
+  },
+  {
+    "ID": 750,
+    "Commune": "عين السلطان",
+    "Daira": "OULED BRAHIM",
+    "Wilaya": "SAIDA",
+    "ID_1": 750,
+    "WilayaAR": "سعيدة",
+    "DairaAR": "أولاد ابراهيم"
+  }
+]

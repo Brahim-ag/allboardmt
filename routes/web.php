@@ -27,6 +27,7 @@ use App\Http\Controllers\FonctionsupController;
 use App\Http\Controllers\DispositionsController;
 use App\Http\Controllers\ChildsController;
 use App\Http\Controllers\SpoucesController;
+use App\Http\Controllers\LanguageController;
 // use App\Http\Controllers\GradesController;
 
 
@@ -166,6 +167,11 @@ Route::get('/spouce/{employee_id}',[SpoucesController::class,'index'])->middlewa
 Route::get('/spouce/create/{employee_id}',[SpoucesController::class,'create'])->middleware(['auth']);
 Route::post('/spouce/store',[SpoucesController::class,'store'])->middleware(['auth']);
 Route::get('/spouce/edit/{parcour_id}',[SpoucesController::class,'edit'])->middleware(['auth']);
+
+Route::get('/language/{employee_id}',[LanguageController::class,'index'])->middleware(['auth']);
+Route::get('/language/create/{employee_id}',[LanguageController::class,'create'])->middleware(['auth']);
+Route::post('/language/store',[LanguageController::class,'store'])->middleware(['auth']);
+Route::get('/language/edit/{parcour_id}',[LanguageController::class,'edit'])->middleware(['auth']);
 
 // Route::get('/', function () {
 //     return Inertia::render('Welcome', [

@@ -1,0 +1,238 @@
+[
+  {
+    "ID": 64,
+    "Commune": "الأغواط",
+    "Daira": "LAGHOUAT",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 64,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "الأغواط"
+  },
+  {
+    "ID": 65,
+    "Commune": "قصر الحيران",
+    "Daira": "KSAR EL HIRANE",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 65,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "قصر الحيران"
+  },
+  {
+    "ID": 66,
+    "Commune": "بن ناصر بن شهرة",
+    "Daira": "KSAR EL HIRANE",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 66,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "قصر الحيران"
+  },
+  {
+    "ID": 67,
+    "Commune": "سيدي مخلوف",
+    "Daira": "SIDI MAKHLOUF",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 67,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "سيدي مخلوف"
+  },
+  {
+    "ID": 68,
+    "Commune": "حاسي الدلاعة",
+    "Daira": "HASSI R'MEL",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 68,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "حاسي الرمل"
+  },
+  {
+    "ID": 69,
+    "Commune": "حاسي الرمل",
+    "Daira": "HASSI R'MEL",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 69,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "حاسي الرمل"
+  },
+  {
+    "ID": 70,
+    "Commune": "عين ماضي",
+    "Daira": "AIN MADHI",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 70,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "عين ماضي"
+  },
+  {
+    "ID": 71,
+    "Commune": "تاجموت",
+    "Daira": "AIN MADHI",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 71,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "عين ماضي"
+  },
+  {
+    "ID": 72,
+    "Commune": "الخنق",
+    "Daira": "AIN MADHI",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 72,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "عين ماضي"
+  },
+  {
+    "ID": 73,
+    "Commune": "قلتة سيدي سعد",
+    "Daira": "GUELTAT SIDI SAAD",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 73,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "قتلة سيدي سعد"
+  },
+  {
+    "ID": 74,
+    "Commune": "عين سيدي علي",
+    "Daira": "GUELTAT SIDI SAAD",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 74,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "قتلة سيدي سعد"
+  },
+  {
+    "ID": 75,
+    "Commune": "بيضاء",
+    "Daira": "GUELTAT SIDI SAAD",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 75,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "قتلة سيدي سعد"
+  },
+  {
+    "ID": 76,
+    "Commune": "بريدة",
+    "Daira": "BRIDA",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 76,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "بريدة"
+  },
+  {
+    "ID": 77,
+    "Commune": "الغيشة",
+    "Daira": "EL GHICHA",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 77,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "الغيشة"
+  },
+  {
+    "ID": 78,
+    "Commune": "الحاج مشري",
+    "Daira": "BRIDA",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 78,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "بريدة"
+  },
+  {
+    "ID": 79,
+    "Commune": "سبقاق",
+    "Daira": "AFLOU",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 79,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "أفلو"
+  },
+  {
+    "ID": 80,
+    "Commune": "تاويالة",
+    "Daira": "BRIDA",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 80,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "بريدة"
+  },
+  {
+    "ID": 81,
+    "Commune": "تاجرونة",
+    "Daira": "AIN MADHI",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 81,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "عين ماضي"
+  },
+  {
+    "ID": 82,
+    "Commune": "أفلو",
+    "Daira": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 82,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "أفلو"
+  },
+  {
+    "ID": 83,
+    "Commune": "العسفية",
+    "Daira": "SIDI MAKHLOUF",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 83,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "سيدي مخلوف"
+  },
+  {
+    "ID": 84,
+    "Commune": "وادي مرة",
+    "Daira": "OUED MORRA",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 84,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "وادي مرة"
+  },
+  {
+    "ID": 85,
+    "Commune": "وادي مزي",
+    "Daira": "OUED MORRA",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 85,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "وادي مرة"
+  },
+  {
+    "ID": 86,
+    "Commune": "الحويطة",
+    "Daira": "AIN MADHI",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 86,
+    "WilayaAR": "الأغواط",
+    "DairaAR": "عين ماضي"
+  },
+  {
+    "ID": 87,
+    "Commune": "سيدي بوزيد",
+    "Daira": "AFLOU",
+    "Circonscriptions Administratives": "AFLOU",
+    "Wilaya": "LAGHOUAT",
+    "ID_1": 87,
+    "DistrictAdministratif": "أفلو",
+    "WilayaAR": "الأغواط",
+    "DairaAR": "أفلو"
+  }
+]

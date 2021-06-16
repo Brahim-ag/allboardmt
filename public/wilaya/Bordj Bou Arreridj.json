@@ -1,0 +1,324 @@
+[
+  {
+    "ID": 1164,
+    "Commune": "برج بوعريرج",
+    "Daira": "BORDJ BOU ARRERIDJ",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1164,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج بوعريريج"
+  },
+  {
+    "ID": 1165,
+    "Commune": "رأس الوادي",
+    "Daira": "RAS EL OUED",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1165,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "رأس الوادي"
+  },
+  {
+    "ID": 1166,
+    "Commune": "برج زمورة",
+    "Daira": "BORDJ ZEMMOURA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1166,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج زمورة"
+  },
+  {
+    "ID": 1167,
+    "Commune": "المنصورة",
+    "Daira": "MANSOURAH",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1167,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "المنصورة"
+  },
+  {
+    "ID": 1168,
+    "Commune": "المهير",
+    "Daira": "MANSOURAH",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1168,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "المنصورة"
+  },
+  {
+    "ID": 1169,
+    "Commune": "بن داود",
+    "Daira": "MANSOURAH",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1169,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "المنصورة"
+  },
+  {
+    "ID": 1170,
+    "Commune": "الياشير",
+    "Daira": "MEDJANA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1170,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "مجانة"
+  },
+  {
+    "ID": 1171,
+    "Commune": "عين تاغروت",
+    "Daira": "AIN TAGHROUT",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1171,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "عين تاغروت"
+  },
+  {
+    "ID": 1172,
+    "Commune": "برج الغدير",
+    "Daira": "BORDJ GHEDIR",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1172,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج الغدير"
+  },
+  {
+    "ID": 1173,
+    "Commune": "سيدي مبارك",
+    "Daira": "BIR KASDALI",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1173,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "بئر قصد علي"
+  },
+  {
+    "ID": 1174,
+    "Commune": "الحمادية",
+    "Daira": "EL HAMADIA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1174,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "الحمادية"
+  },
+  {
+    "ID": 1175,
+    "Commune": "بليمور",
+    "Daira": "BORDJ GHEDIR",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1175,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج الغدير"
+  },
+  {
+    "ID": 1176,
+    "Commune": "مجانة",
+    "Daira": "MEDJANA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1176,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "مجانة"
+  },
+  {
+    "ID": 1177,
+    "Commune": "ثنية النصر",
+    "Daira": "MEDJANA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1177,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "مجانة"
+  },
+  {
+    "ID": 1178,
+    "Commune": "جعافرة",
+    "Daira": "DJAAFRA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1178,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "جعافرة"
+  },
+  {
+    "ID": 1179,
+    "Commune": "الماين",
+    "Daira": "DJAAFRA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1179,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "جعافرة"
+  },
+  {
+    "ID": 1180,
+    "Commune": "أولاد إبراهيم",
+    "Daira": "RAS EL OUED",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1180,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "رأس الوادي"
+  },
+  {
+    "ID": 1181,
+    "Commune": "أولاد دحمان",
+    "Daira": "BORDJ ZEMMOURA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1181,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج زمورة"
+  },
+  {
+    "ID": 1182,
+    "Commune": "حسناوة",
+    "Daira": "MEDJANA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1182,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "مجانة"
+  },
+  {
+    "ID": 1183,
+    "Commune": "خليل",
+    "Daira": "BIR KASDALI",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1183,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "بئر قصد علي"
+  },
+  {
+    "ID": 1184,
+    "Commune": "تقلعيت",
+    "Daira": "BORDJ GHEDIR",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1184,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج الغدير"
+  },
+  {
+    "ID": 1185,
+    "Commune": "القصور",
+    "Daira": "EL HAMADIA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1185,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "الحمادية"
+  },
+  {
+    "ID": 1186,
+    "Commune": "أولاد سيدي ابراهيم",
+    "Daira": "MANSOURAH",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1186,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "المنصورة"
+  },
+  {
+    "ID": 1187,
+    "Commune": "تفرق",
+    "Daira": "DJAAFRA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1187,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "جعافرة"
+  },
+  {
+    "ID": 1188,
+    "Commune": "القلة",
+    "Daira": "DJAAFRA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1188,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "جعافرة"
+  },
+  {
+    "ID": 1189,
+    "Commune": "تيكستار",
+    "Daira": "AIN TAGHROUT",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1189,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "عين تاغروت"
+  },
+  {
+    "ID": 1190,
+    "Commune": "العش",
+    "Daira": "EL HAMADIA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1190,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "الحمادية"
+  },
+  {
+    "ID": 1191,
+    "Commune": "العناصر",
+    "Daira": "BORDJ GHEDIR",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1191,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج الغدير"
+  },
+  {
+    "ID": 1192,
+    "Commune": "تسامرت",
+    "Daira": "BORDJ ZEMMOURA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1192,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج زمورة"
+  },
+  {
+    "ID": 1193,
+    "Commune": "عين تسرة",
+    "Daira": "RAS EL OUED",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1193,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "رأس الوادي"
+  },
+  {
+    "ID": 1194,
+    "Commune": "بئر قاصد علي",
+    "Daira": "BIR KASDALI",
+    "Circonscriptions Administratives": "RAS EL OUED",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1194,
+    "DistrictAdministratif": "رأس الوادي",
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "بئر قاصد علي"
+  },
+  {
+    "ID": 1195,
+    "Commune": "غيلاسة",
+    "Daira": "BORDJ GHEDIR",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1195,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "برج الغدير"
+  },
+  {
+    "ID": 1196,
+    "Commune": "الرابطة",
+    "Daira": "EL HAMADIA",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1196,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "الحمادية"
+  },
+  {
+    "ID": 1197,
+    "Commune": "حرازة",
+    "Daira": "MANSOURAH",
+    "Wilaya": "B.B.ARRERIDJ",
+    "ID_1": 1197,
+    "WilayaAR": "برج بوعريريج",
+    "DairaAR": "المنصورة"
+  }
+]

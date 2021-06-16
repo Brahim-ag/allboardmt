@@ -1,0 +1,217 @@
+[
+  {
+    "ID": 1308,
+    "Commune": "خنشلة",
+    "Daira": "KHENCHELA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1308,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "خنشلة"
+  },
+  {
+    "ID": 1309,
+    "Commune": "متوسة",
+    "Daira": "AIN TOUILA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1309,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "عين الطويلة"
+  },
+  {
+    "ID": 1310,
+    "Commune": "قايس",
+    "Daira": "KAIS",
+    "Circonscriptions Administratives": "KAIS",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1310,
+    "DistrictAdministratif": "قايس",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "قايس"
+  },
+  {
+    "ID": 1311,
+    "Commune": "بغاي",
+    "Daira": "EL HAMMA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1311,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "الحامة"
+  },
+  {
+    "ID": 1312,
+    "Commune": "الحامة",
+    "Daira": "EL HAMMA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1312,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "الحامة"
+  },
+  {
+    "ID": 1313,
+    "Commune": "عين الطويلة",
+    "Daira": "AIN TOUILA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1313,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "عين الطويلة"
+  },
+  {
+    "ID": 1314,
+    "Commune": "تاوزيانت",
+    "Daira": "KAIS",
+    "Circonscriptions Administratives": "KAIS",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1314,
+    "DistrictAdministratif": "قايس",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "قايس"
+  },
+  {
+    "ID": 1315,
+    "Commune": "بوحمامة",
+    "Daira": "BOUHMAMA",
+    "Circonscriptions Administratives": "KAIS",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1315,
+    "DistrictAdministratif": "قايس",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "بوحمامة"
+  },
+  {
+    "ID": 1316,
+    "Commune": "الولجة",
+    "Daira": "CHECHAR",
+    "Circonscriptions Administratives": "CHECHAR",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1316,
+    "DistrictAdministratif": "ششار",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "ششار"
+  },
+  {
+    "ID": 1317,
+    "Commune": "الرميلة",
+    "Daira": "KAIS",
+    "Circonscriptions Administratives": "KAIS",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1317,
+    "DistrictAdministratif": "قايس",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "قايس"
+  },
+  {
+    "ID": 1318,
+    "Commune": "ششار",
+    "Daira": "CHECHAR",
+    "Circonscriptions Administratives": "CHECHAR",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1318,
+    "DistrictAdministratif": "ششار",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "ششار"
+  },
+  {
+    "ID": 1319,
+    "Commune": "جلال",
+    "Daira": "CHECHAR",
+    "Circonscriptions Administratives": "CHECHAR",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1319,
+    "DistrictAdministratif": "ششار",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "ششار"
+  },
+  {
+    "ID": 1320,
+    "Commune": "بابار",
+    "Daira": "BABAR",
+    "Circonscriptions Administratives": "OULED RECHACHE",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1320,
+    "DistrictAdministratif": "أولاد رشاش",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "بابار"
+  },
+  {
+    "ID": 1321,
+    "Commune": "طامزة",
+    "Daira": "EL HAMMA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1321,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "الحامة"
+  },
+  {
+    "ID": 1322,
+    "Commune": "انسيغة",
+    "Daira": "EL HAMMA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1322,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "الحامة"
+  },
+  {
+    "ID": 1323,
+    "Commune": "أولاد رشاش",
+    "Daira": "OULED RECHACHE",
+    "Circonscriptions Administratives": "OULED RECHACHE",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1323,
+    "DistrictAdministratif": "أولاد رشاش",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "أولاد رشاش"
+  },
+  {
+    "ID": 1324,
+    "Commune": "المحمل",
+    "Daira": "OULED RECHACHE",
+    "Circonscriptions Administratives": "OULED RECHACHE",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1324,
+    "DistrictAdministratif": "أولاد رشاش",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "أولاد رشاش"
+  },
+  {
+    "ID": 1325,
+    "Commune": "أمصارة",
+    "Daira": "BOUHMAMA",
+    "Circonscriptions Administratives": "KAIS",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1325,
+    "DistrictAdministratif": "قايس",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "بوحمامة"
+  },
+  {
+    "ID": 1326,
+    "Commune": "يابوس",
+    "Daira": "BOUHMAMA",
+    "Circonscriptions Administratives": "KAIS",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1326,
+    "DistrictAdministratif": "قايس",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "بوحمامة"
+  },
+  {
+    "ID": 1327,
+    "Commune": "خيران",
+    "Daira": "CHECHAR",
+    "Circonscriptions Administratives": "CHECHAR",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1327,
+    "DistrictAdministratif": "ششار",
+    "WilayaAR": "خنشلة",
+    "DairaAR": "ششار"
+  },
+  {
+    "ID": 1328,
+    "Commune": "شلية",
+    "Daira": "BOUHMAMA",
+    "Wilaya": "KHENCHELA",
+    "ID_1": 1328,
+    "WilayaAR": "خنشلة",
+    "DairaAR": "بوحمامة"
+  }
+]

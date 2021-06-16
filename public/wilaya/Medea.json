@@ -1,0 +1,662 @@
+[
+  {
+    "ID": 899,
+    "Commune": "المدية",
+    "Daira": "MEDEA",
+    "Wilaya": "MEDEA",
+    "ID_1": 899,
+    "WilayaAR": "المدية",
+    "DairaAR": "المدية"
+  },
+  {
+    "ID": 900,
+    "Commune": "وزرة",
+    "Daira": "OUZERA",
+    "Wilaya": "MEDEA",
+    "ID_1": 900,
+    "WilayaAR": "المدية",
+    "DairaAR": "وزرة"
+  },
+  {
+    "ID": 901,
+    "Commune": "أولاد معرف",
+    "Daira": "AIN BOUCIF",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 901,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "عين بوسيف"
+  },
+  {
+    "ID": 902,
+    "Commune": "عين بوسيف",
+    "Daira": "AIN BOUCIF",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 902,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "عين بوسيف"
+  },
+  {
+    "ID": 903,
+    "Commune": "العيساوية",
+    "Daira": "TABLAT",
+    "Circonscriptions Administratives": "TABLAT",
+    "Wilaya": "MEDEA",
+    "ID_1": 903,
+    "DistrictAdministratif": "تابلاط",
+    "WilayaAR": "المدية",
+    "DairaAR": "تابلاط"
+  },
+  {
+    "ID": 904,
+    "Commune": "أولاد دايد",
+    "Daira": "BERROUAGHIA",
+    "Circonscriptions Administratives": "BERROUAGHIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 904,
+    "DistrictAdministratif": "البرواقية",
+    "WilayaAR": "المدية",
+    "DairaAR": "البرواقية"
+  },
+  {
+    "ID": 905,
+    "Commune": "العمارية",
+    "Daira": "EL OMARIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 905,
+    "WilayaAR": "المدية",
+    "DairaAR": "العمارية"
+  },
+  {
+    "ID": 906,
+    "Commune": "دراق",
+    "Daira": "AZIZ",
+    "Wilaya": "MEDEA",
+    "ID_1": 906,
+    "WilayaAR": "المدية",
+    "DairaAR": "عزيز"
+  },
+  {
+    "ID": 907,
+    "Commune": "القلب الكبير",
+    "Daira": "GUELB EL KEBIR",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 907,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "القلب الكبير"
+  },
+  {
+    "ID": 908,
+    "Commune": "بوعيش",
+    "Daira": "CHAHBOUNIA",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 908,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "الشهبونية"
+  },
+  {
+    "ID": 909,
+    "Commune": "مزغنة",
+    "Daira": "TABLAT",
+    "Circonscriptions Administratives": "TABLAT",
+    "Wilaya": "MEDEA",
+    "ID_1": 909,
+    "DistrictAdministratif": "تابلاط",
+    "WilayaAR": "المدية",
+    "DairaAR": "تابلاط"
+  },
+  {
+    "ID": 910,
+    "Commune": "أولاد إبراهيم",
+    "Daira": "EL OMARIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 910,
+    "WilayaAR": "المدية",
+    "DairaAR": "العمارية"
+  },
+  {
+    "ID": 911,
+    "Commune": "تيزي مهدي",
+    "Daira": "OUZERA",
+    "Wilaya": "MEDEA",
+    "ID_1": 911,
+    "WilayaAR": "المدية",
+    "DairaAR": "وزرة"
+  },
+  {
+    "ID": 912,
+    "Commune": "سيدي زيان",
+    "Daira": "SOUAGHI",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 912,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "السواقي"
+  },
+  {
+    "ID": 913,
+    "Commune": "تمسقيدة",
+    "Daira": "MEDEA",
+    "Wilaya": "MEDEA",
+    "ID_1": 913,
+    "WilayaAR": "المدية",
+    "DairaAR": "المدية"
+  },
+  {
+    "ID": 914,
+    "Commune": "الحمدانية",
+    "Daira": "OUZERA",
+    "Wilaya": "MEDEA",
+    "ID_1": 914,
+    "WilayaAR": "المدية",
+    "DairaAR": "وزرة"
+  },
+  {
+    "ID": 915,
+    "Commune": "الكاف الاخضر",
+    "Daira": "AIN BOUCIF",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 915,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "عين بوسيف"
+  },
+  {
+    "ID": 916,
+    "Commune": "شلالة العذاورة",
+    "Daira": "CHELLALAT EL ADHAOURA",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 916,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "شلالة العذاورة"
+  },
+  {
+    "ID": 917,
+    "Commune": "بوسكن",
+    "Daira": "BENI SLIMANE",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 917,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "بني سليمان"
+  },
+  {
+    "ID": 918,
+    "Commune": "الربعية",
+    "Daira": "BERROUAGHIA",
+    "Circonscriptions Administratives": "BERROUAGHIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 918,
+    "DistrictAdministratif": "البرواقية",
+    "WilayaAR": "المدية",
+    "DairaAR": "البرواقية"
+  },
+  {
+    "ID": 919,
+    "Commune": "بوشراحيل",
+    "Daira": "SIDI NAAMANE",
+    "Circonscriptions Administratives": "BERROUAGHIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 919,
+    "DistrictAdministratif": "البرواقية",
+    "WilayaAR": "المدية",
+    "DairaAR": "سيدي نعمان"
+  },
+  {
+    "ID": 920,
+    "Commune": "أولاد هلال",
+    "Daira": "OULED ANTAR",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 920,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "أولاد عنتر"
+  },
+  {
+    "ID": 921,
+    "Commune": "تفراوت",
+    "Daira": "CHELLALAT EL ADHAOURA",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 921,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "شلالة العذاورة"
+  },
+  {
+    "ID": 922,
+    "Commune": "بعطة",
+    "Daira": "EL OMARIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 922,
+    "WilayaAR": "المدية",
+    "DairaAR": "العمارية"
+  },
+  {
+    "ID": 923,
+    "Commune": "بوغار",
+    "Daira": "OULED ANTAR",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 923,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "أولاد عنتر"
+  },
+  {
+    "ID": 924,
+    "Commune": "سيدي نعمان",
+    "Daira": "SIDI NAAMANE",
+    "Circonscriptions Administratives": "BERROUAGHIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 924,
+    "DistrictAdministratif": "البرواقية",
+    "WilayaAR": "المدية",
+    "DairaAR": "سيدي نعمان"
+  },
+  {
+    "ID": 925,
+    "Commune": "أولاد بوعشرة",
+    "Daira": "SI MAHDJOUB",
+    "Wilaya": "MEDEA",
+    "ID_1": 925,
+    "WilayaAR": "المدية",
+    "DairaAR": "سي المحجوب"
+  },
+  {
+    "ID": 926,
+    "Commune": "سيدي زهار",
+    "Daira": "SOUAGHI",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 926,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "السواقي"
+  },
+  {
+    "ID": 927,
+    "Commune": "وادي حربيل",
+    "Daira": "OUAMRI",
+    "Wilaya": "MEDEA",
+    "ID_1": 927,
+    "WilayaAR": "المدية",
+    "DairaAR": "عوامري"
+  },
+  {
+    "ID": 928,
+    "Commune": "بن شكاو",
+    "Daira": "OUZERA",
+    "Wilaya": "MEDEA",
+    "ID_1": 928,
+    "WilayaAR": "المدية",
+    "DairaAR": "وزرة"
+  },
+  {
+    "ID": 929,
+    "Commune": "سيدي دامد",
+    "Daira": "AIN BOUCIF",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 929,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "عين بوسيف"
+  },
+  {
+    "ID": 930,
+    "Commune": "عزيز",
+    "Daira": "AZIZ",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 930,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "عزيز"
+  },
+  {
+    "ID": 931,
+    "Commune": "السواقي",
+    "Daira": "SOUAGHI",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 931,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "السواقي"
+  },
+  {
+    "ID": 932,
+    "Commune": "الزبيرية",
+    "Daira": "SEGHOUANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 932,
+    "WilayaAR": "المدية",
+    "DairaAR": "سغوان"
+  },
+  {
+    "ID": 933,
+    "Commune": "قصر البخاري",
+    "Daira": "KSAR EL BOUKHARI",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 933,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "قصر البخاري"
+  },
+  {
+    "ID": 934,
+    "Commune": "العزيزية",
+    "Daira": "EL AZIZIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 934,
+    "WilayaAR": "المدية",
+    "DairaAR": "العزيزية"
+  },
+  {
+    "ID": 935,
+    "Commune": "جواب",
+    "Daira": "SOUAGHI",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 935,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "السواقي"
+  },
+  {
+    "ID": 936,
+    "Commune": "الشهبونية",
+    "Daira": "CHAHBOUNIA",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 936,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "الشهبونية"
+  },
+  {
+    "ID": 937,
+    "Commune": "مغراوة",
+    "Daira": "EL AZIZIA",
+    "Circonscriptions Administratives": "TABLAT",
+    "Wilaya": "MEDEA",
+    "ID_1": 937,
+    "DistrictAdministratif": "تابلاط",
+    "WilayaAR": "المدية",
+    "DairaAR": "العزيزية"
+  },
+  {
+    "ID": 938,
+    "Commune": "شنيقل",
+    "Daira": "CHELLALAT EL ADHAOURA",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 938,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "شلالة العذاورة"
+  },
+  {
+    "ID": 939,
+    "Commune": "عين اقصير",
+    "Daira": "CHELLALAT EL ADHAOURA",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 939,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "شلالة العذاورة"
+  },
+  {
+    "ID": 940,
+    "Commune": "أم الجليل",
+    "Daira": "AZIZ",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 940,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "عزيز"
+  },
+  {
+    "ID": 941,
+    "Commune": "عوامري",
+    "Daira": "OUAMRI",
+    "Wilaya": "MEDEA",
+    "ID_1": 941,
+    "WilayaAR": "المدية",
+    "DairaAR": "عوامري"
+  },
+  {
+    "ID": 942,
+    "Commune": "سي المحجوب",
+    "Daira": "SI MAHDJOUB",
+    "Wilaya": "MEDEA",
+    "ID_1": 942,
+    "WilayaAR": "المدية",
+    "DairaAR": "سي المحجوب"
+  },
+  {
+    "ID": 943,
+    "Commune": "ثلاث دوائر",
+    "Daira": "SEGHOUANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 943,
+    "WilayaAR": "المدية",
+    "DairaAR": "سغوان"
+  },
+  {
+    "ID": 944,
+    "Commune": "بني سليمان",
+    "Daira": "BENI SLIMANE",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 944,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "بني سليمان"
+  },
+  {
+    "ID": 945,
+    "Commune": "البرواقية",
+    "Daira": "BERROUAGHIA",
+    "Circonscriptions Administratives": "BERROUAGHIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 945,
+    "DistrictAdministratif": "البرواقية",
+    "WilayaAR": "المدية",
+    "DairaAR": "البرواقية"
+  },
+  {
+    "ID": 946,
+    "Commune": "سغوان",
+    "Daira": "SEGHOUANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 946,
+    "WilayaAR": "المدية",
+    "DairaAR": "سغوان"
+  },
+  {
+    "ID": 947,
+    "Commune": "مفاتحة",
+    "Daira": "KSAR EL BOUKHARI",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 947,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "قصر البخاري"
+  },
+  {
+    "ID": 948,
+    "Commune": "ميهوب",
+    "Daira": "EL AZIZIA",
+    "Circonscriptions Administratives": "TABLAT",
+    "Wilaya": "MEDEA",
+    "ID_1": 948,
+    "DistrictAdministratif": "تابلاط",
+    "WilayaAR": "المدية",
+    "DairaAR": "العزيزية"
+  },
+  {
+    "ID": 949,
+    "Commune": "بوغزول",
+    "Daira": "CHAHBOUNIA",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 949,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "الشهبونية"
+  },
+  {
+    "ID": 950,
+    "Commune": "تابلاط",
+    "Daira": "TABLAT",
+    "Circonscriptions Administratives": "TABLAT",
+    "Wilaya": "MEDEA",
+    "ID_1": 950,
+    "DistrictAdministratif": "تابلاط",
+    "WilayaAR": "المدية",
+    "DairaAR": "تابلاط"
+  },
+  {
+    "ID": 951,
+    "Commune": "الحوضان",
+    "Daira": "TABLAT",
+    "Circonscriptions Administratives": "TABLAT",
+    "Wilaya": "MEDEA",
+    "ID_1": 951,
+    "DistrictAdministratif": "تابلاط",
+    "WilayaAR": "المدية",
+    "DairaAR": "تابلاط"
+  },
+  {
+    "ID": 952,
+    "Commune": "ذراع السمار",
+    "Daira": "MEDEA",
+    "Wilaya": "MEDEA",
+    "ID_1": 952,
+    "WilayaAR": "المدية",
+    "DairaAR": "المدية"
+  },
+  {
+    "ID": 953,
+    "Commune": "سيدي الربيع",
+    "Daira": "BENI SLIMANE",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 953,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "بني سليمان"
+  },
+  {
+    "ID": 954,
+    "Commune": "بئر بن عابد",
+    "Daira": "GUELB EL KEBIR",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 954,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "القلب الكبير"
+  },
+  {
+    "ID": 955,
+    "Commune": "العوينات",
+    "Daira": "AIN BOUCIF",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 955,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "عين بوسيف"
+  },
+  {
+    "ID": 956,
+    "Commune": "أولاد عنتر",
+    "Daira": "OULED ANTAR",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 956,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "أولاد عنتر"
+  },
+  {
+    "ID": 957,
+    "Commune": "بوعيشون",
+    "Daira": "SI MAHDJOUB",
+    "Wilaya": "MEDEA",
+    "ID_1": 957,
+    "WilayaAR": "المدية",
+    "DairaAR": "سي المحجوب"
+  },
+  {
+    "ID": 958,
+    "Commune": "حناشة",
+    "Daira": "OUAMRI",
+    "Wilaya": "MEDEA",
+    "ID_1": 958,
+    "WilayaAR": "المدية",
+    "DairaAR": "عوامري"
+  },
+  {
+    "ID": 959,
+    "Commune": "سدراية",
+    "Daira": "GUELB EL KEBIR",
+    "Circonscriptions Administratives": "BENI SLIMANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 959,
+    "DistrictAdministratif": "بني سليمان",
+    "WilayaAR": "المدية",
+    "DairaAR": "القلب الكبير"
+  },
+  {
+    "ID": 960,
+    "Commune": "مجبر",
+    "Daira": "SEGHOUANE",
+    "Wilaya": "MEDEA",
+    "ID_1": 960,
+    "WilayaAR": "المدية",
+    "DairaAR": "سغوان"
+  },
+  {
+    "ID": 961,
+    "Commune": "خمس جوامع",
+    "Daira": "SIDI NAAMANE",
+    "Circonscriptions Administratives": "BERROUAGHIA",
+    "Wilaya": "MEDEA",
+    "ID_1": 961,
+    "DistrictAdministratif": "البرواقية",
+    "WilayaAR": "المدية",
+    "DairaAR": "سيدي نعمان"
+  },
+  {
+    "ID": 962,
+    "Commune": "السانق",
+    "Daira": "KSAR EL BOUKHARI",
+    "Circonscriptions Administratives": "KSAR EL BOUKHARI",
+    "Wilaya": "MEDEA",
+    "ID_1": 962,
+    "DistrictAdministratif": "قصر البخاري",
+    "WilayaAR": "المدية",
+    "DairaAR": "قصر البخاري"
+  }
+]

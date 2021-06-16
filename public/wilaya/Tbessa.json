@@ -1,0 +1,299 @@
+[
+  {
+    "ID": 364,
+    "Commune": "وسط المدينة تبسة",
+    "Daira": "TEBESSA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 364,
+    "ID_1": "تبسة",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 365,
+    "Commune": "حي هواري بومدين",
+    "Daira": "BIR EL ATER",
+    "Circonscriptions Administratives": "BIR-EL-ATER",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 365,
+    "ID_1": "بئر العاتر",
+    "DistrictAdministratif": "بئر العاتر",
+    "WilayaAR": "تبسة",
+    "DairaAR": "بئر العاتر"
+  },
+  {
+    "ID": 366,
+    "Commune": "الحي الجديد الشريعة",
+    "Daira": "CHERIA",
+    "Circonscriptions Administratives": "CHERIA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 366,
+    "ID_1": "الشريعة",
+    "DistrictAdministratif": "الشريعة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "الشريعة"
+  },
+  {
+    "ID": 367,
+    "Commune": "مقر بلدية سطح قنتيس",
+    "Daira": "EL OGLA",
+    "Circonscriptions Administratives": "CHERIA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 367,
+    "ID_1": "سطح قنطيس",
+    "DistrictAdministratif": "الشريعة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "العقلة"
+  },
+  {
+    "ID": 368,
+    "Commune": "وسط المدينة العوينات",
+    "Daira": "EL AOUINET",
+    "Circonscriptions Administratives": "OUENZA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 368,
+    "ID_1": "العوينات",
+    "DistrictAdministratif": "الونزة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "العوينات"
+  },
+  {
+    "ID": 369,
+    "Commune": "مقر بلدية الحويجبات",
+    "Daira": "EL MALABIOD",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 369,
+    "ID_1": "الحويجبات",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 370,
+    "Commune": "مقر بلدية صفصاف الوسري",
+    "Daira": "OUM ALI",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 370,
+    "ID_1": "صفصاف الوسرى",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 371,
+    "Commune": "شارع الأمير عبد القادر الحمامات",
+    "Daira": "BIR MOKADEM",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 371,
+    "ID_1": "الحمامات",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 372,
+    "Commune": "الحي الجديد نقرين",
+    "Daira": "NEGRINE",
+    "Circonscriptions Administratives": "BIR-EL-ATER",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 372,
+    "ID_1": "نقرين",
+    "DistrictAdministratif": "بئر العاتر",
+    "WilayaAR": "تبسة",
+    "DairaAR": "نقرين"
+  },
+  {
+    "ID": 373,
+    "Commune": "حي 18 فيفري",
+    "Daira": "BIR MOKADEM",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 373,
+    "ID_1": "بئر مقدم",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 374,
+    "Commune": "وسط المدينة الكويف",
+    "Daira": "EL KOUIF",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 374,
+    "ID_1": "الكويف",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 375,
+    "Commune": "حي ابن باديس مرسط",
+    "Daira": "MORSOTT",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 375,
+    "ID_1": "مرسط",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 376,
+    "Commune": "حي 20 أوت العقلة",
+    "Daira": "EL OGLA",
+    "Circonscriptions Administratives": "CHERIA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 376,
+    "ID_1": "العقلة",
+    "DistrictAdministratif": "الشريعة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "العقلة"
+  },
+  {
+    "ID": 377,
+    "Commune": "مقر بلدية بئر الذهب",
+    "Daira": "MORSOTT",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 377,
+    "ID_1": "بئر الذهب",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 378,
+    "Commune": "فم المطلق العقلة المالحة",
+    "Daira": "BIR EL ATER",
+    "Circonscriptions Administratives": "BIR-EL-ATER",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 378,
+    "ID_1": "العقلة المالحة",
+    "DistrictAdministratif": "بئر العاتر",
+    "WilayaAR": "تبسة",
+    "DairaAR": "بئر العاتر"
+  },
+  {
+    "ID": 379,
+    "Commune": "السطحة قريقر",
+    "Daira": "BIR MOKADEM",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 379,
+    "ID_1": "قريقر",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 380,
+    "Commune": "حي البريد بكارية",
+    "Daira": "EL KOUIF",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 380,
+    "ID_1": "بكارية",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 381,
+    "Commune": "حي نوري الساسي بوخضرة",
+    "Daira": "EL AOUINET",
+    "Circonscriptions Administratives": "OUENZA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 381,
+    "ID_1": "بوخضرة",
+    "DistrictAdministratif": "الونزة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "العوينات"
+  },
+  {
+    "ID": 382,
+    "Commune": "حي بن باديس الونزة",
+    "Daira": "OUENZA",
+    "Circonscriptions Administratives": "OUENZA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 382,
+    "ID_1": "الونزة",
+    "DistrictAdministratif": "الونزة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "الونزة"
+  },
+  {
+    "ID": 383,
+    "Commune": "حي مرزوقي صالح الماء البيض",
+    "Daira": "EL MALABIOD",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 383,
+    "ID_1": "الماء الابيض",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 384,
+    "Commune": "حي النصر أم علي",
+    "Daira": "OUM ALI",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 384,
+    "ID_1": "أم علي",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 385,
+    "Commune": "بلدية ثليجان",
+    "Daira": "CHERIA",
+    "Circonscriptions Administratives": "CHERIA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 385,
+    "ID_1": "ثليجان",
+    "DistrictAdministratif": "الشريعة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "الشريعة"
+  },
+  {
+    "ID": 386,
+    "Commune": "مقر بلدية عين الزرقاء",
+    "Daira": "OUENZA",
+    "Circonscriptions Administratives": "OUENZA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 386,
+    "ID_1": "عين الزرقاء",
+    "DistrictAdministratif": "الونزة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "الونزة"
+  },
+  {
+    "ID": 387,
+    "Commune": "طريق ونزة المريج",
+    "Daira": "OUENZA",
+    "Circonscriptions Administratives": "OUENZA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 387,
+    "ID_1": "المريج",
+    "DistrictAdministratif": "الونزة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "الونزة"
+  },
+  {
+    "ID": 388,
+    "Commune": "الطريق الوطني رقم16 بولحاف الدير",
+    "Daira": "EL KOUIF",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 388,
+    "ID_1": "بولحاف الدير",
+    "WilayaAR": "تبسة"
+  },
+  {
+    "ID": 389,
+    "Commune": "حي النصر بجن",
+    "Daira": "EL OGLA",
+    "Circonscriptions Administratives": "CHERIA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 389,
+    "ID_1": "بجن",
+    "DistrictAdministratif": "الشريعة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "العقلة"
+  },
+  {
+    "ID": 390,
+    "Commune": "حي 10+20 سكن تطوري",
+    "Daira": "EL OGLA",
+    "Circonscriptions Administratives": "CHERIA",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 390,
+    "ID_1": "المزرعة",
+    "DistrictAdministratif": "الشريعة",
+    "WilayaAR": "تبسة",
+    "DairaAR": "العقلة"
+  },
+  {
+    "ID": 391,
+    "Commune": "الحي الجديد فركان",
+    "Daira": "NEGRINE",
+    "Circonscriptions Administratives": "BIR-EL-ATER",
+    "Wilaya": "TEBESSA",
+    "__EMPTY": 391,
+    "ID_1": "فركان",
+    "DistrictAdministratif": "بئر العاتر",
+    "WilayaAR": "تبسة",
+    "DairaAR": "نقرين"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "ID": 284,
+    "Commune": "البليدة",
+    "Daira": "BLIDA",
+    "Wilaya": "BLIDA",
+    "ID_1": 284,
+    "WilayaAR": "البليدة",
+    "DairaAR": "البليدة"
+  },
+  {
+    "ID": 285,
+    "Commune": "الشبلي",
+    "Daira": "BOUINAN",
+    "Wilaya": "BLIDA",
+    "ID_1": 285,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوعينان"
+  },
+  {
+    "ID": 286,
+    "Commune": "بوعينان",
+    "Daira": "BOUINAN",
+    "Wilaya": "BLIDA",
+    "ID_1": 286,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوعينان"
+  },
+  {
+    "ID": 287,
+    "Commune": "وادي العلايق",
+    "Daira": "OUED EL ALLEUG",
+    "Wilaya": "BLIDA",
+    "ID_1": 287,
+    "WilayaAR": "البليدة",
+    "DairaAR": "وادي العلايق"
+  },
+  {
+    "ID": 288,
+    "Commune": "أولاد يعيش",
+    "Daira": "OULED YAICH",
+    "Wilaya": "BLIDA",
+    "ID_1": 288,
+    "WilayaAR": "البليدة",
+    "DairaAR": "أولاد يعيش"
+  },
+  {
+    "ID": 289,
+    "Commune": "الشريعة",
+    "Daira": "OULED YAICH",
+    "Wilaya": "BLIDA",
+    "ID_1": 289,
+    "WilayaAR": "البليدة",
+    "DairaAR": "أولاد يعيش"
+  },
+  {
+    "ID": 290,
+    "Commune": "العفرون",
+    "Daira": "EL AFFROUN",
+    "Wilaya": "BLIDA",
+    "ID_1": 290,
+    "WilayaAR": "البليدة",
+    "DairaAR": "العفرون"
+  },
+  {
+    "ID": 291,
+    "Commune": "الشفة",
+    "Daira": "MOUZAIA",
+    "Wilaya": "BLIDA",
+    "ID_1": 291,
+    "WilayaAR": "البليدة",
+    "DairaAR": "موزاية"
+  },
+  {
+    "ID": 292,
+    "Commune": "حمام ملوان",
+    "Daira": "BOUGARA",
+    "Wilaya": "BLIDA",
+    "ID_1": 292,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوقرة"
+  },
+  {
+    "ID": 293,
+    "Commune": "بن خليل",
+    "Daira": "OUED EL ALLEUG",
+    "Wilaya": "BLIDA",
+    "ID_1": 293,
+    "WilayaAR": "البليدة",
+    "DairaAR": "وادي العلايق"
+  },
+  {
+    "ID": 294,
+    "Commune": "الصومعة",
+    "Daira": "BOUFARIK",
+    "Wilaya": "BLIDA",
+    "ID_1": 294,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوفاريك"
+  },
+  {
+    "ID": 295,
+    "Commune": "موزاية",
+    "Daira": "MOUZAIA",
+    "Wilaya": "BLIDA",
+    "ID_1": 295,
+    "WilayaAR": "البليدة",
+    "DairaAR": "موزاية"
+  },
+  {
+    "ID": 296,
+    "Commune": "صوحان",
+    "Daira": "LARBAA",
+    "Wilaya": "BLIDA",
+    "ID_1": 296,
+    "WilayaAR": "البليدة",
+    "DairaAR": "الأربعاء"
+  },
+  {
+    "ID": 297,
+    "Commune": "مفتاح",
+    "Daira": "MEFTAH",
+    "Wilaya": "BLIDA",
+    "ID_1": 297,
+    "WilayaAR": "البليدة",
+    "DairaAR": "مفتاح"
+  },
+  {
+    "ID": 298,
+    "Commune": "اولاد سلامة",
+    "Daira": "BOUGARA",
+    "Wilaya": "BLIDA",
+    "ID_1": 298,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوقرة"
+  },
+  {
+    "ID": 299,
+    "Commune": "بوفاريك",
+    "Daira": "BOUFARIK",
+    "Wilaya": "BLIDA",
+    "ID_1": 299,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوفاريك"
+  },
+  {
+    "ID": 300,
+    "Commune": "الأربعاء",
+    "Daira": "LARBAA",
+    "Wilaya": "BLIDA",
+    "ID_1": 300,
+    "WilayaAR": "البليدة",
+    "DairaAR": "الأربعاء"
+  },
+  {
+    "ID": 301,
+    "Commune": "وادي جر",
+    "Daira": "EL AFFROUN",
+    "Wilaya": "BLIDA",
+    "ID_1": 301,
+    "WilayaAR": "البليدة",
+    "DairaAR": "العفرون"
+  },
+  {
+    "ID": 302,
+    "Commune": "بني تامو",
+    "Daira": "OUED EL ALLEUG",
+    "Wilaya": "BLIDA",
+    "ID_1": 302,
+    "WilayaAR": "البليدة",
+    "DairaAR": "وادي العلايق"
+  },
+  {
+    "ID": 303,
+    "Commune": "بوعرفة",
+    "Daira": "BLIDA",
+    "Wilaya": "BLIDA",
+    "ID_1": 303,
+    "WilayaAR": "البليدة",
+    "DairaAR": "البليدة"
+  },
+  {
+    "ID": 304,
+    "Commune": "بني مراد",
+    "Daira": "OULED YAICH",
+    "Wilaya": "BLIDA",
+    "ID_1": 304,
+    "WilayaAR": "البليدة",
+    "DairaAR": "أولاد يعيش"
+  },
+  {
+    "ID": 305,
+    "Commune": "بوقرة",
+    "Daira": "BOUGARA",
+    "Wilaya": "BLIDA",
+    "ID_1": 305,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوقرة"
+  },
+  {
+    "ID": 306,
+    "Commune": "قرواو",
+    "Daira": "BOUFARIK",
+    "Wilaya": "BLIDA",
+    "ID_1": 306,
+    "WilayaAR": "البليدة",
+    "DairaAR": "بوفاريك"
+  },
+  {
+    "ID": 307,
+    "Commune": "عين الرمانة",
+    "Daira": "MOUZAIA",
+    "Wilaya": "BLIDA",
+    "ID_1": 307,
+    "WilayaAR": "البليدة",
+    "DairaAR": "موزاية"
+  },
+  {
+    "ID": 308,
+    "Commune": "جبابرة",
+    "Daira": "MEFTAH",
+    "Wilaya": "BLIDA",
+    "ID_1": 308,
+    "WilayaAR": "البليدة",
+    "DairaAR": "مفتاح"
+  },
+  {
+    "Daira": "BOUINAN",
+    "Wilaya": "BLIDA",
+    "DistrictAdministratif": "بوعينان ",
+    "WilayaAR": "البليدة"
+  }
+]

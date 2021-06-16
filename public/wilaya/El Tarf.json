@@ -1,0 +1,218 @@
+[
+  {
+    "ID": 1230,
+    "Commune": "الطارف",
+    "Daira": "EL TARF",
+    "Wilaya": "EL TARF",
+    "ID_1": 1230,
+    "WilayaAR": "الطارف",
+    "DairaAR": "الطارف"
+  },
+  {
+    "ID": 1231,
+    "Commune": "بوحجار",
+    "Daira": "BOUHADJAR",
+    "Wilaya": "EL TARF",
+    "ID_1": 1231,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بوحجار"
+  },
+  {
+    "ID": 1232,
+    "Commune": "بن مهيدي",
+    "Daira": "BEN M'HIDI",
+    "Wilaya": "EL TARF",
+    "ID_1": 1232,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بن مهيدي"
+  },
+  {
+    "ID": 1233,
+    "Commune": "بوقوس",
+    "Daira": "EL TARF",
+    "Wilaya": "EL TARF",
+    "ID_1": 1233,
+    "WilayaAR": "الطارف",
+    "DairaAR": "الطارف"
+  },
+  {
+    "ID": 1234,
+    "Commune": "القالة",
+    "Daira": "EL KALA",
+    "Wilaya": "EL TARF",
+    "ID_1": 1234,
+    "WilayaAR": "الطارف",
+    "DairaAR": "القالة"
+  },
+  {
+    "ID": 1235,
+    "Commune": "عين العسل",
+    "Daira": "EL TARF",
+    "Wilaya": "EL TARF",
+    "ID_1": 1235,
+    "WilayaAR": "الطارف",
+    "DairaAR": "الطارف"
+  },
+  {
+    "ID": 1236,
+    "Commune": "العيون",
+    "Daira": "EL KALA",
+    "Wilaya": "EL TARF",
+    "ID_1": 1236,
+    "WilayaAR": "الطارف",
+    "DairaAR": "القالة"
+  },
+  {
+    "ID": 1237,
+    "Commune": "بوثلجة",
+    "Daira": "BOUTELDJA",
+    "Wilaya": "EL TARF",
+    "ID_1": 1237,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بوثلجة"
+  },
+  {
+    "ID": 1238,
+    "Commune": "السوارخ",
+    "Daira": "EL KALA",
+    "Wilaya": "EL TARF",
+    "ID_1": 1238,
+    "WilayaAR": "الطارف",
+    "DairaAR": "القالة"
+  },
+  {
+    "ID": 1239,
+    "Commune": "بريحان",
+    "Daira": "BEN M'HIDI",
+    "Wilaya": "EL TARF",
+    "ID_1": 1239,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بن مهيدي"
+  },
+  {
+    "ID": 1240,
+    "Commune": "بحيرة الطيور",
+    "Daira": "BOUTELDJA",
+    "Wilaya": "EL TARF",
+    "ID_1": 1240,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بوثلجة"
+  },
+  {
+    "ID": 1241,
+    "Commune": "الشافية",
+    "Daira": "BOUTELDJA",
+    "Wilaya": "EL TARF",
+    "ID_1": 1241,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بوثلجة"
+  },
+  {
+    "ID": 1242,
+    "Commune": "الذرعـان",
+    "Daira": "DREAN",
+    "Wilaya": "EL TARF",
+    "ID_1": 1242,
+    "WilayaAR": "الطارف",
+    "DairaAR": "الذرعان"
+  },
+  {
+    "ID": 1243,
+    "Commune": "شحاني",
+    "Daira": "DREAN",
+    "Wilaya": "EL TARF",
+    "ID_1": 1243,
+    "WilayaAR": "الطارف",
+    "DairaAR": "الذرعان"
+  },
+  {
+    "ID": 1244,
+    "Commune": "شبيطة مختار",
+    "Daira": "DREAN",
+    "Wilaya": "EL TARF",
+    "ID_1": 1244,
+    "WilayaAR": "الطارف",
+    "DairaAR": "الذرعان"
+  },
+  {
+    "ID": 1245,
+    "Commune": "البسباس",
+    "Daira": "BESBES",
+    "Wilaya": "EL TARF",
+    "ID_1": 1245,
+    "WilayaAR": "الطارف",
+    "DairaAR": "البسباس"
+  },
+  {
+    "ID": 1246,
+    "Commune": "عصفور",
+    "Daira": "BESBES",
+    "Wilaya": "EL TARF",
+    "ID_1": 1246,
+    "WilayaAR": "الطارف",
+    "DairaAR": "البسباس"
+  },
+  {
+    "ID": 1247,
+    "Commune": "الشط",
+    "Daira": "BEN M'HIDI",
+    "Wilaya": "EL TARF",
+    "ID_1": 1247,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بن مهيدي"
+  },
+  {
+    "ID": 1248,
+    "Commune": "زريزر",
+    "Daira": "BESBES",
+    "Wilaya": "EL TARF",
+    "ID_1": 1248,
+    "WilayaAR": "الطارف",
+    "DairaAR": "البسباس"
+  },
+  {
+    "ID": 1249,
+    "Commune": "الزيتونة",
+    "Daira": "EL TARF",
+    "Wilaya": "EL TARF",
+    "ID_1": 1249,
+    "WilayaAR": "الطارف",
+    "DairaAR": "الطارف"
+  },
+  {
+    "ID": 1250,
+    "Commune": "عين الكرمة",
+    "Daira": "BOUHADJAR",
+    "Wilaya": "EL TARF",
+    "ID_1": 1250,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بوحجار"
+  },
+  {
+    "ID": 1251,
+    "Commune": "وادي الزيتون",
+    "Daira": "BOUHADJAR",
+    "Wilaya": "EL TARF",
+    "ID_1": 1251,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بوحجار"
+  },
+  {
+    "ID": 1252,
+    "Commune": "حمام بني صالح",
+    "Daira": "BOUHADJAR",
+    "Wilaya": "EL TARF",
+    "ID_1": 1252,
+    "WilayaAR": "الطارف",
+    "DairaAR": "بوحجار"
+  },
+  {
+    "ID": 1253,
+    "Commune": "رمل السوق",
+    "Daira": "EL KALA",
+    "Wilaya": "EL TARF",
+    "ID_1": 1253,
+    "WilayaAR": "الطارف",
+    "DairaAR": "القالة"
+  }
+]

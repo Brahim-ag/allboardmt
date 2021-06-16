@@ -1,0 +1,254 @@
+[
+  {
+    "ID": 1355,
+    "Commune": "تيبازة",
+    "Daira": "TIPAZA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1355,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "تيبازة"
+  },
+  {
+    "ID": 1356,
+    "Commune": "مناصر",
+    "Daira": "SIDI AMAR",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1356,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "سيدي أعمر"
+  },
+  {
+    "ID": 1357,
+    "Commune": "الأرهاط",
+    "Daira": "DAMOUS",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1357,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "الداموس"
+  },
+  {
+    "ID": 1358,
+    "Commune": "دواودة",
+    "Daira": "FOUKA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1358,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "فوكة"
+  },
+  {
+    "ID": 1359,
+    "Commune": "بورقيقة",
+    "Daira": "AHMAR EL AIN",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1359,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "أحمر العين"
+  },
+  {
+    "ID": 1360,
+    "Commune": "خميستي",
+    "Daira": "BOU ISMAIL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1360,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "بواسماعيل"
+  },
+  {
+    "ID": 1361,
+    "Commune": "أغبال",
+    "Daira": "GOURAYA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1361,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "قوراية"
+  },
+  {
+    "ID": 1362,
+    "Commune": "حجوط",
+    "Daira": "HADJOUT",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1362,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "حجوط"
+  },
+  {
+    "ID": 1363,
+    "Commune": "سيدي عامر",
+    "Daira": "SIDI AMAR",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1363,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "سيدي أعمر"
+  },
+  {
+    "ID": 1364,
+    "Commune": "قوراية",
+    "Daira": "GOURAYA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1364,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "قوراية"
+  },
+  {
+    "ID": 1365,
+    "Commune": "الناظور",
+    "Daira": "SIDI AMAR",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1365,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "سيدي أعمر"
+  },
+  {
+    "ID": 1366,
+    "Commune": "الشعيبة",
+    "Daira": "KOLEA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1366,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "القليعة"
+  },
+  {
+    "ID": 1367,
+    "Commune": "عين تاقورايت",
+    "Daira": "BOU ISMAIL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1367,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "بواسماعيل"
+  },
+  {
+    "ID": 1368,
+    "Commune": "شرشال",
+    "Daira": "CHERCHELL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1368,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "شرشال"
+  },
+  {
+    "ID": 1369,
+    "Commune": "الداموس",
+    "Daira": "DAMOUS",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1369,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "الداموس"
+  },
+  {
+    "ID": 1370,
+    "Commune": "مراد",
+    "Daira": "HADJOUT",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1370,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "حجوط"
+  },
+  {
+    "ID": 1371,
+    "Commune": "فوكة",
+    "Daira": "FOUKA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1371,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "فوكة"
+  },
+  {
+    "ID": 1372,
+    "Commune": "بواسماعيل",
+    "Daira": "BOU ISMAIL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1372,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "بواسماعيل"
+  },
+  {
+    "ID": 1373,
+    "Commune": "أحمر العين",
+    "Daira": "AHMAR EL AIN",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1373,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "أحمر العين"
+  },
+  {
+    "ID": 1374,
+    "Commune": "بوهارون",
+    "Daira": "BOU ISMAIL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1374,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "بواسماعيل"
+  },
+  {
+    "ID": 1375,
+    "Commune": "سيدي غيلاس",
+    "Daira": "CHERCHELL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1375,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "شرشال"
+  },
+  {
+    "ID": 1376,
+    "Commune": "مسلمون",
+    "Daira": "GOURAYA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1376,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "قوراية"
+  },
+  {
+    "ID": 1377,
+    "Commune": "سيدي راشد",
+    "Daira": "AHMAR EL AIN",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1377,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "أحمر العين"
+  },
+  {
+    "ID": 1378,
+    "Commune": "القليعة",
+    "Daira": "KOLEA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1378,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "القليعة"
+  },
+  {
+    "ID": 1379,
+    "Commune": "الحطاطبة",
+    "Daira": "KOLEA",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1379,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "القليعة"
+  },
+  {
+    "ID": 1380,
+    "Commune": "سيدي سميان",
+    "Daira": "CHERCHELL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1380,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "شرشال"
+  },
+  {
+    "ID": 1381,
+    "Commune": "بني ميلك",
+    "Daira": "DAMOUS",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1381,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "الداموس"
+  },
+  {
+    "ID": 1382,
+    "Commune": "حجرة النص",
+    "Daira": "CHERCHELL",
+    "Wilaya": "TIPAZA",
+    "ID_1": 1382,
+    "WilayaAR": "تيبازة",
+    "DairaAR": "شرشال"
+  }
+]

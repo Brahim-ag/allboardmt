@@ -1,0 +1,605 @@
+[
+  {
+    "ID": 487,
+    "Commune": "تيزي وزو",
+    "Daira": "TIZI OUZOU",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 487,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيزي وزو"
+  },
+  {
+    "ID": 488,
+    "Commune": "عين الحمام",
+    "Daira": "AIN EL HAMMAM",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 488,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عين الحمام"
+  },
+  {
+    "ID": 489,
+    "Commune": "اقبيل",
+    "Daira": "AIN EL HAMMAM",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 489,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عين الحمام"
+  },
+  {
+    "ID": 490,
+    "Commune": "فريحة",
+    "Daira": "AZAZGA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 490,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عزازقة"
+  },
+  {
+    "ID": 491,
+    "Commune": "صوامـــع",
+    "Daira": "MEKLA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 491,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "مقلع"
+  },
+  {
+    "ID": 492,
+    "Commune": "مشطراس",
+    "Daira": "BOGHNI",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 492,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوغني"
+  },
+  {
+    "ID": 493,
+    "Commune": "إيرجـــن",
+    "Daira": "LARBAA NATH IRATEN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 493,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "الأربعاء ناث إيراثن"
+  },
+  {
+    "ID": 494,
+    "Commune": "تيمـيزار",
+    "Daira": "OUAGUENOUN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 494,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واقنون"
+  },
+  {
+    "ID": 495,
+    "Commune": "ماكودة",
+    "Daira": "MAKOUDA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 495,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ماكودة"
+  },
+  {
+    "ID": 496,
+    "Commune": "ذراع الميزان",
+    "Daira": "DRAA EL MIZAN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 496,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع الميزان"
+  },
+  {
+    "ID": 497,
+    "Commune": "تيزي غنيف",
+    "Daira": "TIZI-GHENIF",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 497,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيزي غنيف"
+  },
+  {
+    "ID": 498,
+    "Commune": "بونوح",
+    "Daira": "BOGHNI",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 498,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوغني"
+  },
+  {
+    "ID": 499,
+    "Commune": "أيت شافع",
+    "Daira": "AZEFFOUN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 499,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "أزفون"
+  },
+  {
+    "ID": 500,
+    "Commune": "فريقات",
+    "Daira": "DRAA EL MIZAN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 500,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع الميزان"
+  },
+  {
+    "ID": 501,
+    "Commune": "بني عيسي",
+    "Daira": "BENI DOUALA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 501,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بني دوالة"
+  },
+  {
+    "ID": 502,
+    "Commune": "بنــــي زمنزار",
+    "Daira": "BENI DOUALA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 502,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بني دوالة"
+  },
+  {
+    "ID": 503,
+    "Commune": "إفــرحــونان",
+    "Daira": "IFERHOUNENE",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 503,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "إفرحونان"
+  },
+  {
+    "ID": 504,
+    "Commune": "عزازقة",
+    "Daira": "AZAZGA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 504,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عزازقة"
+  },
+  {
+    "ID": 505,
+    "Commune": "إيلولة أومـــالو",
+    "Daira": "BOUZEGUENE",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 505,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوزقن"
+  },
+  {
+    "ID": 506,
+    "Commune": "إعــكورن",
+    "Daira": "AZAZGA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 506,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عزازقة"
+  },
+  {
+    "ID": 507,
+    "Commune": "الأربعــاء ناث إيراثن",
+    "Daira": "LARBAA NATH IRATEN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 507,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "الأربعاء ناث إيراثن"
+  },
+  {
+    "ID": 508,
+    "Commune": "تيزي راشد",
+    "Daira": "TIZI RACHED",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 508,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيزي راشد"
+  },
+  {
+    "ID": 509,
+    "Commune": "زكري",
+    "Daira": "AZAZGA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 509,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عزازقة"
+  },
+  {
+    "ID": 510,
+    "Commune": "واقنون",
+    "Daira": "OUAGUENOUN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 510,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واقنون"
+  },
+  {
+    "ID": 511,
+    "Commune": "عين الزاوية",
+    "Daira": "DRAA EL MIZAN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 511,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع الميزان"
+  },
+  {
+    "ID": 512,
+    "Commune": "مكيرة",
+    "Daira": "TIZI-GHENIF",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 512,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيزي غنيف"
+  },
+  {
+    "ID": 513,
+    "Commune": "أيت يحيى",
+    "Daira": "AIN EL HAMMAM",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 513,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عين الحمام"
+  },
+  {
+    "ID": 514,
+    "Commune": "أيت محمود",
+    "Daira": "BENI DOUALA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 514,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بني دوالة"
+  },
+  {
+    "ID": 515,
+    "Commune": "معـــاتقة",
+    "Daira": "MAATKAS",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 515,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "معاتقة"
+  },
+  {
+    "ID": 516,
+    "Commune": "أيت بومهدي",
+    "Daira": "OUACIF",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 516,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واسيف"
+  },
+  {
+    "ID": 517,
+    "Commune": "أبي يوسف",
+    "Daira": "AIN EL HAMMAM",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 517,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عين الحمام"
+  },
+  {
+    "ID": 518,
+    "Commune": "بني دوالة",
+    "Daira": "BENI DOUALA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 518,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بني دوالة"
+  },
+  {
+    "ID": 519,
+    "Commune": "إيلـيــلتـن",
+    "Daira": "IFERHOUNENE",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 519,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "إفرحونان"
+  },
+  {
+    "ID": 520,
+    "Commune": "بوزقــن",
+    "Daira": "BOUZEGUENE",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 520,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوزقن"
+  },
+  {
+    "ID": 521,
+    "Commune": "أيت عقـواشة",
+    "Daira": "LARBAA NATH IRATEN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 521,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "الأربعاء ناث إيراثن"
+  },
+  {
+    "ID": 522,
+    "Commune": "واضية",
+    "Daira": "OUADHIAS",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 522,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واضية"
+  },
+  {
+    "ID": 523,
+    "Commune": "أزفون",
+    "Daira": "AZEFFOUN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 523,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "أزفون"
+  },
+  {
+    "ID": 524,
+    "Commune": "تيقـزيرت",
+    "Daira": "TIGZIRT",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 524,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيقزيرت"
+  },
+  {
+    "ID": 525,
+    "Commune": "أيت عيسى ميمون",
+    "Daira": "OUAGUENOUN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 525,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واقنون"
+  },
+  {
+    "ID": 526,
+    "Commune": "بوغني",
+    "Daira": "BOGHNI",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 526,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوغني"
+  },
+  {
+    "ID": 527,
+    "Commune": "إيفيغاء",
+    "Daira": "AZAZGA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 527,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "عزازقة"
+  },
+  {
+    "ID": 528,
+    "Commune": "أيت أومالو",
+    "Daira": "TIZI RACHED",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 528,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيزي راشد"
+  },
+  {
+    "ID": 529,
+    "Commune": "تيرمتين",
+    "Daira": "DRAA BEN KHEDDA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 529,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع بن خدة"
+  },
+  {
+    "ID": 530,
+    "Commune": "أقرو",
+    "Daira": "AZEFFOUN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 530,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "أزفون"
+  },
+  {
+    "ID": 531,
+    "Commune": "يطــافن",
+    "Daira": "BENNI YENNI",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 531,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بني يني"
+  },
+  {
+    "ID": 532,
+    "Commune": "بني زيكــي",
+    "Daira": "BOUZEGUENE",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 532,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوزقن"
+  },
+  {
+    "ID": 533,
+    "Commune": "ذراع بن خدة",
+    "Daira": "DRAA BEN KHEDDA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 533,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع بن خدة"
+  },
+  {
+    "ID": 534,
+    "Commune": "واسيف",
+    "Daira": "OUACIF",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 534,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واسيف"
+  },
+  {
+    "ID": 535,
+    "Commune": "إيجــار",
+    "Daira": "BOUZEGUENE",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 535,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوزقن"
+  },
+  {
+    "ID": 536,
+    "Commune": "مقــلع",
+    "Daira": "MEKLA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 536,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "مقلع"
+  },
+  {
+    "ID": 537,
+    "Commune": "تيزي نثلاثة",
+    "Daira": "OUADHIAS",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 537,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واضية"
+  },
+  {
+    "ID": 538,
+    "Commune": "بني يني",
+    "Daira": "BENNI YENNI",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 538,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بني يني"
+  },
+  {
+    "ID": 539,
+    "Commune": "أغريب",
+    "Daira": "AZEFFOUN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 539,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "أزفون"
+  },
+  {
+    "ID": 540,
+    "Commune": "إفليـــسن",
+    "Daira": "TIGZIRT",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 540,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيقزيرت"
+  },
+  {
+    "ID": 541,
+    "Commune": "بوجيمة",
+    "Daira": "MAKOUDA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 541,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ماكودة"
+  },
+  {
+    "ID": 542,
+    "Commune": "أيت يحي موسى",
+    "Daira": "DRAA EL MIZAN",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 542,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع الميزان"
+  },
+  {
+    "ID": 543,
+    "Commune": "سوق الإثنين",
+    "Daira": "MAATKAS",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 543,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "معاتقة"
+  },
+  {
+    "ID": 544,
+    "Commune": "أيت خليلي",
+    "Daira": "MEKLA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 544,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "مقلع"
+  },
+  {
+    "ID": 545,
+    "Commune": "سيدي نعمان",
+    "Daira": "DRAA BEN KHEDDA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 545,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع بن خدة"
+  },
+  {
+    "ID": 546,
+    "Commune": "إبودرارن",
+    "Daira": "BENNI YENNI",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 546,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بني يني"
+  },
+  {
+    "ID": 547,
+    "Commune": "أقني قغران",
+    "Daira": "OUADHIAS",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 547,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واضية"
+  },
+  {
+    "ID": 548,
+    "Commune": "ميزرانـــة",
+    "Daira": "TIGZIRT",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 548,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "تيقزيرت"
+  },
+  {
+    "ID": 549,
+    "Commune": "إمســوحال",
+    "Daira": "IFERHOUNENE",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 549,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "إفرحونان"
+  },
+  {
+    "ID": 550,
+    "Commune": "تادمايت",
+    "Daira": "DRAA BEN KHEDDA",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 550,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "ذراع بن خدة"
+  },
+  {
+    "ID": 551,
+    "Commune": "أيت بــوادو",
+    "Daira": "OUADHIAS",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 551,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واضية"
+  },
+  {
+    "ID": 552,
+    "Commune": "أسي يوسف",
+    "Daira": "BOGHNI",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 552,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "بوغني"
+  },
+  {
+    "ID": 553,
+    "Commune": "أيت تودرت",
+    "Daira": "OUACIF",
+    "Wilaya": "TIZI-OUZOU",
+    "ID_1": 553,
+    "WilayaAR": "تيزي وزو",
+    "DairaAR": "واسيف"
+  }
+]

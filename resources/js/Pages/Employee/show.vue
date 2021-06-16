@@ -325,36 +325,32 @@
                 </dt>
               </div>
               
-              <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
-                <dt class="text-sm font-medium text-gray-500">
-                  اللقب
-                </dt>
+              <div class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
                 <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
                   {{ employe.lastnameAr }}
                 </dd>
+                <dt class="text-sm font-medium text-gray-500">
+                  اللقب
+                </dt>
+                
               </div>
               
               <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
-                <dt class="text-sm font-medium text-gray-500">
-                  الإسم
-                </dt>
+                
                 <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
                   {{ employe.nameAr }}
                 </dd>
+                <dt class="text-sm font-medium text-gray-500">
+                  الإسم
+                </dt>
               </div>
 
-              <div
-                class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-              >
-                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-                </dd>
-                <dt class="text-sm font-medium text-gray-500">تاريخ الميلاد</dt>
-              </div>
+             
             </dl>
           </div>
 
           <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd
               class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
@@ -368,57 +364,19 @@
             <dt class="text-sm font-medium text-gray-500">الجنس</dt>
           </div>
 
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">مكان الميلاد</dt>
-          </div>
-
-          <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">دائرة الميلاد</dt>
-          </div>
-
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">البلدية الميلاد</dt>
-          </div>
-
-          <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">العنوان</dt>
-          </div>
-
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">الجنسية</dt>
-          </div>
-          
+         
           <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
-            <dt class="text-sm font-medium text-gray-500">
-              اسم الأب
-            </dt>
+           
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
               {{ employe.namefatherAr }}
             </dd>
+             <dt class="text-sm font-medium text-gray-500">
+              اسم الأب
+            </dt>
           </div>
 
           <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
+            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
           >
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
               {{ employe.nameMotherAr }}
@@ -427,106 +385,13 @@
             <dt class="text-sm font-medium text-gray-500">اسم و لقب الأم</dt>
           </div>
 
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">الحالة العائلية</dt>
-          </div>
-
-          <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">فصيلة الدم   </dt>
-          </div>
-
-          <div class="col-md-4"></div>
-
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">سكن وظيفي</dt>
-          </div>
-
-          <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">رقم الهاتف   </dt>
-          </div>
-
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">البريد الإلكتروني</dt>
-          </div>
-
-          <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">
-              رقم الحساب البنكي او البريدي
-            </dt>
-          </div>
-
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">
-              الحساب البنكي او البريدي
-            </dt>
-          </div>
-
-          <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">
-              رقم الإشتراك الضمان الاجتماعي
-            </dt>
-          </div>
-
-          <div
-            class="bg-white-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">التعاضدية  </dt>
-          </div>
-
-          <div
-            class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2"
-          >
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">
-              رقم الإشتراك في التعاضدية  
-            </dt>
-          </div>
           
           <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
             <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
             </dd>
-            <dt class="text-sm font-medium text-gray-500">مرض مزمن</dt>
-          </div>
-          
-          <div class="bg-gray-50 px-2 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-2">
-            <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
-            </dd>
-            <dt class="text-sm font-medium text-gray-500">مستوى الإعلام الآلي</dt>
+            <dt class="text-sm font-medium text-gray-500">
+              <img v-bind:src="`data:image/jpeg;base64,`+this.employee.image"/>
+            </dt>
           </div>
           
         </div>

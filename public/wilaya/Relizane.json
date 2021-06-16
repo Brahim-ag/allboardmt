@@ -1,0 +1,344 @@
+[
+  {
+    "ID": 1504,
+    "Commune": "غليزان",
+    "Daira": "RELIZANE",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1504,
+    "WilayaAR": "غليزان",
+    "DairaAR": "غليزان"
+  },
+  {
+    "ID": 1505,
+    "Commune": "وادي رهيو",
+    "Daira": "OUED RHIOU",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1505,
+    "WilayaAR": "غليزان",
+    "DairaAR": "وادي رهيو"
+  },
+  {
+    "ID": 1506,
+    "Commune": "بلعسل بوزقزة",
+    "Daira": "EL MATMAR",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1506,
+    "WilayaAR": "غليزان",
+    "DairaAR": "المطمر"
+  },
+  {
+    "ID": 1507,
+    "Commune": "سيدي سعادة",
+    "Daira": "YELLEL",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1507,
+    "WilayaAR": "غليزان",
+    "DairaAR": "يلل"
+  },
+  {
+    "ID": 1508,
+    "Commune": "أولاد يعيش",
+    "Daira": "AMMI MOUSSA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1508,
+    "WilayaAR": "غليزان",
+    "DairaAR": "عمي موسى"
+  },
+  {
+    "ID": 1509,
+    "Commune": "سيدي لزرق",
+    "Daira": "MENDES",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1509,
+    "WilayaAR": "غليزان",
+    "DairaAR": "منداس"
+  },
+  {
+    "ID": 1510,
+    "Commune": "الحمادنة",
+    "Daira": "EL H'MADNA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1510,
+    "WilayaAR": "غليزان",
+    "DairaAR": "الحمادنة"
+  },
+  {
+    "ID": 1511,
+    "Commune": "سيدي أمحمد بن علي",
+    "Daira": "SIDI M'HAMED BEN ALI",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1511,
+    "WilayaAR": "غليزان",
+    "DairaAR": "سيدي أمحمد بن علي"
+  },
+  {
+    "ID": 1512,
+    "Commune": "مديونة",
+    "Daira": "SIDI M'HAMED BEN ALI",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1512,
+    "WilayaAR": "غليزان",
+    "DairaAR": "سيدي أمحمد بن علي"
+  },
+  {
+    "ID": 1513,
+    "Commune": "سيدي خطاب",
+    "Daira": "EL MATMAR",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1513,
+    "WilayaAR": "غليزان",
+    "DairaAR": "المطمر"
+  },
+  {
+    "ID": 1514,
+    "Commune": "عمي موسى",
+    "Daira": "AMMI MOUSSA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1514,
+    "WilayaAR": "غليزان",
+    "DairaAR": "عمي موسى"
+  },
+  {
+    "ID": 1515,
+    "Commune": "زمورة",
+    "Daira": "ZEMMOURA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1515,
+    "WilayaAR": "غليزان",
+    "DairaAR": "زمورة"
+  },
+  {
+    "ID": 1516,
+    "Commune": "بني درقن",
+    "Daira": "ZEMMOURA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1516,
+    "WilayaAR": "غليزان",
+    "DairaAR": "زمورة"
+  },
+  {
+    "ID": 1517,
+    "Commune": "جديوية",
+    "Daira": "DJIDIOUIA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1517,
+    "WilayaAR": "غليزان",
+    "DairaAR": "جديوية"
+  },
+  {
+    "ID": 1518,
+    "Commune": "القطار",
+    "Daira": "MAZOUNA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1518,
+    "WilayaAR": "غليزان",
+    "DairaAR": "مازونة"
+  },
+  {
+    "ID": 1519,
+    "Commune": "حمري",
+    "Daira": "DJIDIOUIA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1519,
+    "WilayaAR": "غليزان",
+    "DairaAR": "جديوية"
+  },
+  {
+    "ID": 1520,
+    "Commune": "المطمر",
+    "Daira": "EL MATMAR",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1520,
+    "WilayaAR": "غليزان",
+    "DairaAR": "المطمر"
+  },
+  {
+    "ID": 1521,
+    "Commune": "سيدي امحمد بن عودة",
+    "Daira": "EL MATMAR",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1521,
+    "WilayaAR": "غليزان",
+    "DairaAR": "المطمر"
+  },
+  {
+    "ID": 1522,
+    "Commune": "عين طارق",
+    "Daira": "AIN TAREK",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1522,
+    "WilayaAR": "غليزان",
+    "DairaAR": "عين طارق"
+  },
+  {
+    "ID": 1523,
+    "Commune": "وادي السلام",
+    "Daira": "MENDES",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1523,
+    "WilayaAR": "غليزان",
+    "DairaAR": "منداس"
+  },
+  {
+    "ID": 1524,
+    "Commune": "واريزان",
+    "Daira": "OUED RHIOU",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1524,
+    "WilayaAR": "غليزان",
+    "DairaAR": "وادي رهيو"
+  },
+  {
+    "ID": 1525,
+    "Commune": "مازونة",
+    "Daira": "MAZOUNA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1525,
+    "WilayaAR": "غليزان",
+    "DairaAR": "مازونة"
+  },
+  {
+    "ID": 1526,
+    "Commune": "القلعة",
+    "Daira": "YELLEL",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1526,
+    "WilayaAR": "غليزان",
+    "DairaAR": "يلل"
+  },
+  {
+    "ID": 1527,
+    "Commune": "عين الرحمة",
+    "Daira": "YELLEL",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1527,
+    "WilayaAR": "غليزان",
+    "DairaAR": "يلل"
+  },
+  {
+    "ID": 1528,
+    "Commune": "يلل",
+    "Daira": "YELLEL",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1528,
+    "WilayaAR": "غليزان",
+    "DairaAR": "يلل"
+  },
+  {
+    "ID": 1529,
+    "Commune": "وادي الجمعة",
+    "Daira": "EL H'MADNA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1529,
+    "WilayaAR": "غليزان",
+    "DairaAR": "الحمادنة"
+  },
+  {
+    "ID": 1530,
+    "Commune": "الرمكة",
+    "Daira": "RAMKA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1530,
+    "WilayaAR": "غليزان",
+    "DairaAR": "الرمكة"
+  },
+  {
+    "ID": 1531,
+    "Commune": "منداس",
+    "Daira": "MENDES",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1531,
+    "WilayaAR": "غليزان",
+    "DairaAR": "منداس"
+  },
+  {
+    "ID": 1532,
+    "Commune": "لحلاف",
+    "Daira": "OUED RHIOU",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1532,
+    "WilayaAR": "غليزان",
+    "DairaAR": "وادي رهيو"
+  },
+  {
+    "ID": 1533,
+    "Commune": "بني زنطيس",
+    "Daira": "SIDI M'HAMED BEN ALI",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1533,
+    "WilayaAR": "غليزان",
+    "DairaAR": "سيدي أمحمد بن علي"
+  },
+  {
+    "ID": 1534,
+    "Commune": "سوق الحد",
+    "Daira": "RAMKA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1534,
+    "WilayaAR": "غليزان",
+    "DairaAR": "الرمكة"
+  },
+  {
+    "ID": 1535,
+    "Commune": "دار بن عبد الله",
+    "Daira": "ZEMMOURA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1535,
+    "WilayaAR": "غليزان",
+    "DairaAR": "زمورة"
+  },
+  {
+    "ID": 1536,
+    "Commune": "الحاسي",
+    "Daira": "AMMI MOUSSA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1536,
+    "WilayaAR": "غليزان",
+    "DairaAR": "عمي موسى"
+  },
+  {
+    "ID": 1537,
+    "Commune": "حد الشكالة",
+    "Daira": "AIN TAREK",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1537,
+    "WilayaAR": "غليزان",
+    "DairaAR": "عين طارق"
+  },
+  {
+    "ID": 1538,
+    "Commune": "بن داود",
+    "Daira": "RELIZANE",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1538,
+    "WilayaAR": "غليزان",
+    "DairaAR": "غليزان"
+  },
+  {
+    "ID": 1539,
+    "Commune": "الولجة",
+    "Daira": "AMMI MOUSSA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1539,
+    "WilayaAR": "غليزان",
+    "DairaAR": "عمي موسى"
+  },
+  {
+    "ID": 1540,
+    "Commune": "مرجة سيدي عابد",
+    "Daira": "OUED RHIOU",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1540,
+    "WilayaAR": "غليزان",
+    "DairaAR": "وادي رهيو"
+  },
+  {
+    "ID": 1541,
+    "Commune": "أولاد سيدي الميهوب",
+    "Daira": "DJIDIOUIA",
+    "Wilaya": "RELIZANE",
+    "ID_1": 1541,
+    "WilayaAR": "غليزان",
+    "DairaAR": "جديوية"
+  }
+]

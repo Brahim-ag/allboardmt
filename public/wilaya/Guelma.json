@@ -1,0 +1,308 @@
+[
+  {
+    "ID": 853,
+    "Commune": "قالمة",
+    "Daira": "GUELMA",
+    "Wilaya": "GUELMA",
+    "ID_1": 853,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قالمة"
+  },
+  {
+    "ID": 854,
+    "Commune": "نشماية",
+    "Daira": "GUELAAT BOUSBAA",
+    "Wilaya": "GUELMA",
+    "ID_1": 854,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قلعة بوصبع"
+  },
+  {
+    "ID": 855,
+    "Commune": "بوعاتي محمود",
+    "Daira": "HELIOPOLIS",
+    "Wilaya": "GUELMA",
+    "ID_1": 855,
+    "WilayaAR": "قالمة",
+    "DairaAR": "هيليوبوليس"
+  },
+  {
+    "ID": 856,
+    "Commune": "وادي الزناتي",
+    "Daira": "OUED ZENATI",
+    "Wilaya": "GUELMA",
+    "ID_1": 856,
+    "WilayaAR": "قالمة",
+    "DairaAR": "وادي الزناتي"
+  },
+  {
+    "ID": 857,
+    "Commune": "تاملوكة",
+    "Daira": "AIN MAKHLOUF",
+    "Wilaya": "GUELMA",
+    "ID_1": 857,
+    "WilayaAR": "قالمة",
+    "DairaAR": "عين مخلوف"
+  },
+  {
+    "ID": 858,
+    "Commune": "وادي فراغة",
+    "Daira": "BOUCHEGOUF",
+    "Wilaya": "GUELMA",
+    "ID_1": 858,
+    "WilayaAR": "قالمة",
+    "DairaAR": "بوشقوف"
+  },
+  {
+    "ID": 859,
+    "Commune": "عين صندل",
+    "Daira": "KHEZARAS",
+    "Wilaya": "GUELMA",
+    "ID_1": 859,
+    "WilayaAR": "قالمة",
+    "DairaAR": "خزارة"
+  },
+  {
+    "ID": 860,
+    "Commune": "رأس العقبة",
+    "Daira": "AIN HESSAINIA",
+    "Wilaya": "GUELMA",
+    "ID_1": 860,
+    "WilayaAR": "قالمة",
+    "DairaAR": "عين حساينية"
+  },
+  {
+    "ID": 861,
+    "Commune": "الدهوارة",
+    "Daira": "HAMMAM N'BAILS",
+    "Wilaya": "GUELMA",
+    "ID_1": 861,
+    "WilayaAR": "قالمة",
+    "DairaAR": "حمام النبايل"
+  },
+  {
+    "ID": 862,
+    "Commune": "بلخير",
+    "Daira": "GUELAAT BOUSBAA",
+    "Wilaya": "GUELMA",
+    "ID_1": 862,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قلعة بوصبع"
+  },
+  {
+    "ID": 863,
+    "Commune": "بن جراح",
+    "Daira": "GUELMA",
+    "Wilaya": "GUELMA",
+    "ID_1": 863,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قالمة"
+  },
+  {
+    "ID": 864,
+    "Commune": "بوحمدان",
+    "Daira": "HAMMAM DEBAGH",
+    "Wilaya": "GUELMA",
+    "ID_1": 864,
+    "WilayaAR": "قالمة",
+    "DairaAR": "حمام دباغ"
+  },
+  {
+    "ID": 865,
+    "Commune": "عين مخلوف",
+    "Daira": "AIN MAKHLOUF",
+    "Wilaya": "GUELMA",
+    "ID_1": 865,
+    "WilayaAR": "قالمة",
+    "DairaAR": "عين مخلوف"
+  },
+  {
+    "ID": 866,
+    "Commune": "عين بن بيضاء",
+    "Daira": "BOUCHEGOUF",
+    "Wilaya": "GUELMA",
+    "ID_1": 866,
+    "WilayaAR": "قالمة",
+    "DairaAR": "بوشقوف"
+  },
+  {
+    "ID": 867,
+    "Commune": "لخزارة",
+    "Daira": "KHEZARAS",
+    "Wilaya": "GUELMA",
+    "ID_1": 867,
+    "WilayaAR": "قالمة",
+    "DairaAR": "خزارة"
+  },
+  {
+    "ID": 868,
+    "Commune": "بني مزلين",
+    "Daira": "GUELAAT BOUSBAA",
+    "Wilaya": "GUELMA",
+    "ID_1": 868,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قلعة بوصبع"
+  },
+  {
+    "ID": 869,
+    "Commune": "بوحشانة",
+    "Daira": "KHEZARAS",
+    "Wilaya": "GUELMA",
+    "ID_1": 869,
+    "WilayaAR": "قالمة",
+    "DairaAR": "خزارة"
+  },
+  {
+    "ID": 870,
+    "Commune": "قلعة بوصبع",
+    "Daira": "GUELAAT BOUSBAA",
+    "Wilaya": "GUELMA",
+    "ID_1": 870,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قلعة بوصبع"
+  },
+  {
+    "ID": 871,
+    "Commune": "حمام دباغ",
+    "Daira": "HAMMAM DEBAGH",
+    "Wilaya": "GUELMA",
+    "ID_1": 871,
+    "WilayaAR": "قالمة",
+    "DairaAR": "حمام دباغ"
+  },
+  {
+    "ID": 872,
+    "Commune": "الفجوج",
+    "Daira": "HELIOPOLIS",
+    "Wilaya": "GUELMA",
+    "ID_1": 872,
+    "WilayaAR": "قالمة",
+    "DairaAR": "هيليوبوليس"
+  },
+  {
+    "ID": 873,
+    "Commune": "برج صباط",
+    "Daira": "OUED ZENATI",
+    "Wilaya": "GUELMA",
+    "ID_1": 873,
+    "WilayaAR": "قالمة",
+    "DairaAR": "وادي الزناتي"
+  },
+  {
+    "ID": 874,
+    "Commune": "حمام النبايل",
+    "Daira": "HAMMAM N'BAILS",
+    "Wilaya": "GUELMA",
+    "ID_1": 874,
+    "WilayaAR": "قالمة",
+    "DairaAR": "حمام النبايل"
+  },
+  {
+    "ID": 875,
+    "Commune": "عين العربي",
+    "Daira": "AIN MAKHLOUF",
+    "Wilaya": "GUELMA",
+    "ID_1": 875,
+    "WilayaAR": "قالمة",
+    "DairaAR": "عين مخلوف"
+  },
+  {
+    "ID": 876,
+    "Commune": "مجاز عمار",
+    "Daira": "AIN HESSAINIA",
+    "Wilaya": "GUELMA",
+    "ID_1": 876,
+    "WilayaAR": "قالمة",
+    "DairaAR": "عين حساينية"
+  },
+  {
+    "ID": 877,
+    "Commune": "بوشقوف",
+    "Daira": "BOUCHEGOUF",
+    "Wilaya": "GUELMA",
+    "ID_1": 877,
+    "WilayaAR": "قالمة",
+    "DairaAR": "بوشقوف"
+  },
+  {
+    "ID": 878,
+    "Commune": "هيليوبوليس",
+    "Daira": "HELIOPOLIS",
+    "Wilaya": "GUELMA",
+    "ID_1": 878,
+    "WilayaAR": "قالمة",
+    "DairaAR": "هيليوبوليس"
+  },
+  {
+    "ID": 879,
+    "Commune": "هواري بومدين",
+    "Daira": "AIN HESSAINIA",
+    "Wilaya": "GUELMA",
+    "ID_1": 879,
+    "WilayaAR": "قالمة",
+    "DairaAR": "عين حساينية"
+  },
+  {
+    "ID": 880,
+    "Commune": "الركنية",
+    "Daira": "HAMMAM DEBAGH",
+    "Wilaya": "GUELMA",
+    "ID_1": 880,
+    "WilayaAR": "قالمة",
+    "DairaAR": "حمام دباغ"
+  },
+  {
+    "ID": 881,
+    "Commune": "سلاوة عنونة",
+    "Daira": "AIN HESSAINIA",
+    "Wilaya": "GUELMA",
+    "ID_1": 881,
+    "WilayaAR": "قالمة",
+    "DairaAR": "عين حساينية"
+  },
+  {
+    "ID": 882,
+    "Commune": "مجاز الصفاء",
+    "Daira": "BOUCHEGOUF",
+    "Wilaya": "GUELMA",
+    "ID_1": 882,
+    "WilayaAR": "قالمة",
+    "DairaAR": "بوشقوف"
+  },
+  {
+    "ID": 883,
+    "Commune": "بومهرة أحمد",
+    "Daira": "GUELAAT BOUSBAA",
+    "Wilaya": "GUELMA",
+    "ID_1": 883,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قلعة بوصبع"
+  },
+  {
+    "ID": 884,
+    "Commune": "عين رقادة",
+    "Daira": "OUED ZENATI",
+    "Wilaya": "GUELMA",
+    "ID_1": 884,
+    "WilayaAR": "قالمة",
+    "DairaAR": "وادي الزناتي"
+  },
+  {
+    "ID": 885,
+    "Commune": "وادي الشحم",
+    "Daira": "HAMMAM N'BAILS",
+    "Wilaya": "GUELMA",
+    "ID_1": 885,
+    "WilayaAR": "قالمة",
+    "DairaAR": "حمام النبايل"
+  },
+  {
+    "ID": 886,
+    "Commune": "جبالة الخميسي",
+    "Daira": "GUELAAT BOUSBAA",
+    "Wilaya": "GUELMA",
+    "ID_1": 886,
+    "WilayaAR": "قالمة",
+    "DairaAR": "قلعة بوصبع"
+  }
+]

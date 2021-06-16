@@ -1,0 +1,132 @@
+[
+  {
+    "ID": 1451,
+    "Commune": "النعامة",
+    "Daira": "NAAMA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1451,
+    "WilayaAR": "النعامة",
+    "DairaAR": "النعامة"
+  },
+  {
+    "ID": 1452,
+    "Commune": "مشرية",
+    "Daira": "MECHERIA",
+    "Circonscriptions Administratives": "MECHERIA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1452,
+    "DistrictAdministratif": "مشرية",
+    "WilayaAR": "النعامة",
+    "DairaAR": "مشرية"
+  },
+  {
+    "ID": 1453,
+    "Commune": "عين الصفراء",
+    "Daira": "AIN SEFRA",
+    "Circonscriptions Administratives": "AIN SEFRA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1453,
+    "DistrictAdministratif": "عين الصفراء",
+    "WilayaAR": "النعامة",
+    "DairaAR": "عين الصفراء"
+  },
+  {
+    "ID": 1454,
+    "Commune": "تيوت",
+    "Daira": "AIN SEFRA",
+    "Circonscriptions Administratives": "AIN SEFRA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1454,
+    "DistrictAdministratif": "عين الصفراء",
+    "WilayaAR": "النعامة",
+    "DairaAR": "عين الصفراء"
+  },
+  {
+    "ID": 1455,
+    "Commune": "سفيسيفة",
+    "Daira": "SFISSIFA",
+    "Circonscriptions Administratives": "AIN SEFRA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1455,
+    "DistrictAdministratif": "عين الصفراء",
+    "WilayaAR": "النعامة",
+    "DairaAR": "سفيسيفة"
+  },
+  {
+    "ID": 1456,
+    "Commune": "مغرار",
+    "Daira": "MOGHRAR",
+    "Circonscriptions Administratives": "AIN SEFRA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1456,
+    "DistrictAdministratif": "عين الصفراء",
+    "WilayaAR": "النعامة",
+    "DairaAR": "مغرار"
+  },
+  {
+    "ID": 1457,
+    "Commune": "عسلة",
+    "Daira": "ASLA",
+    "Circonscriptions Administratives": "AIN SEFRA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1457,
+    "DistrictAdministratif": "عين الصفراء",
+    "WilayaAR": "النعامة",
+    "DairaAR": "عسلة"
+  },
+  {
+    "ID": 1458,
+    "Commune": "جنين بورزق",
+    "Daira": "MOGHRAR",
+    "Circonscriptions Administratives": "AIN SEFRA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1458,
+    "DistrictAdministratif": "عين الصفراء",
+    "WilayaAR": "النعامة",
+    "DairaAR": "مغرار"
+  },
+  {
+    "ID": 1459,
+    "Commune": "عين بن خليل",
+    "Daira": "MECHERIA",
+    "Circonscriptions Administratives": "MECHERIA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1459,
+    "DistrictAdministratif": "مشرية",
+    "WilayaAR": "النعامة",
+    "DairaAR": "مشرية"
+  },
+  {
+    "ID": 1460,
+    "Commune": "مكمن بن عمار",
+    "Daira": "MEKMEN BEN AMAR",
+    "Circonscriptions Administratives": "MECHERIA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1460,
+    "DistrictAdministratif": "مشرية",
+    "WilayaAR": "النعامة",
+    "DairaAR": "مكمن بن عمار"
+  },
+  {
+    "ID": 1461,
+    "Commune": "القصدير",
+    "Daira": "MEKMEN BEN AMAR",
+    "Circonscriptions Administratives": "MECHERIA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1461,
+    "DistrictAdministratif": "مشرية",
+    "WilayaAR": "النعامة",
+    "DairaAR": "مكمن بن عمار"
+  },
+  {
+    "ID": 1462,
+    "Commune": "البيوض",
+    "Daira": "MECHERIA",
+    "Circonscriptions Administratives": "MECHERIA",
+    "Wilaya": "NAAMA",
+    "ID_1": 1462,
+    "DistrictAdministratif": "مشرية",
+    "WilayaAR": "النعامة",
+    "DairaAR": "مشرية"
+  }
+]

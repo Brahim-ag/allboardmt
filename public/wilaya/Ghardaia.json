@@ -1,0 +1,127 @@
+[
+  {
+    "ID": 1491,
+    "Commune": "غرداية",
+    "Daira": "GHARDAIA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1491,
+    "WilayaAR": "غرداية",
+    "DairaAR": "غرداية"
+  },
+  {
+    "ID": 1492,
+    "Commune": "المنيعة",
+    "Daira": "EL MENIA",
+    "Circonscriptions Administratives": "EL MENIA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1492,
+    "DistrictAdministratif": "المنيعة",
+    "WilayaAR": "غرداية",
+    "DairaAR": "المنيعة"
+  },
+  {
+    "ID": 1493,
+    "Commune": "ضاية بن ضحوة",
+    "Daira": "DHAYET BEN DHAHOUA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1493,
+    "WilayaAR": "غرداية",
+    "DairaAR": "ضاية بن ضحوة"
+  },
+  {
+    "ID": 1494,
+    "Commune": "بريان",
+    "Daira": "BERRIANE",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1494,
+    "WilayaAR": "غرداية",
+    "DairaAR": "بريان"
+  },
+  {
+    "ID": 1495,
+    "Commune": "متليلي",
+    "Daira": "METLILI",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1495,
+    "WilayaAR": "غرداية",
+    "DairaAR": "متليلي"
+  },
+  {
+    "ID": 1496,
+    "Commune": "القرارة",
+    "Daira": "EL GUERRARA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1496,
+    "WilayaAR": "غرداية",
+    "DairaAR": "القرارة"
+  },
+  {
+    "ID": 1497,
+    "Commune": "العطف",
+    "Daira": "BOUNOURA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1497,
+    "WilayaAR": "غرداية",
+    "DairaAR": "بونورة"
+  },
+  {
+    "ID": 1498,
+    "Commune": "زلفانة",
+    "Daira": "ZELFANA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1498,
+    "WilayaAR": "غرداية",
+    "DairaAR": "زلفانة"
+  },
+  {
+    "ID": 1499,
+    "Commune": "سبسب",
+    "Daira": "METLILI",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1499,
+    "WilayaAR": "غرداية",
+    "DairaAR": "متليلي"
+  },
+  {
+    "ID": 1500,
+    "Commune": "بونورة",
+    "Daira": "BOUNOURA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1500,
+    "WilayaAR": "غرداية",
+    "DairaAR": "بونورة"
+  },
+  {
+    "ID": 1501,
+    "Commune": "حاسي الفحل",
+    "Daira": "MANSOURAH",
+    "Circonscriptions Administratives": "EL MENIA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1501,
+    "DistrictAdministratif": "المنيعة",
+    "WilayaAR": "غرداية",
+    "DairaAR": "المنصورة"
+  },
+  {
+    "ID": 1502,
+    "Commune": "حاسي القارة",
+    "Daira": "EL MENIA",
+    "Circonscriptions Administratives": "EL MENIA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1502,
+    "DistrictAdministratif": "المنيعة",
+    "WilayaAR": "غرداية",
+    "DairaAR": "المنيعة"
+  },
+  {
+    "ID": 1503,
+    "Commune": "المنصورة",
+    "Daira": "MANSOURAH",
+    "Circonscriptions Administratives": "EL MENIA",
+    "Wilaya": "GHARDAIA",
+    "ID_1": 1503,
+    "DistrictAdministratif": "المنيعة",
+    "WilayaAR": "غرداية",
+    "DairaAR": "المنصورة"
+  }
+]

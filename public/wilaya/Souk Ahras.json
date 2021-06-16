@@ -1,0 +1,276 @@
+[
+  {
+    "ID": 1329,
+    "Commune": "سوق أهراس",
+    "Daira": "SOUK AHRAS",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1329,
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "سوق أهراس"
+  },
+  {
+    "ID": 1330,
+    "Commune": "سدراتة",
+    "Daira": "SEDRATA",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1330,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "سدراتة"
+  },
+  {
+    "ID": 1331,
+    "Commune": "الحنانشة",
+    "Daira": "MECHROHA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1331,
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "المشروحة"
+  },
+  {
+    "ID": 1332,
+    "Commune": "المشروحة",
+    "Daira": "MECHROHA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1332,
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "المشروحة"
+  },
+  {
+    "ID": 1333,
+    "Commune": "أولاد إدريس",
+    "Daira": "OULED DRISS",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1333,
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "أولاد إدريس"
+  },
+  {
+    "ID": 1334,
+    "Commune": "تيفاش",
+    "Daira": "M'DAOUROUCHE",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1334,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "مداوروش"
+  },
+  {
+    "ID": 1335,
+    "Commune": "الزعرورية",
+    "Daira": "TAOURA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1335,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "تاورة"
+  },
+  {
+    "ID": 1336,
+    "Commune": "تاورة",
+    "Daira": "TAOURA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1336,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "تاورة"
+  },
+  {
+    "ID": 1337,
+    "Commune": "الدريعة",
+    "Daira": "TAOURA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1337,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "تاورة"
+  },
+  {
+    "ID": 1338,
+    "Commune": "الحدادة",
+    "Daira": "HADDADA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1338,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "الحدادة"
+  },
+  {
+    "ID": 1339,
+    "Commune": "لخضارة",
+    "Daira": "HADDADA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1339,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "الحدادة"
+  },
+  {
+    "ID": 1340,
+    "Commune": "المراهنة",
+    "Daira": "MERAHNA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1340,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "المراهنة"
+  },
+  {
+    "ID": 1341,
+    "Commune": "أولاد مؤمن",
+    "Daira": "HADDADA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1341,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "الحدادة"
+  },
+  {
+    "ID": 1342,
+    "Commune": "بئر بوحوش",
+    "Daira": "BIR BOUHOUCHE",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1342,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "بئر بوحوش"
+  },
+  {
+    "ID": 1343,
+    "Commune": "مداوروش",
+    "Daira": "M'DAOUROUCHE",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1343,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "مداوروش"
+  },
+  {
+    "ID": 1344,
+    "Commune": "أم العظايم",
+    "Daira": "OUM EL ADHAIM",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1344,
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "أم العظايم"
+  },
+  {
+    "ID": 1345,
+    "Commune": "عين الزانة",
+    "Daira": "OULED DRISS",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1345,
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "أولاد إدريس"
+  },
+  {
+    "ID": 1346,
+    "Commune": "عين سلطان",
+    "Daira": "SEDRATA",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1346,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "سدراتة"
+  },
+  {
+    "ID": 1347,
+    "Commune": "ويلان",
+    "Daira": "MERAHNA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1347,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "المراهنة"
+  },
+  {
+    "ID": 1348,
+    "Commune": "سيدي فرج",
+    "Daira": "MERAHNA",
+    "Circonscriptions Administratives": "TAOURA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1348,
+    "DistrictAdministratif": "تاورة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "المراهنة"
+  },
+  {
+    "ID": 1349,
+    "Commune": "سافل الويدان",
+    "Daira": "BIR BOUHOUCHE",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1349,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "بئر بوحوش"
+  },
+  {
+    "ID": 1350,
+    "Commune": "الراقوبة",
+    "Daira": "M'DAOUROUCHE",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1350,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "مداوروش"
+  },
+  {
+    "ID": 1351,
+    "Commune": "خميسة",
+    "Daira": "SEDRATA",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1351,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "سدراتة"
+  },
+  {
+    "ID": 1352,
+    "Commune": "وادي الكبريت",
+    "Daira": "OUM EL ADHAIM",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1352,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "أم العظايم"
+  },
+  {
+    "ID": 1353,
+    "Commune": "ترقالت",
+    "Daira": "OUM EL ADHAIM",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1353,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "أم العظايم"
+  },
+  {
+    "ID": 1354,
+    "Commune": "الزوابي",
+    "Daira": "BIR BOUHOUCHE",
+    "Circonscriptions Administratives": "SEDRATA",
+    "Wilaya": "SOUK AHRAS",
+    "ID_1": 1354,
+    "DistrictAdministratif": "سدراتة",
+    "WilayaAR": "سوق أهراس",
+    "DairaAR": "بئر بوحوش"
+  }
+]

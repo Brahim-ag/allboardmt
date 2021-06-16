@@ -1,0 +1,303 @@
+[
+  {
+    "ID": 88,
+    "Commune": "أم البواقي",
+    "Daira": "OUM EL BOUAGHI",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 88,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "أم البواقي"
+  },
+  {
+    "ID": 89,
+    "Commune": "عين البيضاء",
+    "Daira": "AIN BEIDA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 89,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين البيضاء"
+  },
+  {
+    "ID": 90,
+    "Commune": "عين مليلة",
+    "Daira": "AIN M'LILA",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 90,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين مليلة"
+  },
+  {
+    "ID": 91,
+    "Commune": "بحير الشرقي",
+    "Daira": "MESKIANA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 91,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "مسكيانة"
+  },
+  {
+    "ID": 92,
+    "Commune": "العامرية",
+    "Daira": "SIGUS",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 92,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "سيقوس"
+  },
+  {
+    "ID": 93,
+    "Commune": "سيقوس",
+    "Daira": "SIGUS",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 93,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "سيقوس"
+  },
+  {
+    "ID": 94,
+    "Commune": "البلالة",
+    "Daira": "MESKIANA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 94,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "مسكيانة"
+  },
+  {
+    "ID": 95,
+    "Commune": "عين ببوش",
+    "Daira": "AIN BABOUCHE",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 95,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين بابوش"
+  },
+  {
+    "ID": 96,
+    "Commune": "بريش",
+    "Daira": "AIN BEIDA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 96,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين البيضاء"
+  },
+  {
+    "ID": 97,
+    "Commune": "أولاد حملة",
+    "Daira": "AIN M'LILA",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 97,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين مليلة"
+  },
+  {
+    "ID": 98,
+    "Commune": "الضلعة",
+    "Daira": "DHALAA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 98,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "الضلعة"
+  },
+  {
+    "ID": 99,
+    "Commune": "عين كرشة",
+    "Daira": "AIN KERCHA",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 99,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين كرشة"
+  },
+  {
+    "ID": 100,
+    "Commune": "هنشير تومغاني",
+    "Daira": "AIN KERCHA",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 100,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين كرشة"
+  },
+  {
+    "ID": 101,
+    "Commune": "الجازية",
+    "Daira": "DHALAA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 101,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "الضلعة"
+  },
+  {
+    "ID": 102,
+    "Commune": "عين الديس",
+    "Daira": "AIN BABOUCHE",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 102,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين بابوش"
+  },
+  {
+    "ID": 103,
+    "Commune": "فكيرينة",
+    "Daira": "F'KIRINA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 103,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "فكيرينة"
+  },
+  {
+    "ID": 104,
+    "Commune": "سوق نعمان",
+    "Daira": "SOUK NAAMANE",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 104,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "سوق نعمان"
+  },
+  {
+    "ID": 105,
+    "Commune": "الزرق",
+    "Daira": "AIN BEIDA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 105,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين البيضاء"
+  },
+  {
+    "ID": 106,
+    "Commune": "الفجوج بوغرارة سعودي",
+    "Daira": "AIN FEKROUN",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 106,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين كرشة"
+  },
+  {
+    "ID": 107,
+    "Commune": "أولاد الزوي",
+    "Daira": "SOUK NAAMANE",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 107,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "سوق نعمان"
+  },
+  {
+    "ID": 108,
+    "Commune": "بئر الشهداء",
+    "Daira": "SOUK NAAMANE",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 108,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "سوق نعمان"
+  },
+  {
+    "ID": 109,
+    "Commune": "قصر الصباحي",
+    "Daira": "KSAR SBAHI",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 109,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "قصر الصباحي"
+  },
+  {
+    "ID": 110,
+    "Commune": "وادي نيني",
+    "Daira": "F'KIRINA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 110,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "فكيرينة"
+  },
+  {
+    "ID": 111,
+    "Commune": "مسكيانة",
+    "Daira": "MESKIANA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 111,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "مسكيانة"
+  },
+  {
+    "ID": 112,
+    "Commune": "عين الفكرون",
+    "Daira": "AIN FEKROUN",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 112,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين الفكرون"
+  },
+  {
+    "ID": 113,
+    "Commune": "الراحية",
+    "Daira": "MESKIANA",
+    "Circonscriptions Administratives": "AIN BEIDA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 113,
+    "DistrictAdministratif": "عين البيضاء",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "مسكيانة"
+  },
+  {
+    "ID": 114,
+    "Commune": "عين الزيتون",
+    "Daira": "OUM EL BOUAGHI",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 114,
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "أم البواقي"
+  },
+  {
+    "ID": 115,
+    "Commune": "أولاد قاسم",
+    "Daira": "AIN M'LILA",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 115,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين مليلة"
+  },
+  {
+    "ID": 116,
+    "Commune": "الحرملية",
+    "Daira": "AIN KERCHA",
+    "Circonscriptions Administratives": "AIN M'LILA",
+    "Wilaya": "OUM EL BOUAGHI",
+    "ID_1": 116,
+    "DistrictAdministratif": "عين مليلة",
+    "WilayaAR": "أم البواقي",
+    "DairaAR": "عين كرشة"
+  }
+]

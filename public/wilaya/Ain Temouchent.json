@@ -1,0 +1,254 @@
+[
+  {
+    "ID": 1463,
+    "Commune": "عين تموشنت",
+    "Daira": "AIN TEMOUCHENT",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1463,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين تموشنت"
+  },
+  {
+    "ID": 1464,
+    "Commune": "شعبة اللحم",
+    "Daira": "EL MALEH",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1464,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "المالح"
+  },
+  {
+    "ID": 1465,
+    "Commune": "أولاد الكيحل",
+    "Daira": "EL MALEH",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1465,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "المالح"
+  },
+  {
+    "ID": 1466,
+    "Commune": "حمام بوحجر",
+    "Daira": "HAMMAM BOU HADJAR",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1466,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "حمام بوحجر"
+  },
+  {
+    "ID": 1467,
+    "Commune": "بوزجار",
+    "Daira": "EL AMRIA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1467,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "العامرية"
+  },
+  {
+    "ID": 1468,
+    "Commune": "وادي برقش",
+    "Daira": "HAMMAM BOU HADJAR",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1468,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "حمام بوحجر"
+  },
+  {
+    "ID": 1469,
+    "Commune": "أغلال",
+    "Daira": "AIN KIHEL",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1469,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الكيحل"
+  },
+  {
+    "ID": 1470,
+    "Commune": "تارقة",
+    "Daira": "EL MALEH",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1470,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "المالح"
+  },
+  {
+    "ID": 1471,
+    "Commune": "عين الأربعاء",
+    "Daira": "AIN LARBAA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1471,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الأربعاء"
+  },
+  {
+    "ID": 1472,
+    "Commune": "تامزورة",
+    "Daira": "AIN LARBAA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1472,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الأربعاء"
+  },
+  {
+    "ID": 1473,
+    "Commune": "شنتوف",
+    "Daira": "HAMMAM BOU HADJAR",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1473,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "حمام بوحجر"
+  },
+  {
+    "ID": 1474,
+    "Commune": "سيدي بن عدة",
+    "Daira": "AIN TEMOUCHENT",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1474,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين تموشنت"
+  },
+  {
+    "ID": 1475,
+    "Commune": "عقب الليل",
+    "Daira": "AIN KIHEL",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1475,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الكيحل"
+  },
+  {
+    "ID": 1476,
+    "Commune": "المالح",
+    "Daira": "EL MALEH",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1476,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "المالح"
+  },
+  {
+    "ID": 1477,
+    "Commune": "سيدي بومدين",
+    "Daira": "AIN LARBAA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1477,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الأربعاء"
+  },
+  {
+    "ID": 1478,
+    "Commune": "وادي الصباح",
+    "Daira": "AIN LARBAA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1478,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الأربعاء"
+  },
+  {
+    "ID": 1479,
+    "Commune": "أولاد بوجمعة",
+    "Daira": "EL AMRIA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1479,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "العامرية"
+  },
+  {
+    "ID": 1480,
+    "Commune": "عين الطلبة",
+    "Daira": "AIN KIHEL",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1480,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الكيحل"
+  },
+  {
+    "ID": 1481,
+    "Commune": "العامرية",
+    "Daira": "EL AMRIA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1481,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "العامرية"
+  },
+  {
+    "ID": 1482,
+    "Commune": "حاسي الغلة",
+    "Daira": "EL AMRIA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1482,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "العامرية"
+  },
+  {
+    "ID": 1483,
+    "Commune": "الحساسنة",
+    "Daira": "HAMMAM BOU HADJAR",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1483,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "حمام بوحجر"
+  },
+  {
+    "ID": 1484,
+    "Commune": "عين الكيحل",
+    "Daira": "AIN KIHEL",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1484,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "عين الكيحل"
+  },
+  {
+    "ID": 1485,
+    "Commune": "بني صاف",
+    "Daira": "BENI SAF",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1485,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "بني صاف"
+  },
+  {
+    "ID": 1486,
+    "Commune": "سيدي صافي",
+    "Daira": "BENI SAF",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1486,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "بني صاف"
+  },
+  {
+    "ID": 1487,
+    "Commune": "ولهاصة الغرابة",
+    "Daira": "OULHASSA GHERABA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1487,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "ولهاصة الغرابة"
+  },
+  {
+    "ID": 1488,
+    "Commune": "سيدي ورياش",
+    "Daira": "OULHASSA GHERABA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1488,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "ولهاصة الغرابة"
+  },
+  {
+    "ID": 1489,
+    "Commune": "الأمير عبد القادر",
+    "Daira": "BENI SAF",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1489,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "بني صاف"
+  },
+  {
+    "ID": 1490,
+    "Commune": "المساعيد",
+    "Daira": "EL AMRIA",
+    "Wilaya": "AIN TEMOUCHENT",
+    "ID_1": 1490,
+    "WilayaAR": "عين تيموشنت",
+    "DairaAR": "العامرية"
+  }
+]

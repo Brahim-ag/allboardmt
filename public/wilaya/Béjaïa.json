@@ -1,0 +1,521 @@
+[
+  {
+    "ID": 178,
+    "Commune": "بجاية",
+    "Daira": "BEJAIA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 178,
+    "WilayaAR": "بجاية",
+    "DairaAR": "بجاية"
+  },
+  {
+    "ID": 179,
+    "Commune": "أميزور",
+    "Daira": "AMIZOUR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 179,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أميزور"
+  },
+  {
+    "ID": 180,
+    "Commune": "فرعون",
+    "Daira": "AMIZOUR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 180,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أميزور"
+  },
+  {
+    "ID": 181,
+    "Commune": "تاوريرت إغيل",
+    "Daira": "ADEKAR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 181,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أذكار"
+  },
+  {
+    "ID": 182,
+    "Commune": "شلاطة",
+    "Daira": "AKBOU",
+    "Wilaya": "BEJAIA",
+    "ID_1": 182,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أقبو"
+  },
+  {
+    "ID": 183,
+    "Commune": "تامقرة",
+    "Daira": "AKBOU",
+    "Wilaya": "BEJAIA",
+    "ID_1": 183,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أقبو"
+  },
+  {
+    "ID": 184,
+    "Commune": "تيمزريت",
+    "Daira": "TIMEZRIT",
+    "Wilaya": "BEJAIA",
+    "ID_1": 184,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "تيمزريت"
+  },
+  {
+    "ID": 185,
+    "Commune": "سوق الإثنين",
+    "Daira": "SOUK EL TENINE",
+    "Wilaya": "BEJAIA",
+    "ID_1": 185,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سوق الإثنين"
+  },
+  {
+    "ID": 186,
+    "Commune": "مسيسنة",
+    "Daira": "SEDDOUK",
+    "Wilaya": "BEJAIA",
+    "ID_1": 186,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "صدوق"
+  },
+  {
+    "ID": 187,
+    "Commune": "تينبذار",
+    "Daira": "SIDI AICH",
+    "Wilaya": "BEJAIA",
+    "ID_1": 187,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سيدي عيش"
+  },
+  {
+    "ID": 188,
+    "Commune": "تيشي",
+    "Daira": "TICHY",
+    "Wilaya": "BEJAIA",
+    "ID_1": 188,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "تيشي"
+  },
+  {
+    "ID": 189,
+    "Commune": "سمعون",
+    "Daira": "AMIZOUR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 189,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أميزور"
+  },
+  {
+    "ID": 190,
+    "Commune": "كنديرة",
+    "Daira": "BARBACHA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 190,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "برباشة"
+  },
+  {
+    "ID": 191,
+    "Commune": "تيفرة",
+    "Daira": "SIDI AICH",
+    "Wilaya": "BEJAIA",
+    "ID_1": 191,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سيدي عيش"
+  },
+  {
+    "ID": 192,
+    "Commune": "اغرم",
+    "Daira": "AKBOU",
+    "Wilaya": "BEJAIA",
+    "ID_1": 192,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أقبو"
+  },
+  {
+    "ID": 193,
+    "Commune": "أمالو",
+    "Daira": "SEDDOUK",
+    "Wilaya": "BEJAIA",
+    "ID_1": 193,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "صدوق"
+  },
+  {
+    "ID": 194,
+    "Commune": "إغيل علي",
+    "Daira": "IGHIL ALI",
+    "Wilaya": "BEJAIA",
+    "ID_1": 194,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "إغيل علي"
+  },
+  {
+    "ID": 195,
+    "Commune": "فلاين الماثن",
+    "Daira": "EL KSEUR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 195,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "القصر"
+  },
+  {
+    "ID": 196,
+    "Commune": "توجة",
+    "Daira": "EL KSEUR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 196,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "القصر"
+  },
+  {
+    "ID": 197,
+    "Commune": "درقينة",
+    "Daira": "DARGUINA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 197,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "درقينة"
+  },
+  {
+    "ID": 198,
+    "Commune": "سيدي عياد",
+    "Daira": "SIDI AICH",
+    "Wilaya": "BEJAIA",
+    "ID_1": 198,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سيدي عيش"
+  },
+  {
+    "ID": 199,
+    "Commune": "أوقاس",
+    "Daira": "AOKAS",
+    "Wilaya": "BEJAIA",
+    "ID_1": 199,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أوقاس"
+  },
+  {
+    "ID": 200,
+    "Commune": "بني جليل",
+    "Daira": "AMIZOUR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 200,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أميزور"
+  },
+  {
+    "ID": 201,
+    "Commune": "أذكار",
+    "Daira": "ADEKAR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 201,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أذكار"
+  },
+  {
+    "ID": 202,
+    "Commune": "أقبو",
+    "Daira": "AKBOU",
+    "Wilaya": "BEJAIA",
+    "ID_1": 202,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أقبو"
+  },
+  {
+    "ID": 203,
+    "Commune": "صدوق",
+    "Daira": "SEDDOUK",
+    "Wilaya": "BEJAIA",
+    "ID_1": 203,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "صدوق"
+  },
+  {
+    "ID": 204,
+    "Commune": "تازمالت",
+    "Daira": "TAZMALT",
+    "Wilaya": "BEJAIA",
+    "ID_1": 204,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "تازملت"
+  },
+  {
+    "ID": 205,
+    "Commune": "أيت رزين",
+    "Daira": "IGHIL ALI",
+    "Wilaya": "BEJAIA",
+    "ID_1": 205,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "إغيل علي"
+  },
+  {
+    "ID": 206,
+    "Commune": "شميني",
+    "Daira": "CHEMINI",
+    "Wilaya": "BEJAIA",
+    "ID_1": 206,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "شميني"
+  },
+  {
+    "ID": 207,
+    "Commune": "سوق اوفلا",
+    "Daira": "CHEMINI",
+    "Wilaya": "BEJAIA",
+    "ID_1": 207,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "شميني"
+  },
+  {
+    "ID": 208,
+    "Commune": "تاسكريوت",
+    "Daira": "DARGUINA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 208,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "درقينة"
+  },
+  {
+    "ID": 209,
+    "Commune": "طيبان",
+    "Daira": "CHEMINI",
+    "Wilaya": "BEJAIA",
+    "ID_1": 209,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "شميني"
+  },
+  {
+    "ID": 210,
+    "Commune": "تالة حمزة",
+    "Daira": "TICHY",
+    "Wilaya": "BEJAIA",
+    "ID_1": 210,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "تيشي"
+  },
+  {
+    "ID": 211,
+    "Commune": "برباشة",
+    "Daira": "BARBACHA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 211,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "برباشة"
+  },
+  {
+    "ID": 212,
+    "Commune": "بني كسيلة",
+    "Daira": "ADEKAR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 212,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أذكار"
+  },
+  {
+    "ID": 213,
+    "Commune": "أوزلاقن",
+    "Daira": "IFRI OUZELLAGUENE",
+    "Wilaya": "BEJAIA",
+    "ID_1": 213,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": " أوزلاقن"
+  },
+  {
+    "ID": 214,
+    "Commune": "بوحمزة",
+    "Daira": "SEDDOUK",
+    "Wilaya": "BEJAIA",
+    "ID_1": 214,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "صدوق"
+  },
+  {
+    "ID": 215,
+    "Commune": "بني مليكش",
+    "Daira": "TAZMALT",
+    "Wilaya": "BEJAIA",
+    "ID_1": 215,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "تازمالت"
+  },
+  {
+    "ID": 216,
+    "Commune": "سيدي عيش",
+    "Daira": "SIDI AICH",
+    "Wilaya": "BEJAIA",
+    "ID_1": 216,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سيدي عيش"
+  },
+  {
+    "ID": 217,
+    "Commune": "القصر",
+    "Daira": "EL KSEUR",
+    "Wilaya": "BEJAIA",
+    "ID_1": 217,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "القصر"
+  },
+  {
+    "ID": 218,
+    "Commune": "مالبو",
+    "Daira": "SOUK EL TENINE",
+    "Wilaya": "BEJAIA",
+    "ID_1": 218,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سوق الإثنين"
+  },
+  {
+    "ID": 219,
+    "Commune": "أكفادو",
+    "Daira": "CHEMINI",
+    "Wilaya": "BEJAIA",
+    "ID_1": 219,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "شميني"
+  },
+  {
+    "ID": 220,
+    "Commune": "لفلاي",
+    "Daira": "SIDI AICH",
+    "Wilaya": "BEJAIA",
+    "ID_1": 220,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سيدي عيش"
+  },
+  {
+    "ID": 221,
+    "Commune": "خراطة",
+    "Daira": "KHERRATA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 221,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "خراطة"
+  },
+  {
+    "ID": 222,
+    "Commune": "ذراع القايد",
+    "Daira": "KHERRATA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 222,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "خراطة"
+  },
+  {
+    "ID": 223,
+    "Commune": "تامريجت",
+    "Daira": "SOUK EL TENINE",
+    "Wilaya": "BEJAIA",
+    "ID_1": 223,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "سوق الإثنين"
+  },
+  {
+    "ID": 224,
+    "Commune": "أيت إسماعيل",
+    "Daira": "DARGUINA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 224,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "درقينة"
+  },
+  {
+    "ID": 225,
+    "Commune": "بوخليفة",
+    "Daira": "TICHY",
+    "Wilaya": "BEJAIA",
+    "ID_1": 225,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "تيشي"
+  },
+  {
+    "ID": 226,
+    "Commune": "تيزي نبربر",
+    "Daira": "AOKAS",
+    "Wilaya": "BEJAIA",
+    "ID_1": 226,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "أوقاس"
+  },
+  {
+    "ID": 227,
+    "Commune": "بني معوش",
+    "Daira": "BENI MAOUCHE",
+    "Wilaya": "BEJAIA",
+    "ID_1": 227,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "بني معوش"
+  },
+  {
+    "ID": 228,
+    "Commune": "وادي غير",
+    "Daira": "BEJAIA",
+    "Wilaya": "BEJAIA",
+    "ID_1": 228,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "بجاية"
+  },
+  {
+    "ID": 229,
+    "Commune": "بو جليل",
+    "Daira": "TAZMALT",
+    "Wilaya": "BEJAIA",
+    "ID_1": 229,
+    "DistrictAdministratif": "بجاية",
+    "WilayaAR": "بجاية",
+    "DairaAR": "تازملت"
+  }
+]

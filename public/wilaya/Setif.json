@@ -1,0 +1,616 @@
+[
+  {
+    "ID": 675,
+    "Commune": "سطيف",
+    "Daira": "SETIF",
+    "Wilaya": "SETIF",
+    "ID_1": 675,
+    "WilayaAR": "سطيف",
+    "DairaAR": "سطيف"
+  },
+  {
+    "ID": 676,
+    "Commune": "عين الكبيرة",
+    "Daira": "AIN EL KEBIRA",
+    "Wilaya": "SETIF",
+    "ID_1": 676,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين الكبيرة"
+  },
+  {
+    "ID": 677,
+    "Commune": "بني عزيز",
+    "Daira": "BENI AZIZ",
+    "Wilaya": "SETIF",
+    "ID_1": 677,
+    "WilayaAR": "سطيف",
+    "DairaAR": "بني عزيز"
+  },
+  {
+    "ID": 678,
+    "Commune": "أولاد سي أحمد",
+    "Daira": "AIN OULMENE",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 678,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أولمان"
+  },
+  {
+    "ID": 679,
+    "Commune": "بوطالب",
+    "Daira": "SALAH BEY",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 679,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "صالح باي"
+  },
+  {
+    "ID": 680,
+    "Commune": "عين الروى",
+    "Daira": "BOUGAA",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 680,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بوقاعة"
+  },
+  {
+    "ID": 681,
+    "Commune": "ذراع قبيلة",
+    "Daira": "HAMMAM GUERGOUR",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 681,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "حمام القرقور"
+  },
+  {
+    "ID": 682,
+    "Commune": "بئر العرش",
+    "Daira": "BIR EL ARCH",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 682,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بئر العرش"
+  },
+  {
+    "ID": 683,
+    "Commune": "بني شبانة",
+    "Daira": "BENI OURTILANE",
+    "Wilaya": "SETIF",
+    "ID_1": 683,
+    "WilayaAR": "سطيف",
+    "DairaAR": "بني ورتيلان"
+  },
+  {
+    "ID": 684,
+    "Commune": "أولاد تبان",
+    "Daira": "SALAH BEY",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 684,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "صالح باي"
+  },
+  {
+    "ID": 685,
+    "Commune": "الحامة",
+    "Daira": "SALAH BEY",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 685,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "صالح باي"
+  },
+  {
+    "ID": 686,
+    "Commune": "معاوية",
+    "Daira": "BENI AZIZ",
+    "Wilaya": "SETIF",
+    "ID_1": 686,
+    "WilayaAR": "سطيف",
+    "DairaAR": "بني عزيز"
+  },
+  {
+    "ID": 687,
+    "Commune": "عين لقراج",
+    "Daira": "BENI OURTILANE",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 687,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بني ورثيلان"
+  },
+  {
+    "ID": 688,
+    "Commune": "عين عباسة",
+    "Daira": "AIN ARNAT",
+    "Wilaya": "SETIF",
+    "ID_1": 688,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أرنات"
+  },
+  {
+    "ID": 689,
+    "Commune": "الدهامشة",
+    "Daira": "AIN EL KEBIRA",
+    "Wilaya": "SETIF",
+    "ID_1": 689,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين الكبيرة"
+  },
+  {
+    "ID": 690,
+    "Commune": "بابور",
+    "Daira": "BABOR",
+    "Wilaya": "SETIF",
+    "ID_1": 690,
+    "WilayaAR": "سطيف",
+    "DairaAR": "بابور"
+  },
+  {
+    "ID": 691,
+    "Commune": "قجال",
+    "Daira": "GUIDJEL",
+    "Wilaya": "SETIF",
+    "ID_1": 691,
+    "WilayaAR": "سطيف",
+    "DairaAR": "قجال"
+  },
+  {
+    "ID": 692,
+    "Commune": "عين الحجر",
+    "Daira": "AIN AZEL",
+    "Wilaya": "SETIF",
+    "ID_1": 692,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أزال"
+  },
+  {
+    "ID": 693,
+    "Commune": "بوسلام",
+    "Daira": "BOUANDAS",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 693,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بوعنداس"
+  },
+  {
+    "ID": 694,
+    "Commune": "العلمة",
+    "Daira": "EL EULMA",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 694,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "العلمة"
+  },
+  {
+    "ID": 695,
+    "Commune": "جميلة",
+    "Daira": "DJEMILA",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 695,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "جميلة"
+  },
+  {
+    "ID": 696,
+    "Commune": "بني ورتيلان",
+    "Daira": "BENI OURTILANE",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 696,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بني ورثيلان"
+  },
+  {
+    "ID": 697,
+    "Commune": "الرصفة",
+    "Daira": "SALAH BEY",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 697,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "صالح باي"
+  },
+  {
+    "ID": 698,
+    "Commune": "أولاد عدوان",
+    "Daira": "AIN EL KEBIRA",
+    "Wilaya": "SETIF",
+    "ID_1": 698,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين الكبيرة"
+  },
+  {
+    "ID": 699,
+    "Commune": "بلعة",
+    "Daira": "BIR EL ARCH",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 699,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بئر العرش"
+  },
+  {
+    "ID": 700,
+    "Commune": "عين أرنات",
+    "Daira": "AIN ARNAT",
+    "Wilaya": "SETIF",
+    "ID_1": 700,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أرنات"
+  },
+  {
+    "ID": 701,
+    "Commune": "عموشة",
+    "Daira": "AMOUCHA",
+    "Wilaya": "SETIF",
+    "ID_1": 701,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عموشة"
+  },
+  {
+    "ID": 702,
+    "Commune": "عين أولمان",
+    "Daira": "AIN OULMENE",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 702,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أولمان"
+  },
+  {
+    "ID": 703,
+    "Commune": "بيضاء برج",
+    "Daira": "AIN AZEL",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 703,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أزال"
+  },
+  {
+    "ID": 704,
+    "Commune": "بوعنداس",
+    "Daira": "BOUANDAS",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 704,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بوعنداس"
+  },
+  {
+    "ID": 705,
+    "Commune": "بازر الصخرة",
+    "Daira": "EL EULMA",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 705,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "العلمة"
+  },
+  {
+    "ID": 706,
+    "Commune": "حمام السخنة",
+    "Daira": "HAMMAM SOKHNA",
+    "Wilaya": "SETIF",
+    "ID_1": 706,
+    "WilayaAR": "سطيف",
+    "DairaAR": "حمام السخنة"
+  },
+  {
+    "ID": 707,
+    "Commune": "مزلوق",
+    "Daira": "AIN ARNAT",
+    "Wilaya": "SETIF",
+    "ID_1": 707,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أرنات"
+  },
+  {
+    "ID": 708,
+    "Commune": "بئر حدادة",
+    "Daira": "AIN AZEL",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 708,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أزال"
+  },
+  {
+    "ID": 709,
+    "Commune": "سرج الغول",
+    "Daira": "BABOR",
+    "Wilaya": "SETIF",
+    "ID_1": 709,
+    "WilayaAR": "سطيف",
+    "DairaAR": "بابور"
+  },
+  {
+    "ID": 710,
+    "Commune": "حربيل",
+    "Daira": "GUENZET",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 710,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "قنزات"
+  },
+  {
+    "ID": 711,
+    "Commune": "أوريسيا",
+    "Daira": "AIN ARNAT",
+    "Wilaya": "SETIF",
+    "ID_1": 711,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أرنات"
+  },
+  {
+    "ID": 712,
+    "Commune": "تيزي نبشار",
+    "Daira": "AMOUCHA",
+    "Wilaya": "SETIF",
+    "ID_1": 712,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عموشة"
+  },
+  {
+    "ID": 713,
+    "Commune": "صالح باي",
+    "Daira": "SALAH BEY",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 713,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "صالح باي"
+  },
+  {
+    "ID": 714,
+    "Commune": "عين أزال",
+    "Daira": "AIN AZEL",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 714,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أزال"
+  },
+  {
+    "ID": 715,
+    "Commune": "قنزات",
+    "Daira": "GUENZET",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 715,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "قنزات"
+  },
+  {
+    "ID": 716,
+    "Commune": "تالة إيفاسن",
+    "Daira": "MAOKLANE",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 716,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "ماوكلان"
+  },
+  {
+    "ID": 717,
+    "Commune": "بوقاعة",
+    "Daira": "BOUGAA",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 717,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بوقاعة"
+  },
+  {
+    "ID": 718,
+    "Commune": "بني فودة",
+    "Daira": "DJEMILA",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 718,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "جميلة"
+  },
+  {
+    "ID": 719,
+    "Commune": "تاشودة",
+    "Daira": "BIR EL ARCH",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 719,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بئر العرش"
+  },
+  {
+    "ID": 720,
+    "Commune": "بني موحلي",
+    "Daira": "BENI OURTILANE",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 720,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بني ورثيلان"
+  },
+  {
+    "ID": 721,
+    "Commune": "أولاد صابر",
+    "Daira": "GUIDJEL",
+    "Wilaya": "SETIF",
+    "ID_1": 721,
+    "WilayaAR": "سطيف",
+    "DairaAR": "قجال"
+  },
+  {
+    "ID": 722,
+    "Commune": "قلال",
+    "Daira": "AIN OULMENE",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 722,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أولمان"
+  },
+  {
+    "ID": 723,
+    "Commune": "عين السبت",
+    "Daira": "BENI AZIZ",
+    "Wilaya": "SETIF",
+    "ID_1": 723,
+    "WilayaAR": "سطيف",
+    "DairaAR": "بني عزيز"
+  },
+  {
+    "ID": 724,
+    "Commune": "حمام قرقور",
+    "Daira": "HAMMAM GUERGOUR",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 724,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "حمام قرقور"
+  },
+  {
+    "ID": 725,
+    "Commune": "أيت نوال مزادة",
+    "Daira": "BOUANDAS",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 725,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بوعنداس"
+  },
+  {
+    "ID": 726,
+    "Commune": "قصر الابطال",
+    "Daira": "AIN OULMENE",
+    "Circonscriptions Administratives": "AIN OULMENE",
+    "Wilaya": "SETIF",
+    "ID_1": 726,
+    "DistrictAdministratif": "عين أولمان",
+    "WilayaAR": "سطيف",
+    "DairaAR": "عين أولمان"
+  },
+  {
+    "ID": 727,
+    "Commune": "بني حسين",
+    "Daira": "BOUGAA",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 727,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بوقاعة"
+  },
+  {
+    "ID": 728,
+    "Commune": "ايت تيزي",
+    "Daira": "BOUANDAS",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 728,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بوعنداس"
+  },
+  {
+    "ID": 729,
+    "Commune": "ماوكلان",
+    "Daira": "MAOKLANE",
+    "Circonscriptions Administratives": "BOUGAA",
+    "Wilaya": "SETIF",
+    "ID_1": 729,
+    "DistrictAdministratif": "بوقاعة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "ماوكلان"
+  },
+  {
+    "ID": 730,
+    "Commune": "القلتة الزرقاء",
+    "Daira": "EL EULMA",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 730,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "العلمة"
+  },
+  {
+    "ID": 731,
+    "Commune": "واد البارد",
+    "Daira": "AMOUCHA",
+    "Wilaya": "SETIF",
+    "ID_1": 731,
+    "WilayaAR": "سطيف",
+    "DairaAR": "عموشة"
+  },
+  {
+    "ID": 732,
+    "Commune": "الطاية",
+    "Daira": "HAMMAM SOKHNA",
+    "Wilaya": "SETIF",
+    "ID_1": 732,
+    "WilayaAR": "سطيف",
+    "DairaAR": "حمام السخنة"
+  },
+  {
+    "ID": 733,
+    "Commune": "الولجة",
+    "Daira": "BIR EL ARCH",
+    "Circonscriptions Administratives": "EL EULMA",
+    "Wilaya": "SETIF",
+    "ID_1": 733,
+    "DistrictAdministratif": "العلمة",
+    "WilayaAR": "سطيف",
+    "DairaAR": "بئر العرش"
+  },
+  {
+    "ID": 734,
+    "Commune": "التلة",
+    "Daira": "HAMMAM SOKHNA",
+    "Wilaya": "SETIF",
+    "ID_1": 734,
+    "WilayaAR": "سطيف",
+    "DairaAR": "حمام السخنة"
+  }
+]

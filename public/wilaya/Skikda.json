@@ -1,0 +1,344 @@
+[
+  {
+    "ID": 751,
+    "Commune": "سكيكدة",
+    "Daira": "SKIKDA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 751,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "سكيكدة"
+  },
+  {
+    "ID": 752,
+    "Commune": "عين زويت",
+    "Daira": "EL HADAIEK",
+    "Wilaya": "SKIKDA",
+    "ID_1": 752,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحدائق"
+  },
+  {
+    "ID": 753,
+    "Commune": "الحدائق",
+    "Daira": "EL HADAIEK",
+    "Wilaya": "SKIKDA",
+    "ID_1": 753,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحدائق"
+  },
+  {
+    "ID": 754,
+    "Commune": "عزابة",
+    "Daira": "AZZABA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 754,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "عزابة"
+  },
+  {
+    "ID": 755,
+    "Commune": "جندل سعدي محمد",
+    "Daira": "AZZABA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 755,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "عزابة"
+  },
+  {
+    "ID": 756,
+    "Commune": "عين شرشار",
+    "Daira": "AZZABA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 756,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "عزابة"
+  },
+  {
+    "ID": 757,
+    "Commune": "بكوش لخضر",
+    "Daira": "BEN AZZOUZ",
+    "Wilaya": "SKIKDA",
+    "ID_1": 757,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "بن عزوز"
+  },
+  {
+    "ID": 758,
+    "Commune": "بن عزوز",
+    "Daira": "BEN AZZOUZ",
+    "Wilaya": "SKIKDA",
+    "ID_1": 758,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "بن عزوز"
+  },
+  {
+    "ID": 759,
+    "Commune": "السبت",
+    "Daira": "AZZABA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 759,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "عزابة"
+  },
+  {
+    "ID": 760,
+    "Commune": "القل",
+    "Daira": "COLLO",
+    "Wilaya": "SKIKDA",
+    "ID_1": 760,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "القل"
+  },
+  {
+    "ID": 761,
+    "Commune": "بني زيد",
+    "Daira": "COLLO",
+    "Wilaya": "SKIKDA",
+    "ID_1": 761,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "القل"
+  },
+  {
+    "ID": 762,
+    "Commune": "الكركرة",
+    "Daira": "TAMALOUS",
+    "Wilaya": "SKIKDA",
+    "ID_1": 762,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "تمالوس"
+  },
+  {
+    "ID": 763,
+    "Commune": "أولاد عطية",
+    "Daira": "OULED ATTIA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 763,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "أولاد عطية"
+  },
+  {
+    "ID": 764,
+    "Commune": "وادي الزهور",
+    "Daira": "OULED ATTIA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 764,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "أولاد عطية"
+  },
+  {
+    "ID": 765,
+    "Commune": "الزيتونة",
+    "Daira": "ZITOUNA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 765,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الزيتونة"
+  },
+  {
+    "ID": 766,
+    "Commune": "الحروش",
+    "Daira": "EL HARROUCH",
+    "Wilaya": "SKIKDA",
+    "ID_1": 766,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحروش"
+  },
+  {
+    "ID": 767,
+    "Commune": "زردازة",
+    "Daira": "EL HARROUCH",
+    "Wilaya": "SKIKDA",
+    "ID_1": 767,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحروش"
+  },
+  {
+    "ID": 768,
+    "Commune": "أولاد حبابة",
+    "Daira": "EL HARROUCH",
+    "Wilaya": "SKIKDA",
+    "ID_1": 768,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحروش"
+  },
+  {
+    "ID": 769,
+    "Commune": "سيدي مزغيش",
+    "Daira": "SIDI MEZGHICHE",
+    "Wilaya": "SKIKDA",
+    "ID_1": 769,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "سيدي مزغيش"
+  },
+  {
+    "ID": 770,
+    "Commune": "مجاز الدشيش",
+    "Daira": "EL HARROUCH",
+    "Wilaya": "SKIKDA",
+    "ID_1": 770,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحروش"
+  },
+  {
+    "ID": 771,
+    "Commune": "بني ولبان",
+    "Daira": "SIDI MEZGHICHE",
+    "Wilaya": "SKIKDA",
+    "ID_1": 771,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "سيدي مزغيش"
+  },
+  {
+    "ID": 772,
+    "Commune": "عين بوزيان",
+    "Daira": "SIDI MEZGHICHE",
+    "Wilaya": "SKIKDA",
+    "ID_1": 772,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "سيدي مزغيش"
+  },
+  {
+    "ID": 773,
+    "Commune": "رمضان جمال",
+    "Daira": "RAMDANE DJAMEL",
+    "Wilaya": "SKIKDA",
+    "ID_1": 773,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "رمضان جمال"
+  },
+  {
+    "ID": 774,
+    "Commune": "بني بشير",
+    "Daira": "RAMDANE DJAMEL",
+    "Wilaya": "SKIKDA",
+    "ID_1": 774,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "رمضان جمال"
+  },
+  {
+    "ID": 775,
+    "Commune": "صالح بو الشعور",
+    "Daira": "EL HARROUCH",
+    "Wilaya": "SKIKDA",
+    "ID_1": 775,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحروش"
+  },
+  {
+    "ID": 776,
+    "Commune": "تمالوس",
+    "Daira": "TAMALOUS",
+    "Wilaya": "SKIKDA",
+    "ID_1": 776,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "تمالوس"
+  },
+  {
+    "ID": 777,
+    "Commune": "عين قشرة",
+    "Daira": "AIN KECHRA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 777,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "عين قشرة"
+  },
+  {
+    "ID": 778,
+    "Commune": "أم الطوب",
+    "Daira": "OUM TOUB",
+    "Wilaya": "SKIKDA",
+    "ID_1": 778,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "أم الطوب"
+  },
+  {
+    "ID": 779,
+    "Commune": "بين الويدان",
+    "Daira": "TAMALOUS",
+    "Wilaya": "SKIKDA",
+    "ID_1": 779,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "تمالوس"
+  },
+  {
+    "ID": 780,
+    "Commune": "فلفلة",
+    "Daira": "SKIKDA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 780,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "سكيكدة"
+  },
+  {
+    "ID": 781,
+    "Commune": "الشرايع",
+    "Daira": "COLLO",
+    "Wilaya": "SKIKDA",
+    "ID_1": 781,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "القل"
+  },
+  {
+    "ID": 782,
+    "Commune": "قنواع",
+    "Daira": "ZITOUNA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 782,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الزيتونة"
+  },
+  {
+    "ID": 783,
+    "Commune": "الغدير",
+    "Daira": "AZZABA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 783,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "عزابة"
+  },
+  {
+    "ID": 784,
+    "Commune": "بوشطاطة",
+    "Daira": "EL HADAIEK",
+    "Wilaya": "SKIKDA",
+    "ID_1": 784,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "الحدائق"
+  },
+  {
+    "ID": 785,
+    "Commune": "الولجة بولبلوط",
+    "Daira": "AIN KECHRA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 785,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "عين قشرة"
+  },
+  {
+    "ID": 786,
+    "Commune": "خناق مايو",
+    "Daira": "OULED ATTIA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 786,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "أولاد عطية"
+  },
+  {
+    "ID": 787,
+    "Commune": "حمادي كرومة",
+    "Daira": "SKIKDA",
+    "Wilaya": "SKIKDA",
+    "ID_1": 787,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "سكيكدة"
+  },
+  {
+    "ID": 788,
+    "Commune": "المرسى",
+    "Daira": "BEN AZZOUZ",
+    "Wilaya": "SKIKDA",
+    "ID_1": 788,
+    "WilayaAR": "سكيكدة",
+    "DairaAR": "بن عزوز"
+  }
+]

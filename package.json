@@ -29,6 +29,7 @@
         "@headlessui/vue": "^1.2.0",
         "@heroicons/vue": "^1.0.1",
         "blob-util": "^2.0.2",
+        "fs": "0.0.1-security",
         "jspdf": "^2.3.1",
         "jspdf-autotable": "^3.5.14",
         "vue-router": "^4.0.8"

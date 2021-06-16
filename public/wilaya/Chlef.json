@@ -1,0 +1,354 @@
+[
+  {
+    "Commune": " البلدية"
+  },
+  {
+    "ID": 29,
+    "Commune": "الشلف",
+    "Daira": "CHLEF",
+    "Wilaya": "CHLEF",
+    "ID_1": 29,
+    "WilayaAR": "الشلف",
+    "DairaAR": "الشلف"
+  },
+  {
+    "ID": 30,
+    "Commune": "تنس",
+    "Daira": "TENES",
+    "Wilaya": "CHLEF",
+    "ID_1": 30,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "تنس"
+  },
+  {
+    "ID": 31,
+    "Commune": "بنايرية",
+    "Daira": "ZEBOUDJA",
+    "Wilaya": "CHLEF",
+    "ID_1": 31,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الزبوجة"
+  },
+  {
+    "ID": 32,
+    "Commune": "الكريمية",
+    "Daira": "EL KARIMIA",
+    "Wilaya": "CHLEF",
+    "ID_1": 32,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الكريمية"
+  },
+  {
+    "ID": 33,
+    "Commune": "تاجنة",
+    "Daira": "ABOU EL HASSANE",
+    "Wilaya": "CHLEF",
+    "ID_1": 33,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أبو الحسن"
+  },
+  {
+    "ID": 34,
+    "Commune": "تاوقريت",
+    "Daira": "TAOUGRIT",
+    "Wilaya": "CHLEF",
+    "ID_1": 34,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "تاوقريت"
+  },
+  {
+    "ID": 35,
+    "Commune": "بني حواء",
+    "Daira": "BENI HAOUA",
+    "Wilaya": "CHLEF",
+    "ID_1": 35,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "بني حواء"
+  },
+  {
+    "ID": 36,
+    "Commune": "صبحة",
+    "Daira": "BOUKADIR",
+    "Wilaya": "CHLEF",
+    "ID_1": 36,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "بوقادير"
+  },
+  {
+    "ID": 37,
+    "Commune": "حرشون",
+    "Daira": "EL KARIMIA",
+    "Wilaya": "CHLEF",
+    "ID_1": 37,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الكريمية"
+  },
+  {
+    "ID": 38,
+    "Commune": "أولاد فارس",
+    "Daira": "OULED FARES",
+    "Wilaya": "CHLEF",
+    "ID_1": 38,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أولاد فارس"
+  },
+  {
+    "ID": 39,
+    "Commune": "سيدي عكاشة",
+    "Daira": "TENES",
+    "Wilaya": "CHLEF",
+    "ID_1": 39,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "تنس"
+  },
+  {
+    "ID": 40,
+    "Commune": "بوقادير",
+    "Daira": "BOUKADIR",
+    "Wilaya": "CHLEF",
+    "ID_1": 40,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "بوقادير"
+  },
+  {
+    "ID": 41,
+    "Commune": "بني راشد",
+    "Daira": "OUED FODDA",
+    "Wilaya": "CHLEF",
+    "ID_1": 41,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "وادي الفضة"
+  },
+  {
+    "ID": 42,
+    "Commune": "تلعصة",
+    "Daira": "ABOU EL HASSANE",
+    "Wilaya": "CHLEF",
+    "ID_1": 42,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أبو الحسن"
+  },
+  {
+    "ID": 43,
+    "Commune": "الهرانفة",
+    "Daira": "AIN MERANE",
+    "Wilaya": "CHLEF",
+    "ID_1": 43,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "عين مران"
+  },
+  {
+    "ID": 44,
+    "Commune": "وادي قوسين",
+    "Daira": "BENI HAOUA",
+    "Wilaya": "CHLEF",
+    "ID_1": 44,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "بني حواء"
+  },
+  {
+    "ID": 45,
+    "Commune": "الظهرة",
+    "Daira": "TAOUGRIT",
+    "Wilaya": "CHLEF",
+    "ID_1": 45,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "تاوقريت"
+  },
+  {
+    "ID": 46,
+    "Commune": "أولاد عباس",
+    "Daira": "OUED FODDA",
+    "Wilaya": "CHLEF",
+    "ID_1": 46,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "وادي الفضة"
+  },
+  {
+    "ID": 47,
+    "Commune": "السنجاس",
+    "Daira": "CHLEF",
+    "Wilaya": "CHLEF",
+    "ID_1": 47,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الشلف"
+  },
+  {
+    "ID": 48,
+    "Commune": "الزبوجة",
+    "Daira": "ZEBOUDJA",
+    "Wilaya": "CHLEF",
+    "ID_1": 48,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الزبوجة"
+  },
+  {
+    "ID": 49,
+    "Commune": "وادي سلي",
+    "Daira": "BOUKADIR",
+    "Wilaya": "CHLEF",
+    "ID_1": 49,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "بوقادير"
+  },
+  {
+    "ID": 50,
+    "Commune": "أبو الحسن",
+    "Daira": "ABOU EL HASSANE",
+    "Wilaya": "CHLEF",
+    "ID_1": 50,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أبو الحسن"
+  },
+  {
+    "ID": 51,
+    "Commune": "المرسى",
+    "Daira": "EL MARSA",
+    "Wilaya": "CHLEF",
+    "ID_1": 51,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "المرسى"
+  },
+  {
+    "ID": 52,
+    "Commune": "الشطية",
+    "Daira": "OULED FARES",
+    "Wilaya": "CHLEF",
+    "ID_1": 52,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أولاد فارس"
+  },
+  {
+    "ID": 53,
+    "Commune": "سيدي عبد الرحمن",
+    "Daira": "TENES",
+    "Wilaya": "CHLEF",
+    "ID_1": 53,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "المرسى"
+  },
+  {
+    "ID": 54,
+    "Commune": "مصدق",
+    "Daira": "EL MARSA",
+    "Wilaya": "CHLEF",
+    "ID_1": 54,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "المرسى"
+  },
+  {
+    "ID": 55,
+    "Commune": "الحجاج",
+    "Daira": "OULED BEN ABDELKADER",
+    "Wilaya": "CHLEF",
+    "ID_1": 55,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أولاد بن عبد القادر"
+  },
+  {
+    "ID": 56,
+    "Commune": "الأبيض مجاجة",
+    "Daira": "OULED FARES",
+    "Wilaya": "CHLEF",
+    "ID_1": 56,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أولاد فارس"
+  },
+  {
+    "ID": 57,
+    "Commune": "وادي الفضة",
+    "Daira": "OUED FODDA",
+    "Wilaya": "CHLEF",
+    "ID_1": 57,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "وادي الفضة"
+  },
+  {
+    "ID": 58,
+    "Commune": "أولاد بن عبد القادر",
+    "Daira": "OULED BEN ABDELKADER",
+    "Wilaya": "CHLEF",
+    "ID_1": 58,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "أولاد بن عبد القادر"
+  },
+  {
+    "ID": 59,
+    "Commune": "بوزغاية",
+    "Daira": "ZEBOUDJA",
+    "Wilaya": "CHLEF",
+    "ID_1": 59,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الزبوجة"
+  },
+  {
+    "ID": 60,
+    "Commune": "عين مران",
+    "Daira": "AIN MERANE",
+    "Wilaya": "CHLEF",
+    "ID_1": 60,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "عين مران"
+  },
+  {
+    "ID": 61,
+    "Commune": "أم الدروع",
+    "Daira": "CHLEF",
+    "Wilaya": "CHLEF",
+    "ID_1": 61,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الشلف"
+  },
+  {
+    "ID": 62,
+    "Commune": "بريرة",
+    "Daira": "BENI HAOUA",
+    "Wilaya": "CHLEF",
+    "ID_1": 62,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "بني حواء"
+  },
+  {
+    "ID": 63,
+    "Commune": "بني بوعتاب",
+    "Daira": "EL KARIMIA",
+    "Wilaya": "CHLEF",
+    "ID_1": 63,
+    "DistrictAdministratif": "الشلف",
+    "WilayaAR": "الشلف",
+    "DairaAR": "الكريمية"
+  }
+]

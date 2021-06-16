@@ -1,0 +1,511 @@
+[
+  {
+    "ID": 392,
+    "Commune": "تلمسان",
+    "Daira": "TLEMCEN",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 392,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "تلمسان"
+  },
+  {
+    "ID": 393,
+    "Commune": "بني مستر",
+    "Daira": "MANSOURAH",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 393,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "منصورة"
+  },
+  {
+    "ID": 394,
+    "Commune": "عين تالوت",
+    "Daira": "AIN TELLOUT",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 394,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "عين تالوت"
+  },
+  {
+    "ID": 395,
+    "Commune": "الرمشي",
+    "Daira": "REMCHI",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 395,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الرمشي"
+  },
+  {
+    "ID": 396,
+    "Commune": "الفحول",
+    "Daira": "REMCHI",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 396,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الرمشي"
+  },
+  {
+    "ID": 397,
+    "Commune": "صبرة",
+    "Daira": "SABRA",
+    "Circonscriptions Administratives": "MAGHNIA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 397,
+    "DistrictAdministratif": "مغنية",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "صبرة"
+  },
+  {
+    "ID": 398,
+    "Commune": "الغزوات",
+    "Daira": "GHAZAOUET",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 398,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الغزوات"
+  },
+  {
+    "ID": 399,
+    "Commune": "السواني",
+    "Daira": "BAB EL ASSA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 399,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "باب العسة"
+  },
+  {
+    "ID": 400,
+    "Commune": "جبالة",
+    "Daira": "NEDROMA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 400,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "ندرومة"
+  },
+  {
+    "ID": 401,
+    "Commune": "القور",
+    "Daira": "SEBDOU",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 401,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "سبدو"
+  },
+  {
+    "ID": 402,
+    "Commune": "وادي الخضر",
+    "Daira": "OULED MIMOUN",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 402,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "أولاد ميمون"
+  },
+  {
+    "ID": 403,
+    "Commune": "عين فزة",
+    "Daira": "CHETOUANE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 403,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "شتوان"
+  },
+  {
+    "ID": 404,
+    "Commune": "أولاد ميمون",
+    "Daira": "OULED MIMOUN",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 404,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "أولاد ميمون"
+  },
+  {
+    "ID": 405,
+    "Commune": "عمير",
+    "Daira": "CHETOUANE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 405,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "شتوان"
+  },
+  {
+    "ID": 406,
+    "Commune": "عين يوسف",
+    "Daira": "REMCHI",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 406,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الرمشي"
+  },
+  {
+    "ID": 407,
+    "Commune": "زناتة",
+    "Daira": "HENNAYA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 407,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الحناية"
+  },
+  {
+    "ID": 408,
+    "Commune": "بني سنوس",
+    "Daira": "BENI SNOUS",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 408,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "بني سنوس"
+  },
+  {
+    "ID": 409,
+    "Commune": "باب العسة",
+    "Daira": "BAB EL ASSA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 409,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "باب العسة"
+  },
+  {
+    "ID": 410,
+    "Commune": "دار يغمراسن",
+    "Daira": "GHAZAOUET",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 410,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الغزوات"
+  },
+  {
+    "ID": 411,
+    "Commune": "فلاوسن",
+    "Daira": "FELLAOUCENE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 411,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "فلاوسن"
+  },
+  {
+    "ID": 412,
+    "Commune": "العزايل",
+    "Daira": "BENI SNOUS",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 412,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "بني سنوس"
+  },
+  {
+    "ID": 413,
+    "Commune": "سبعة شيوخ",
+    "Daira": "REMCHI",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 413,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الرمشي"
+  },
+  {
+    "ID": 414,
+    "Commune": "تيرني بني هديل",
+    "Daira": "MANSOURAH",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 414,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "منصورة"
+  },
+  {
+    "ID": 415,
+    "Commune": "بن سكران",
+    "Daira": "BENSEKRANE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 415,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "بن سكران"
+  },
+  {
+    "ID": 416,
+    "Commune": "عين النحالة",
+    "Daira": "AIN TELLOUT",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 416,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "عين تالوت"
+  },
+  {
+    "ID": 417,
+    "Commune": "الحناية",
+    "Daira": "HENNAYA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 417,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الحناية"
+  },
+  {
+    "ID": 418,
+    "Commune": "مغنية",
+    "Daira": "MAGHNIA",
+    "Circonscriptions Administratives": "MAGHNIA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 418,
+    "DistrictAdministratif": "مغنية",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "مغنية"
+  },
+  {
+    "ID": 419,
+    "Commune": "حمام بوغرارة",
+    "Daira": "MAGHNIA",
+    "Circonscriptions Administratives": "MAGHNIA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 419,
+    "DistrictAdministratif": "مغنية",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "مغنية"
+  },
+  {
+    "ID": 420,
+    "Commune": "السواحلية",
+    "Daira": "GHAZAOUET",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 420,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الغزوات"
+  },
+  {
+    "ID": 421,
+    "Commune": "مسيردة الفواقة",
+    "Daira": "MARSA BEN MEHDI",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 421,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "مرسى بن مهيدي"
+  },
+  {
+    "ID": 422,
+    "Commune": "عين فتاح",
+    "Daira": "FELLAOUCENE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 422,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "فلاوسن"
+  },
+  {
+    "ID": 423,
+    "Commune": "العريشة",
+    "Daira": "SEBDOU",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 423,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "سبدو"
+  },
+  {
+    "ID": 424,
+    "Commune": "سوق الثلاثاء",
+    "Daira": "BAB EL ASSA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 424,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "باب العسة"
+  },
+  {
+    "ID": 425,
+    "Commune": "سيدي العبدلي",
+    "Daira": "BENSEKRANE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 425,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "بن سكران"
+  },
+  {
+    "ID": 426,
+    "Commune": "سبدو",
+    "Daira": "SEBDOU",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 426,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "سبدو"
+  },
+  {
+    "ID": 427,
+    "Commune": "بني وارسوس",
+    "Daira": "REMCHI",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 427,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الرمشي"
+  },
+  {
+    "ID": 428,
+    "Commune": "سيدي مجاهد",
+    "Daira": "BENI BOUSSAID",
+    "Circonscriptions Administratives": "MAGHNIA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 428,
+    "DistrictAdministratif": "مغنية",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "بني بوسعيد"
+  },
+  {
+    "ID": 429,
+    "Commune": "بني بوسعيد",
+    "Daira": "BENI BOUSSAID",
+    "Circonscriptions Administratives": "MAGHNIA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 429,
+    "DistrictAdministratif": "مغنية",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "بني بوسعيد"
+  },
+  {
+    "ID": 430,
+    "Commune": "مرسى بن مهيدي",
+    "Daira": "MARSA BEN MEHDI",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 430,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "مرسى بن مهيدي"
+  },
+  {
+    "ID": 431,
+    "Commune": "ندرومة",
+    "Daira": "NEDROMA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 431,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "ندرومة"
+  },
+  {
+    "ID": 432,
+    "Commune": "سيدي الجيلالي",
+    "Daira": "SIDI DJILLALI",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 432,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "سيدي الجيلالي"
+  },
+  {
+    "ID": 433,
+    "Commune": "بني بهدل",
+    "Daira": "BENI SNOUS",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 433,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "بني سنوس"
+  },
+  {
+    "ID": 434,
+    "Commune": "البويهي",
+    "Daira": "SIDI DJILLALI",
+    "Circonscriptions Administratives": "SEBDOU",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 434,
+    "DistrictAdministratif": "سبدو",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "سيدي الجيلالي"
+  },
+  {
+    "ID": 435,
+    "Commune": "هنين",
+    "Daira": "HONNAINE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 435,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "هنين"
+  },
+  {
+    "ID": 436,
+    "Commune": "تيانت",
+    "Daira": "GHAZAOUET",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 436,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الغزوات"
+  },
+  {
+    "ID": 437,
+    "Commune": "أولاد رياح",
+    "Daira": "HENNAYA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 437,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "الحناية"
+  },
+  {
+    "ID": 438,
+    "Commune": "بوحلو",
+    "Daira": "SABRA",
+    "Circonscriptions Administratives": "MAGHNIA",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 438,
+    "DistrictAdministratif": "مغنية",
+    "WilayaAR": "تلمسان",
+    "DairaAR": "صبرة"
+  },
+  {
+    "ID": 439,
+    "Commune": "بني خلاد",
+    "Daira": "HONNAINE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 439,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "هنين"
+  },
+  {
+    "ID": 440,
+    "Commune": "عين غرابة",
+    "Daira": "MANSOURAH",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 440,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "منصورة"
+  },
+  {
+    "ID": 441,
+    "Commune": "شتوان",
+    "Daira": "CHETOUANE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 441,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "شتوان"
+  },
+  {
+    "ID": 442,
+    "Commune": "منصورة",
+    "Daira": "MANSOURAH",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 442,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "منصورة"
+  },
+  {
+    "ID": 443,
+    "Commune": "بني صميل",
+    "Daira": "OULED MIMOUN",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 443,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "أولاد ميمون"
+  },
+  {
+    "ID": 444,
+    "Commune": "عين الكبيرة",
+    "Daira": "FELLAOUCENE",
+    "Wilaya": "TLEMCEN",
+    "ID_1": 444,
+    "WilayaAR": "تلمسان",
+    "DairaAR": "فلاوسن"
+  }
+]

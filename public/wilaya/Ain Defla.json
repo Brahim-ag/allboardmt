@@ -1,0 +1,326 @@
+[
+  {
+    "ID": 1415,
+    "Commune": "عين الدفلى",
+    "Daira": "AIN DEFLA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1415,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "عين الدفلى"
+  },
+  {
+    "ID": 1416,
+    "Commune": "مليانة",
+    "Daira": "MILIANA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1416,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "مليانة"
+  },
+  {
+    "ID": 1417,
+    "Commune": "بومدفع",
+    "Daira": "BOUMEDFAA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1417,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "بومدفع"
+  },
+  {
+    "ID": 1418,
+    "Commune": "خميس مليانة",
+    "Daira": "KHEMIS",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1418,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "خميس"
+  },
+  {
+    "ID": 1419,
+    "Commune": "حمام ريغة",
+    "Daira": "HAMMAM RIGHA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1419,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "حمام ريغة"
+  },
+  {
+    "ID": 1420,
+    "Commune": "عريب",
+    "Daira": "EL AMRA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1420,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العامرة"
+  },
+  {
+    "ID": 1421,
+    "Commune": "جليدة",
+    "Daira": "DJELIDA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1421,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "جليدة"
+  },
+  {
+    "ID": 1422,
+    "Commune": "العامرة",
+    "Daira": "EL AMRA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1422,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العامرة"
+  },
+  {
+    "ID": 1423,
+    "Commune": "بوراشد",
+    "Daira": "DJELIDA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1423,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "جليدة"
+  },
+  {
+    "ID": 1424,
+    "Commune": "العطاف",
+    "Daira": "EL ATTAF",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1424,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العطاف"
+  },
+  {
+    "ID": 1425,
+    "Commune": "العبادية",
+    "Daira": "EL ABADIA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1425,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العبادية"
+  },
+  {
+    "ID": 1426,
+    "Commune": "جندل",
+    "Daira": "DJENDEL",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1426,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "جندل"
+  },
+  {
+    "ID": 1427,
+    "Commune": "وادي الشرفاء",
+    "Daira": "DJENDEL",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1427,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "جندل"
+  },
+  {
+    "ID": 1428,
+    "Commune": "عين الاشياخ",
+    "Daira": "AIN LECHIAKH",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1428,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "عين الاشياخ"
+  },
+  {
+    "ID": 1429,
+    "Commune": "واد الجمعة",
+    "Daira": "AIN LECHIAKH",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1429,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "عين الاشياخ"
+  },
+  {
+    "ID": 1430,
+    "Commune": "الروينة",
+    "Daira": "ROUINA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1430,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "الروينة"
+  },
+  {
+    "ID": 1431,
+    "Commune": "زدين",
+    "Daira": "ROUINA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1431,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "الروينة"
+  },
+  {
+    "ID": 1432,
+    "Commune": "الحسانية",
+    "Daira": "BATHIA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1432,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "بطحية"
+  },
+  {
+    "ID": 1433,
+    "Commune": "بئر ولد خليفة",
+    "Daira": "BORDJ EL EMIR KHALED",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1433,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "برج الأمير خالد"
+  },
+  {
+    "ID": 1434,
+    "Commune": "عين السلطان",
+    "Daira": "AIN LECHIAKH",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1434,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "عين الاشياخ"
+  },
+  {
+    "ID": 1435,
+    "Commune": "طارق بن زياد",
+    "Daira": "BORDJ EL EMIR KHALED",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1435,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "برج الأمير خالد"
+  },
+  {
+    "ID": 1436,
+    "Commune": "برج الأمير خالد",
+    "Daira": "BORDJ EL EMIR KHALED",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1436,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "برج الأمير خالد"
+  },
+  {
+    "ID": 1437,
+    "Commune": "عين التركي",
+    "Daira": "HAMMAM RIGHA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1437,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "حمام ريغة"
+  },
+  {
+    "ID": 1438,
+    "Commune": "سيدي الأخضر",
+    "Daira": "KHEMIS",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1438,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "خميس"
+  },
+  {
+    "ID": 1439,
+    "Commune": "بن علال",
+    "Daira": "MILIANA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1439,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "مليانة"
+  },
+  {
+    "ID": 1440,
+    "Commune": "عين البنيان",
+    "Daira": "HAMMAM RIGHA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1440,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "حمام ريغة"
+  },
+  {
+    "ID": 1441,
+    "Commune": "الحسينية",
+    "Daira": "BOUMEDFAA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1441,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "بومدفع"
+  },
+  {
+    "ID": 1442,
+    "Commune": "بربوش",
+    "Daira": "DJENDEL",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1442,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "جندل"
+  },
+  {
+    "ID": 1443,
+    "Commune": "جمعة أولاد الشيخ",
+    "Daira": "DJELIDA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1443,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "جليدة"
+  },
+  {
+    "ID": 1444,
+    "Commune": "المخاطرية",
+    "Daira": "EL AMRA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1444,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العامرة"
+  },
+  {
+    "ID": 1445,
+    "Commune": "بطحية",
+    "Daira": "BATHIA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1445,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "بطحية"
+  },
+  {
+    "ID": 1446,
+    "Commune": "تاشتة زقاغة",
+    "Daira": "EL ABADIA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1446,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العبادية"
+  },
+  {
+    "ID": 1447,
+    "Commune": "عين بويحيى",
+    "Daira": "EL ABADIA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1447,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العبادية"
+  },
+  {
+    "ID": 1448,
+    "Commune": "الماين",
+    "Daira": "ROUINA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1448,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "الروينة"
+  },
+  {
+    "ID": 1449,
+    "Commune": "تبركانين",
+    "Daira": "EL ATTAF",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1449,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "العطاف"
+  },
+  {
+    "ID": 1450,
+    "Commune": "بلعاص",
+    "Daira": "BATHIA",
+    "Wilaya": "AIN-DEFLA",
+    "ID_1": 1450,
+    "WilayaAR": "عين الدفلى",
+    "DairaAR": "بطحية"
+  }
+]

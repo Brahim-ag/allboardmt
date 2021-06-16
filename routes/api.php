@@ -26,6 +26,7 @@ use App\Http\Controllers\FonctionsupController;
 use App\Http\Controllers\DispositionsController;
 use App\Http\Controllers\ChildsController;
 use App\Http\Controllers\SpoucesController;
+use App\Http\Controllers\LanguageController ;
 
 
 
@@ -211,6 +212,12 @@ Route::prefix('spouce')->group(function(){
     Route::put('/update/{id}',[SpoucesController::class,'update']);
 });
 
+Route::get('/language/getall/{id}',[LanguageController::class,'getAll']);
+Route::prefix('language')->group(function(){
+    Route::post('/store',[LanguageController::class,'store']);
+    Route::get('/show/{id}',[LanguageController::class,'show'])->middleware(['web']);
+    Route::put('/update/{id}',[LanguageController::class,'update']);
+});
 
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {

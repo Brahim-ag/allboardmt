@@ -1,0 +1,254 @@
+[
+  {
+    "ID": 647,
+    "Commune": "جيجل",
+    "Daira": "JIJEL",
+    "Wilaya": "JIJEL",
+    "ID_1": 647,
+    "WilayaAR": "جيجل",
+    "DairaAR": "جيجل"
+  },
+  {
+    "ID": 648,
+    "Commune": "أراقن سويسي",
+    "Daira": "ZIAMAH MANSOURIAH",
+    "Wilaya": "JIJEL",
+    "ID_1": 648,
+    "WilayaAR": "جيجل",
+    "DairaAR": "زيامة منصورية"
+  },
+  {
+    "ID": 649,
+    "Commune": "العوانة",
+    "Daira": "EL AOUANA",
+    "Wilaya": "JIJEL",
+    "ID_1": 649,
+    "WilayaAR": "جيجل",
+    "DairaAR": "العوانة"
+  },
+  {
+    "ID": 650,
+    "Commune": "زيامة منصورية",
+    "Daira": "ZIAMAH MANSOURIAH",
+    "Wilaya": "JIJEL",
+    "ID_1": 650,
+    "WilayaAR": "جيجل",
+    "DairaAR": "زيامة منصورية"
+  },
+  {
+    "ID": 651,
+    "Commune": "الطاهير",
+    "Daira": "TAHER",
+    "Wilaya": "JIJEL",
+    "ID_1": 651,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الطاهير"
+  },
+  {
+    "ID": 652,
+    "Commune": "الامير عبد القادر",
+    "Daira": "TAHER",
+    "Wilaya": "JIJEL",
+    "ID_1": 652,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الطاهير"
+  },
+  {
+    "ID": 653,
+    "Commune": "الشقفة",
+    "Daira": "CHEKFA",
+    "Wilaya": "JIJEL",
+    "ID_1": 653,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الشقفة"
+  },
+  {
+    "ID": 654,
+    "Commune": "الشحنة",
+    "Daira": "TAHER",
+    "Wilaya": "JIJEL",
+    "ID_1": 654,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الطاهير"
+  },
+  {
+    "ID": 655,
+    "Commune": "الميلية",
+    "Daira": "EL MILIA",
+    "Wilaya": "JIJEL",
+    "ID_1": 655,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الميلية"
+  },
+  {
+    "ID": 656,
+    "Commune": "سيدي معروف",
+    "Daira": "SIDI MAROUF",
+    "Wilaya": "JIJEL",
+    "ID_1": 656,
+    "WilayaAR": "جيجل",
+    "DairaAR": "سيدي معروف"
+  },
+  {
+    "ID": 657,
+    "Commune": "السطارة",
+    "Daira": "SETTARA",
+    "Wilaya": "JIJEL",
+    "ID_1": 657,
+    "WilayaAR": "جيجل",
+    "DairaAR": "السطارة"
+  },
+  {
+    "ID": 658,
+    "Commune": "العنصر",
+    "Daira": "EL ANCER",
+    "Wilaya": "JIJEL",
+    "ID_1": 658,
+    "WilayaAR": "جيجل",
+    "DairaAR": "العنصر"
+  },
+  {
+    "ID": 659,
+    "Commune": "سيدي عبد العزيز",
+    "Daira": "CHEKFA",
+    "Wilaya": "JIJEL",
+    "ID_1": 659,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الشقفة"
+  },
+  {
+    "ID": 660,
+    "Commune": "قاوس",
+    "Daira": "TEXENNA",
+    "Wilaya": "JIJEL",
+    "ID_1": 660,
+    "WilayaAR": "جيجل",
+    "DairaAR": "تاكسنة"
+  },
+  {
+    "ID": 661,
+    "Commune": "غبالة",
+    "Daira": "SETTARA",
+    "Wilaya": "JIJEL",
+    "ID_1": 661,
+    "WilayaAR": "جيجل",
+    "DairaAR": "السطارة"
+  },
+  {
+    "ID": 662,
+    "Commune": "بوراوي بلهادف",
+    "Daira": "EL ANCER",
+    "Wilaya": "JIJEL",
+    "ID_1": 662,
+    "WilayaAR": "جيجل",
+    "DairaAR": "العنصر"
+  },
+  {
+    "ID": 663,
+    "Commune": "جيملة",
+    "Daira": "DJIMLA",
+    "Wilaya": "JIJEL",
+    "ID_1": 663,
+    "WilayaAR": "جيجل",
+    "DairaAR": "جيملة"
+  },
+  {
+    "ID": 664,
+    "Commune": "سلمى بن زيادة",
+    "Daira": "EL AOUANA",
+    "Wilaya": "JIJEL",
+    "ID_1": 664,
+    "WilayaAR": "جيجل",
+    "DairaAR": "العوانة"
+  },
+  {
+    "ID": 665,
+    "Commune": "بوسيف أولاد عسكر",
+    "Daira": "TAHER",
+    "Wilaya": "JIJEL",
+    "ID_1": 665,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الطاهير"
+  },
+  {
+    "ID": 666,
+    "Commune": "القنار نشفي",
+    "Daira": "CHEKFA",
+    "Wilaya": "JIJEL",
+    "ID_1": 666,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الشقفة"
+  },
+  {
+    "ID": 667,
+    "Commune": "أولاد يحيى خدروش",
+    "Daira": "EL MILIA",
+    "Wilaya": "JIJEL",
+    "ID_1": 667,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الميلية"
+  },
+  {
+    "ID": 668,
+    "Commune": "بودريعة بني ياجيس",
+    "Daira": "DJIMLA",
+    "Wilaya": "JIJEL",
+    "ID_1": 668,
+    "WilayaAR": "جيجل",
+    "DairaAR": "جيملة"
+  },
+  {
+    "ID": 669,
+    "Commune": "خيري واد عجول",
+    "Daira": "EL ANCER",
+    "Wilaya": "JIJEL",
+    "ID_1": 669,
+    "WilayaAR": "جيجل",
+    "DairaAR": "العنصر"
+  },
+  {
+    "ID": 670,
+    "Commune": "تاكسنة",
+    "Daira": "TEXENNA",
+    "Wilaya": "JIJEL",
+    "ID_1": 670,
+    "WilayaAR": "جيجل",
+    "DairaAR": "تاكسنة"
+  },
+  {
+    "ID": 671,
+    "Commune": "الجمعة بني حبيبي",
+    "Daira": "EL ANCER",
+    "Wilaya": "JIJEL",
+    "ID_1": 671,
+    "WilayaAR": "جيجل",
+    "DairaAR": "العنصر"
+  },
+  {
+    "ID": 672,
+    "Commune": "برج الطهر",
+    "Daira": "CHEKFA",
+    "Wilaya": "JIJEL",
+    "ID_1": 672,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الشقفة"
+  },
+  {
+    "ID": 673,
+    "Commune": "أولاد رابح",
+    "Daira": "SIDI MAROUF",
+    "Wilaya": "JIJEL",
+    "ID_1": 673,
+    "WilayaAR": "جيجل",
+    "DairaAR": "سيدي معروف"
+  },
+  {
+    "ID": 674,
+    "Commune": "وجانة",
+    "Daira": "TAHER",
+    "Wilaya": "JIJEL",
+    "ID_1": 674,
+    "WilayaAR": "جيجل",
+    "DairaAR": "الطاهير"
+  }
+]

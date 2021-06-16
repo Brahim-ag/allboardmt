@@ -1,0 +1,288 @@
+[
+  {
+    "ID": 1278,
+    "Commune": "الوادي",
+    "Daira": "EL OUED",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1278,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الوادي"
+  },
+  {
+    "ID": 1279,
+    "Commune": "الرباح",
+    "Daira": "ROBBAH",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1279,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الرباح"
+  },
+  {
+    "ID": 1280,
+    "Commune": "وادي العلندة",
+    "Daira": "MIH OUENSA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1280,
+    "WilayaAR": "الوادي",
+    "DairaAR": "اميه وانسة"
+  },
+  {
+    "ID": 1281,
+    "Commune": "البياضة",
+    "Daira": "BAYADHA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1281,
+    "WilayaAR": "الوادي",
+    "DairaAR": "البياضة"
+  },
+  {
+    "ID": 1282,
+    "Commune": "النخلة",
+    "Daira": "ROBBAH",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1282,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الرباح"
+  },
+  {
+    "ID": 1283,
+    "Commune": "قمار",
+    "Daira": "GUEMAR",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1283,
+    "WilayaAR": "الوادي",
+    "DairaAR": "قمار"
+  },
+  {
+    "ID": 1284,
+    "Commune": "كوينين",
+    "Daira": "EL OUED",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1284,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الوادي"
+  },
+  {
+    "ID": 1285,
+    "Commune": "الرقيبة",
+    "Daira": "REGUIBA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1285,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الرقيبة"
+  },
+  {
+    "ID": 1286,
+    "Commune": "الحمراية",
+    "Daira": "REGUIBA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1286,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الرقيبة"
+  },
+  {
+    "ID": 1287,
+    "Commune": "تغزوت",
+    "Daira": "GUEMAR",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1287,
+    "WilayaAR": "الوادي",
+    "DairaAR": "قمار"
+  },
+  {
+    "ID": 1288,
+    "Commune": "الدبيلة",
+    "Daira": "DEBILA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1288,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الدبيلة"
+  },
+  {
+    "ID": 1289,
+    "Commune": "حساني عبد الكريم",
+    "Daira": "DEBILA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1289,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الدبيلة"
+  },
+  {
+    "ID": 1290,
+    "Commune": "حاسي خليفة",
+    "Daira": "HASSI KHALIFA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1290,
+    "WilayaAR": "الوادي",
+    "DairaAR": "حاسي خليفة"
+  },
+  {
+    "ID": 1291,
+    "Commune": "الطالب العربي",
+    "Daira": "TALEB LARBI",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1291,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الطالب العربي"
+  },
+  {
+    "ID": 1292,
+    "Commune": "دوار الماء",
+    "Daira": "TALEB LARBI",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1292,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الطالب العربي"
+  },
+  {
+    "ID": 1293,
+    "Commune": "سيدي عون",
+    "Daira": "MAGRANE",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1293,
+    "WilayaAR": "الوادي",
+    "DairaAR": "المقرن"
+  },
+  {
+    "ID": 1294,
+    "Commune": "الطريفاوي",
+    "Daira": "HASSI KHALIFA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1294,
+    "WilayaAR": "الوادي",
+    "DairaAR": "حاسي خليفة"
+  },
+  {
+    "ID": 1295,
+    "Commune": "المقرن",
+    "Daira": "MAGRANE",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1295,
+    "WilayaAR": "الوادي",
+    "DairaAR": "المقرن"
+  },
+  {
+    "ID": 1296,
+    "Commune": "بن قشة",
+    "Daira": "TALEB LARBI",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1296,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الطالب العربي"
+  },
+  {
+    "ID": 1297,
+    "Commune": "ورماس",
+    "Daira": "GUEMAR",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1297,
+    "WilayaAR": "الوادي",
+    "DairaAR": "قمار"
+  },
+  {
+    "ID": 1298,
+    "Commune": "سطيل",
+    "Daira": "EL MEGHAIER",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1298,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "المغير"
+  },
+  {
+    "ID": 1299,
+    "Commune": "المرارة",
+    "Daira": "DJAMAA",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1299,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "جامعة"
+  },
+  {
+    "ID": 1300,
+    "Commune": "سيدي خليل",
+    "Daira": "EL MEGHAIER",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1300,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "المغير"
+  },
+  {
+    "ID": 1301,
+    "Commune": "تندلة",
+    "Daira": "DJAMAA",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1301,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "جامعة"
+  },
+  {
+    "ID": 1302,
+    "Commune": "العقلة",
+    "Daira": "ROBBAH",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1302,
+    "WilayaAR": "الوادي",
+    "DairaAR": "الرباح"
+  },
+  {
+    "ID": 1303,
+    "Commune": "اميه وانسة",
+    "Daira": "MIH OUENSA",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1303,
+    "WilayaAR": "الوادي",
+    "DairaAR": "اميه وانسة"
+  },
+  {
+    "ID": 1304,
+    "Commune": "المغير",
+    "Daira": "EL MEGHAIER",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1304,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "المغير"
+  },
+  {
+    "ID": 1305,
+    "Commune": "جامعة",
+    "Daira": "DJAMAA",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1305,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "جامعة"
+  },
+  {
+    "ID": 1306,
+    "Commune": "أم الطيور",
+    "Daira": "EL MEGHAIER",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1306,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "المغير"
+  },
+  {
+    "ID": 1307,
+    "Commune": "سيدي عمران",
+    "Daira": "DJAMAA",
+    "Circonscriptions Administratives": "EL MEGHAIER",
+    "Wilaya": "EL-OUED",
+    "ID_1": 1307,
+    "DistrictAdministratif": "المغير",
+    "WilayaAR": "الوادي",
+    "DairaAR": "جامعة"
+  }
+]

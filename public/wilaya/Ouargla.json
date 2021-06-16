@@ -1,0 +1,211 @@
+[
+  {
+    "ID": 1089,
+    "Commune": "ورقلة",
+    "Daira": "OUARGLA",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1089,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "ورقلة"
+  },
+  {
+    "ID": 1090,
+    "Commune": "عين البيضاء",
+    "Daira": "SIDI KHOUILED",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1090,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "سيدي خويلد"
+  },
+  {
+    "ID": 1091,
+    "Commune": "انقوسة",
+    "Daira": "N'GOUSSA",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1091,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "انقوسة"
+  },
+  {
+    "ID": 1092,
+    "Commune": "حاسي مسعود",
+    "Daira": "HASSI MESSAOUD",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1092,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "حاسي مسعود"
+  },
+  {
+    "ID": 1093,
+    "Commune": "الرويسات",
+    "Daira": "OUARGLA",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1093,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "ورقلة"
+  },
+  {
+    "ID": 1094,
+    "Commune": "بليدة اعمر",
+    "Daira": "TEMACINE",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1094,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "تماسين"
+  },
+  {
+    "ID": 1095,
+    "Commune": "تيبسبست",
+    "Daira": "TOUGGOURT",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1095,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "توقرت"
+  },
+  {
+    "ID": 1096,
+    "Commune": "النزلة",
+    "Daira": "TOUGGOURT",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1096,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "توقرت"
+  },
+  {
+    "ID": 1097,
+    "Commune": "زاوية العابدية",
+    "Daira": "TOUGGOURT",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1097,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "توقرت"
+  },
+  {
+    "ID": 1098,
+    "Commune": "سيدي سليمان",
+    "Daira": "MEGARINE",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1098,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "المقارين"
+  },
+  {
+    "ID": 1099,
+    "Commune": "سيدي خويلد",
+    "Daira": "SIDI KHOUILED",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1099,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "سيدي خويلد"
+  },
+  {
+    "ID": 1100,
+    "Commune": "حاسي بن عبد الله",
+    "Daira": "SIDI KHOUILED",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1100,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "سيدي خويلد"
+  },
+  {
+    "ID": 1101,
+    "Commune": "توقرت",
+    "Daira": "TOUGGOURT",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1101,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "توقرت"
+  },
+  {
+    "ID": 1102,
+    "Commune": "الحجيرة",
+    "Daira": "EL-HADJIRA",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1102,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "الحجيرة"
+  },
+  {
+    "ID": 1103,
+    "Commune": "الطيبات",
+    "Daira": "TAIBET",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1103,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "الطيبات"
+  },
+  {
+    "ID": 1104,
+    "Commune": "تماسين",
+    "Daira": "TEMACINE",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1104,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "تماسين"
+  },
+  {
+    "ID": 1105,
+    "Commune": "بن ناصر",
+    "Daira": "TAIBET",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1105,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "الطيبات"
+  },
+  {
+    "ID": 1106,
+    "Commune": "المنقر",
+    "Daira": "TAIBET",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1106,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "الطيبات"
+  },
+  {
+    "ID": 1107,
+    "Commune": "المقارين",
+    "Daira": "MEGARINE",
+    "Circonscriptions Administratives": "TOUGGOURT",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1107,
+    "DistrictAdministratif": "توقرت",
+    "WilayaAR": "ورقلة",
+    "DairaAR": "المقارين"
+  },
+  {
+    "ID": 1108,
+    "Commune": "العالية",
+    "Daira": "EL-HADJIRA",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1108,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "الحجيرة"
+  },
+  {
+    "ID": 1109,
+    "Commune": "البرمة",
+    "Daira": "EL BORMA",
+    "Wilaya": "OUARGLA",
+    "ID_1": 1109,
+    "WilayaAR": "ورقلة",
+    "DairaAR": "البرمة"
+  }
+]

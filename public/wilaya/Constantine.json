@@ -1,0 +1,141 @@
+[
+  {
+    "ID": 887,
+    "Commune": "قسنطينة",
+    "Daira": "CONSTANTINE",
+    "Circonscriptions Administratives": "CONTANTINE VILLE",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 7,
+    "DistrictAdministratif": "مدينة قسنطسنة ",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "قسنطينة"
+  },
+  {
+    "ID": 888,
+    "Commune": "حامة بوزيان",
+    "Daira": "HAMMA BOUZIANE",
+    "Circonscriptions Administratives": "HAMMA BOUZIANE",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 888,
+    "DistrictAdministratif": "حامة بوزيان",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "حامة بوزيان"
+  },
+  {
+    "ID": 889,
+    "Commune": "ابن باديس",
+    "Daira": "AIN ABID",
+    "Circonscriptions Administratives": "EL KHROUB",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 889,
+    "DistrictAdministratif": "الخروب",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "عين عبيد"
+  },
+  {
+    "ID": 890,
+    "Commune": "زيغود يوسف",
+    "Daira": "ZIGHOUD YOUCEF",
+    "Circonscriptions Administratives": "ZIGHOUD YOUCEF",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 890,
+    "DistrictAdministratif": "زيغود يوسف",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "زيغود يوسف"
+  },
+  {
+    "ID": 891,
+    "Commune": "ديدوش مراد",
+    "Daira": "HAMMA BOUZIANE",
+    "Circonscriptions Administratives": "HAMMA BOUZIANE",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 891,
+    "DistrictAdministratif": "حامة بوزيان",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "حامة بوزيان"
+  },
+  {
+    "ID": 892,
+    "Commune": "الخروب",
+    "Daira": "EL KHROUB",
+    "Circonscriptions Administratives": "EL KHROUB",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 892,
+    "DistrictAdministratif": "الخروب",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "الخروب"
+  },
+  {
+    "ID": 893,
+    "Commune": "عين عبيد",
+    "Daira": "AIN ABID",
+    "Circonscriptions Administratives": "EL KHROUB",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 893,
+    "DistrictAdministratif": "الخروب",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "عين عبيد"
+  },
+  {
+    "ID": 894,
+    "Commune": "بني حميدان",
+    "Daira": "ZIGHOUD YOUCEF",
+    "Circonscriptions Administratives": "ZIGHOUD YOUCEF",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 894,
+    "DistrictAdministratif": "زيغود يوسف",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "زيغود يوسف"
+  },
+  {
+    "ID": 895,
+    "Commune": "أولاد رحمون",
+    "Daira": "EL KHROUB",
+    "Circonscriptions Administratives": "EL KHROUB",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 895,
+    "DistrictAdministratif": "الخروب",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "الخروب"
+  },
+  {
+    "ID": 896,
+    "Commune": "عين السمارة",
+    "Daira": "EL KHROUB",
+    "Circonscriptions Administratives": "EL KHROUB",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 896,
+    "DistrictAdministratif": "الخروب",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "الخروب"
+  },
+  {
+    "ID": 897,
+    "Commune": "مسعود بوجريو ",
+    "Daira": "IBN ZIAD",
+    "Circonscriptions Administratives": "HAMMA BOUZIANE",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 897,
+    "DistrictAdministratif": "حامة بوزيان",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "ابن زياد"
+  },
+  {
+    "ID": 898,
+    "Commune": "ابن زياد",
+    "Daira": "IBN ZIAD",
+    "Circonscriptions Administratives": "HAMMA BOUZIANE",
+    "Wilaya": "CONSTANTINE",
+    "ID_1": 898,
+    "DistrictAdministratif": "حامة بوزيان",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "ابن زياد"
+  },
+  {
+    "Circonscriptions Administratives": "ALI MENDJELI ",
+    "Wilaya": "CONSTANTINE",
+    "DistrictAdministratif": "علي منجلي ",
+    "WilayaAR": "قسنطينة",
+    "DairaAR": "عين السمارة"
+  }
+]

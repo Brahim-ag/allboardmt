@@ -1,0 +1,290 @@
+[
+  {
+    "ID": 1198,
+    "Commune": "بومرداس",
+    "Daira": "BOUMERDES",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1198,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بومرداس"
+  },
+  {
+    "ID": 1199,
+    "Commune": "بودواو",
+    "Daira": "BOUDOUAOU",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1199,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بودواو"
+  },
+  {
+    "ID": 1200,
+    "Commune": "أعفير",
+    "Daira": "DELLYS",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1200,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "دلس"
+  },
+  {
+    "ID": 1201,
+    "Commune": "برج منايل",
+    "Daira": "BORDJ MENAIEL",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1201,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "برج منايل"
+  },
+  {
+    "ID": 1202,
+    "Commune": "بغلية",
+    "Daira": "BAGHLIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1202,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بغلية"
+  },
+  {
+    "ID": 1203,
+    "Commune": "سيدي داود",
+    "Daira": "BAGHLIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1203,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بغلية"
+  },
+  {
+    "ID": 1204,
+    "Commune": "الناصرية",
+    "Daira": "NACIRIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1204,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "الناصرية"
+  },
+  {
+    "ID": 1205,
+    "Commune": "جنات",
+    "Daira": "BORDJ MENAIEL",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1205,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "برج منايل"
+  },
+  {
+    "ID": 1206,
+    "Commune": "يسر",
+    "Daira": "ISSER",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1206,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "يسر"
+  },
+  {
+    "ID": 1207,
+    "Commune": "زموري",
+    "Daira": "BORDJ MENAIEL",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1207,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "برج منايل"
+  },
+  {
+    "ID": 1208,
+    "Commune": "سي مصطفى",
+    "Daira": "ISSER",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1208,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "يسر"
+  },
+  {
+    "ID": 1209,
+    "Commune": "تيجلابين",
+    "Daira": "BOUMERDES",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1209,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بومرداس"
+  },
+  {
+    "ID": 1210,
+    "Commune": "شعبة العامر",
+    "Daira": "ISSER",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1210,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "يسر"
+  },
+  {
+    "ID": 1211,
+    "Commune": "الثنية",
+    "Daira": "THENIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1211,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "الثنية"
+  },
+  {
+    "ID": 1212,
+    "Commune": "تيمزريت",
+    "Daira": "ISSER",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1212,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "يسر"
+  },
+  {
+    "ID": 1213,
+    "Commune": "قورصو",
+    "Daira": "BOUMERDES",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1213,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بومرداس"
+  },
+  {
+    "ID": 1214,
+    "Commune": "أولاد موسى",
+    "Daira": "KHEMIS EL KHECHNA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1214,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "خميس الخشنة"
+  },
+  {
+    "ID": 1215,
+    "Commune": "الاربعطاش",
+    "Daira": "KHEMIS EL KHECHNA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1215,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "خميس الخشنة"
+  },
+  {
+    "ID": 1216,
+    "Commune": "بوزقزة قدارة",
+    "Daira": "BOUDOUAOU",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1216,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بودواو"
+  },
+  {
+    "ID": 1217,
+    "Commune": "تاورقة",
+    "Daira": "BAGHLIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1217,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بغلية"
+  },
+  {
+    "ID": 1218,
+    "Commune": "أولاد عيسى",
+    "Daira": "NACIRIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1218,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "الناصرية"
+  },
+  {
+    "ID": 1219,
+    "Commune": "بن شود",
+    "Daira": "DELLYS",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1219,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "دلس"
+  },
+  {
+    "ID": 1220,
+    "Commune": "دلس",
+    "Daira": "DELLYS",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1220,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "دلس"
+  },
+  {
+    "ID": 1221,
+    "Commune": "عمال",
+    "Daira": "THENIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1221,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "الثنية"
+  },
+  {
+    "ID": 1222,
+    "Commune": "بني عمران",
+    "Daira": "THENIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1222,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "الثنية"
+  },
+  {
+    "ID": 1223,
+    "Commune": "سوق الحد",
+    "Daira": "THENIA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1223,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "الثنية"
+  },
+  {
+    "ID": 1224,
+    "Commune": "بودواو البحري",
+    "Daira": "BOUDOUAOU",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1224,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بودواو"
+  },
+  {
+    "ID": 1225,
+    "Commune": "أولاد هداج",
+    "Daira": "BOUDOUAOU",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1225,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بودواو"
+  },
+  {
+    "ID": 1226,
+    "Commune": "لقاطة",
+    "Daira": "BORDJ MENAIEL",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1226,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "برج منايل"
+  },
+  {
+    "ID": 1227,
+    "Commune": "حمادي",
+    "Daira": "KHEMIS EL KHECHNA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1227,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "خميس الخشنة"
+  },
+  {
+    "ID": 1228,
+    "Commune": "خميس الخشنة",
+    "Daira": "KHEMIS EL KHECHNA",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1228,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "خميس الخشنة"
+  },
+  {
+    "ID": 1229,
+    "Commune": "الخروبة",
+    "Daira": "BOUDOUAOU",
+    "Wilaya": "BOUMERDES",
+    "ID_1": 1229,
+    "WilayaAR": "بومرداس",
+    "DairaAR": "بودواو"
+  }
+]

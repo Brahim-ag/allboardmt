@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1158,
+    "Commune": "إيليزي",
+    "Daira": "ILLIZI",
+    "Wilaya": "ILLIZI",
+    "ID_1": 1158,
+    "WilayaAR": "إيليزي",
+    "DairaAR": "إيليزي"
+  },
+  {
+    "ID": 1159,
+    "Commune": "جانت",
+    "Daira": "DJANET",
+    "Circonscriptions Administratives": "DJANET",
+    "Wilaya": "ILLIZI",
+    "ID_1": 1159,
+    "DistrictAdministratif": "جانت",
+    "WilayaAR": "إيليزي",
+    "DairaAR": "جانت"
+  },
+  {
+    "ID": 1160,
+    "Commune": "دبداب",
+    "Daira": "DEBDEB",
+    "Circonscriptions Administratives": "DEBDEB",
+    "Wilaya": "ILLIZI",
+    "ID_1": 1160,
+    "DistrictAdministratif": "دبداب",
+    "WilayaAR": "إيليزي",
+    "DairaAR": "دبداب"
+  },
+  {
+    "ID": 1161,
+    "Commune": "برج عمر إدريس",
+    "Daira": "IN AMENAS",
+    "Wilaya": "ILLIZI",
+    "ID_1": 1161,
+    "WilayaAR": "إيليزي",
+    "DairaAR": "إن أمناس"
+  },
+  {
+    "ID": 1162,
+    "Commune": "برج الحواس",
+    "Daira": "DJANET",
+    "Circonscriptions Administratives": "DJANET",
+    "Wilaya": "ILLIZI",
+    "ID_1": 1162,
+    "DistrictAdministratif": "جانت",
+    "WilayaAR": "إيليزي",
+    "DairaAR": "جانت"
+  },
+  {
+    "ID": 1163,
+    "Commune": "إن أمناس",
+    "Daira": "IN AMENAS",
+    "Wilaya": "ILLIZI",
+    "ID_1": 1163,
+    "WilayaAR": "إيليزي",
+    "DairaAR": "إن أمناس"
+  }
+]

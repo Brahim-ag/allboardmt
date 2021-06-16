@@ -1,0 +1,330 @@
+[
+  {
+    "ID": 1383,
+    "Commune": "ميلة",
+    "Daira": "MILA",
+    "Wilaya": "MILA",
+    "ID_1": 1383,
+    "WilayaAR": "ميلة",
+    "DairaAR": "ميلة"
+  },
+  {
+    "ID": 1384,
+    "Commune": "فرجيوة",
+    "Daira": "FERDJIOUA",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1384,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "فرجيوة"
+  },
+  {
+    "ID": 1385,
+    "Commune": "شلغوم العيد",
+    "Daira": "CHELGHOUM LAID",
+    "Circonscriptions Administratives": "CHELGHOUM LAID",
+    "Wilaya": "MILA",
+    "ID_1": 1385,
+    "DistrictAdministratif": "شلغوم العيد",
+    "WilayaAR": "ميلة",
+    "DairaAR": "شلغوم العيد"
+  },
+  {
+    "ID": 1386,
+    "Commune": "وادي العثمانية",
+    "Daira": "CHELGHOUM LAID",
+    "Circonscriptions Administratives": "CHELGHOUM LAID",
+    "Wilaya": "MILA",
+    "ID_1": 1386,
+    "DistrictAdministratif": "شلغوم العيد",
+    "WilayaAR": "ميلة",
+    "DairaAR": "شلغوم العيد"
+  },
+  {
+    "ID": 1387,
+    "Commune": "عين ملوك",
+    "Daira": "CHELGHOUM LAID",
+    "Circonscriptions Administratives": "CHELGHOUM LAID",
+    "Wilaya": "MILA",
+    "ID_1": 1387,
+    "DistrictAdministratif": "شلغوم العيد",
+    "WilayaAR": "ميلة",
+    "DairaAR": "شلغوم العيد"
+  },
+  {
+    "ID": 1388,
+    "Commune": "تلاغمة",
+    "Daira": "TELEGHMA",
+    "Circonscriptions Administratives": "CHELGHOUM LAID",
+    "Wilaya": "MILA",
+    "ID_1": 1388,
+    "DistrictAdministratif": "شلغوم العيد",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تلاغمة"
+  },
+  {
+    "ID": 1389,
+    "Commune": "وادي سقان",
+    "Daira": "TELEGHMA",
+    "Circonscriptions Administratives": "CHELGHOUM LAID",
+    "Wilaya": "MILA",
+    "ID_1": 1389,
+    "DistrictAdministratif": "شلغوم العيد",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تلاغمة"
+  },
+  {
+    "ID": 1390,
+    "Commune": "تاجنانت",
+    "Daira": "TADJENANET",
+    "Circonscriptions Administratives": "TADJENANET",
+    "Wilaya": "MILA",
+    "ID_1": 1390,
+    "DistrictAdministratif": "تاجنانت",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تاجنانت"
+  },
+  {
+    "ID": 1391,
+    "Commune": "بن يحي عبد الرحمن",
+    "Daira": "TADJENANET",
+    "Circonscriptions Administratives": "TADJENANET",
+    "Wilaya": "MILA",
+    "ID_1": 1391,
+    "DistrictAdministratif": "تاجنانت",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تاجنانت"
+  },
+  {
+    "ID": 1392,
+    "Commune": "وادي النجاء",
+    "Daira": "OUED ENDJA",
+    "Wilaya": "MILA",
+    "ID_1": 1392,
+    "WilayaAR": "ميلة",
+    "DairaAR": "وادي النجاء"
+  },
+  {
+    "ID": 1393,
+    "Commune": "أحمد راشدي",
+    "Daira": "OUED ENDJA",
+    "Wilaya": "MILA",
+    "ID_1": 1393,
+    "WilayaAR": "ميلة",
+    "DairaAR": "وادي النجاء"
+  },
+  {
+    "ID": 1394,
+    "Commune": "أولاد اخلوف",
+    "Daira": "TADJENANET",
+    "Circonscriptions Administratives": "TADJENANET",
+    "Wilaya": "MILA",
+    "ID_1": 1394,
+    "DistrictAdministratif": "تاجنانت",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تاجنانت"
+  },
+  {
+    "ID": 1395,
+    "Commune": "تيبرقنت",
+    "Daira": "ROUACHED",
+    "Wilaya": "MILA",
+    "ID_1": 1395,
+    "WilayaAR": "ميلة",
+    "DairaAR": "الرواشد"
+  },
+  {
+    "ID": 1396,
+    "Commune": "بوحاتم",
+    "Daira": "BOUHATEM",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1396,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "بوحاتم"
+  },
+  {
+    "ID": 1397,
+    "Commune": "الرواشد",
+    "Daira": "ROUACHED",
+    "Wilaya": "MILA",
+    "ID_1": 1397,
+    "WilayaAR": "ميلة",
+    "DairaAR": "الرواشد"
+  },
+  {
+    "ID": 1398,
+    "Commune": "تسالة لمطاعي",
+    "Daira": "TERRAI BAINEN",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1398,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "ترعي باينان"
+  },
+  {
+    "ID": 1399,
+    "Commune": "القرارم قوقة",
+    "Daira": "GRAREM GOUGA",
+    "Wilaya": "MILA",
+    "ID_1": 1399,
+    "WilayaAR": "ميلة",
+    "DairaAR": "القرارم قوقة"
+  },
+  {
+    "ID": 1400,
+    "Commune": "سيدي مروان",
+    "Daira": "SIDI MEROUANE",
+    "Wilaya": "MILA",
+    "ID_1": 1400,
+    "WilayaAR": "ميلة",
+    "DairaAR": "سيدي مروان"
+  },
+  {
+    "ID": 1401,
+    "Commune": "تسادان حدادة",
+    "Daira": "TASSADANE HADDADA",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1401,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تسادان حدادة"
+  },
+  {
+    "ID": 1402,
+    "Commune": "دراجي بوصلاح",
+    "Daira": "BOUHATEM",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1402,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "بوحاتم"
+  },
+  {
+    "ID": 1403,
+    "Commune": "مينار زارزة",
+    "Daira": "TASSADANE HADDADA",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1403,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تسدان حدادة"
+  },
+  {
+    "ID": 1404,
+    "Commune": "عميرة أراس",
+    "Daira": "TERRAI BAINEN",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1404,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "ترعي باينان"
+  },
+  {
+    "ID": 1405,
+    "Commune": "ترعي باينان",
+    "Daira": "TERRAI BAINEN",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1405,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "ترعي باينان"
+  },
+  {
+    "ID": 1406,
+    "Commune": "حمالة",
+    "Daira": "GRAREM GOUGA",
+    "Wilaya": "MILA",
+    "ID_1": 1406,
+    "WilayaAR": "ميلة",
+    "DairaAR": "القرارم قوقة"
+  },
+  {
+    "ID": 1407,
+    "Commune": "عين التين",
+    "Daira": "MILA",
+    "Wilaya": "MILA",
+    "ID_1": 1407,
+    "WilayaAR": "ميلة",
+    "DairaAR": "ميلة"
+  },
+  {
+    "ID": 1408,
+    "Commune": "المشيرة",
+    "Daira": "TELEGHMA",
+    "Circonscriptions Administratives": "CHELGHOUM LAID",
+    "Wilaya": "MILA",
+    "ID_1": 1408,
+    "DistrictAdministratif": "شلغوم العيد",
+    "WilayaAR": "ميلة",
+    "DairaAR": "تلاغمة"
+  },
+  {
+    "ID": 1409,
+    "Commune": "سيدي خليفة",
+    "Daira": "MILA",
+    "Wilaya": "MILA",
+    "ID_1": 1409,
+    "WilayaAR": "ميلة",
+    "DairaAR": "ميلة"
+  },
+  {
+    "ID": 1410,
+    "Commune": "زغاية",
+    "Daira": "OUED ENDJA",
+    "Wilaya": "MILA",
+    "ID_1": 1410,
+    "WilayaAR": "ميلة",
+    "DairaAR": "وادي النجاء"
+  },
+  {
+    "ID": 1411,
+    "Commune": "العياضي برباس",
+    "Daira": "AIN BEIDA HARRICHE",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1411,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "عين البيضاء حريش"
+  },
+  {
+    "ID": 1412,
+    "Commune": "عين البيضاء حريش",
+    "Daira": "AIN BEIDA HARRICHE",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1412,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "عين البيضاء حريش"
+  },
+  {
+    "ID": 1413,
+    "Commune": "يحي بني قشة",
+    "Daira": "FERDJIOUA",
+    "Circonscriptions Administratives": "FERDJIOUA",
+    "Wilaya": "MILA",
+    "ID_1": 1413,
+    "DistrictAdministratif": "فرجيوة",
+    "WilayaAR": "ميلة",
+    "DairaAR": "فرجيوة"
+  },
+  {
+    "ID": 1414,
+    "Commune": "الشيقارة",
+    "Daira": "SIDI MEROUANE",
+    "Wilaya": "MILA",
+    "ID_1": 1414,
+    "WilayaAR": "ميلة",
+    "DairaAR": "سيدي مروان"
+  }
+]

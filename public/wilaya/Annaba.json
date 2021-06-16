@@ -1,0 +1,116 @@
+[
+  {
+    "ID": 841,
+    "Commune": "عنابة",
+    "Daira": "ANNABA",
+    "Wilaya": "ANNABA",
+    "ID_1": 841,
+    "WilayaAR": "عنابة",
+    "DairaAR": "عنابة"
+  },
+  {
+    "ID": 842,
+    "Commune": "برحال",
+    "Daira": "BERRAHAL",
+    "Wilaya": "ANNABA",
+    "ID_1": 842,
+    "WilayaAR": "عنابة",
+    "DairaAR": "برحال"
+  },
+  {
+    "ID": 843,
+    "Commune": "الحجار",
+    "Daira": "EL HADJAR",
+    "Wilaya": "ANNABA",
+    "ID_1": 843,
+    "WilayaAR": "عنابة",
+    "DairaAR": "الحجار"
+  },
+  {
+    "ID": 844,
+    "Commune": "العلمة",
+    "Daira": "AIN EL BERDA",
+    "Wilaya": "ANNABA",
+    "ID_1": 844,
+    "WilayaAR": "عنابة",
+    "DairaAR": "عين الباردة"
+  },
+  {
+    "ID": 845,
+    "Commune": "البوني",
+    "Daira": "EL BOUNI",
+    "Wilaya": "ANNABA",
+    "ID_1": 845,
+    "WilayaAR": "عنابة",
+    "DairaAR": "البوني"
+  },
+  {
+    "ID": 846,
+    "Commune": "واد العنب",
+    "Daira": "BERRAHAL",
+    "Wilaya": "ANNABA",
+    "ID_1": 846,
+    "WilayaAR": "عنابة",
+    "DairaAR": "برحال"
+  },
+  {
+    "ID": 847,
+    "Commune": "الشرفة",
+    "Daira": "AIN EL BERDA",
+    "Wilaya": "ANNABA",
+    "ID_1": 847,
+    "WilayaAR": "عنابة",
+    "DairaAR": "عين الباردة"
+  },
+  {
+    "ID": 848,
+    "Commune": "سرايدي",
+    "Daira": "ANNABA",
+    "Wilaya": "ANNABA",
+    "ID_1": 848,
+    "WilayaAR": "عنابة",
+    "DairaAR": "عنابة"
+  },
+  {
+    "ID": 849,
+    "Commune": "عين الباردة",
+    "Daira": "AIN EL BERDA",
+    "Wilaya": "ANNABA",
+    "ID_1": 849,
+    "WilayaAR": "عنابة",
+    "DairaAR": "عين الباردة"
+  },
+  {
+    "ID": 850,
+    "Commune": "شطايبي",
+    "Daira": "CHETAIBI",
+    "Wilaya": "ANNABA",
+    "ID_1": 850,
+    "WilayaAR": "عنابة",
+    "DairaAR": "شطايبي"
+  },
+  {
+    "ID": 851,
+    "Commune": "سيدي عمار",
+    "Daira": "EL HADJAR",
+    "Wilaya": "ANNABA",
+    "ID_1": 851,
+    "WilayaAR": "عنابة",
+    "DairaAR": "الحجار"
+  },
+  {
+    "ID": 852,
+    "Commune": "التريعات",
+    "Daira": "BERRAHAL",
+    "Wilaya": "ANNABA",
+    "ID_1": 852,
+    "WilayaAR": "عنابة",
+    "DairaAR": "برحال"
+  },
+  {
+    "Circonscriptions Administratives": "DRAA ERRICH ",
+    "Wilaya": "ANNABA",
+    "DistrictAdministratif": "ذراع الريش",
+    "WilayaAR": "عنابة"
+  }
+]

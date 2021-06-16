@@ -1,0 +1,520 @@
+[
+  {
+    "ID": 789,
+    "Commune": "سيدي بلعباس",
+    "Daira": "SIDI BEL ABBES",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 789,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي بلعباس"
+  },
+  {
+    "ID": 790,
+    "Commune": "تسالة",
+    "Daira": "TESSALA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 790,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تسالة"
+  },
+  {
+    "ID": 791,
+    "Commune": "سيدي ابراهيم",
+    "Daira": "AIN EL BERD",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 791,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "عين البرد"
+  },
+  {
+    "ID": 792,
+    "Commune": "مصطفى بن ابراهيم",
+    "Daira": "MOSTEFA BEN BRAHIM",
+    "Circonscriptions Administratives": "SFISSEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 792,
+    "DistrictAdministratif": "سفيزف",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مصطفى بن ابراهيم"
+  },
+  {
+    "ID": 793,
+    "Commune": "تلاغ",
+    "Daira": "TELAGH",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 793,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تلاغ"
+  },
+  {
+    "ID": 794,
+    "Commune": "مزاورو",
+    "Daira": "TELAGH",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 794,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تلاغ"
+  },
+  {
+    "ID": 795,
+    "Commune": "بوخنفيس",
+    "Daira": "SIDI ALI BEN YOUB",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 795,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي علي بن يوب"
+  },
+  {
+    "ID": 796,
+    "Commune": "سيدي علي بوسيدي",
+    "Daira": "SIDI ALI BOUSSIDI",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 796,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي علي بوسيدي"
+  },
+  {
+    "ID": 797,
+    "Commune": "بدر الدين المقراني",
+    "Daira": "BEN BADIS",
+    "Circonscriptions Administratives": "BEN BADIS",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 797,
+    "DistrictAdministratif": "ابن باديس",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "ابن باديس"
+  },
+  {
+    "ID": 798,
+    "Commune": "مرحوم",
+    "Daira": "MARHOUM",
+    "Circonscriptions Administratives": "RAS EL MA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 798,
+    "DistrictAdministratif": "رأس الماء",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مرحوم"
+  },
+  {
+    "ID": 799,
+    "Commune": "تفسور",
+    "Daira": "MERINE",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 799,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مرين"
+  },
+  {
+    "ID": 800,
+    "Commune": "العمارنة",
+    "Daira": "SIDI LAHCENE",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 800,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي لحسن"
+  },
+  {
+    "ID": 801,
+    "Commune": "تلموني",
+    "Daira": "MOSTEFA BEN BRAHIM",
+    "Circonscriptions Administratives": "SFISSEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 801,
+    "DistrictAdministratif": "سفيزف",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مصطفى بن ابراهيم"
+  },
+  {
+    "ID": 802,
+    "Commune": "سيدي لحسن",
+    "Daira": "SIDI LAHCENE",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 802,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي لحسن"
+  },
+  {
+    "ID": 803,
+    "Commune": "عين الثريد",
+    "Daira": "TESSALA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 803,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تسالة"
+  },
+  {
+    "ID": 804,
+    "Commune": "مكدرة",
+    "Daira": "AIN EL BERD",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 804,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "عين البرد"
+  },
+  {
+    "ID": 805,
+    "Commune": "تنيرة",
+    "Daira": "TENIRA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 805,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تنيرة"
+  },
+  {
+    "ID": 806,
+    "Commune": "مولاي سليسن",
+    "Daira": "MOULAY SLISSEN",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 806,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مولاي سليسن"
+  },
+  {
+    "ID": 807,
+    "Commune": "الحصيبة",
+    "Daira": "MOULAY SLISSEN",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 807,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مولاي سليسن"
+  },
+  {
+    "ID": 808,
+    "Commune": "حاسي زهانة",
+    "Daira": "BEN BADIS",
+    "Circonscriptions Administratives": "BEN BADIS",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 808,
+    "DistrictAdministratif": "ابن باديس",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "ابن باديس"
+  },
+  {
+    "ID": 809,
+    "Commune": "طابية",
+    "Daira": "SIDI ALI BEN YOUB",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 809,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي علي بن يوب"
+  },
+  {
+    "ID": 810,
+    "Commune": "مرين",
+    "Daira": "MERINE",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 810,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مرين"
+  },
+  {
+    "ID": 811,
+    "Commune": "رأس الماء",
+    "Daira": "RAS EL MA",
+    "Circonscriptions Administratives": "RAS EL MA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 811,
+    "DistrictAdministratif": "رأس الماء",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "رأس الماء"
+  },
+  {
+    "ID": 812,
+    "Commune": "عين تندمين",
+    "Daira": "MOULAY SLISSEN",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 812,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مولاي سليسن"
+  },
+  {
+    "ID": 813,
+    "Commune": "عين قادة",
+    "Daira": "SIDI ALI BOUSSIDI",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 813,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي علي بوسيدي"
+  },
+  {
+    "ID": 814,
+    "Commune": "مسيد",
+    "Daira": "SFISEF",
+    "Circonscriptions Administratives": "SFISSEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 814,
+    "DistrictAdministratif": "سفيزف",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سفيزف"
+  },
+  {
+    "ID": 815,
+    "Commune": "سيدي خالد",
+    "Daira": "SIDI LAHCENE",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 815,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي لحسن"
+  },
+  {
+    "ID": 816,
+    "Commune": "عين البرد",
+    "Daira": "AIN EL BERD",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 816,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "عين البرد"
+  },
+  {
+    "ID": 817,
+    "Commune": "سفيزف",
+    "Daira": "SFISEF",
+    "Circonscriptions Administratives": "SFISSEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 817,
+    "DistrictAdministratif": "سفيزف",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سفيزف"
+  },
+  {
+    "ID": 818,
+    "Commune": "عين عدان",
+    "Daira": "SFISEF",
+    "Circonscriptions Administratives": "SFISSEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 818,
+    "DistrictAdministratif": "سفيزف",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سفيزف"
+  },
+  {
+    "ID": 819,
+    "Commune": "واد تاوريرة",
+    "Daira": "MERINE",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 819,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مرين"
+  },
+  {
+    "ID": 820,
+    "Commune": "الضاية",
+    "Daira": "TELAGH",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 820,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تلاغ"
+  },
+  {
+    "ID": 821,
+    "Commune": "زروالة",
+    "Daira": "MOSTEFA BEN BRAHIM",
+    "Circonscriptions Administratives": "SFISSEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 821,
+    "DistrictAdministratif": "سفيزف",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مصطفى بن ابراهيم"
+  },
+  {
+    "ID": 822,
+    "Commune": "لمطار",
+    "Daira": "SIDI ALI BOUSSIDI",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 822,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي علي بوسيدي"
+  },
+  {
+    "ID": 823,
+    "Commune": "سيدي شعيب",
+    "Daira": "MARHOUM",
+    "Circonscriptions Administratives": "RAS EL MA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 823,
+    "DistrictAdministratif": "رأس الماء",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مرحوم"
+  },
+  {
+    "ID": 824,
+    "Commune": "سيدي دحو الزاير",
+    "Daira": "SIDI ALI BOUSSIDI",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 824,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي علي بوسيدي"
+  },
+  {
+    "ID": 825,
+    "Commune": "وادي السبع",
+    "Daira": "RAS EL MA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 825,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "رأس الماء"
+  },
+  {
+    "ID": 826,
+    "Commune": "بوجبهة البرج",
+    "Daira": "SFISEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 826,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سفيزف"
+  },
+  {
+    "ID": 827,
+    "Commune": "السهالة الثورة",
+    "Daira": "TESSALA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 827,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تسالة"
+  },
+  {
+    "ID": 828,
+    "Commune": "سيدي يعقوب",
+    "Daira": "SIDI LAHCENE",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 828,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي لحسن"
+  },
+  {
+    "ID": 829,
+    "Commune": "سيدي حمادوش",
+    "Daira": "AIN EL BERD",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 829,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "عين البرد"
+  },
+  {
+    "ID": 830,
+    "Commune": "بلعربي",
+    "Daira": "MOSTEFA BEN BRAHIM",
+    "Circonscriptions Administratives": "SFISSEF",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 830,
+    "DistrictAdministratif": "سفيزف",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مصطفى بن ابراهيم"
+  },
+  {
+    "ID": 831,
+    "Commune": "وادي سفيون",
+    "Daira": "TENIRA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 831,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تنيرة"
+  },
+  {
+    "ID": 832,
+    "Commune": "تيغاليمت",
+    "Daira": "TELAGH",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 832,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تلاغ"
+  },
+  {
+    "ID": 833,
+    "Commune": "بن باديس",
+    "Daira": "BEN BADIS",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 833,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "بن باديس"
+  },
+  {
+    "ID": 834,
+    "Commune": "سيدي علي بن يوب",
+    "Daira": "SIDI ALI BEN YOUB",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 834,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "سيدي علي بن يوب"
+  },
+  {
+    "ID": 835,
+    "Commune": "شتوان بليلة",
+    "Daira": "BEN BADIS",
+    "Circonscriptions Administratives": "BEN BADIS",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 835,
+    "DistrictAdministratif": "ابن باديس",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "ابن باديس"
+  },
+  {
+    "ID": 836,
+    "Commune": "بئر الحمام",
+    "Daira": "MARHOUM",
+    "Circonscriptions Administratives": "RAS EL MA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 836,
+    "DistrictAdministratif": "رأس الماء",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مرحوم"
+  },
+  {
+    "ID": 837,
+    "Commune": "تاودموت",
+    "Daira": "MERINE",
+    "Circonscriptions Administratives": "TELAGH",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 837,
+    "DistrictAdministratif": "تلاغ",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "مرين"
+  },
+  {
+    "ID": 838,
+    "Commune": "رجم دموش",
+    "Daira": "RAS EL MA",
+    "Circonscriptions Administratives": "RAS EL MA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 838,
+    "DistrictAdministratif": "رأس الماء",
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "رأس الماء"
+  },
+  {
+    "ID": 839,
+    "Commune": "بن عشيبة شلية",
+    "Daira": "TENIRA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 839,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تنيرة"
+  },
+  {
+    "ID": 840,
+    "Commune": "حاسي دحو",
+    "Daira": "TENIRA",
+    "Wilaya": "SIDI BEL-ABBES",
+    "ID_1": 840,
+    "WilayaAR": "سيدي بلعباس",
+    "DairaAR": "تنيرة"
+  }
+]

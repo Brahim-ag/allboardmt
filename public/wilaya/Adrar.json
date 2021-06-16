@@ -1,0 +1,280 @@
+[
+  {
+    "ID": 1,
+    "Commune": "أدرار",
+    "Daira": "ADRAR",
+    "Wilaya": "ADRAR",
+    "ID_1": 1,
+    "WilayaAR": "أدرار",
+    "DairaAR": "أدرار"
+  },
+  {
+    "ID": 2,
+    "Commune": "تامست",
+    "Daira": "FENOUGHIL",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 2,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "فنوغيل"
+  },
+  {
+    "ID": 3,
+    "Commune": "شروين",
+    "Daira": "CHAROUINE",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 3,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "شروين"
+  },
+  {
+    "ID": 4,
+    "Commune": "رقان",
+    "Daira": "REGGANE",
+    "Wilaya": "ADRAR",
+    "ID_1": 4,
+    "WilayaAR": "أدرار",
+    "DairaAR": "رقان"
+  },
+  {
+    "ID": 5,
+    "Commune": "إن زغمير",
+    "Daira": "ZAOUIAT KOUNTA",
+    "Wilaya": "ADRAR",
+    "ID_1": 5,
+    "WilayaAR": "أدرار",
+    "DairaAR": "زاوية كنتة"
+  },
+  {
+    "ID": 6,
+    "Commune": "تيت",
+    "Daira": "AOULEF",
+    "Wilaya": "ADRAR",
+    "ID_1": 6,
+    "WilayaAR": "أدرار",
+    "DairaAR": "أولف"
+  },
+  {
+    "ID": 7,
+    "Commune": "قصر قدور",
+    "Daira": "TINERKOUK",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 7,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "تنركوك"
+  },
+  {
+    "ID": 8,
+    "Commune": "تسابيت",
+    "Daira": "TSABIT",
+    "Wilaya": "ADRAR",
+    "ID_1": 8,
+    "WilayaAR": "أدرار",
+    "DairaAR": "تسابيت"
+  },
+  {
+    "ID": 9,
+    "Commune": "تيميمون",
+    "Daira": "TIMIMOUN  ",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 9,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "تيميمون"
+  },
+  {
+    "ID": 10,
+    "Commune": "أولاد السعيد",
+    "Daira": "TIMIMOUN  ",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 10,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "تيميمون"
+  },
+  {
+    "ID": 11,
+    "Commune": "زاوية كنتة",
+    "Daira": "ZAOUIAT KOUNTA",
+    "Wilaya": "ADRAR",
+    "ID_1": 11,
+    "WilayaAR": "أدرار",
+    "DairaAR": "زاوية كنتة"
+  },
+  {
+    "ID": 12,
+    "Commune": "أولف",
+    "Daira": "AOULEF",
+    "Wilaya": "ADRAR",
+    "ID_1": 12,
+    "WilayaAR": "أدرار",
+    "DairaAR": "أولف"
+  },
+  {
+    "ID": 13,
+    "Commune": "تيمقتن",
+    "Daira": "AOULEF",
+    "Wilaya": "ADRAR",
+    "ID_1": 13,
+    "WilayaAR": "أدرار",
+    "DairaAR": "أولف"
+  },
+  {
+    "ID": 14,
+    "Commune": "تامنطيت",
+    "Daira": "FENOUGHIL",
+    "Wilaya": "ADRAR",
+    "ID_1": 14,
+    "WilayaAR": "أدرار",
+    "DairaAR": "فنوغيل"
+  },
+  {
+    "ID": 15,
+    "Commune": "فنوغيل",
+    "Daira": "FENOUGHIL",
+    "Wilaya": "ADRAR",
+    "ID_1": 15,
+    "WilayaAR": "أدرار",
+    "DairaAR": "فنوغيل"
+  },
+  {
+    "ID": 16,
+    "Commune": "تنركوك",
+    "Daira": "TINERKOUK",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 16,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "تنركوك"
+  },
+  {
+    "ID": 17,
+    "Commune": "دلدول",
+    "Daira": "AOUGROUT",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 17,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "أوقروت"
+  },
+  {
+    "ID": 18,
+    "Commune": "سالي",
+    "Daira": "REGGANE",
+    "Wilaya": "ADRAR",
+    "ID_1": 18,
+    "WilayaAR": "أدرار",
+    "DairaAR": "رقان"
+  },
+  {
+    "ID": 19,
+    "Commune": "اقبلي",
+    "Daira": "AOULEF",
+    "Wilaya": "ADRAR",
+    "ID_1": 19,
+    "WilayaAR": "أدرار",
+    "DairaAR": "أولف"
+  },
+  {
+    "ID": 20,
+    "Commune": "المطارفة",
+    "Daira": "AOUGROUT",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 20,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "أوقروت"
+  },
+  {
+    "ID": 21,
+    "Commune": "أولاد أحمد تيمي",
+    "Daira": "ADRAR",
+    "Wilaya": "ADRAR",
+    "ID_1": 21,
+    "WilayaAR": "أدرار",
+    "DairaAR": "أدرار"
+  },
+  {
+    "ID": 22,
+    "Commune": "بودة",
+    "Daira": "ADRAR",
+    "Wilaya": "ADRAR",
+    "ID_1": 22,
+    "WilayaAR": "أدرار",
+    "DairaAR": "أدرار"
+  },
+  {
+    "ID": 23,
+    "Commune": "أوقروت",
+    "Daira": "AOUGROUT",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 23,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "أوقروت"
+  },
+  {
+    "ID": 24,
+    "Commune": "طالمين",
+    "Daira": "CHAROUINE",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 24,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "شروين"
+  },
+  {
+    "ID": 25,
+    "Commune": "برج باجي مختار",
+    "Daira": "BORDJ BADJI MOKHTAR",
+    "Circonscriptions Administratives": "BORDJ BADJI MOKHTAR",
+    "Wilaya": "ADRAR",
+    "ID_1": 25,
+    "DistrictAdministratif": "برج باجي مختار",
+    "WilayaAR": "أدرار",
+    "DairaAR": "برج باجي مختار"
+  },
+  {
+    "ID": 26,
+    "Commune": "السبع",
+    "Daira": "TSABIT",
+    "Wilaya": "ADRAR",
+    "ID_1": 26,
+    "WilayaAR": "أدرار",
+    "DairaAR": "تسابيت"
+  },
+  {
+    "ID": 27,
+    "Commune": "أولاد عيسى",
+    "Daira": "CHAROUINE",
+    "Circonscriptions Administratives": "TIMIMOUN  ",
+    "Wilaya": "ADRAR",
+    "ID_1": 27,
+    "DistrictAdministratif": "تيميمون",
+    "WilayaAR": "أدرار",
+    "DairaAR": "شروين"
+  },
+  {
+    "ID": 28,
+    "Commune": "تيمياوين",
+    "Daira": "BORDJ BADJI MOKHTAR",
+    "Circonscriptions Administratives": "BORDJ BADJI MOKHTAR",
+    "Wilaya": "ADRAR",
+    "ID_1": 28,
+    "DistrictAdministratif": "برج باجي مختار",
+    "WilayaAR": "أدرار",
+    "DairaAR": "برج باجي مختار"
+  }
+]

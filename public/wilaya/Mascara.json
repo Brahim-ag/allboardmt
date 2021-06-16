@@ -1,0 +1,425 @@
+[
+  {
+    "ID": 1042,
+    "Commune": "معسكر",
+    "Daira": "MASCARA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1042,
+    "WilayaAR": "معسكر",
+    "DairaAR": "معسكر"
+  },
+  {
+    "ID": 1043,
+    "Commune": "بوحنيفية",
+    "Daira": "BOUHANIFIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1043,
+    "WilayaAR": "معسكر",
+    "DairaAR": "بوحنيفية"
+  },
+  {
+    "ID": 1044,
+    "Commune": "تيزي",
+    "Daira": "TIZI",
+    "Wilaya": "MASCARA",
+    "ID_1": 1044,
+    "WilayaAR": "معسكر",
+    "DairaAR": "تيزي"
+  },
+  {
+    "ID": 1045,
+    "Commune": "حسين",
+    "Daira": "BOUHANIFIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1045,
+    "WilayaAR": "معسكر",
+    "DairaAR": "بوحنيفية"
+  },
+  {
+    "ID": 1046,
+    "Commune": "ماوسة",
+    "Daira": "GHRISS",
+    "Wilaya": "MASCARA",
+    "ID_1": 1046,
+    "WilayaAR": "معسكر",
+    "DairaAR": "غريس"
+  },
+  {
+    "ID": 1047,
+    "Commune": "تيغنيف",
+    "Daira": "TIGHENNIF",
+    "Wilaya": "MASCARA",
+    "ID_1": 1047,
+    "WilayaAR": "معسكر",
+    "DairaAR": "تيغنيف"
+  },
+  {
+    "ID": 1048,
+    "Commune": "الحشم",
+    "Daira": "HACHEM",
+    "Wilaya": "MASCARA",
+    "ID_1": 1048,
+    "WilayaAR": "معسكر",
+    "DairaAR": "الحشم"
+  },
+  {
+    "ID": 1049,
+    "Commune": "سيدي قادة",
+    "Daira": "TIGHENNIF",
+    "Wilaya": "MASCARA",
+    "ID_1": 1049,
+    "WilayaAR": "معسكر",
+    "DairaAR": "تيغنيف"
+  },
+  {
+    "ID": 1050,
+    "Commune": "زلامطة",
+    "Daira": "HACHEM",
+    "Wilaya": "MASCARA",
+    "ID_1": 1050,
+    "WilayaAR": "معسكر",
+    "DairaAR": "الحشم"
+  },
+  {
+    "ID": 1051,
+    "Commune": "وادي الأبطال",
+    "Daira": "OUED EL ABTAL",
+    "Wilaya": "MASCARA",
+    "ID_1": 1051,
+    "WilayaAR": "معسكر",
+    "DairaAR": "وادي الأبطال"
+  },
+  {
+    "ID": 1052,
+    "Commune": "عين فراح",
+    "Daira": "OUED EL ABTAL",
+    "Wilaya": "MASCARA",
+    "ID_1": 1052,
+    "WilayaAR": "معسكر",
+    "DairaAR": "وادي الأبطال"
+  },
+  {
+    "ID": 1053,
+    "Commune": "غريس",
+    "Daira": "GHRISS",
+    "Wilaya": "MASCARA",
+    "ID_1": 1053,
+    "WilayaAR": "معسكر",
+    "DairaAR": "غريس"
+  },
+  {
+    "ID": 1054,
+    "Commune": "فروحة",
+    "Daira": "TIZI",
+    "Wilaya": "MASCARA",
+    "ID_1": 1054,
+    "WilayaAR": "معسكر",
+    "DairaAR": "تيزي"
+  },
+  {
+    "ID": 1055,
+    "Commune": "المطمور",
+    "Daira": "GHRISS",
+    "Wilaya": "MASCARA",
+    "ID_1": 1055,
+    "WilayaAR": "معسكر",
+    "DairaAR": "غريس"
+  },
+  {
+    "ID": 1056,
+    "Commune": "ماقضة",
+    "Daira": "GHRISS",
+    "Wilaya": "MASCARA",
+    "ID_1": 1056,
+    "WilayaAR": "معسكر",
+    "DairaAR": "غريس"
+  },
+  {
+    "ID": 1057,
+    "Commune": "سيدي بوسعيد",
+    "Daira": "GHRISS",
+    "Wilaya": "MASCARA",
+    "ID_1": 1057,
+    "WilayaAR": "معسكر",
+    "DairaAR": "غريس"
+  },
+  {
+    "ID": 1058,
+    "Commune": "البرج",
+    "Daira": "EL BORDJ",
+    "Wilaya": "MASCARA",
+    "ID_1": 1058,
+    "WilayaAR": "معسكر",
+    "DairaAR": "البرج"
+  },
+  {
+    "ID": 1059,
+    "Commune": "عين فكان",
+    "Daira": "AIN FEKAN",
+    "Wilaya": "MASCARA",
+    "ID_1": 1059,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عين فكان"
+  },
+  {
+    "ID": 1060,
+    "Commune": "بنيان",
+    "Daira": "AOUF",
+    "Wilaya": "MASCARA",
+    "ID_1": 1060,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عوف"
+  },
+  {
+    "ID": 1061,
+    "Commune": "خلوية",
+    "Daira": "EL BORDJ",
+    "Wilaya": "MASCARA",
+    "ID_1": 1061,
+    "WilayaAR": "معسكر",
+    "DairaAR": "البرج"
+  },
+  {
+    "ID": 1062,
+    "Commune": "المنور",
+    "Daira": "EL BORDJ",
+    "Wilaya": "MASCARA",
+    "ID_1": 1062,
+    "WilayaAR": "معسكر",
+    "DairaAR": "البرج"
+  },
+  {
+    "ID": 1063,
+    "Commune": "وادي التاغية",
+    "Daira": "OUED TARIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1063,
+    "WilayaAR": "معسكر",
+    "DairaAR": "وادي التاغية"
+  },
+  {
+    "ID": 1064,
+    "Commune": "عوف",
+    "Daira": "AOUF",
+    "Wilaya": "MASCARA",
+    "ID_1": 1064,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عوف"
+  },
+  {
+    "ID": 1065,
+    "Commune": "عين فارس",
+    "Daira": "AIN FARES",
+    "Wilaya": "MASCARA",
+    "ID_1": 1065,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عين فارس"
+  },
+  {
+    "ID": 1066,
+    "Commune": "عين أفرص",
+    "Daira": "AIN FEKAN",
+    "Wilaya": "MASCARA",
+    "ID_1": 1066,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عين فكان"
+  },
+  {
+    "ID": 1067,
+    "Commune": "سيق",
+    "Daira": "SIG",
+    "Wilaya": "MASCARA",
+    "ID_1": 1067,
+    "WilayaAR": "معسكر",
+    "DairaAR": "سيق"
+  },
+  {
+    "ID": 1068,
+    "Commune": "عقاز",
+    "Daira": "OGGAZ",
+    "Wilaya": "MASCARA",
+    "ID_1": 1068,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عقاز"
+  },
+  {
+    "ID": 1069,
+    "Commune": "العلايمية",
+    "Daira": "OGGAZ",
+    "Wilaya": "MASCARA",
+    "ID_1": 1069,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عقاز"
+  },
+  {
+    "ID": 1070,
+    "Commune": "القعدة",
+    "Daira": "ZAHANA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1070,
+    "WilayaAR": "معسكر",
+    "DairaAR": "زهانة"
+  },
+  {
+    "ID": 1071,
+    "Commune": "زهانة",
+    "Daira": "ZAHANA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1071,
+    "WilayaAR": "معسكر",
+    "DairaAR": "زهانة"
+  },
+  {
+    "ID": 1072,
+    "Commune": "المحمدية",
+    "Daira": "MOHAMMADIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1072,
+    "WilayaAR": "معسكر",
+    "DairaAR": "المحمدية"
+  },
+  {
+    "ID": 1073,
+    "Commune": "سيدي عبد المومن",
+    "Daira": "MOHAMMADIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1073,
+    "WilayaAR": "معسكر",
+    "DairaAR": "المحمدية"
+  },
+  {
+    "ID": 1074,
+    "Commune": "فراقيق",
+    "Daira": "MOHAMMADIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1074,
+    "WilayaAR": "معسكر",
+    "DairaAR": "المحمدية"
+  },
+  {
+    "ID": 1075,
+    "Commune": "الغمري",
+    "Daira": "MOHAMMADIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1075,
+    "WilayaAR": "معسكر",
+    "DairaAR": "المحمدية"
+  },
+  {
+    "ID": 1076,
+    "Commune": "سجرارة",
+    "Daira": "MOHAMMADIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1076,
+    "WilayaAR": "معسكر",
+    "DairaAR": "المحمدية"
+  },
+  {
+    "ID": 1077,
+    "Commune": "مقطع الدوز",
+    "Daira": "MOHAMMADIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1077,
+    "WilayaAR": "معسكر",
+    "DairaAR": "المحمدية"
+  },
+  {
+    "ID": 1078,
+    "Commune": "بوهني",
+    "Daira": "SIG",
+    "Wilaya": "MASCARA",
+    "ID_1": 1078,
+    "WilayaAR": "معسكر",
+    "DairaAR": "سيق"
+  },
+  {
+    "ID": 1079,
+    "Commune": "القطنة",
+    "Daira": "BOUHANIFIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1079,
+    "WilayaAR": "معسكر",
+    "DairaAR": "بوحنيفية"
+  },
+  {
+    "ID": 1080,
+    "Commune": "المأمونية",
+    "Daira": "AIN FARES",
+    "Wilaya": "MASCARA",
+    "ID_1": 1080,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عين فارس"
+  },
+  {
+    "ID": 1081,
+    "Commune": "القرط",
+    "Daira": "TIZI",
+    "Wilaya": "MASCARA",
+    "ID_1": 1081,
+    "WilayaAR": "معسكر",
+    "DairaAR": "تيزي"
+  },
+  {
+    "ID": 1082,
+    "Commune": "غروس",
+    "Daira": "AOUF",
+    "Wilaya": "MASCARA",
+    "ID_1": 1082,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عوف"
+  },
+  {
+    "ID": 1083,
+    "Commune": "قرجوم",
+    "Daira": "OUED TARIA",
+    "Wilaya": "MASCARA",
+    "ID_1": 1083,
+    "WilayaAR": "معسكر",
+    "DairaAR": "وادي التاغية"
+  },
+  {
+    "ID": 1084,
+    "Commune": "الشرفاء",
+    "Daira": "SIG",
+    "Wilaya": "MASCARA",
+    "ID_1": 1084,
+    "WilayaAR": "معسكر",
+    "DairaAR": "سيق"
+  },
+  {
+    "ID": 1085,
+    "Commune": "رأس عين عميروش",
+    "Daira": "OGGAZ",
+    "Wilaya": "MASCARA",
+    "ID_1": 1085,
+    "WilayaAR": "معسكر",
+    "DairaAR": "عقاز"
+  },
+  {
+    "ID": 1086,
+    "Commune": "نسمط",
+    "Daira": "HACHEM",
+    "Wilaya": "MASCARA",
+    "ID_1": 1086,
+    "WilayaAR": "معسكر",
+    "DairaAR": "الحشم"
+  },
+  {
+    "ID": 1087,
+    "Commune": "سيدي عبد الجبار",
+    "Daira": "OUED EL ABTAL",
+    "Wilaya": "MASCARA",
+    "ID_1": 1087,
+    "WilayaAR": "معسكر",
+    "DairaAR": "وادي الأبطال"
+  },
+  {
+    "ID": 1088,
+    "Commune": "السهايلية",
+    "Daira": "TIGHENNIF",
+    "Wilaya": "MASCARA",
+    "ID_1": 1088,
+    "WilayaAR": "معسكر",
+    "DairaAR": "تيغنيف"
+  }
+]

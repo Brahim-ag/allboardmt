@@ -1,0 +1,443 @@
+[
+  {
+    "ID": 309,
+    "Commune": "البويرة",
+    "Daira": "BOUIRA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 309,
+    "WilayaAR": "البويرة",
+    "DairaAR": "البويرة"
+  },
+  {
+    "ID": 310,
+    "Commune": "الأسنام",
+    "Daira": "BECHLOUL",
+    "Wilaya": "BOUIRA",
+    "ID_1": 310,
+    "WilayaAR": "البويرة",
+    "DairaAR": "بشلول"
+  },
+  {
+    "ID": 311,
+    "Commune": "قرومة",
+    "Daira": "LAKHDARIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 311,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الأخضرية"
+  },
+  {
+    "ID": 312,
+    "Commune": "سوق الخميس",
+    "Daira": "SOUK EL KHEMIS",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 312,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سوق الخميس"
+  },
+  {
+    "ID": 313,
+    "Commune": "قادرية",
+    "Daira": "KADIRIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 313,
+    "WilayaAR": "البويرة",
+    "DairaAR": "القادرية"
+  },
+  {
+    "ID": 314,
+    "Commune": "حنيف",
+    "Daira": "M'CHEDALLAH",
+    "Wilaya": "BOUIRA",
+    "ID_1": 314,
+    "WilayaAR": "البويرة",
+    "DairaAR": "مشد الله"
+  },
+  {
+    "ID": 315,
+    "Commune": "ديرة",
+    "Daira": "SOUR EL GHOZLANE",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 315,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سور الغزلان"
+  },
+  {
+    "ID": 316,
+    "Commune": "أيت لعزيز",
+    "Daira": "BOUIRA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 316,
+    "WilayaAR": "البويرة",
+    "DairaAR": "البويرة"
+  },
+  {
+    "ID": 317,
+    "Commune": "تاغزوت",
+    "Daira": "HAIZER",
+    "Wilaya": "BOUIRA",
+    "ID_1": 317,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الحيزر"
+  },
+  {
+    "ID": 318,
+    "Commune": "روراوة",
+    "Daira": "BIR GHBALOU",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 318,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "بئر غبالو"
+  },
+  {
+    "ID": 319,
+    "Commune": "مزدور",
+    "Daira": "BORDJ OKHRISS",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 319,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "برج أوخريص"
+  },
+  {
+    "ID": 320,
+    "Commune": "حيزر",
+    "Daira": "HAIZER",
+    "Wilaya": "BOUIRA",
+    "ID_1": 320,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الحيزر"
+  },
+  {
+    "ID": 321,
+    "Commune": "الأخضرية",
+    "Daira": "LAKHDARIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 321,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الأخضرية"
+  },
+  {
+    "ID": 322,
+    "Commune": "معلة",
+    "Daira": "LAKHDARIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 322,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الأخضرية"
+  },
+  {
+    "ID": 323,
+    "Commune": "الهاشمية",
+    "Daira": "EL HACHIMIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 323,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الهاشمية"
+  },
+  {
+    "ID": 324,
+    "Commune": "أعمر",
+    "Daira": "KADIRIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 324,
+    "WilayaAR": "البويرة",
+    "DairaAR": "القادرية"
+  },
+  {
+    "ID": 325,
+    "Commune": "شرفة",
+    "Daira": "M'CHEDALLAH",
+    "Wilaya": "BOUIRA",
+    "ID_1": 325,
+    "WilayaAR": "البويرة",
+    "DairaAR": "مشد الله"
+  },
+  {
+    "ID": 326,
+    "Commune": "برج أوخريص",
+    "Daira": "BORDJ OKHRISS",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 326,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "برج أوخريص"
+  },
+  {
+    "ID": 327,
+    "Commune": "العجيبة",
+    "Daira": "BECHLOUL",
+    "Wilaya": "BOUIRA",
+    "ID_1": 327,
+    "WilayaAR": "البويرة",
+    "DairaAR": "بشلول"
+  },
+  {
+    "ID": 328,
+    "Commune": "الحاكمية",
+    "Daira": "SOUR EL GHOZLANE",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 328,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سور الغزلان"
+  },
+  {
+    "ID": 329,
+    "Commune": "الخبوزية",
+    "Daira": "BIR GHBALOU",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 329,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "بئر غبالو"
+  },
+  {
+    "ID": 330,
+    "Commune": "أهل القصر",
+    "Daira": "BECHLOUL",
+    "Wilaya": "BOUIRA",
+    "ID_1": 330,
+    "WilayaAR": "البويرة",
+    "DairaAR": "بشلول"
+  },
+  {
+    "ID": 331,
+    "Commune": "بودربالة",
+    "Daira": "LAKHDARIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 331,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الأخضرية"
+  },
+  {
+    "ID": 332,
+    "Commune": "زبربر",
+    "Daira": "LAKHDARIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 332,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الأخضرية"
+  },
+  {
+    "ID": 333,
+    "Commune": "عين الحجر",
+    "Daira": "AIN BESSEM",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 333,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "عين بسام"
+  },
+  {
+    "ID": 334,
+    "Commune": "جباحية",
+    "Daira": "KADIRIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 334,
+    "WilayaAR": "البويرة",
+    "DairaAR": "القادرية"
+  },
+  {
+    "ID": 335,
+    "Commune": "أغبالو",
+    "Daira": "M'CHEDALLAH",
+    "Wilaya": "BOUIRA",
+    "ID_1": 335,
+    "WilayaAR": "البويرة",
+    "DairaAR": "مشد الله"
+  },
+  {
+    "ID": 336,
+    "Commune": "تاقديت",
+    "Daira": "BORDJ OKHRISS",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 336,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "برج أوخريص"
+  },
+  {
+    "ID": 337,
+    "Commune": "عين الترك",
+    "Daira": "BOUIRA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 337,
+    "WilayaAR": "البويرة",
+    "DairaAR": "البويرة"
+  },
+  {
+    "ID": 338,
+    "Commune": "سحاريج",
+    "Daira": "M'CHEDALLAH",
+    "Wilaya": "BOUIRA",
+    "ID_1": 338,
+    "WilayaAR": "البويرة",
+    "DairaAR": "مشد الله"
+  },
+  {
+    "ID": 339,
+    "Commune": "الدشمية",
+    "Daira": "SOUR EL GHOZLANE",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 339,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سور الغزلان"
+  },
+  {
+    "ID": 340,
+    "Commune": "ريدان",
+    "Daira": "SOUR EL GHOZLANE",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 340,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سور الغزلان"
+  },
+  {
+    "ID": 341,
+    "Commune": "بشلول",
+    "Daira": "BECHLOUL",
+    "Wilaya": "BOUIRA",
+    "ID_1": 341,
+    "WilayaAR": "البويرة",
+    "DairaAR": "بشلول"
+  },
+  {
+    "ID": 342,
+    "Commune": "بوكرم",
+    "Daira": "LAKHDARIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 342,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الأخضرية"
+  },
+  {
+    "ID": 343,
+    "Commune": "عين بسام",
+    "Daira": "AIN BESSEM",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 343,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "عين بسام"
+  },
+  {
+    "ID": 344,
+    "Commune": "بئر غبالو",
+    "Daira": "BIR GHBALOU",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 344,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "بئر غبالو"
+  },
+  {
+    "ID": 345,
+    "Commune": "أمشدالة",
+    "Daira": "M'CHEDALLAH",
+    "Wilaya": "BOUIRA",
+    "ID_1": 345,
+    "WilayaAR": "البويرة",
+    "DairaAR": "مشد الله"
+  },
+  {
+    "ID": 346,
+    "Commune": "سور الغزلان",
+    "Daira": "SOUR EL GHOZLANE",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 346,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سور الغزلان"
+  },
+  {
+    "ID": 347,
+    "Commune": "المعمورة",
+    "Daira": "SOUR EL GHOZLANE",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 347,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سور الغزلان"
+  },
+  {
+    "ID": 348,
+    "Commune": "أولاد راشد",
+    "Daira": "BECHLOUL",
+    "Wilaya": "BOUIRA",
+    "ID_1": 348,
+    "WilayaAR": "البويرة",
+    "DairaAR": "بشلول"
+  },
+  {
+    "ID": 349,
+    "Commune": "عين العلوي",
+    "Daira": "AIN BESSEM",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 349,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "عين بسام"
+  },
+  {
+    "ID": 350,
+    "Commune": "الحجرة الزرقاء",
+    "Daira": "BORDJ OKHRISS",
+    "Circonscriptions Administratives": "SOUR EL GHOZLANE",
+    "Wilaya": "BOUIRA",
+    "ID_1": 350,
+    "DistrictAdministratif": "سور الغزلان",
+    "WilayaAR": "البويرة",
+    "DairaAR": "برج أوخريص"
+  },
+  {
+    "ID": 351,
+    "Commune": "آث منصور",
+    "Daira": "M'CHEDALLAH",
+    "Wilaya": "BOUIRA",
+    "ID_1": 351,
+    "WilayaAR": "البويرة",
+    "DairaAR": "مشد الله"
+  },
+  {
+    "ID": 352,
+    "Commune": "المقراني",
+    "Daira": "SOUK EL KHEMIS",
+    "Circonscriptions Administratives": "AIN BESSAM",
+    "Wilaya": "BOUIRA",
+    "ID_1": 352,
+    "DistrictAdministratif": "عين بسام",
+    "WilayaAR": "البويرة",
+    "DairaAR": "سوق الخميس"
+  },
+  {
+    "ID": 353,
+    "Commune": "وادي البردي",
+    "Daira": "EL HACHIMIA",
+    "Wilaya": "BOUIRA",
+    "ID_1": 353,
+    "WilayaAR": "البويرة",
+    "DairaAR": "الهاشمية"
+  }
+]

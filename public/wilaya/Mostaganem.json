@@ -1,0 +1,290 @@
+[
+  {
+    "ID": 963,
+    "Commune": "مستغانم",
+    "Daira": "MOSTAGANEM",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 963,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "مستغانم"
+  },
+  {
+    "ID": 964,
+    "Commune": "صيادة",
+    "Daira": "KHEIR EDDINE",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 964,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "خير الدين"
+  },
+  {
+    "ID": 965,
+    "Commune": "فرناقة",
+    "Daira": "AIN NOUICY",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 965,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عين نويسي"
+  },
+  {
+    "ID": 966,
+    "Commune": "ستيدية",
+    "Daira": "HASSI MAMECHE",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 966,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "حاسي ماماش"
+  },
+  {
+    "ID": 967,
+    "Commune": "عين نويسي",
+    "Daira": "AIN NOUICY",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 967,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عين نويسي"
+  },
+  {
+    "ID": 968,
+    "Commune": "حاسي ماماش",
+    "Daira": "HASSI MAMECHE",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 968,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "حاسي ماماش"
+  },
+  {
+    "ID": 969,
+    "Commune": "عين تادلس",
+    "Daira": "AIN TEDELES",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 969,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عين تادلس"
+  },
+  {
+    "ID": 970,
+    "Commune": "سور",
+    "Daira": "AIN TEDELES",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 970,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عين تادلس"
+  },
+  {
+    "ID": 971,
+    "Commune": "وادي الخير",
+    "Daira": "AIN TEDELES",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 971,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عين تادلس"
+  },
+  {
+    "ID": 972,
+    "Commune": "سيدي بلعطار",
+    "Daira": "AIN TEDELES",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 972,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عين تادلس"
+  },
+  {
+    "ID": 973,
+    "Commune": "خير الدين",
+    "Daira": "KHEIR EDDINE",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 973,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "خير الدين"
+  },
+  {
+    "ID": 974,
+    "Commune": "سيدي علي",
+    "Daira": "SIDI ALI",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 974,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "سيدي علي"
+  },
+  {
+    "ID": 975,
+    "Commune": "بن عبد المالك رمضان",
+    "Daira": "SIDI LAKHDAR",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 975,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "سيدي لخضر"
+  },
+  {
+    "ID": 976,
+    "Commune": "حجاج",
+    "Daira": "SIDI LAKHDAR",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 976,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "سيدي لخضر"
+  },
+  {
+    "ID": 977,
+    "Commune": "نكمارية",
+    "Daira": "ACHAACHA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 977,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عشعاشة"
+  },
+  {
+    "ID": 978,
+    "Commune": "سيدي لخضر",
+    "Daira": "SIDI LAKHDAR",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 978,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "سيدي لخضر"
+  },
+  {
+    "ID": 979,
+    "Commune": "عشعاشة",
+    "Daira": "ACHAACHA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 979,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عشعاشة"
+  },
+  {
+    "ID": 980,
+    "Commune": "خضرة",
+    "Daira": "ACHAACHA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 980,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عشعاشة"
+  },
+  {
+    "ID": 981,
+    "Commune": "بوقيراط",
+    "Daira": "BOUGUIRAT",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 981,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "بوقيراط"
+  },
+  {
+    "ID": 982,
+    "Commune": "سيرات",
+    "Daira": "BOUGUIRAT",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 982,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "بوقيراط"
+  },
+  {
+    "ID": 983,
+    "Commune": "عين سيدي الشريف",
+    "Daira": "MESRA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 983,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "ماسرة"
+  },
+  {
+    "ID": 984,
+    "Commune": "ماسرة",
+    "Daira": "MESRA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 984,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "ماسرة"
+  },
+  {
+    "ID": 985,
+    "Commune": "منصورة",
+    "Daira": "MESRA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 985,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "ماسرة"
+  },
+  {
+    "ID": 986,
+    "Commune": "السوافلية",
+    "Daira": "BOUGUIRAT",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 986,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "بوقيراط"
+  },
+  {
+    "ID": 987,
+    "Commune": "أولاد بوغالم",
+    "Daira": "ACHAACHA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 987,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عشعاشة"
+  },
+  {
+    "ID": 988,
+    "Commune": "أولاد مع الله",
+    "Daira": "SIDI ALI",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 988,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "سيدي علي"
+  },
+  {
+    "ID": 989,
+    "Commune": "مزغران",
+    "Daira": "HASSI MAMECHE",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 989,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "حاسي ماماش"
+  },
+  {
+    "ID": 990,
+    "Commune": "عين بودينار",
+    "Daira": "KHEIR EDDINE",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 990,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "خير الدين"
+  },
+  {
+    "ID": 991,
+    "Commune": "تزقايت",
+    "Daira": "SIDI ALI",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 991,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "سيدي علي"
+  },
+  {
+    "ID": 992,
+    "Commune": "صفصاف",
+    "Daira": "BOUGUIRAT",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 992,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "بوقيراط"
+  },
+  {
+    "ID": 993,
+    "Commune": "الطواهرية",
+    "Daira": "MESRA",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 993,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "ماسرة"
+  },
+  {
+    "ID": 994,
+    "Commune": "الحسيان (بني ياحي",
+    "Daira": "AIN NOUICY",
+    "Wilaya": "MOSTAGANEM",
+    "ID_1": 994,
+    "WilayaAR": "مستغانم",
+    "DairaAR": "عين نويسي"
+  }
+]
