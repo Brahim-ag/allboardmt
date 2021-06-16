@@ -162,7 +162,7 @@
             </div>
 
             <div class="col-span-6 sm:col-span-2">
-              <jet-label value="Wilaya d'Adresse :" />
+              <jet-label value="Adresse :" />
               <jet-input
                 required
                 type="text"
