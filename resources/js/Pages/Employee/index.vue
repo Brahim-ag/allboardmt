@@ -11,6 +11,8 @@
     </template>
     <div class="flex flex-col">
       <div class="mx-auto py-10 sm:px-3 lg:px-2">
+          <inertia-link :href="`/employe/create/`" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-2 rounded">Ajouter</inertia-link>
+
         <div class="py-2 align-middle inline-block min-w-full sm:px-2 lg:px-8">
           <div
             class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg"
@@ -98,8 +100,8 @@
                   </td>
 
                   <!-- <td class="border"><router-link :to="{name:'editEmploye',params:{id:employe.id}}" >Modifier</router-link></td> -->
-                  <td scope="col" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
-                    <inertia-link
+                  <td >
+                    <inertia-link scope="col" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded"
                       
                       :href="`/employe/edit/${employe.id}`"
                     >
@@ -110,7 +112,7 @@
               </tbody>
             </table>
 
-            <inertia-link :href="`/employe/create/`">Ajouter</inertia-link>
+            
           </div>
         </div>
       </div>

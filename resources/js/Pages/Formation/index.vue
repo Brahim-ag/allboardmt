@@ -2,7 +2,8 @@
     <app-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Formations Externes
+                Formations Externes 
+                
             </h2>
         </template>
         <div class="max-w-7xl mx-auto py-10 sm:px-2 lg:px-8">
@@ -21,8 +22,8 @@
                     <td class="px-2 py-4 whitespace-nowrap">{{ formation.promo }}</td>
                     <td class="px-2 py-4 whitespace-nowrap">{{ formation.duree }}</td>
                     <td class="px-2 py-4 whitespace-nowrap">{{ formation.etabili }}</td>
-                    <td class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
-                        <inertia-link :href="`/formation/edit/${formation.id}`">
+                    <td >
+                        <inertia-link :href="`/formation/edit/${formation.id}`" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-2 rounded">
                             Modifier
                         </inertia-link>
                     </td>
