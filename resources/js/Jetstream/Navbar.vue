@@ -208,39 +208,31 @@ export default {
                     href: "#",
                     current: false,
                     sub: [
-                        {
-                            name: "FORMATIONS EXTERNES",
-                            href: "/formation/"+this.info,
-                        },
-                        { name: "LANGUES ETRANGERES", href: "/antecejudi/"+this.info },
-                        { name: "ANTÉCÉDENTS JUDICIAIRES", href: "/antecejudi/"+this.info },
                         { name: "PARCOURS SCOLAIRE", href: "/parcour/"+this.info },
-                        { name: "ENFANTS", href: "/child/"+this.info },
+                        { name: "ANTÉCÉDENTS JUDICIAIRES", href: "/antecejudi/"+this.info },
                         { name: "CONJOINTS", href: "/spouce/"+this.info },
+                        { name: "ENFANTS", href: "/child/"+this.info },
+                        { name: "LANGUES ETRANGERES", href: "/antecejudi/"+this.info },
+                        { name: "FORMATIONS EXTERNES", href: "/formation/"+this.info } 
                     ],
                 },
                 {
-                    name: "PARCOURS PERSONNELLES",
+                    name: "PARCOURS PROFESSIONNEL",
                     href: "#",
                     current: false,
                     sub: [
                         { name: "RECRUTEMENT", href: "/recrutement/"+this.info },
-                        {
-                            name: "STAGES",
-                            href: "/stage/"+this.info,
-                        },
-                        
+                        { name: "STAGES", href: "/stage/"+this.info},
+                        { name: "FORMATIONS", href: "/formationint/"+this.info },
+                        { name: "EXPERIENCE PROFESSIONNELLE", href: "/expro/"+this.info },
+                        { name: "EVALUATIONS", href: "/antecejudi/"+this.info },
                         { name: "ECHELONS", href: "/echelons/"+this.info },
                         { name: "GRADES", href: "/grade/"+this.info },
-                        { name: "FORMATIONS INTERNES ", href: "/formationint/"+this.info },
-                        { name: "EVALUATIONS", href: "/antecejudi/"+this.info },
-                        { name: "CESSATION", href: "/cessation/"+this.info },
-                        { name: "EXPERIENCE PROFESSIONNELLE", href: "/expro/"+this.info },
-
+                        { name: "CESSATION", href: "/cessation/"+this.info }
                     ],
                 },
                 {
-                    name: "POSITION STATUTAIRE",
+                    name: "POSITIONS STATUTAIRES",
                     href: "#",
                     current: false,
                     sub: [
