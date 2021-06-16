@@ -10,7 +10,6 @@
             <div class="px-4 py-5 bg-white sm:p-6">
               <div class="grid grid-cols-6 gap-6">
                 <div class="col-span-6 sm:col-span-3">
-                    <h3>Nouvelle Formation</h3>
                     <hr />
 
                     <div class="form-group">

@@ -22,6 +22,7 @@
                     <option value="PS_AC_DGR">DGR</option>
                     <option value="PS_AC_DGV">DGV</option>
                     <option value="PS_AC_DRC">DRC</option>
+                    <option value="PS_OPGI">OPGI</option>
                     </select>
                 </div>
                 <div class="form-group">
