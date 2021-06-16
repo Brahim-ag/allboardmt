@@ -1,0 +1,114 @@
+[
+	{
+		"ps_fr":"Chef de Service de L’Urbanisme et des Aménagements Urbains",
+		"ps_ar":"رئيس مـصـلـحــة الـتـعـمـيـر والـتــهـيـئـة الحـضـريـة"
+	},
+	{
+		"ps_fr":"Chef de Bureau des Instruments d’Urbanisme",
+		"ps_ar":"رئيس مكتب أدوات التعمير"
+	},
+  	{
+		"ps_fr":"Chef de Bureau des Actes d’Urbanismes, de la Règlementation et du Contrôle",
+		"ps_ar":"رئيس مكتب عقود التعمير والتنظيم والمراقبة"
+	},
+	{
+		"ps_fr":"Chef de Bureau des Aménagements Urbains, de la Réhabilitation et de la Rénovation du Cadre Bâti",
+		"ps_ar":"رئيس مكتب الـتهـيئـات الحضـرية وتـأهيل الإطـار المبني وتجديده"
+	},
+  	{
+		"ps_fr":"Chef de Service de l’Architecture et de la Construction",
+		"ps_ar":"رئيس مـصـلـحــة الــهــنـدســة المعمارية والــبــنـاء"
+	},
+	{
+		"ps_fr":"Chef de Bureau de l’Architecture",
+		"ps_ar":"رئيس مكتب الهندسة المعمارية"
+	},
+  	{
+		"ps_fr":"Chef de Bureau de la Construction, du Suivi des Matériaux de Construction et Composants",
+		"ps_ar":"رئيس مكتب البناء ومتابعة مواد البناء والمكونات"
+	},
+	{
+		"ps_fr":"Chef de Service du Suivi des Marchés Publics",
+		"ps_ar":"رئيس مـصـلـحــة مـتـابـعـة الــصـفـقـات الــعـمـومـيـة"
+	},
+  	{
+		"ps_fr":"Chef de Bureau des Marchés d’Etudes",
+		"ps_ar":"رئيس مكتب صفقات الدراسات"
+	},
+	{
+		"ps_fr":"Chef de Bureau de Réalisation et de l’Exécution des Marchés Publics",
+		"ps_ar":"رئيس مكتب إنجاز وتنفيذ الصفقات العمومية"
+	},
+  	{
+		"ps_fr":"Chef de Service de l’Administration et des Moyens",
+		"ps_ar":"رئيس مـصـلـحــة الإدارة والــــوســـائل"
+	},
+	{
+		"ps_fr":"Chef de Bureau de la Gestion des Personnels",
+		"ps_ar":"رئيس مكتب تسيير المستخدمين"
+	},
+  	{
+		"ps_fr":"Chef de Bureau du Budget, de la Comptabilité et des Moyens Généraux",
+		"ps_ar":"رئيس مكتب الميزانية والمحاسبة والوسائل العامة"
+	},
+	{
+		"ps_fr":"Chef de Bureau du Contentieux, de la Documentation et des Archives",
+		"ps_ar":"رئيس مكتب المنازعات والتوثيق والأرشيف"
+	},
+  	{
+		"ps_fr":"Subdivisionnaire de l'Urbanisme, de l'Architecture et de la Construction",
+		"ps_ar":"رئيس قسم فرعي إقليمي للتعـمير والهندسة المعمارية والبنـاء "
+	},
+	{
+		"ps_fr":"Chef de Section de l'Urbanisme",
+		"ps_ar":"رئيس  فرع التعمير"
+	},
+  	{
+		"ps_fr":"Chef de Section de l'Architecture",
+		"ps_ar":"رئيس  فرع  الهندسة الهندسة المعمارية"
+	},
+	{
+		"ps_fr":"Chef de Section de la Construction",
+		"ps_ar":"رئيس  فرع  البنـاء"
+	},
+  	{
+		"ps_fr":"Coordonnateur de projet",
+		"ps_ar":""
+	},
+	{
+		"ps_fr":"Chef de projet technique",
+		"ps_ar":""
+	},
+  	{
+		"ps_fr":"Chargé de la localisation des programmes",
+		"ps_ar":""
+	},
+	{
+		"ps_fr":"Chef de mission",
+		"ps_ar":""
+	},
+  	{
+		"ps_fr":"Chargé du suivi des programmes lacaux",
+		"ps_ar":""
+	},
+	{
+		"ps_fr":"Chef de parc",
+		"ps_ar":""
+	},
+	{
+		"ps_fr":"Chef de cuisine",
+		"ps_ar":""
+	},
+	{
+		"ps_fr":"Chef d'atelier",
+		"ps_ar":""
+	},
+	{
+		"ps_fr":"Chef magasinier",
+		"ps_ar":""
+	},
+	{
+		"ps_fr":"Responsable du service intérieur",
+		"ps_ar":""
+	}
+]
