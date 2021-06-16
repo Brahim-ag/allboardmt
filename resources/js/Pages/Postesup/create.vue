@@ -22,6 +22,11 @@
                     <option value="PS_AC_DGR">DGR</option>
                     <option value="PS_AC_DGV">DGV</option>
                     <option value="PS_AC_DRC">DRC</option>
+                    <option value="PS_DUAC">DUAC</option>
+                    <option value="PS_DEP">DEP</option>
+                    <option value="PS_DL">DL</option>
+                    <option value="PS_DUC">DUC</option>
+                    <option value="PS_DLEP">DLEP</option>
                     <option value="PS_OPGI">OPGI</option>
                     </select>
                 </div>
